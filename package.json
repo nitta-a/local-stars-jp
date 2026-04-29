@@ -5,7 +5,7 @@
   "main": "src/web/app.ts",
   "type": "module",
   "scripts": {
-    "fetch": "bun src/scraper/fetch_data.ts",
+    "convert": "bun src/scraper/convert_csv.ts",
     "build": "bun build src/web/app.ts --outdir ./public",
     "dev": "bun build src/web/app.ts --outdir ./public --watch",
     "lint": "biome lint ./src ./test",
@@ -23,6 +23,7 @@
     "@types/node": "latest"
   },
   "dependencies": {
+    "csv-parse": "^6.2.1",
     "fs-extra": "latest"
   }
 }
