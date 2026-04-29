@@ -6,6 +6,7 @@
     <title>Local Stars JP - 地域の優良認定企業カタログ</title>
     <meta name="description" content="gBizINFOのオープンデータを活用し、都道府県別のホワイト企業認定（ユースエール、えるぼし、健康経営等）を可視化します。">
     
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -27,6 +28,8 @@
             </div>
         </section>
 
+        <div id="map" hidden></div>
+
         <section id="list-container">
             <p class="placeholder">都道府県を選択すると、認定企業の一覧が表示されます。</p>
         </section>
@@ -39,6 +42,7 @@
         </div>
     </footer>
 
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV/XN/WLI=" crossorigin=""></script>
     <script type="module" src="app.js"></script>
 </body>
 </html>
