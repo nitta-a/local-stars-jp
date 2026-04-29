@@ -1,0 +1,936 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1170001000923",
+      "name": "紀陽情報システム株式会社",
+      "address": "和歌山県和歌山市中之島２２４０番地",
+      "prefecture": "和歌山県和歌山市中之島２２４０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1170001001649",
+      "name": "新中村化学工業株式会社",
+      "address": "和歌山県和歌山市有本６８７番地",
+      "prefecture": "和歌山県和歌山市有本６８７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1170001003876",
+      "name": "和歌山ヤクルト販売株式会社",
+      "address": "和歌山県和歌山市岩橋７７５番地",
+      "prefecture": "和歌山県和歌山市岩橋７７５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1170001005872",
+      "name": "紀陽除虫菊株式会社",
+      "address": "和歌山県海南市下津町上１１３５番地",
+      "prefecture": "和歌山県海南市下津町上１１３５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1170001007563",
+      "name": "株式会社ＯＤＥＣ",
+      "address": "和歌山県有田市野４１６番地２",
+      "prefecture": "和歌山県有田市野４１６番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1170001011053",
+      "name": "原田織物株式会社",
+      "address": "和歌山県橋本市高野口町名古曽８２１番地の６",
+      "prefecture": "和歌山県橋本市高野口町名古曽８２１番地の６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1170002009625",
+      "name": "有限会社深見梅店",
+      "address": "和歌山県西牟婁郡上富田町岡３９番地の９",
+      "prefecture": "和歌山県西牟婁郡上富田町岡３９番地の９",
+      "certification": [
+        {
+          "certification_name": "近畿農政局輸出に取り組む優良事業者表彰",
+          "certified_date": "2019-03-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1170005001281",
+      "name": "社会福祉法人和歌山つくし会",
+      "address": "和歌山県和歌山市吉礼字八ツ井４８６番地１",
+      "prefecture": "和歌山県和歌山市吉礼字八ツ井４８６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2170001000674",
+      "name": "カネマサ莫大小株式会社",
+      "address": "和歌山県和歌山市小雑賀１２９番地",
+      "prefecture": "和歌山県和歌山市小雑賀１２９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2170001002092",
+      "name": "株式会社オークワ",
+      "address": "和歌山県和歌山市中島１８５番地の３",
+      "prefecture": "和歌山県和歌山市中島１８５番地の３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2170001002191",
+      "name": "株式会社テレビ和歌山",
+      "address": "和歌山県和歌山市栄谷１５１番地",
+      "prefecture": "和歌山県和歌山市栄谷１５１番地",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2023-12-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2170001005748",
+      "name": "株式会社タカショー",
+      "address": "和歌山県海南市阪井４８９番地",
+      "prefecture": "和歌山県海南市阪井４８９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2170001008420",
+      "name": "株式会社ワイエー",
+      "address": "和歌山県岩出市根来１０２５番地の１",
+      "prefecture": "和歌山県岩出市根来１０２５番地の１",
+      "certification": [
+        {
+          "certification_name": "令和５年度近畿農政局農業農村整備事業等優良工事等受注者の表彰",
+          "certified_date": "2023-12-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2170005001314",
+      "name": "社会福祉法人一麦会",
+      "address": "和歌山県和歌山市岩橋６４３番地",
+      "prefecture": "和歌山県和歌山市岩橋６４３番地",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2190001004269",
+      "name": "浦島観光ホテル株式会社",
+      "address": "和歌山県東牟婁郡那智勝浦町大字勝浦１１６５番地２",
+      "prefecture": "和歌山県東牟婁郡那智勝浦町大字勝浦１１６５番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3170001000129",
+      "name": "アドバン工業株式会社",
+      "address": "和歌山県和歌山市栄谷８８２番地",
+      "prefecture": "和歌山県和歌山市栄谷８８２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3170001005012",
+      "name": "南海スチール株式会社",
+      "address": "和歌山県和歌山市雑賀崎２０１７番地の６",
+      "prefecture": "和歌山県和歌山市雑賀崎２０１７番地の６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3170001005326",
+      "name": "株式会社キャリア・ブレスユー",
+      "address": "和歌山県和歌山市本町１丁目２２番地Ｗａｊｉｍａ本町ビル５階",
+      "prefecture": "和歌山県和歌山市本町１丁目２２番地Ｗａｊｉｍａ本町ビル５階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3170001009343",
+      "name": "株式会社堀組",
+      "address": "和歌山県田辺市南新万１番２－１０６号",
+      "prefecture": "和歌山県田辺市南新万１番２－１０６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3170001010689",
+      "name": "南海砂利株式会社",
+      "address": "和歌山県橋本市学文路１９１番地の２",
+      "prefecture": "和歌山県橋本市学文路１９１番地の２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3170002009375",
+      "name": "有限会社中田",
+      "address": "和歌山県田辺市上の山１丁目１０番５号",
+      "prefecture": "和歌山県田辺市上の山１丁目１０番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3170005000983",
+      "name": "和歌山県生活協同組合連合会",
+      "address": "和歌山県和歌山市太田３丁目１０番１０号わかやま市民生活協同組合内",
+      "prefecture": "和歌山県和歌山市太田３丁目１０番１０号わかやま市民生活協同組合内",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2013-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3170005001040",
+      "name": "加太漁業協同組合",
+      "address": "和歌山県和歌山市加太１２７１番地２先無番地",
+      "prefecture": "和歌山県和歌山市加太１２７１番地２先無番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3170005001866",
+      "name": "特定非営利活動法人キャリア・ファシリテーター協会",
+      "address": "和歌山県和歌山市本町１丁目２２番地Ｗａｊｉｍａ本町ビル６階",
+      "prefecture": "和歌山県和歌山市本町１丁目２２番地Ｗａｊｉｍａ本町ビル６階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3170005002311",
+      "name": "特定非営利活動法人消費者サポートネット和歌山",
+      "address": "和歌山県和歌山市美園町５丁目６番１２号",
+      "prefecture": "和歌山県和歌山市美園町５丁目６番１２号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2015-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020300004",
+      "name": "和歌山県",
+      "address": "和歌山県和歌山市小松原通１丁目１",
+      "prefecture": "和歌山県和歌山市小松原通１丁目１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4170001001794",
+      "name": "株式会社豊工業所",
+      "address": "和歌山県和歌山市雑賀崎２０２１番地の９",
+      "prefecture": "和歌山県和歌山市雑賀崎２０２１番地の９",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4170001001811",
+      "name": "相互タクシー株式会社",
+      "address": "和歌山県和歌山市松島２２２番地",
+      "prefecture": "和歌山県和歌山市松島２２２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4170001003155",
+      "name": "株式会社丸和",
+      "address": "和歌山県和歌山市坂田３４８番地",
+      "prefecture": "和歌山県和歌山市坂田３４８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4170001009136",
+      "name": "福原ニードル株式会社",
+      "address": "和歌山県西牟婁郡白浜町堅田２７５３番地の１",
+      "prefecture": "和歌山県西牟婁郡白浜町堅田２７５３番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4170001009235",
+      "name": "株式会社紀州ほそ川",
+      "address": "和歌山県日高郡みなべ町晩稲８８９番地",
+      "prefecture": "和歌山県日高郡みなべ町晩稲８８９番地",
+      "certification": [
+        {
+          "certification_name": "第７回食品産業もったいない大賞",
+          "certified_date": "2020-02-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4170005002847",
+      "name": "社会福祉法人有田川町社会福祉協議会",
+      "address": "和歌山県有田郡有田川町大字角７５番地１",
+      "prefecture": "和歌山県有田郡有田川町大字角７５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5170001003740",
+      "name": "ワコン株式会社",
+      "address": "和歌山県和歌山市広瀬中ノ丁２丁目４１番地",
+      "prefecture": "和歌山県和歌山市広瀬中ノ丁２丁目４１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5170001006371",
+      "name": "株式会社農業総合研究所",
+      "address": "和歌山県和歌山市黒田９９番地１２",
+      "prefecture": "和歌山県和歌山市黒田９９番地１２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5170001007394",
+      "name": "株式会社西村物産",
+      "address": "和歌山県有田市宮崎町２３０５番地",
+      "prefecture": "和歌山県有田市宮崎町２３０５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5170001008252",
+      "name": "Ｃ２Ｃ　Ｔｗｉｎｋｌｅ　Ａｃａｄｅｍｙ株式会社",
+      "address": "和歌山県岩出市高瀬８４番地２岩出Ｎ．Ｄビル２０２号",
+      "prefecture": "和歌山県岩出市高瀬８４番地２岩出Ｎ．Ｄビル２０２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5170001008806",
+      "name": "中田食品株式会社",
+      "address": "和歌山県田辺市下三栖１４７５番地の１３０",
+      "prefecture": "和歌山県田辺市下三栖１４７５番地の１３０",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5170002001867",
+      "name": "有限会社島本化繊起毛工場",
+      "address": "和歌山県和歌山市鷹匠町５丁目２０番地",
+      "prefecture": "和歌山県和歌山市鷹匠町５丁目２０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5170005001022",
+      "name": "きのくに信用金庫",
+      "address": "和歌山県和歌山市本町２丁目３８番地",
+      "prefecture": "和歌山県和歌山市本町２丁目３８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5170005001278",
+      "name": "社会福祉法人紀伊松風苑",
+      "address": "和歌山県和歌山市園部１６６８番地の１",
+      "prefecture": "和歌山県和歌山市園部１６６８番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6000020302023",
+      "name": "海南市",
+      "address": "和歌山県海南市南赤坂１１",
+      "prefecture": "和歌山県海南市南赤坂１１",
+      "certification": [
+        {
+          "certification_name": "体力つくり優秀組織表彰",
+          "certified_date": "2022-02-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6170001001743",
+      "name": "セイコーメディカル株式会社",
+      "address": "和歌山県和歌山市築港６丁目９番地の１０",
+      "prefecture": "和歌山県和歌山市築港６丁目９番地の１０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6170001005711",
+      "name": "株式会社サンコー",
+      "address": "和歌山県海南市大野中７１５番地",
+      "prefecture": "和歌山県海南市大野中７１５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6170001007501",
+      "name": "株式会社早和果樹園",
+      "address": "和歌山県有田市宮原町新町２７５番地１",
+      "prefecture": "和歌山県有田市宮原町新町２７５番地１",
+      "certification": [
+        {
+          "certification_name": "近畿農政局輸出に取り組む優良事業者表彰",
+          "certified_date": "2020-03-10"
+        },
+        {
+          "certification_name": "６次産業化優良事例表彰",
+          "certified_date": "2020-02-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6170001011684",
+      "name": "株式会社ヤマサ脇口水産",
+      "address": "和歌山県東牟婁郡那智勝浦町大字築地６丁目６番９号",
+      "prefecture": "和歌山県東牟婁郡那智勝浦町大字築地６丁目６番９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6170005001153",
+      "name": "医療法人藤民病院",
+      "address": "和歌山県和歌山市塩屋３丁目６番２号",
+      "prefecture": "和歌山県和歌山市塩屋３丁目６番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6170005003100",
+      "name": "社会福祉法人皆楽園",
+      "address": "和歌山県岩出市西国分６６８番地",
+      "prefecture": "和歌山県岩出市西国分６６８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6170005005261",
+      "name": "社会福祉法人黒潮園",
+      "address": "和歌山県新宮市三輪崎字西高森２４７１番地の１",
+      "prefecture": "和歌山県新宮市三輪崎字西高森２４７１番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6170005005393",
+      "name": "社会福祉法人美熊野福祉会",
+      "address": "和歌山県新宮市佐野１０２６番地１",
+      "prefecture": "和歌山県新宮市佐野１０２６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020303623",
+      "name": "広川町",
+      "address": "和歌山県有田郡広川町大字広１５００",
+      "prefecture": "和歌山県有田郡広川町大字広１５００",
+      "certification": [
+        {
+          "certification_name": "体力つくり優秀組織表彰",
+          "certified_date": "2023-02-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7170001000298",
+      "name": "株式会社インテリックス",
+      "address": "和歌山県和歌山市里１７４番地の１",
+      "prefecture": "和歌山県和歌山市里１７４番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7170001001437",
+      "name": "株式会社サンライズ",
+      "address": "和歌山県和歌山市湊１１０６番地の１９",
+      "prefecture": "和歌山県和歌山市湊１１０６番地の１９",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7170001001932",
+      "name": "第五工業株式会社",
+      "address": "和歌山県和歌山市北田辺丁５番地",
+      "prefecture": "和歌山県和歌山市北田辺丁５番地",
+      "certification": [
+        {
+          "certification_name": "令和３年度近畿農政局所管農業農村整備事業等優良工事等の受注者の表彰",
+          "certified_date": "2021-12-22"
+        },
+        {
+          "certification_name": "近畿農政局農業農村整備事業等優良工事等の受注者の表彰",
+          "certified_date": "2020-06-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7170001003061",
+      "name": "株式会社松源",
+      "address": "和歌山県和歌山市田屋１３８番地",
+      "prefecture": "和歌山県和歌山市田屋１３８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7170001003160",
+      "name": "株式会社丸和食品",
+      "address": "和歌山県和歌山市西浜１３４５番地",
+      "prefecture": "和歌山県和歌山市西浜１３４５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7170001007260",
+      "name": "株式会社酒本運送",
+      "address": "和歌山県有田郡有田川町大字小島２３１番地１",
+      "prefecture": "和歌山県有田郡有田川町大字小島２３１番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7170001008894",
+      "name": "株式会社プラス",
+      "address": "和歌山県田辺市宝来町１７番１２号",
+      "prefecture": "和歌山県田辺市宝来町１７番１２号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        },
+        {
+          "certification_name": "地産地消等優良活動表彰",
+          "certified_date": "2018-12-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7170005003669",
+      "name": "堅田漁業協同組合",
+      "address": "和歌山県西牟婁郡白浜町堅田２５２１番地",
+      "prefecture": "和歌山県西牟婁郡白浜町堅田２５２１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8170001007854",
+      "name": "東和製薬株式会社",
+      "address": "和歌山県紀の川市貴志川町丸栖１２２９番地",
+      "prefecture": "和歌山県紀の川市貴志川町丸栖１２２９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8170001013142",
+      "name": "株式会社舩木建設",
+      "address": "和歌山県紀の川市桃山町元１５６番地１",
+      "prefecture": "和歌山県紀の川市桃山町元１５６番地１",
+      "certification": [
+        {
+          "certification_name": "令和５年度近畿農政局農業農村整備事業等優良工事等受注者の表彰",
+          "certified_date": "2023-12-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8170001013530",
+      "name": "株式会社紀州まちづくり舎",
+      "address": "和歌山県和歌山市北桶屋町７番地",
+      "prefecture": "和歌山県和歌山市北桶屋町７番地",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2019-06-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8170001015089",
+      "name": "株式会社日向屋",
+      "address": "和歌山県田辺市上芳養７５５番地の２",
+      "prefecture": "和歌山県田辺市上芳養７５５番地の２",
+      "certification": [
+        {
+          "certification_name": "近畿「ディスカバー農山漁村の宝」",
+          "certified_date": "2020-12-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8170005001309",
+      "name": "社会福祉法人寿敬会",
+      "address": "和歌山県和歌山市平尾２番地１",
+      "prefecture": "和歌山県和歌山市平尾２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8170005002026",
+      "name": "医療法人さくら会",
+      "address": "和歌山県海南市名高１４０番１",
+      "prefecture": "和歌山県海南市名高１４０番１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9170001000916",
+      "name": "株式会社紀陽銀行",
+      "address": "和歌山県和歌山市本町１丁目３５番地",
+      "prefecture": "和歌山県和歌山市本町１丁目３５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9170001002004",
+      "name": "太洋テクノレックス株式会社",
+      "address": "和歌山県和歌山市有本６６１番地",
+      "prefecture": "和歌山県和歌山市有本６６１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9170001002508",
+      "name": "西村工業株式会社",
+      "address": "和歌山県和歌山市築港５丁目７番地の４",
+      "prefecture": "和歌山県和歌山市築港５丁目７番地の４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9170001005626",
+      "name": "株式会社オプラス",
+      "address": "和歌山県海南市小野田１６３６番地の１５２",
+      "prefecture": "和歌山県海南市小野田１６３６番地の１５２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9170001008109",
+      "name": "協和プレス工業株式会社",
+      "address": "和歌山県紀の川市長田中３４５番地の７",
+      "prefecture": "和歌山県紀の川市長田中３４５番地の７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9170001010741",
+      "name": "株式会社松谷仏具店",
+      "address": "和歌山県橋本市妻２丁目２番３５号",
+      "prefecture": "和歌山県橋本市妻２丁目２番３５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9170005001316",
+      "name": "社会福祉法人順風会",
+      "address": "和歌山県和歌山市木ノ本字権現山１８３７番地の１",
+      "prefecture": "和歌山県和歌山市木ノ本字権現山１８３７番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9170005006174",
+      "name": "特定非営利活動法人砂山バンマツリ",
+      "address": "和歌山県和歌山市湊５５１番地の１０",
+      "prefecture": "和歌山県和歌山市湊５５１番地の１０",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2023-06-03"
+        }
+      ]
+    }
+  ]
+}

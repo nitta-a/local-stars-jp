@@ -1,0 +1,1764 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020462152",
+      "name": "薩摩川内市",
+      "address": "鹿児島県薩摩川内市神田町３－２２",
+      "prefecture": "鹿児島県薩摩川内市神田町３－２２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1000020463043",
+      "name": "十島村",
+      "address": "鹿児島県鹿児島市泉町１４－１５",
+      "prefecture": "鹿児島県鹿児島市泉町１４－１５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1340001001490",
+      "name": "株式会社熊建",
+      "address": "鹿児島県鹿児島市松原町１番１２号",
+      "prefecture": "鹿児島県鹿児島市松原町１番１２号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2024-07-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1340001001994",
+      "name": "三州産業株式会社",
+      "address": "鹿児島県鹿児島市南栄４丁目１１番地２",
+      "prefecture": "鹿児島県鹿児島市南栄４丁目１１番地２",
+      "certification": [
+        {
+          "certification_name": "民間部門農林水産研究開発功績者表彰",
+          "certified_date": "2023-11-21"
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1340001003090",
+      "name": "永田重機土木株式会社",
+      "address": "鹿児島県鹿児島市川上町２２１６番地１",
+      "prefecture": "鹿児島県鹿児島市川上町２２１６番地１",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1340001003421",
+      "name": "株式会社サナス",
+      "address": "鹿児島県鹿児島市南栄３丁目２０番地",
+      "prefecture": "鹿児島県鹿児島市南栄３丁目２０番地",
+      "certification": [
+        {
+          "certification_name": "民間部門農林水産研究開発功績者表彰",
+          "certified_date": "2023-11-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1340001003743",
+      "name": "株式会社富士通鹿児島インフォネット",
+      "address": "鹿児島県鹿児島市高麗町４３番２０号",
+      "prefecture": "鹿児島県鹿児島市高麗町４３番２０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1340001003875",
+      "name": "ホシザキ南九株式会社",
+      "address": "鹿児島県鹿児島市下荒田４丁目４１番１１号",
+      "prefecture": "鹿児島県鹿児島市下荒田４丁目４１番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1340001014385",
+      "name": "株式会社宇都電設",
+      "address": "鹿児島県鹿屋市白崎町１８番３５号",
+      "prefecture": "鹿児島県鹿屋市白崎町１８番３５号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2022-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1340002009104",
+      "name": "有限会社丸徳水産",
+      "address": "鹿児島県鹿児島市城南町３７番地",
+      "prefecture": "鹿児島県鹿児島市城南町３７番地",
+      "certification": [
+        {
+          "certification_name": "第１１回グッドライフアワード",
+          "certified_date": "2023-12-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1340005003896",
+      "name": "医療法人クオラ",
+      "address": "鹿児島県薩摩郡さつま町船木２３１１番地６",
+      "prefecture": "鹿児島県薩摩郡さつま町船木２３１１番地６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020464040",
+      "name": "長島町",
+      "address": "鹿児島県出水郡長島町鷹巣１８７５－１",
+      "prefecture": "鹿児島県出水郡長島町鷹巣１８７５－１",
+      "certification": [
+        {
+          "certification_name": "地域づくり表彰",
+          "certified_date": "2021-10-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020468801",
+      "name": "伊佐湧水消防組合",
+      "address": "鹿児島県伊佐市大口目丸１３２－１",
+      "prefecture": "鹿児島県伊佐市大口目丸１３２－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2340001000582",
+      "name": "株式会社栄電社",
+      "address": "鹿児島県鹿児島市下荒田１丁目３６番２４号",
+      "prefecture": "鹿児島県鹿児島市下荒田１丁目３６番２４号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2340001001333",
+      "name": "九錦設備工業株式会社",
+      "address": "鹿児島県鹿児島市南栄２丁目７番１５号",
+      "prefecture": "鹿児島県鹿児島市南栄２丁目７番１５号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2340001001820",
+      "name": "坂本建設株式会社",
+      "address": "鹿児島県鹿児島市西千石町３番１０号",
+      "prefecture": "鹿児島県鹿児島市西千石町３番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2340001002117",
+      "name": "斯文堂株式会社",
+      "address": "鹿児島県鹿児島市南栄２丁目１２番地６",
+      "prefecture": "鹿児島県鹿児島市南栄２丁目１２番地６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2340001010879",
+      "name": "株式会社泰江組",
+      "address": "鹿児島県大島郡瀬戸内町大字古仁屋字松江３番地９",
+      "prefecture": "鹿児島県大島郡瀬戸内町大字古仁屋字松江３番地９",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2340001012768",
+      "name": "株式会社マルハチ・テクノロジー",
+      "address": "鹿児島県枕崎市白沢北町８００番地",
+      "prefecture": "鹿児島県枕崎市白沢北町８００番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3000020462209",
+      "name": "南さつま市",
+      "address": "鹿児島県南さつま市加世田川畑２６４８",
+      "prefecture": "鹿児島県南さつま市加世田川畑２６４８",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340001001340",
+      "name": "株式会社共進組",
+      "address": "鹿児島県鹿児島市易居町１１番１９号",
+      "prefecture": "鹿児島県鹿児島市易居町１１番１９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340001004822",
+      "name": "株式会社健康家族",
+      "address": "鹿児島県鹿児島市平之町１０番２号",
+      "prefecture": "鹿児島県鹿児島市平之町１０番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340001007222",
+      "name": "株式会社九州タブチ",
+      "address": "鹿児島県霧島市国分上野原テクノパーク１１番８号",
+      "prefecture": "鹿児島県霧島市国分上野原テクノパーク１１番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340001009012",
+      "name": "濵田水産株式会社",
+      "address": "鹿児島県いちき串木野市大里３０２１番地",
+      "prefecture": "鹿児島県いちき串木野市大里３０２１番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340001009020",
+      "name": "まるわか水産株式会社",
+      "address": "鹿児島県いちき串木野市西浜町９２番地",
+      "prefecture": "鹿児島県いちき串木野市西浜町９２番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340001009078",
+      "name": "アロン電機株式会社",
+      "address": "鹿児島県薩摩郡さつま町永野９５０番地",
+      "prefecture": "鹿児島県薩摩郡さつま町永野９５０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340001012503",
+      "name": "株式会社エルム",
+      "address": "鹿児島県南さつま市加世田宮原２３９８番地",
+      "prefecture": "鹿児島県南さつま市加世田宮原２３９８番地",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2023-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340001013971",
+      "name": "株式会社瀬戸山組",
+      "address": "鹿児島県肝属郡南大隅町佐多伊座敷３３１６番地",
+      "prefecture": "鹿児島県肝属郡南大隅町佐多伊座敷３３１６番地",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340001014169",
+      "name": "株式会社森建設",
+      "address": "鹿児島県鹿屋市輝北町上百引３９４５番地１",
+      "prefecture": "鹿児島県鹿屋市輝北町上百引３９４５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340001014862",
+      "name": "佐藤建設株式会社",
+      "address": "鹿児島県志布志市松山町新橋１２９番地８",
+      "prefecture": "鹿児島県志布志市松山町新橋１２９番地８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340005001064",
+      "name": "医療法人起生会",
+      "address": "鹿児島県鹿児島市武２丁目３３番８号",
+      "prefecture": "鹿児島県鹿児島市武２丁目３３番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340005001568",
+      "name": "生活協同組合コープかごしま",
+      "address": "鹿児島県鹿児島市広木１丁目１番１号",
+      "prefecture": "鹿児島県鹿児島市広木１丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2017-05-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340005002987",
+      "name": "社会福祉法人敬天会",
+      "address": "鹿児島県姶良市加治木町木田１３９５番地１６",
+      "prefecture": "鹿児島県姶良市加治木町木田１３９５番地１６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340005003721",
+      "name": "医療法人親貴会",
+      "address": "鹿児島県いちき串木野市東塩田町３５番地",
+      "prefecture": "鹿児島県いちき串木野市東塩田町３５番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340005004843",
+      "name": "特定非営利活動法人ディ",
+      "address": "鹿児島県奄美市名瀬金久町４番３号",
+      "prefecture": "鹿児島県奄美市名瀬金久町４番３号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340005006534",
+      "name": "社会福祉法人以和貴会",
+      "address": "鹿児島県鹿屋市串良町細山田５９０２番地３",
+      "prefecture": "鹿児島県鹿屋市串良町細山田５９０２番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3340005008134",
+      "name": "社会福祉法人天祐会",
+      "address": "鹿児島県鹿児島市紫原５丁目１３番１８号",
+      "prefecture": "鹿児島県鹿児島市紫原５丁目１３番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340001004037",
+      "name": "丸福建設株式会社",
+      "address": "鹿児島県鹿児島市易居町４番３号",
+      "prefecture": "鹿児島県鹿児島市易居町４番３号",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2022-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340001004160",
+      "name": "株式会社Ｍｉｓｕｍｉ",
+      "address": "鹿児島県鹿児島市卸本町７番地２０",
+      "prefecture": "鹿児島県鹿児島市卸本町７番地２０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340001007304",
+      "name": "株式会社トヨタ車体研究所",
+      "address": "鹿児島県霧島市国分上之段３９５番地１",
+      "prefecture": "鹿児島県霧島市国分上之段３９５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340001010852",
+      "name": "株式会社伊東組",
+      "address": "鹿児島県大島郡瀬戸内町大字古仁屋字大湊１５番地９",
+      "prefecture": "鹿児島県大島郡瀬戸内町大字古仁屋字大湊１５番地９",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340001013946",
+      "name": "三和物産株式会社",
+      "address": "鹿児島県鹿屋市札元２丁目３６９６番１",
+      "prefecture": "鹿児島県鹿屋市札元２丁目３６９６番１",
+      "certification": [
+        {
+          "certification_name": "民間部門農林水産研究開発功績者表彰",
+          "certified_date": "2023-11-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340001017914",
+      "name": "串木野まぐろ株式会社",
+      "address": "鹿児島県いちき串木野市港町１１６番地",
+      "prefecture": "鹿児島県いちき串木野市港町１１６番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340002007253",
+      "name": "有限会社二幸食鳥",
+      "address": "鹿児島県鹿児島市錦江町１１番５６号",
+      "prefecture": "鹿児島県鹿児島市錦江町１１番５６号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340002019109",
+      "name": "有限会社エール",
+      "address": "鹿児島県指宿市開聞十町１２９番地２",
+      "prefecture": "鹿児島県指宿市開聞十町１２９番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340005001427",
+      "name": "社会福祉法人中江報徳園",
+      "address": "鹿児島県鹿児島市犬迫町５４０７番地２",
+      "prefecture": "鹿児島県鹿児島市犬迫町５４０７番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340005002607",
+      "name": "医療法人美﨑会",
+      "address": "鹿児島県霧島市国分中央１丁目２５番７０号",
+      "prefecture": "鹿児島県霧島市国分中央１丁目２５番７０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340005002937",
+      "name": "医療法人七徳会",
+      "address": "鹿児島県姶良市加治木町本町１４１番地",
+      "prefecture": "鹿児島県姶良市加治木町本町１４１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340005004074",
+      "name": "いぶすき農業協同組合",
+      "address": "鹿児島県指宿市山川成川３８３０番地",
+      "prefecture": "鹿児島県指宿市山川成川３８３０番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度九州地域未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2023-05-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4340005005873",
+      "name": "枕崎水産加工業協同組合",
+      "address": "鹿児島県枕崎市立神本町１２番地",
+      "prefecture": "鹿児島県枕崎市立神本町１２番地",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2018-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020465291",
+      "name": "喜界町",
+      "address": "鹿児島県大島郡喜界町大字湾１７４６",
+      "prefecture": "鹿児島県大島郡喜界町大字湾１７４６",
+      "certification": [
+        {
+          "certification_name": "国土交通大臣表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001000381",
+      "name": "株式会社アリマコーポレーション",
+      "address": "鹿児島県鹿児島市新栄町２０番２１号",
+      "prefecture": "鹿児島県鹿児島市新栄町２０番２１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001001207",
+      "name": "神野商事株式会社",
+      "address": "鹿児島県鹿児島市城南町２５番５号",
+      "prefecture": "鹿児島県鹿児島市城南町２５番５号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2018-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001004250",
+      "name": "株式会社南日本総合サービス",
+      "address": "鹿児島県鹿児島市小川町１５番１号",
+      "prefecture": "鹿児島県鹿児島市小川町１５番１号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001004663",
+      "name": "株式会社渡辺組",
+      "address": "鹿児島県鹿児島市武２丁目４番１号",
+      "prefecture": "鹿児島県鹿児島市武２丁目４番１号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2022-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001009035",
+      "name": "若潮水産株式会社",
+      "address": "鹿児島県いちき串木野市本浜町２３７番地",
+      "prefecture": "鹿児島県いちき串木野市本浜町２３７番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001010249",
+      "name": "株式会社宗岡組",
+      "address": "鹿児島県大島郡知名町大字瀬利覚４７３番地１",
+      "prefecture": "鹿児島県大島郡知名町大字瀬利覚４７３番地１",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2024-07-25"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2024-07-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001010851",
+      "name": "株式会社勇建設",
+      "address": "鹿児島県大島郡瀬戸内町大字阿木名２０５番地１",
+      "prefecture": "鹿児島県大島郡瀬戸内町大字阿木名２０５番地１",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2024-07-25"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2024-07-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001010876",
+      "name": "株式会社藤田建設",
+      "address": "鹿児島県大島郡瀬戸内町大字手安４３６番地１",
+      "prefecture": "鹿児島県大島郡瀬戸内町大字手安４３６番地１",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001013053",
+      "name": "仲林建設株式会社",
+      "address": "鹿児島県西之表市西之表１０１６８番地２",
+      "prefecture": "鹿児島県西之表市西之表１０１６８番地２",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2024-07-25"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2024-07-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001014101",
+      "name": "豊明建設株式会社",
+      "address": "鹿児島県鹿屋市共栄町１６番４号",
+      "prefecture": "鹿児島県鹿屋市共栄町１６番４号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "防衛省施設監特別優秀工事顕彰",
+          "certified_date": "2018-07-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001015264",
+      "name": "株式会社ジャパンファーム",
+      "address": "鹿児島県曽於郡大崎町益丸６５１番地",
+      "prefecture": "鹿児島県曽於郡大崎町益丸６５１番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340002026186",
+      "name": "株式会社十津川農場",
+      "address": "鹿児島県肝属郡南大隅町根占横別府４８７番地１",
+      "prefecture": "鹿児島県肝属郡南大隅町根占横別府４８７番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340005001137",
+      "name": "社会医療法人三愛会",
+      "address": "鹿児島県鹿児島市郡元３丁目１４番７号",
+      "prefecture": "鹿児島県鹿児島市郡元３丁目１４番７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340005001384",
+      "name": "社会福祉法人川上福祉会",
+      "address": "鹿児島県鹿児島市川上町３４７２番地",
+      "prefecture": "鹿児島県鹿児島市川上町３４７２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340005003389",
+      "name": "医療法人杏政会",
+      "address": "鹿児島県薩摩川内市横馬場町８番１１号",
+      "prefecture": "鹿児島県薩摩川内市横馬場町８番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340005009394",
+      "name": "社会福祉法人鹿児島福祉会",
+      "address": "鹿児島県鹿児島市緑ヶ丘町５番５号",
+      "prefecture": "鹿児島県鹿児島市緑ヶ丘町５番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6340001002245",
+      "name": "城山観光株式会社",
+      "address": "鹿児島県鹿児島市新照院町４１番１号",
+      "prefecture": "鹿児島県鹿児島市新照院町４１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6340001004506",
+      "name": "ユーミーコーポレーション株式会社",
+      "address": "鹿児島県鹿児島市伊敷１丁目６番１２号",
+      "prefecture": "鹿児島県鹿児島市伊敷１丁目６番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6340001009372",
+      "name": "株式会社大新",
+      "address": "鹿児島県指宿市西方２７８８番地１",
+      "prefecture": "鹿児島県指宿市西方２７８８番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6340001009728",
+      "name": "東建設工業株式会社",
+      "address": "鹿児島県西之表市西之表１０２３０番地",
+      "prefecture": "鹿児島県西之表市西之表１０２３０番地",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2024-07-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6340001013787",
+      "name": "株式会社池田建設",
+      "address": "鹿児島県垂水市下宮町４３番地",
+      "prefecture": "鹿児島県垂水市下宮町４３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6340002018091",
+      "name": "前潟水産有限会社",
+      "address": "鹿児島県いちき串木野市本浜町１４１番地",
+      "prefecture": "鹿児島県いちき串木野市本浜町１４１番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6340005001029",
+      "name": "医療法人猪鹿倉会",
+      "address": "鹿児島県鹿児島市犬迫町２２５３番地",
+      "prefecture": "鹿児島県鹿児島市犬迫町２２５３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6340005001061",
+      "name": "医療法人寛容会",
+      "address": "鹿児島県鹿児島市下田町１７６３番地",
+      "prefecture": "鹿児島県鹿児島市下田町１７６３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6340005001879",
+      "name": "国立大学法人鹿児島大学",
+      "address": "鹿児島県鹿児島市郡元１丁目２１番２４号",
+      "prefecture": "鹿児島県鹿児島市郡元１丁目２１番２４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020462080",
+      "name": "出水市",
+      "address": "鹿児島県出水市緑町１－３",
+      "prefecture": "鹿児島県出水市緑町１－３",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001000165",
+      "name": "日之出紙器工業株式会社",
+      "address": "鹿児島県日置市伊集院町麦生田字笹原２１５８番地",
+      "prefecture": "鹿児島県日置市伊集院町麦生田字笹原２１５８番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001000529",
+      "name": "株式会社植村組",
+      "address": "鹿児島県鹿児島市伊敷５丁目９番８号",
+      "prefecture": "鹿児島県鹿児島市伊敷５丁目９番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2022-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001000826",
+      "name": "株式会社鹿児島銀行",
+      "address": "鹿児島県鹿児島市金生町６番６号",
+      "prefecture": "鹿児島県鹿児島市金生町６番６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001001898",
+      "name": "サツマ酸素工業株式会社",
+      "address": "鹿児島県鹿児島市東開町３番地４２",
+      "prefecture": "鹿児島県鹿児島市東開町３番地４２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001003300",
+      "name": "日研高圧平和キドウ株式会社",
+      "address": "鹿児島県鹿児島市東開町４番地２６",
+      "prefecture": "鹿児島県鹿児島市東開町４番地２６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001003812",
+      "name": "株式会社フレッシュ青果",
+      "address": "鹿児島県鹿児島市東開町１３番地３８",
+      "prefecture": "鹿児島県鹿児島市東開町１３番地３８",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001003886",
+      "name": "株式会社本坊商店",
+      "address": "鹿児島県鹿児島市錦江町８番５６号",
+      "prefecture": "鹿児島県鹿児島市錦江町８番５６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001004232",
+      "name": "株式会社南日本銀行",
+      "address": "鹿児島県鹿児島市山下町１番１号",
+      "prefecture": "鹿児島県鹿児島市山下町１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001008935",
+      "name": "株式会社田島組",
+      "address": "鹿児島県薩摩川内市入来町副田２１８６番地２",
+      "prefecture": "鹿児島県薩摩川内市入来町副田２１８６番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001010437",
+      "name": "株式会社南日本ライフ",
+      "address": "鹿児島県鹿児島市下福元町３７４１番地",
+      "prefecture": "鹿児島県鹿児島市下福元町３７４１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001010635",
+      "name": "竹山建設株式会社",
+      "address": "鹿児島県奄美市名瀬小俣町２９番２５号",
+      "prefecture": "鹿児島県奄美市名瀬小俣町２９番２５号",
+      "certification": [
+        {
+          "certification_name": "防衛省特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2022-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001010643",
+      "name": "玉野電業株式会社",
+      "address": "鹿児島県奄美市名瀬長浜町１６番１４号",
+      "prefecture": "鹿児島県奄美市名瀬長浜町１６番１４号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2024-07-25"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2024-07-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001010701",
+      "name": "株式会社浜田機動",
+      "address": "鹿児島県奄美市名瀬大字浦上５９０番地３",
+      "prefecture": "鹿児島県奄美市名瀬大字浦上５９０番地３",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001010759",
+      "name": "村上建設株式会社",
+      "address": "鹿児島県奄美市名瀬小浜町２９番９号",
+      "prefecture": "鹿児島県奄美市名瀬小浜町２９番９号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2024-07-25"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "防衛省施設監特別優秀工事顕彰",
+          "certified_date": "2019-06-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001011022",
+      "name": "株式会社峰山建設",
+      "address": "鹿児島県大島郡喜界町大字早町１２２番地",
+      "prefecture": "鹿児島県大島郡喜界町大字早町１２２番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2023-12-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001014207",
+      "name": "株式会社鹿鳥食品",
+      "address": "鹿児島県鹿屋市田崎町７２５番地３",
+      "prefecture": "鹿児島県鹿屋市田崎町７２５番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340001014982",
+      "name": "株式会社ナンチク",
+      "address": "鹿児島県曽於市末吉町二之方１８２８番地",
+      "prefecture": "鹿児島県曽於市末吉町二之方１８２８番地",
+      "certification": [
+        {
+          "certification_name": "平成３０年度優良ふるさと食品中央コンクール表彰",
+          "certified_date": "2019-03-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340002000494",
+      "name": "有限会社鹿児島油脂工業",
+      "address": "鹿児島県日置市伊集院町寺脇８７番地",
+      "prefecture": "鹿児島県日置市伊集院町寺脇８７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340005001399",
+      "name": "社会福祉法人向陽会",
+      "address": "鹿児島県鹿児島市皆与志町１７７９番地",
+      "prefecture": "鹿児島県鹿児島市皆与志町１７７９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340005001465",
+      "name": "鹿児島相互信用金庫",
+      "address": "鹿児島県鹿児島市泉町２番３号",
+      "prefecture": "鹿児島県鹿児島市泉町２番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7340005007355",
+      "name": "医療法人玲心会",
+      "address": "鹿児島県曽於郡大崎町野方６０４５番地１",
+      "prefecture": "鹿児島県曽於郡大崎町野方６０４５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020464902",
+      "name": "錦江町",
+      "address": "鹿児島県肝属郡錦江町城元９６３",
+      "prefecture": "鹿児島県肝属郡錦江町城元９６３",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8011701000338",
+      "name": "株式会社山岳太郎",
+      "address": "鹿児島県熊毛郡屋久島町安房４１０－８",
+      "prefecture": "鹿児島県熊毛郡屋久島町安房４１０－８",
+      "certification": [
+        {
+          "certification_name": "第１７回エコツーリズム大賞",
+          "certified_date": "2022-02-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001000206",
+      "name": "株式会社アーステクノ",
+      "address": "鹿児島県鹿児島市新栄町２６番６号",
+      "prefecture": "鹿児島県鹿児島市新栄町２６番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001001600",
+      "name": "コーアツ工業株式会社",
+      "address": "鹿児島県鹿児島市伊敷５丁目１７番５号",
+      "prefecture": "鹿児島県鹿児島市伊敷５丁目１７番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001002581",
+      "name": "株式会社タイヨー",
+      "address": "鹿児島県鹿児島市南栄３丁目１４番地",
+      "prefecture": "鹿児島県鹿児島市南栄３丁目１４番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001003118",
+      "name": "南九イリョー株式会社",
+      "address": "鹿児島県鹿児島市唐湊４丁目１７番２号",
+      "prefecture": "鹿児島県鹿児島市唐湊４丁目１７番２号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001004173",
+      "name": "株式会社三竹工業",
+      "address": "鹿児島県鹿児島市伊敷６丁目１２番３２号",
+      "prefecture": "鹿児島県鹿児島市伊敷６丁目１２番３２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001005130",
+      "name": "株式会社総合人材センター",
+      "address": "鹿児島県鹿児島市大黒町４番１１号日宝いづろビル",
+      "prefecture": "鹿児島県鹿児島市大黒町４番１１号日宝いづろビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001006161",
+      "name": "鹿児島ケース株式会社",
+      "address": "鹿児島県日置市吹上町与倉４９５４番地１９",
+      "prefecture": "鹿児島県日置市吹上町与倉４９５４番地１９",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001007754",
+      "name": "末重建設株式会社",
+      "address": "鹿児島県霧島市溝辺町麓六丁目１４番地",
+      "prefecture": "鹿児島県霧島市溝辺町麓六丁目１４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001008942",
+      "name": "株式会社潮",
+      "address": "鹿児島県いちき串木野市西浜町１１９番地",
+      "prefecture": "鹿児島県いちき串木野市西浜町１１９番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001008959",
+      "name": "神崎水産株式会社",
+      "address": "鹿児島県いちき串木野市港町１４番地",
+      "prefecture": "鹿児島県いちき串木野市港町１４番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001009420",
+      "name": "株式会社常盤建設",
+      "address": "鹿児島県指宿市山川岡児ケ水２０１番地５",
+      "prefecture": "鹿児島県指宿市山川岡児ケ水２０１番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001010700",
+      "name": "畠山建設株式会社",
+      "address": "鹿児島県奄美市名瀬鳩浜町１９番地",
+      "prefecture": "鹿児島県奄美市名瀬鳩浜町１９番地",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        },
+        {
+          "certification_name": "防衛省施設監特別優秀工事顕彰",
+          "certified_date": "2018-07-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001010733",
+      "name": "株式会社前田建設",
+      "address": "鹿児島県奄美市名瀬平田町２番９号",
+      "prefecture": "鹿児島県奄美市名瀬平田町２番９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2022-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001014172",
+      "name": "山下プランニング株式会社",
+      "address": "鹿児島県鹿屋市寿３丁目４番２２号",
+      "prefecture": "鹿児島県鹿屋市寿３丁目４番２２号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2024-07-25"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2024-07-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340001014544",
+      "name": "株式会社財宝",
+      "address": "鹿児島県垂水市浜平城内５８８番地",
+      "prefecture": "鹿児島県垂水市浜平城内５８８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340002018008",
+      "name": "羽根田水産有限会社",
+      "address": "鹿児島県いちき串木野市浦和町１７２番地の５",
+      "prefecture": "鹿児島県いちき串木野市浦和町１７２番地の５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340005001142",
+      "name": "医療法人慈圭会",
+      "address": "鹿児島県鹿児島市下竜尾町３番２８号",
+      "prefecture": "鹿児島県鹿児島市下竜尾町３番２８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340005001175",
+      "name": "医療法人腎愛会",
+      "address": "鹿児島県鹿児島市宇宿３丁目１７番６号",
+      "prefecture": "鹿児島県鹿児島市宇宿３丁目１７番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340005001464",
+      "name": "鹿児島信用金庫",
+      "address": "鹿児島県鹿児島市名山町１番２３号",
+      "prefecture": "鹿児島県鹿児島市名山町１番２３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340005003774",
+      "name": "島平第一漁業生産組合",
+      "address": "鹿児島県いちき串木野市東島平町６３２番地",
+      "prefecture": "鹿児島県いちき串木野市東島平町６３２番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340005005218",
+      "name": "マルイ農業協同組合",
+      "address": "鹿児島県出水市平和町２２５番地",
+      "prefecture": "鹿児島県出水市平和町２２５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8340005006554",
+      "name": "社会福祉法人恵仁会",
+      "address": "鹿児島県鹿屋市下祓川町１８００番地",
+      "prefecture": "鹿児島県鹿屋市下祓川町１８００番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020465313",
+      "name": "天城町",
+      "address": "鹿児島県大島郡天城町大字平土野２６９１－１",
+      "prefecture": "鹿児島県大島郡天城町大字平土野２６９１－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9340001000031",
+      "name": "株式会社新日本科学",
+      "address": "鹿児島県鹿児島市宮之浦町２４３８番地",
+      "prefecture": "鹿児島県鹿児島市宮之浦町２４３８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9340001000898",
+      "name": "鹿児島製茶株式会社",
+      "address": "鹿児島県鹿児島市南栄３丁目１１番",
+      "prefecture": "鹿児島県鹿児島市南栄３丁目１１番",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9340001001228",
+      "name": "株式会社川北電工",
+      "address": "鹿児島県鹿児島市東開町４番地７９",
+      "prefecture": "鹿児島県鹿児島市東開町４番地７９",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9340001004305",
+      "name": "株式会社明興テクノス",
+      "address": "鹿児島県鹿児島市小松原１丁目１０番８号",
+      "prefecture": "鹿児島県鹿児島市小松原１丁目１０番８号",
+      "certification": [
+        {
+          "certification_name": "令和４年度九州農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-02-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9340001007621",
+      "name": "ヤマグチ株式会社",
+      "address": "鹿児島県霧島市牧園町宿窪田１９６０番地",
+      "prefecture": "鹿児島県霧島市牧園町宿窪田１９６０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9340001010848",
+      "name": "奄美興発株式会社",
+      "address": "鹿児島県大島郡瀬戸内町大字清水８３９番地１",
+      "prefecture": "鹿児島県大島郡瀬戸内町大字清水８３９番地１",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "防衛省施設監特別優秀工事顕彰",
+          "certified_date": "2018-07-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9340005002222",
+      "name": "社会福祉法人高齢者介護予防協会かごしま",
+      "address": "鹿児島県鹿児島市与次郎１丁目１０番６号１階",
+      "prefecture": "鹿児島県鹿児島市与次郎１丁目１０番６号１階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9340005003922",
+      "name": "社会福祉法人クオラ",
+      "address": "鹿児島県薩摩郡さつま町船木２３１５番地１",
+      "prefecture": "鹿児島県薩摩郡さつま町船木２３１５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9340005007510",
+      "name": "特定非営利活動法人三方良",
+      "address": "鹿児島県志布志市松山町泰野３４６８番地１",
+      "prefecture": "鹿児島県志布志市松山町泰野３４６８番地１",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2017-06-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9340005008772",
+      "name": "特定非営利活動法人北斗会",
+      "address": "鹿児島県霧島市国分清水１丁目３１番２９号",
+      "prefecture": "鹿児島県霧島市国分清水１丁目３１番２９号",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    }
+  ]
+}

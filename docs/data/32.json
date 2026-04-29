@@ -1,0 +1,900 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1280001000697",
+      "name": "松江土建株式会社",
+      "address": "島根県松江市学園南２丁目３番５号",
+      "prefecture": "島根県松江市学園南２丁目３番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1280001004260",
+      "name": "株式会社大磯",
+      "address": "島根県浜田市原井町３０５０番地２０",
+      "prefecture": "島根県浜田市原井町３０５０番地２０",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1280001004335",
+      "name": "株式会社タカハシ包装センター",
+      "address": "島根県浜田市原井町３０５０番地３４",
+      "prefecture": "島根県浜田市原井町３０５０番地３４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1280005003250",
+      "name": "社会福祉法人壽光会",
+      "address": "島根県出雲市湖陵町差海３１８番地１",
+      "prefecture": "島根県出雲市湖陵町差海３１８番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2280001000069",
+      "name": "一畑工業株式会社",
+      "address": "島根県松江市千鳥町２４番地",
+      "prefecture": "島根県松江市千鳥町２４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-03"
+        },
+        {
+          "certification_name": "優秀工事技術者顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2280001000738",
+      "name": "株式会社マツケイ",
+      "address": "島根県松江市乃木福富町７３５番地２１１",
+      "prefecture": "島根県松江市乃木福富町７３５番地２１１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2280001000754",
+      "name": "株式会社ミック",
+      "address": "島根県松江市学園南２丁目１０番１４号",
+      "prefecture": "島根県松江市学園南２丁目１０番１４号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2280001003195",
+      "name": "山陰ヤクルト販売株式会社",
+      "address": "島根県出雲市斐川町荘原３９４６番地",
+      "prefecture": "島根県出雲市斐川町荘原３９４６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2280001003286",
+      "name": "株式会社トガノ建設",
+      "address": "島根県出雲市白枝町８３９番地２",
+      "prefecture": "島根県出雲市白枝町８３９番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2280001004805",
+      "name": "株式会社オーサン",
+      "address": "島根県邑智郡川本町大字南佐木２８２番地１",
+      "prefecture": "島根県邑智郡川本町大字南佐木２８２番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2280002003186",
+      "name": "日本庭園由志園株式会社",
+      "address": "島根県松江市八束町波入１２６０番地の２",
+      "prefecture": "島根県松江市八束町波入１２６０番地の２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2280002007914",
+      "name": "有限会社小川商店",
+      "address": "島根県大田市温泉津町温泉津ロ６５番地",
+      "prefecture": "島根県大田市温泉津町温泉津ロ６５番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト",
+          "certified_date": "2023-10-06"
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2280005003539",
+      "name": "島根中央信用金庫",
+      "address": "島根県出雲市今市町２５２番地１",
+      "prefecture": "島根県出雲市今市町２５２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2280005007044",
+      "name": "島根県農業協同組合",
+      "address": "島根県松江市殿町１９番地１",
+      "prefecture": "島根県松江市殿町１９番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3280001000043",
+      "name": "アサヒ工業株式会社",
+      "address": "島根県松江市竹矢町１３４３番地１",
+      "prefecture": "島根県松江市竹矢町１３４３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3280001000150",
+      "name": "カナツ技建工業株式会社",
+      "address": "島根県松江市春日町６３６番地",
+      "prefecture": "島根県松江市春日町６３６番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度中国四国農政局農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2024-01-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3280001002948",
+      "name": "株式会社オレンジロード",
+      "address": "島根県松江市学園２丁目２５番８号",
+      "prefecture": "島根県松江市学園２丁目２５番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3280001003095",
+      "name": "ナカバヤシファクトリー株式会社",
+      "address": "島根県出雲市矢野町３９１番地３",
+      "prefecture": "島根県出雲市矢野町３９１番地３",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3280001003252",
+      "name": "瀧川産業株式会社",
+      "address": "島根県出雲市大津町２０３２番地",
+      "prefecture": "島根県出雲市大津町２０３２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3280001004820",
+      "name": "株式会社新興建設コンサルタント",
+      "address": "島根県邑智郡川本町大字川本１４３番地４",
+      "prefecture": "島根県邑智郡川本町大字川本１４３番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3280001005232",
+      "name": "株式会社美都森林",
+      "address": "島根県益田市美都町都茂１０７６番地",
+      "prefecture": "島根県益田市美都町都茂１０７６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3280003000256",
+      "name": "株式会社玉造温泉まちデコ",
+      "address": "島根県松江市玉湯町玉造１２１３番地",
+      "prefecture": "島根県松江市玉湯町玉造１２１３番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4280001000174",
+      "name": "株式会社共立エンジニヤ",
+      "address": "島根県松江市西津田２丁目１３番７号",
+      "prefecture": "島根県松江市西津田２丁目１３番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4280001002889",
+      "name": "モルツウェル株式会社",
+      "address": "島根県松江市北陵町１８番地１",
+      "prefecture": "島根県松江市北陵町１８番地１",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4280001003400",
+      "name": "株式会社出雲村田製作所",
+      "address": "島根県出雲市斐川町上直江２３０８番地",
+      "prefecture": "島根県出雲市斐川町上直江２３０８番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4280005002142",
+      "name": "国立大学法人島根大学",
+      "address": "島根県松江市西川津町１０６０番地",
+      "prefecture": "島根県松江市西川津町１０６０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4280005006688",
+      "name": "公益社団法人益田市医師会",
+      "address": "島根県益田市遠田町１９１７番地２",
+      "prefecture": "島根県益田市遠田町１９１７番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5280001000256",
+      "name": "株式会社山隂中央新報セールスセンター",
+      "address": "島根県松江市嫁島町１番２７号",
+      "prefecture": "島根県松江市嫁島町１番２７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5280001000339",
+      "name": "島根電工株式会社",
+      "address": "島根県松江市東本町５丁目６３番地",
+      "prefecture": "島根県松江市東本町５丁目６３番地",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5280001003457",
+      "name": "株式会社フクダ",
+      "address": "島根県出雲市斐川町荘原２２９２番地",
+      "prefecture": "島根県出雲市斐川町荘原２２９２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5280001004629",
+      "name": "若女食品株式会社",
+      "address": "島根県江津市渡津町９６１番地４",
+      "prefecture": "島根県江津市渡津町９６１番地４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5280001004645",
+      "name": "浅利観光株式会社",
+      "address": "島根県江津市浅利町７２番地",
+      "prefecture": "島根県江津市浅利町７２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5280001005032",
+      "name": "株式会社ジュンテンドー",
+      "address": "島根県益田市遠田町２１７９番地１",
+      "prefecture": "島根県益田市遠田町２１７９番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5280002002334",
+      "name": "有限会社銘板センター山陰",
+      "address": "島根県松江市北陵町１８番地２",
+      "prefecture": "島根県松江市北陵町１８番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5280005000418",
+      "name": "社会福祉法人島根県社会福祉協議会",
+      "address": "島根県松江市東津田町１７４１番地３",
+      "prefecture": "島根県松江市東津田町１７４１番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5280005002620",
+      "name": "社会福祉法人あすなろ会",
+      "address": "島根県出雲市白枝町３９６番地２",
+      "prefecture": "島根県出雲市白枝町３９６番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6280001000230",
+      "name": "株式会社山陰合同銀行",
+      "address": "島根県松江市魚町１０番地",
+      "prefecture": "島根県松江市魚町１０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6280001000494",
+      "name": "株式会社テクノプロジエクト",
+      "address": "島根県松江市学園南２丁目１０番１４号",
+      "prefecture": "島根県松江市学園南２丁目１０番１４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6280001000791",
+      "name": "株式会社ユニコン",
+      "address": "島根県松江市東朝日町２９番地",
+      "prefecture": "島根県松江市東朝日町２９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6280001002482",
+      "name": "株式会社ひろせプロダクト",
+      "address": "島根県安来市広瀬町下山佐３５６番地３",
+      "prefecture": "島根県安来市広瀬町下山佐３５６番地３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6280001003588",
+      "name": "株式会社ジェイ・オー・ファーマ",
+      "address": "島根県出雲市下古志町１２７番地１",
+      "prefecture": "島根県出雲市下古志町１２７番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6280002007472",
+      "name": "有限会社旭養鶏舎",
+      "address": "島根県大田市波根町２２１番地１",
+      "prefecture": "島根県大田市波根町２２１番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6280005002644",
+      "name": "社会福祉法人静和会",
+      "address": "島根県出雲市大津町３５２９番地",
+      "prefecture": "島根県出雲市大津町３５２９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7280001000618",
+      "name": "株式会社藤井基礎設計事務所",
+      "address": "島根県松江市東津田町１３４９番地",
+      "prefecture": "島根県松江市東津田町１３４９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7280001002374",
+      "name": "株式会社ＭＣセキュリティ",
+      "address": "島根県松江市北陵町５１番２",
+      "prefecture": "島根県松江市北陵町５１番２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7280001002457",
+      "name": "株式会社守谷刃物研究所",
+      "address": "島根県安来市恵乃島町１１３番地１",
+      "prefecture": "島根県安来市恵乃島町１１３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7280001003059",
+      "name": "イマックス株式会社",
+      "address": "島根県出雲市高岡町１６６番地１",
+      "prefecture": "島根県出雲市高岡町１６６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7280001003406",
+      "name": "株式会社カイハツ",
+      "address": "島根県出雲市塩冶町２９６番地３",
+      "prefecture": "島根県出雲市塩冶町２９６番地３",
+      "certification": [
+        {
+          "certification_name": "令和３年度近畿農政局所管農業農村整備事業等優良工事等の受注者の表彰",
+          "certified_date": "2021-12-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7280001005006",
+      "name": "株式会社コガワ計画",
+      "address": "島根県益田市安富町３３３０番地１",
+      "prefecture": "島根県益田市安富町３３３０番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001092664",
+      "name": "株式会社ネスター",
+      "address": "島根県雲南市加茂町南加茂７０３番地１０",
+      "prefecture": "島根県雲南市加茂町南加茂７０３番地１０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8280001000162",
+      "name": "企業警備保障株式会社",
+      "address": "島根県松江市大庭町１８１２番地５",
+      "prefecture": "島根県松江市大庭町１８１２番地５",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8280001000435",
+      "name": "太平ビルサービス株式会社",
+      "address": "島根県松江市雑賀町２０１番地",
+      "prefecture": "島根県松江市雑賀町２０１番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8280001000518",
+      "name": "株式会社長岡塗装店",
+      "address": "島根県松江市西嫁島１丁目２番１４号",
+      "prefecture": "島根県松江市西嫁島１丁目２番１４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8280001003297",
+      "name": "株式会社中林建築設計事務所",
+      "address": "島根県出雲市今市町北本町５丁目４番地３",
+      "prefecture": "島根県出雲市今市町北本町５丁目４番地３",
+      "certification": [
+        {
+          "certification_name": "優秀業務顕彰",
+          "certified_date": "2024-07-05"
+        },
+        {
+          "certification_name": "優秀業務",
+          "certified_date": "2023-07-06"
+        },
+        {
+          "certification_name": "近畿中部防衛局　優秀業務顕彰・優秀業務技術者顕彰",
+          "certified_date": "2023-07-03"
+        },
+        {
+          "certification_name": "優秀業務技術者顕彰",
+          "certified_date": "2023-07-03"
+        },
+        {
+          "certification_name": "優秀業務・優秀業務技術者",
+          "certified_date": "2022-07-20"
+        },
+        {
+          "certification_name": "特別優秀業務顕彰",
+          "certified_date": "2021-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8280001003421",
+      "name": "株式会社島根富士通",
+      "address": "島根県出雲市斐川町三纒１１８０番６",
+      "prefecture": "島根県出雲市斐川町三纒１１８０番６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8280001003958",
+      "name": "中村ブレイス株式会社",
+      "address": "島根県大田市大森町ハ１３２番地",
+      "prefecture": "島根県大田市大森町ハ１３２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8280001007158",
+      "name": "株式会社いずもえん",
+      "address": "島根県出雲市西園町３９１３番地１",
+      "prefecture": "島根県出雲市西園町３９１３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8280005000423",
+      "name": "社会福祉法人島根県社会福祉事業団",
+      "address": "島根県松江市東津田町１７４１番地３",
+      "prefecture": "島根県松江市東津田町１７４１番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8280005000662",
+      "name": "生活協同組合しまね",
+      "address": "島根県松江市西津田１丁目１０番４０号",
+      "prefecture": "島根県松江市西津田１丁目１０番４０号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2017-05-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8280005004738",
+      "name": "社会医療法人仁寿会",
+      "address": "島根県邑智郡川本町大字川本３８３番地１",
+      "prefecture": "島根県邑智郡川本町大字川本３８３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9280001000624",
+      "name": "フジキコーポレーション株式会社",
+      "address": "島根県松江市学園２丁目２３番２５号",
+      "prefecture": "島根県松江市学園２丁目２３番２５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9280001002447",
+      "name": "平井建設株式会社",
+      "address": "島根県安来市安来町７６３番地３",
+      "prefecture": "島根県安来市安来町７６３番地３",
+      "certification": [
+        {
+          "certification_name": "安全衛生優良企業公表制度－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9280001003197",
+      "name": "株式会社シーエスエー",
+      "address": "島根県出雲市上塩冶町１５３番地１",
+      "prefecture": "島根県出雲市上塩冶町１５３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9280001003420",
+      "name": "島根島津株式会社",
+      "address": "島根県出雲市斐川町直江２６９８番地",
+      "prefecture": "島根県出雲市斐川町直江２６９８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9280001003577",
+      "name": "株式会社アリオン",
+      "address": "島根県出雲市今市町１２３８番地２",
+      "prefecture": "島根県出雲市今市町１２３８番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9280001003668",
+      "name": "昭和開発工業株式会社",
+      "address": "島根県出雲市西郷町３３４番地１",
+      "prefecture": "島根県出雲市西郷町３３４番地１",
+      "certification": [
+        {
+          "certification_name": "令和４年度中国四国農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9280002005168",
+      "name": "株式会社出雲技研",
+      "address": "島根県出雲市江田町２６７番地１",
+      "prefecture": "島根県出雲市江田町２６７番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9280005000439",
+      "name": "社会福祉法人松江福祉公社",
+      "address": "島根県松江市上乃木１０丁目５番１号",
+      "prefecture": "島根県松江市上乃木１０丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9280005004984",
+      "name": "社会福祉法人石見さくら会",
+      "address": "島根県邑智郡邑南町矢上３４７番地",
+      "prefecture": "島根県邑智郡邑南町矢上３４７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1000 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020290009",
+      "name": "奈良県",
+      "address": "奈良県奈良市登大路町３０",
+      "prefecture": "奈良県奈良市登大路町３０",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1150001004752",
+      "name": "株式会社ＭＳＴコーポレーション",
+      "address": "奈良県生駒市北田原町１７３８番地",
+      "prefecture": "奈良県生駒市北田原町１７３８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1150001012870",
+      "name": "昌和莫大小株式会社",
+      "address": "奈良県北葛城郡広陵町大字百済１３６９番地１",
+      "prefecture": "奈良県北葛城郡広陵町大字百済１３６９番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1150001013118",
+      "name": "株式会社トーマ",
+      "address": "奈良県大和高田市東雲町１３番４号",
+      "prefecture": "奈良県大和高田市東雲町１３番４号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1150001013489",
+      "name": "三笠産業株式会社",
+      "address": "奈良県北葛城郡広陵町大字寺戸５３番地",
+      "prefecture": "奈良県北葛城郡広陵町大字寺戸５３番地",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2023-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1150001014512",
+      "name": "村本建設株式会社",
+      "address": "奈良県北葛城郡広陵町大字平尾１１番地の１",
+      "prefecture": "奈良県北葛城郡広陵町大字平尾１１番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2024-07-05"
+        },
+        {
+          "certification_name": "北関東防衛局優秀工事等顕彰式",
+          "certified_date": "2019-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1150001014743",
+      "name": "株式会社ＲｅａｌＳｔｙｌｅ",
+      "address": "奈良県大和高田市南本町１１番１１号",
+      "prefecture": "奈良県大和高田市南本町１１番１１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1150002002020",
+      "name": "有限会社井上企画・幡",
+      "address": "奈良県奈良市川上町２２３番地",
+      "prefecture": "奈良県奈良市川上町２２３番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1150005000938",
+      "name": "市民生活協同組合ならコープ",
+      "address": "奈良県奈良市恋の窪１丁目２番２号",
+      "prefecture": "奈良県奈良市恋の窪１丁目２番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2017-05-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1150005002868",
+      "name": "医療法人健和会",
+      "address": "奈良県天理市中之庄町４７０番地",
+      "prefecture": "奈良県天理市中之庄町４７０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1150005008329",
+      "name": "一般社団法人市民エネルギー生駒",
+      "address": "奈良県生駒市北田原町１５４８番地１",
+      "prefecture": "奈良県生駒市北田原町１５４８番地１",
+      "certification": [
+        {
+          "certification_name": "第１０回グッドライフアワード",
+          "certified_date": "2022-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2150001002623",
+      "name": "奈良積水株式会社",
+      "address": "奈良県大和郡山市今国府町４１１番地７",
+      "prefecture": "奈良県大和郡山市今国府町４１１番地７",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2150001006590",
+      "name": "株式会社天理時報社",
+      "address": "奈良県天理市稲葉町８０番地",
+      "prefecture": "奈良県天理市稲葉町８０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2150001013892",
+      "name": "至誠堂製薬株式会社",
+      "address": "奈良県御所市大字茅原２２０番地の１",
+      "prefecture": "奈良県御所市大字茅原２２０番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2150005006249",
+      "name": "社会福祉法人功有会",
+      "address": "奈良県北葛城郡広陵町大字三吉１６９番地",
+      "prefecture": "奈良県北葛城郡広陵町大字三吉１６９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150001001748",
+      "name": "奈良テレビ放送株式会社",
+      "address": "奈良県奈良市法蓮佐保山３丁目１番１１号",
+      "prefecture": "奈良県奈良市法蓮佐保山３丁目１番１１号",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2023-12-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150001001789",
+      "name": "奈良ヤクルト販賣株式会社",
+      "address": "奈良県奈良市田中町字食田３５１番地の１",
+      "prefecture": "奈良県奈良市田中町字食田３５１番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150001010261",
+      "name": "アスカ美装株式会社",
+      "address": "奈良県橿原市醍醐町２９６番地の１",
+      "prefecture": "奈良県橿原市醍醐町２９６番地の１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150001011458",
+      "name": "株式会社日本ベルアージュ",
+      "address": "奈良県大和高田市西町２番３０号",
+      "prefecture": "奈良県大和高田市西町２番３０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150001012489",
+      "name": "株式会社大武",
+      "address": "奈良県香芝市西真美１丁目２番地３",
+      "prefecture": "奈良県香芝市西真美１丁目２番地３",
+      "certification": [
+        {
+          "certification_name": "ガス保安功労者経済産業大臣表彰",
+          "certified_date": "2017-11-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150001014865",
+      "name": "株式会社ソレイユ",
+      "address": "奈良県葛城市疋田１４０番地３",
+      "prefecture": "奈良県葛城市疋田１４０番地３",
+      "certification": [
+        {
+          "certification_name": "令和４年度近畿農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150001016341",
+      "name": "株式会社桶谷",
+      "address": "奈良県吉野郡吉野町大字新子３１７番地",
+      "prefecture": "奈良県吉野郡吉野町大字新子３１７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150001019352",
+      "name": "株式会社ＬＩＮＫ’Ｓ　ＨＥＡＲＴ",
+      "address": "奈良県桜井市大字粟殿３８０番地",
+      "prefecture": "奈良県桜井市大字粟殿３８０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150005000572",
+      "name": "医療法人新仁会（社団）",
+      "address": "奈良県奈良市鹿野園町１２１２番地の１",
+      "prefecture": "奈良県奈良市鹿野園町１２１２番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150005008483",
+      "name": "社会福祉法人どんぐり",
+      "address": "奈良県生駒市上町３３０５番地１",
+      "prefecture": "奈良県生駒市上町３３０５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150005008632",
+      "name": "特定非営利活動法人なら消費者ねっと",
+      "address": "奈良県奈良市六条２丁目１７番６－１１号",
+      "prefecture": "奈良県奈良市六条２丁目１７番６－１１号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2021-06-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3150005008888",
+      "name": "特定非営利活動法人おてらおやつクラブ",
+      "address": "奈良県磯城郡田原本町大字八尾７６５番１",
+      "prefecture": "奈良県磯城郡田原本町大字八尾７６５番１",
+      "certification": [
+        {
+          "certification_name": "第６回グッドライフアワード",
+          "certified_date": "2018-11-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4150001001276",
+      "name": "第一化工株式会社",
+      "address": "奈良県奈良市西九条町５丁目４番９号",
+      "prefecture": "奈良県奈良市西九条町５丁目４番９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4150001001672",
+      "name": "奈良近鉄タクシー株式会社",
+      "address": "奈良県奈良市大安寺１丁目３番３号",
+      "prefecture": "奈良県奈良市大安寺１丁目３番３号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4150001006036",
+      "name": "日進電工株式会社",
+      "address": "奈良県大和郡山市小泉町２４２８－１",
+      "prefecture": "奈良県大和郡山市小泉町２４２８－１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4150001012125",
+      "name": "株式会社関西鳶",
+      "address": "奈良県磯城郡田原本町大字唐古４００番地の２",
+      "prefecture": "奈良県磯城郡田原本町大字唐古４００番地の２",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4150005000670",
+      "name": "社会福祉法人ならやま会",
+      "address": "奈良県奈良市奈良阪町２５３２番地の３",
+      "prefecture": "奈良県奈良市奈良阪町２５３２番地の３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4150005001108",
+      "name": "社会福祉法人希望の会",
+      "address": "奈良県奈良市あやめ池北２丁目３番９７号",
+      "prefecture": "奈良県奈良市あやめ池北２丁目３番９７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4150005003772",
+      "name": "特定非営利活動法人森づくり奈良クラブ",
+      "address": "奈良県橿原市城殿町４５９番地",
+      "prefecture": "奈良県橿原市城殿町４５９番地",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2022-05-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4150005006305",
+      "name": "社会福祉法人仁南会",
+      "address": "奈良県御所市大字柏原１５９４番地の１",
+      "prefecture": "奈良県御所市大字柏原１５９４番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4150005007071",
+      "name": "社会福祉法人正和会",
+      "address": "奈良県五條市大澤町５番地の２５",
+      "prefecture": "奈良県五條市大澤町５番地の２５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020292117",
+      "name": "葛城市",
+      "address": "奈良県葛城市柿本１６６",
+      "prefecture": "奈良県葛城市柿本１６６",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5150001001622",
+      "name": "株式会社南都銀行",
+      "address": "奈良県奈良市大宮町４丁目２９７番地の２",
+      "prefecture": "奈良県奈良市大宮町４丁目２９７番地の２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5150001002216",
+      "name": "株式会社マスオ綜合事務管理センター",
+      "address": "奈良県奈良市三条大路１丁目１番９３号",
+      "prefecture": "奈良県奈良市三条大路１丁目１番９３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5150001005986",
+      "name": "株式会社フルックス",
+      "address": "奈良県大和郡山市池沢町２３０番地",
+      "prefecture": "奈良県大和郡山市池沢町２３０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5150001010524",
+      "name": "佐藤薬品工業株式会社",
+      "address": "奈良県橿原市観音寺町９番地の２",
+      "prefecture": "奈良県橿原市観音寺町９番地の２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5150001011869",
+      "name": "株式会社タナベ",
+      "address": "奈良県磯城郡田原本町大字千代８２８番地",
+      "prefecture": "奈良県磯城郡田原本町大字千代８２８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5150005002906",
+      "name": "社会福祉法人大和清寿会",
+      "address": "奈良県天理市中之庄町５３２番１",
+      "prefecture": "奈良県天理市中之庄町５３２番１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5150005003854",
+      "name": "大和信用金庫",
+      "address": "奈良県桜井市大字桜井２８１番地の１１",
+      "prefecture": "奈良県桜井市大字桜井２８１番地の１１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5150005006295",
+      "name": "医療法人康成会",
+      "address": "奈良県北葛城郡河合町星和台２丁目１番地の２０",
+      "prefecture": "奈良県北葛城郡河合町星和台２丁目１番地の２０",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5150005006650",
+      "name": "社会福祉法人太樹会",
+      "address": "奈良県大和高田市大字野口３２５番３",
+      "prefecture": "奈良県大和高田市大字野口３２５番３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6150001001431",
+      "name": "テクノス株式会社",
+      "address": "奈良県奈良市法蓮町１９７番地の１",
+      "prefecture": "奈良県奈良市法蓮町１９７番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6150001006802",
+      "name": "株式会社ライフエール",
+      "address": "奈良県天理市中之庄町３９２番地１",
+      "prefecture": "奈良県天理市中之庄町３９２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6150001007180",
+      "name": "株式会社みやまえ",
+      "address": "奈良県生駒郡平群町西宮２丁目１２番３６号",
+      "prefecture": "奈良県生駒郡平群町西宮２丁目１２番３６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6150001011538",
+      "name": "株式会社汎建製作所",
+      "address": "奈良県磯城郡川西町大字唐院７１２番地の３",
+      "prefecture": "奈良県磯城郡川西町大字唐院７１２番地の３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6150001013336",
+      "name": "フジパック株式会社",
+      "address": "奈良県北葛城郡広陵町大字南郷３２０番地",
+      "prefecture": "奈良県北葛城郡広陵町大字南郷３２０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6150001014796",
+      "name": "株式会社Ｍ．Ｔ．Ｃ",
+      "address": "奈良県大和高田市大字大谷１２２番地",
+      "prefecture": "奈良県大和高田市大字大谷１２２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6150005000941",
+      "name": "奈良県生活協同組合連合会",
+      "address": "奈良県奈良市恋の窪１丁目２番２号",
+      "prefecture": "奈良県奈良市恋の窪１丁目２番２号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2011-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6150005006253",
+      "name": "社会福祉法人信和会",
+      "address": "奈良県北葛城郡広陵町大字南郷８４番地の１",
+      "prefecture": "奈良県北葛城郡広陵町大字南郷８４番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6150005007763",
+      "name": "特定非営利活動法人ならチャレンジド",
+      "address": "奈良県吉野郡大淀町大字北野１３０番地の１１",
+      "prefecture": "奈良県吉野郡大淀町大字北野１３０番地の１１",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6150005007805",
+      "name": "特定非営利活動法人龍田・三室山桜の会",
+      "address": "奈良県生駒郡三郷町立野北１丁目４０番２８号",
+      "prefecture": "奈良県生駒郡三郷町立野北１丁目４０番２８号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2020-05-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7150001000399",
+      "name": "大浦貴金属工業株式会社",
+      "address": "奈良県奈良市西ノ京町２８４番地",
+      "prefecture": "奈良県奈良市西ノ京町２８４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7150001000721",
+      "name": "株式会社呉竹",
+      "address": "奈良県奈良市南京終町７丁目５７６番地",
+      "prefecture": "奈良県奈良市南京終町７丁目５７６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7150001000804",
+      "name": "五條運輸株式会社",
+      "address": "奈良県大和郡山市白土町３１１番地１",
+      "prefecture": "奈良県大和郡山市白土町３１１番地１",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7150001009845",
+      "name": "株式会社池田工業社",
+      "address": "奈良県宇陀市榛原萩原２４６０番地",
+      "prefecture": "奈良県宇陀市榛原萩原２４６０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7150001014060",
+      "name": "株式会社ニット・ウィン",
+      "address": "奈良県葛城市木戸１９５番地の７",
+      "prefecture": "奈良県葛城市木戸１９５番地の７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7150005004818",
+      "name": "奈良中央信用金庫",
+      "address": "奈良県磯城郡田原本町１３２番地の１０",
+      "prefecture": "奈良県磯城郡田原本町１３２番地の１０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7150005008538",
+      "name": "農事組合法人ゆめ野山",
+      "address": "奈良県五條市山陰町６６２番地",
+      "prefecture": "奈良県五條市山陰町６６２番地",
+      "certification": [
+        {
+          "certification_name": "豊かなむらづくり全国表彰事業",
+          "certified_date": "2020-10-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020298549",
+      "name": "奈良県広域消防組合",
+      "address": "奈良県橿原市慈明寺町１４９－３",
+      "prefecture": "奈良県橿原市慈明寺町１４９－３",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8150001001652",
+      "name": "奈良交通株式会社",
+      "address": "奈良県奈良市大宮町１丁目１番２５号",
+      "prefecture": "奈良県奈良市大宮町１丁目１番２５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8150001004572",
+      "name": "株式会社倉田総合鑑定",
+      "address": "奈良県奈良市芝辻町２丁目１０番２６号新田村ビル２階",
+      "prefecture": "奈良県奈良市芝辻町２丁目１０番２６号新田村ビル２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8150001012352",
+      "name": "池木プラスチック株式会社",
+      "address": "奈良県香芝市今泉７６５番地",
+      "prefecture": "奈良県香芝市今泉７６５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8150001014836",
+      "name": "株式会社吉川製作所",
+      "address": "奈良県大和高田市大字田井１６６番地の４",
+      "prefecture": "奈良県大和高田市大字田井１６６番地の４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8150005002110",
+      "name": "医療法人あすか会",
+      "address": "奈良県奈良市帝塚山２丁目２１番２１号",
+      "prefecture": "奈良県奈良市帝塚山２丁目２１番２１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8150005002309",
+      "name": "国立大学法人奈良先端科学技術大学院大学",
+      "address": "奈良県生駒市高山町８９１６番地の５",
+      "prefecture": "奈良県生駒市高山町８９１６番地の５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8150005002341",
+      "name": "社会福祉法人宝山寺福祉事業団",
+      "address": "奈良県生駒市元町２丁目１４番８号",
+      "prefecture": "奈良県生駒市元町２丁目１４番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9150001002600",
+      "name": "ライフニジュウイチ株式会社",
+      "address": "奈良県奈良市高天市町１５番地の１ライフ２１ビル",
+      "prefecture": "奈良県奈良市高天市町１５番地の１ライフ２１ビル",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9150001008952",
+      "name": "株式会社タフ",
+      "address": "奈良県奈良市大宮町５丁目４番１号スギタビル３Ｆ",
+      "prefecture": "奈良県奈良市大宮町５丁目４番１号スギタビル３Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9150001009315",
+      "name": "桜井ガス株式会社",
+      "address": "奈良県桜井市大字谷８番地の１",
+      "prefecture": "奈良県桜井市大字谷８番地の１",
+      "certification": [
+        {
+          "certification_name": "ガス保安功労者経済産業大臣表彰",
+          "certified_date": "2018-11-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9150001010108",
+      "name": "名阪食品株式会社",
+      "address": "奈良県桜井市大字吉備４５２番地７",
+      "prefecture": "奈良県桜井市大字吉備４５２番地７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9150001013622",
+      "name": "ヤマヤ株式会社",
+      "address": "奈良県北葛城郡広陵町大字疋相９７番地の１",
+      "prefecture": "奈良県北葛城郡広陵町大字疋相９７番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9150005000674",
+      "name": "社会福祉法人わたぼうしの会",
+      "address": "奈良県奈良市六条西３丁目２５番４号",
+      "prefecture": "奈良県奈良市六条西３丁目２５番４号",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9150005001094",
+      "name": "特定非営利活動法人平城宮跡サポートネットワーク",
+      "address": "奈良県奈良市二条町２丁目９番１号",
+      "prefecture": "奈良県奈良市二条町２丁目９番１号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2022-05-21"
+        }
+      ]
+    }
+  ]
+}

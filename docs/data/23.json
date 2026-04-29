@@ -1,0 +1,5816 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020230006",
+      "name": "愛知県",
+      "address": "愛知県名古屋市中区三の丸３丁目１－２",
+      "prefecture": "愛知県名古屋市中区三の丸３丁目１－２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1010001011928",
+      "name": "株式会社アイロムＩＲ",
+      "address": "愛知県名古屋市中村区名駅４丁目８番１８号",
+      "prefecture": "愛知県名古屋市中村区名駅４丁目８番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001005244",
+      "name": "フジクリーン株式会社",
+      "address": "愛知県名古屋市中区丸の内１丁目１６番１５号名古屋シミズ富国生命ビル１４階",
+      "prefecture": "愛知県名古屋市中区丸の内１丁目１６番１５号名古屋シミズ富国生命ビル１４階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001008726",
+      "name": "辰巳屋興業株式会社",
+      "address": "愛知県名古屋市昭和区白金３丁目２０番１５号",
+      "prefecture": "愛知県名古屋市昭和区白金３丁目２０番１５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001010995",
+      "name": "アビームシステムズ株式会社",
+      "address": "愛知県名古屋市西区牛島町６番１号",
+      "prefecture": "愛知県名古屋市西区牛島町６番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001012595",
+      "name": "大同メタル工業株式会社",
+      "address": "愛知県名古屋市中区栄２丁目３番１号名古屋広小路ビルヂング１３階",
+      "prefecture": "愛知県名古屋市中区栄２丁目３番１号名古屋広小路ビルヂング１３階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001015879",
+      "name": "愛知株式会社",
+      "address": "愛知県名古屋市東区筒井３丁目２７番２５号",
+      "prefecture": "愛知県名古屋市東区筒井３丁目２７番２５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001016877",
+      "name": "敷島製パン株式会社",
+      "address": "愛知県名古屋市東区白壁５丁目３番地",
+      "prefecture": "愛知県名古屋市東区白壁５丁目３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001017009",
+      "name": "株式会社スズケン",
+      "address": "愛知県名古屋市東区東片端町８番地",
+      "prefecture": "愛知県名古屋市東区東片端町８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001019673",
+      "name": "株式会社新日",
+      "address": "愛知県名古屋市中川区山王１丁目８番３０号",
+      "prefecture": "愛知県名古屋市中川区山王１丁目８番３０号",
+      "certification": [
+        {
+          "certification_name": "国土地理院中部地方測量部長表彰（優良業務）",
+          "certified_date": "2023-07-19"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001020581",
+      "name": "布目電機株式会社",
+      "address": "愛知県名古屋市中川区大当郎２丁目１１０７番地",
+      "prefecture": "愛知県名古屋市中川区大当郎２丁目１１０７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001021225",
+      "name": "株式会社山田製作所",
+      "address": "愛知県名古屋市中川区八家町３丁目５３番地",
+      "prefecture": "愛知県名古屋市中川区八家町３丁目５３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001021522",
+      "name": "イチビキ株式会社",
+      "address": "愛知県名古屋市熱田区新尾頭１丁目１１番６号",
+      "prefecture": "愛知県名古屋市熱田区新尾頭１丁目１１番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001024335",
+      "name": "株式会社マルワ",
+      "address": "愛知県名古屋市天白区平針４丁目２１１番地",
+      "prefecture": "愛知県名古屋市天白区平針４丁目２１１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001024814",
+      "name": "株式会社浦野設計",
+      "address": "愛知県名古屋市西区八筋町９０番地",
+      "prefecture": "愛知県名古屋市西区八筋町９０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "北関東防衛局優秀工事等顕彰式",
+          "certified_date": "2019-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001027354",
+      "name": "名工建設株式会社",
+      "address": "愛知県名古屋市中村区名駅１丁目１番４号ＪＲセントラルタワーズ３４階",
+      "prefecture": "愛知県名古屋市中村区名駅１丁目１番４号ＪＲセントラルタワーズ３４階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001028641",
+      "name": "鳴海製陶株式会社",
+      "address": "愛知県名古屋市緑区鳴海町字伝治山３番地",
+      "prefecture": "愛知県名古屋市緑区鳴海町字伝治山３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001031934",
+      "name": "ＭＨＩエアロテクノロジーズ株式会社",
+      "address": "愛知県名古屋市中区栄３丁目１８番１号",
+      "prefecture": "愛知県名古屋市中区栄３丁目１８番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001034441",
+      "name": "ウチダ株式会社",
+      "address": "愛知県名古屋市中区橘１丁目１６番３７号",
+      "prefecture": "愛知県名古屋市中区橘１丁目１６番３７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001035290",
+      "name": "川北電気工業株式会社",
+      "address": "愛知県名古屋市中区栄４丁目６番２５号",
+      "prefecture": "愛知県名古屋市中区栄４丁目６番２５号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2024-07-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001035811",
+      "name": "興和株式会社",
+      "address": "愛知県名古屋市中区錦３丁目６番２９号",
+      "prefecture": "愛知県名古屋市中区錦３丁目６番２９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001044878",
+      "name": "株式会社二友組",
+      "address": "愛知県名古屋市名東区一社４丁目２５５番地",
+      "prefecture": "愛知県名古屋市名東区一社４丁目２５５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001054828",
+      "name": "東建コーポレーション株式会社",
+      "address": "愛知県名古屋市中区丸の内２丁目１番３３号",
+      "prefecture": "愛知県名古屋市中区丸の内２丁目１番３３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001056171",
+      "name": "ＮＤＳインフォス株式会社",
+      "address": "愛知県名古屋市中区錦１丁目８番６号",
+      "prefecture": "愛知県名古屋市中区錦１丁目８番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001067276",
+      "name": "マスプロ電工株式会社",
+      "address": "愛知県日進市浅田町上納８０番地",
+      "prefecture": "愛知県日進市浅田町上納８０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001069776",
+      "name": "株式会社チューゲン",
+      "address": "愛知県豊明市栄町新左山１番地７６１",
+      "prefecture": "愛知県豊明市栄町新左山１番地７６１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001077457",
+      "name": "株式会社トップライン",
+      "address": "愛知県小牧市大字村中葭池１２４４番１",
+      "prefecture": "愛知県小牧市大字村中葭池１２４４番１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001078232",
+      "name": "株式会社ウィルビジョン",
+      "address": "愛知県名古屋市中区錦２丁目１２番３４号",
+      "prefecture": "愛知県名古屋市中区錦２丁目１２番３４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001079115",
+      "name": "中島産業株式会社",
+      "address": "愛知県瀬戸市東古瀬戸町３５番地",
+      "prefecture": "愛知県瀬戸市東古瀬戸町３５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001091920",
+      "name": "株式会社Ｍｉｚｋａｎ　Ｈｏｌｄｉｎｇｓ",
+      "address": "愛知県半田市中村町２丁目６番地",
+      "prefecture": "愛知県半田市中村町２丁目６番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度食品ロス削減推進表彰",
+          "certified_date": "2023-09-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001092357",
+      "name": "愛三工業株式会社",
+      "address": "愛知県大府市共和町１丁目１番地の１",
+      "prefecture": "愛知県大府市共和町１丁目１番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001096804",
+      "name": "株式会社加藤建設",
+      "address": "愛知県海部郡蟹江町大字蟹江新田字下市場１９番地の１",
+      "prefecture": "愛知県海部郡蟹江町大字蟹江新田字下市場１９番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001109607",
+      "name": "株式会社アッシュホーム",
+      "address": "愛知県稲沢市下津鞍掛１丁目２番地１１",
+      "prefecture": "愛知県稲沢市下津鞍掛１丁目２番地１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001117114",
+      "name": "株式会社アイ・エス・エス",
+      "address": "愛知県常滑市鯉江本町５丁目１番地",
+      "prefecture": "愛知県常滑市鯉江本町５丁目１番地",
+      "certification": [
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001123491",
+      "name": "株式会社ＦＰＯ",
+      "address": "愛知県春日井市鳥居松町５丁目９９番地",
+      "prefecture": "愛知県春日井市鳥居松町５丁目９９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001125348",
+      "name": "株式会社エスケーアイ",
+      "address": "愛知県名古屋市中区千代田５丁目２１番２０号",
+      "prefecture": "愛知県名古屋市中区千代田５丁目２１番２０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001135974",
+      "name": "中部電力パワーグリッド株式会社",
+      "address": "愛知県名古屋市東区東新町１番地",
+      "prefecture": "愛知県名古屋市東区東新町１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180001150742",
+      "name": "竹田印刷株式会社",
+      "address": "愛知県名古屋市昭和区白金１丁目１１番１０号",
+      "prefecture": "愛知県名古屋市昭和区白金１丁目１１番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180002091366",
+      "name": "有限会社ながせ元気倶楽部",
+      "address": "愛知県津島市神守町字下町２番地",
+      "prefecture": "愛知県津島市神守町字下町２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180005006362",
+      "name": "ＮＰＯ法人ＩＣＤＳ",
+      "address": "愛知県名古屋市天白区焼山１丁目７０４番地２",
+      "prefecture": "愛知県名古屋市天白区焼山１丁目７０４番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180301004689",
+      "name": "株式会社ディーピーシー",
+      "address": "愛知県豊田市松ケ枝町２丁目３３番地１",
+      "prefecture": "愛知県豊田市松ケ枝町２丁目３３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180301005233",
+      "name": "株式会社大木家",
+      "address": "愛知県豊橋市広小路１丁目４３番地",
+      "prefecture": "愛知県豊橋市広小路１丁目４３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180301010019",
+      "name": "オーエスジー株式会社",
+      "address": "愛知県豊川市本野ケ原３丁目２２番地",
+      "prefecture": "愛知県豊川市本野ケ原３丁目２２番地",
+      "certification": [
+        {
+          "certification_name": "安全衛生優良企業公表制度－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180301014911",
+      "name": "株式会社レーザックス",
+      "address": "愛知県知立市新林町小深田７番地",
+      "prefecture": "愛知県知立市新林町小深田７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180301017773",
+      "name": "アイシン高丘株式会社",
+      "address": "愛知県豊田市高丘新町天王１番地",
+      "prefecture": "愛知県豊田市高丘新町天王１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180301018771",
+      "name": "トヨタ自動車株式会社",
+      "address": "愛知県豊田市トヨタ町１番地",
+      "prefecture": "愛知県豊田市トヨタ町１番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180301021866",
+      "name": "アルゴ株式会社",
+      "address": "愛知県安城市住吉町５丁目１９番地１１",
+      "prefecture": "愛知県安城市住吉町５丁目１９番地１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180301023334",
+      "name": "アイシン機工株式会社",
+      "address": "愛知県西尾市吉良町友国池上７０番地６",
+      "prefecture": "愛知県西尾市吉良町友国池上７０番地６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180301029208",
+      "name": "シーホース三河株式会社",
+      "address": "愛知県刈谷市昭和町２丁目３番地",
+      "prefecture": "愛知県刈谷市昭和町２丁目３番地",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2021-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180305000932",
+      "name": "岡崎信用金庫",
+      "address": "愛知県岡崎市菅生町字元菅４１番地",
+      "prefecture": "愛知県岡崎市菅生町字元菅４１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180305003274",
+      "name": "特定非営利活動法人東三河自然観察会",
+      "address": "愛知県豊橋市牧野町１２０番地１０",
+      "prefecture": "愛知県豊橋市牧野町１２０番地１０",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2022-05-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180305005064",
+      "name": "国立大学法人愛知教育大学",
+      "address": "愛知県刈谷市井ケ谷町広沢１番地",
+      "prefecture": "愛知県刈谷市井ケ谷町広沢１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180305005287",
+      "name": "社会福祉法人愛生館",
+      "address": "愛知県碧南市鷲林町４丁目１０９番地１",
+      "prefecture": "愛知県碧南市鷲林町４丁目１０９番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180305006582",
+      "name": "特定非営利活動法人矢作川森林塾",
+      "address": "愛知県豊田市平戸橋町波岩８７番地",
+      "prefecture": "愛知県豊田市平戸橋町波岩８７番地",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2017-06-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2011001039512",
+      "name": "株式会社デンソーソリューション",
+      "address": "愛知県刈谷市昭和町１丁目１番地",
+      "prefecture": "愛知県刈谷市昭和町１丁目１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001005978",
+      "name": "旭運輸株式会社",
+      "address": "愛知県名古屋市港区入船２丁目４番６号",
+      "prefecture": "愛知県名古屋市港区入船２丁目４番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001007339",
+      "name": "ブラザーロジテック株式会社",
+      "address": "愛知県名古屋市港区港明１丁目１０番１９号",
+      "prefecture": "愛知県名古屋市港区港明１丁目１０番１９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001014888",
+      "name": "中発販売株式会社",
+      "address": "愛知県名古屋市南区鳴尾２丁目１１４番地",
+      "prefecture": "愛知県名古屋市南区鳴尾２丁目１１４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001014913",
+      "name": "千年エンジニアリング株式会社",
+      "address": "愛知県名古屋市南区柴田町１丁目４番地４",
+      "prefecture": "愛知県名古屋市南区柴田町１丁目４番地４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001021281",
+      "name": "余合ホーム＆モビリティ株式会社",
+      "address": "愛知県名古屋市中川区八熊通５丁目３４番地",
+      "prefecture": "愛知県名古屋市中川区八熊通５丁目３４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001021323",
+      "name": "リンナイ株式会社",
+      "address": "愛知県名古屋市中川区福住町２番２６号",
+      "prefecture": "愛知県名古屋市中川区福住町２番２６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "健康経営銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "環境人づくり企業大賞２０１８",
+          "certified_date": "2019-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001022387",
+      "name": "東邦瓦斯株式会社",
+      "address": "愛知県名古屋市熱田区桜田町１９番１８号",
+      "prefecture": "愛知県名古屋市熱田区桜田町１９番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001023880",
+      "name": "株式会社中京技研",
+      "address": "愛知県名古屋市天白区井の森町２０３番地",
+      "prefecture": "愛知県名古屋市天白区井の森町２０３番地",
+      "certification": [
+        {
+          "certification_name": "近畿中部防衛局　優秀工事顕彰・優秀工事技術者顕彰",
+          "certified_date": "2024-07-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001028392",
+      "name": "高砂電気工業株式会社",
+      "address": "愛知県名古屋市緑区鳴海町字杜若６６番地",
+      "prefecture": "愛知県名古屋市緑区鳴海町字杜若６６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001030530",
+      "name": "株式会社ジェイアール東海ホテルズ",
+      "address": "愛知県名古屋市中村区名駅１丁目１番４号",
+      "prefecture": "愛知県名古屋市中村区名駅１丁目１番４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001031124",
+      "name": "株式会社タイルメント",
+      "address": "愛知県名古屋市中村区宿跡町１丁目５８番地",
+      "prefecture": "愛知県名古屋市中村区宿跡町１丁目５８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001035109",
+      "name": "カゴメ株式会社",
+      "address": "愛知県名古屋市中区錦３丁目１４番１５号",
+      "prefecture": "愛知県名古屋市中区錦３丁目１４番１５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2016-12-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001035307",
+      "name": "川崎設備工業株式会社",
+      "address": "愛知県名古屋市中区大須１丁目６番４７号",
+      "prefecture": "愛知県名古屋市中区大須１丁目６番４７号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001035389",
+      "name": "北川工業株式会社",
+      "address": "愛知県稲沢市目比町東折戸６９５番地１",
+      "prefecture": "愛知県稲沢市目比町東折戸６９５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001039299",
+      "name": "ＮＴＣコンサルタンツ株式会社",
+      "address": "愛知県名古屋市中区錦２丁目４番１５号",
+      "prefecture": "愛知県名古屋市中区錦２丁目４番１５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度北陸農政局農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2024-01-25"
+        },
+        {
+          "certification_name": "令和５年度中国四国農政局農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2024-01-11"
+        },
+        {
+          "certification_name": "令和５年度東海農政局所管農業農村整備事業優良工事等の受注者の表彰",
+          "certified_date": "2023-12-26"
+        },
+        {
+          "certification_name": "令和５年度近畿農政局農業農村整備事業等優良工事等受注者の表彰",
+          "certified_date": "2023-12-18"
+        },
+        {
+          "certification_name": "令和５年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-12-11"
+        },
+        {
+          "certification_name": "令和４年度近畿農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-30"
+        },
+        {
+          "certification_name": "令和４年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-27"
+        },
+        {
+          "certification_name": "令和４年度関東農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-12"
+        },
+        {
+          "certification_name": "令和３年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-03-18"
+        },
+        {
+          "certification_name": "令和３年度東海農政局所管農業農村整備事業優良工事等の受注者の表彰",
+          "certified_date": "2022-02-24"
+        },
+        {
+          "certification_name": "令和３年度北陸農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-02-07"
+        },
+        {
+          "certification_name": "令和３年度中国四国農政局所管農業農村整備事業等優良工事等の受賞者の表彰",
+          "certified_date": "2022-01-31"
+        },
+        {
+          "certification_name": "令和３年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2022-01-28"
+        },
+        {
+          "certification_name": "令和３年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2022-01-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001039415",
+      "name": "ＮＤＳ株式会社",
+      "address": "愛知県名古屋市中区千代田２丁目１５番１８号",
+      "prefecture": "愛知県名古屋市中区千代田２丁目１５番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001047475",
+      "name": "株式会社中京メディカル",
+      "address": "愛知県名古屋市熱田区三本松町１２番２３号",
+      "prefecture": "愛知県名古屋市熱田区三本松町１２番２３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001047574",
+      "name": "株式会社博正塗装",
+      "address": "愛知県名古屋市熱田区千年１丁目２１番２３号",
+      "prefecture": "愛知県名古屋市熱田区千年１丁目２１番２３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001049694",
+      "name": "トヨタコネクティッド株式会社",
+      "address": "愛知県名古屋市中区錦１丁目１１番１１号",
+      "prefecture": "愛知県名古屋市中区錦１丁目１１番１１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001078603",
+      "name": "愛日緑化造園株式会社",
+      "address": "愛知県瀬戸市みずの坂３丁目２２５番地",
+      "prefecture": "愛知県瀬戸市みずの坂３丁目２２５番地",
+      "certification": [
+        {
+          "certification_name": "第１９回エコツーリズム大賞",
+          "certified_date": "2024-02-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001086250",
+      "name": "株式会社ＵＣＳ",
+      "address": "愛知県稲沢市天池五反田町１番地",
+      "prefecture": "愛知県稲沢市天池五反田町１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001091878",
+      "name": "トキワ設備工業株式会社",
+      "address": "愛知県半田市新居町３丁目８７番地",
+      "prefecture": "愛知県半田市新居町３丁目８７番地",
+      "certification": [
+        {
+          "certification_name": "ガス保安功労者経済産業大臣表彰",
+          "certified_date": "2019-11-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001095945",
+      "name": "健美薬湯株式会社",
+      "address": "愛知県名古屋市南区菊住２丁目５番８号",
+      "prefecture": "愛知県名古屋市南区菊住２丁目５番８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001097000",
+      "name": "株式会社ＧＦＭ",
+      "address": "愛知県弥富市鯏浦町南前新田５６番地３",
+      "prefecture": "愛知県弥富市鯏浦町南前新田５６番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001100762",
+      "name": "株式会社オーテクニック",
+      "address": "愛知県稲沢市北麻績町郷前１５番地",
+      "prefecture": "愛知県稲沢市北麻績町郷前１５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001102726",
+      "name": "株式会社就労センター",
+      "address": "愛知県半田市吉田町２丁目３７番地",
+      "prefecture": "愛知県半田市吉田町２丁目３７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001104978",
+      "name": "ポッカサッポロフード＆ビバレッジ株式会社",
+      "address": "愛知県名古屋市中区栄３丁目２７番１号",
+      "prefecture": "愛知県名古屋市中区栄３丁目２７番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001135973",
+      "name": "中部電力ミライズ株式会社",
+      "address": "愛知県名古屋市東区東新町１番地",
+      "prefecture": "愛知県名古屋市東区東新町１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180001141237",
+      "name": "株式会社コメ兵",
+      "address": "愛知県名古屋市中区大須３丁目２５番３１号",
+      "prefecture": "愛知県名古屋市中区大須３丁目２５番３１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180005009174",
+      "name": "医療法人医仁会",
+      "address": "愛知県丹羽郡大口町新宮１丁目１２９番地",
+      "prefecture": "愛知県丹羽郡大口町新宮１丁目１２９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180301001289",
+      "name": "株式会社竹代",
+      "address": "愛知県岡崎市針崎１丁目１番地１６",
+      "prefecture": "愛知県岡崎市針崎１丁目１番地１６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180301002279",
+      "name": "愛知自動車株式会社",
+      "address": "愛知県額田郡幸田町大字六栗字左右作１９番地７",
+      "prefecture": "愛知県額田郡幸田町大字六栗字左右作１９番地７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180301004110",
+      "name": "大和化成工業株式会社",
+      "address": "愛知県岡崎市保母町字上平地１番地",
+      "prefecture": "愛知県岡崎市保母町字上平地１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180301006255",
+      "name": "サーラフィナンシャルサービス株式会社",
+      "address": "愛知県豊橋市立花町５７番地",
+      "prefecture": "愛知県豊橋市立花町５７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180301013342",
+      "name": "株式会社マキタ",
+      "address": "愛知県安城市住吉町３丁目１１番８号",
+      "prefecture": "愛知県安城市住吉町３丁目１１番８号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180301014324",
+      "name": "トヨタ紡織株式会社",
+      "address": "愛知県刈谷市豊田町１丁目１番地",
+      "prefecture": "愛知県刈谷市豊田町１丁目１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180301014885",
+      "name": "株式会社ＦＵＪＩ",
+      "address": "愛知県知立市山町茶碓山１９番地",
+      "prefecture": "愛知県知立市山町茶碓山１９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180301018787",
+      "name": "株式会社善都",
+      "address": "愛知県豊田市若宮町７丁目１番地１１",
+      "prefecture": "愛知県豊田市若宮町７丁目１番地１１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180301019091",
+      "name": "ひまわりネットワーク株式会社",
+      "address": "愛知県豊田市若草町３丁目３２番地８",
+      "prefecture": "愛知県豊田市若草町３丁目３２番地８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2180301020578",
+      "name": "原田車両設計株式会社",
+      "address": "愛知県みよし市三好町中島２４",
+      "prefecture": "愛知県みよし市三好町中島２４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3000020232149",
+      "name": "蒲郡市",
+      "address": "愛知県蒲郡市旭町１７－１",
+      "prefecture": "愛知県蒲郡市旭町１７－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3010001165350",
+      "name": "株式会社Ｐｒｏｄｒｏｎｅ",
+      "address": "愛知県名古屋市天白区中平１丁目１１５番地",
+      "prefecture": "愛知県名古屋市天白区中平１丁目１１５番地",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2020-04-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001000342",
+      "name": "グリーンシティコム株式会社",
+      "address": "愛知県尾張旭市東大道町原田３４番地１",
+      "prefecture": "愛知県尾張旭市東大道町原田３４番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001009920",
+      "name": "大澤ワックス株式会社",
+      "address": "愛知県名古屋市西区名駅２丁目２７番８号",
+      "prefecture": "愛知県名古屋市西区名駅２丁目２７番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001010829",
+      "name": "ＮＧＫ株式会社",
+      "address": "愛知県名古屋市瑞穂区須田町２番５６号",
+      "prefecture": "愛知県名古屋市瑞穂区須田町２番５６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001010845",
+      "name": "日本特殊陶業株式会社",
+      "address": "愛知県名古屋市東区東桜１丁目１番１号",
+      "prefecture": "愛知県名古屋市東区東桜１丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001015885",
+      "name": "株式会社愛太事務所",
+      "address": "愛知県名古屋市東区泉１丁目２１番１５号",
+      "prefecture": "愛知県名古屋市東区泉１丁目２１番１５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001017428",
+      "name": "中部電力株式会社",
+      "address": "愛知県名古屋市東区東新町１番地",
+      "prefecture": "愛知県名古屋市東区東新町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "健康経営銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001021396",
+      "name": "愛知時計電機株式会社",
+      "address": "愛知県名古屋市熱田区千年１丁目２番７０号",
+      "prefecture": "愛知県名古屋市熱田区千年１丁目２番７０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2023-12-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001029349",
+      "name": "株式会社アルファコーポレーション",
+      "address": "愛知県名古屋市中区葵３丁目２１番１９号",
+      "prefecture": "愛知県名古屋市中区葵３丁目２１番１９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001030034",
+      "name": "株式会社協和設計事務所",
+      "address": "愛知県名古屋市中村区名駅２丁目３６番２号",
+      "prefecture": "愛知県名古屋市中村区名駅２丁目３６番２号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀業務顕彰",
+          "certified_date": "2022-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001031569",
+      "name": "東海旅客鉄道株式会社",
+      "address": "愛知県名古屋市中村区名駅１丁目１番４号",
+      "prefecture": "愛知県名古屋市中村区名駅１丁目１番４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001035289",
+      "name": "閑林工業株式会社",
+      "address": "愛知県名古屋市中区錦１丁目８番３９号",
+      "prefecture": "愛知県名古屋市中区錦１丁目８番３９号",
+      "certification": [
+        {
+          "certification_name": "近畿中部防衛局　優秀工事顕彰・優秀工事技術者顕彰",
+          "certified_date": "2024-07-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001035446",
+      "name": "キムラユニティー株式会社",
+      "address": "愛知県名古屋市中区錦３丁目８番３２号",
+      "prefecture": "愛知県名古屋市中区錦３丁目８番３２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001038556",
+      "name": "エム・ユー・センターサービス名古屋株式会社",
+      "address": "愛知県北名古屋市鹿田東若宮３９６２番地の２",
+      "prefecture": "愛知県北名古屋市鹿田東若宮３９６２番地の２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001041865",
+      "name": "理研産業株式会社",
+      "address": "愛知県名古屋市中区大須４丁目１０番２０号",
+      "prefecture": "愛知県名古屋市中区大須４丁目１０番２０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001059032",
+      "name": "縁エキスパート株式会社",
+      "address": "愛知県名古屋市名東区亀の井３丁目１８９番地",
+      "prefecture": "愛知県名古屋市名東区亀の井３丁目１８９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001059486",
+      "name": "株式会社プライムソフトサービス",
+      "address": "愛知県名古屋市中区栄２丁目８番１２号",
+      "prefecture": "愛知県名古屋市中区栄２丁目８番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001063075",
+      "name": "セントラルヘリコプターサービス株式会社",
+      "address": "愛知県西春日井郡豊山町大字豊場字林先１番地１",
+      "prefecture": "愛知県西春日井郡豊山町大字豊場字林先１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001068099",
+      "name": "株式会社ホンダモビリティ中部",
+      "address": "愛知県名古屋市中区千代田１丁目７番２号",
+      "prefecture": "愛知県名古屋市中区千代田１丁目７番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001076333",
+      "name": "株式会社ノムラ",
+      "address": "愛知県小牧市新町３丁目４２２番地",
+      "prefecture": "愛知県小牧市新町３丁目４２２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001078692",
+      "name": "大橋運輸株式会社",
+      "address": "愛知県瀬戸市西松山町２丁目２６０番地",
+      "prefecture": "愛知県瀬戸市西松山町２丁目２６０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001084468",
+      "name": "株式会社吉田組",
+      "address": "愛知県一宮市三条字中３４番地４",
+      "prefecture": "愛知県一宮市三条字中３４番地４",
+      "certification": [
+        {
+          "certification_name": "令和５年度東海農政局所管農業農村整備事業優良工事等の受注者の表彰",
+          "certified_date": "2023-12-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001084609",
+      "name": "堀江織物株式会社",
+      "address": "愛知県一宮市高田字七夕田２８番地",
+      "prefecture": "愛知県一宮市高田字七夕田２８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001091984",
+      "name": "株式会社七番組",
+      "address": "愛知県半田市成岩東町７７番地",
+      "prefecture": "愛知県半田市成岩東町７７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001095738",
+      "name": "愛知中央ヤクルト販売株式会社",
+      "address": "愛知県半田市浜田町２丁目１番地の２",
+      "prefecture": "愛知県半田市浜田町２丁目１番地の２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001097602",
+      "name": "日起建設株式会社",
+      "address": "愛知県愛西市山路町野方１４９番地７",
+      "prefecture": "愛知県愛西市山路町野方１４９番地７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001098443",
+      "name": "中日本炉工業株式会社",
+      "address": "愛知県あま市木折八畝割８",
+      "prefecture": "愛知県あま市木折八畝割８",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001101058",
+      "name": "株式会社あんじゅ",
+      "address": "愛知県名古屋市緑区浦里５丁目２５２番地",
+      "prefecture": "愛知県名古屋市緑区浦里５丁目２５２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001107237",
+      "name": "アズウェル株式会社",
+      "address": "愛知県名古屋市中村区名駅南１丁目１６番２８号ＥＤＧＥ名駅",
+      "prefecture": "愛知県名古屋市中村区名駅南１丁目１６番２８号ＥＤＧＥ名駅",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001109729",
+      "name": "株式会社ＣＢＣテレビ",
+      "address": "愛知県名古屋市中区新栄１丁目２番８号",
+      "prefecture": "愛知県名古屋市中区新栄１丁目２番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180001113565",
+      "name": "株式会社ｃｒｅａｔｏ",
+      "address": "愛知県名古屋市天白区塩釜口２丁目１４０３",
+      "prefecture": "愛知県名古屋市天白区塩釜口２丁目１４０３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180002074996",
+      "name": "服部農園有限会社",
+      "address": "愛知県丹羽郡大口町外坪３丁目１５８番地",
+      "prefecture": "愛知県丹羽郡大口町外坪３丁目１５８番地",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（厚生労働省人材開発統括官表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180005002319",
+      "name": "社会医療法人愛生会",
+      "address": "愛知県名古屋市北区上飯田通２丁目３７番地",
+      "prefecture": "愛知県名古屋市北区上飯田通２丁目３７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180005002830",
+      "name": "社会福祉法人名古屋市社会福祉協議会",
+      "address": "愛知県名古屋市北区清水４丁目１７番１号",
+      "prefecture": "愛知県名古屋市北区清水４丁目１７番１号",
+      "certification": [
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180005002896",
+      "name": "愛知県信用農業協同組合連合会",
+      "address": "愛知県名古屋市中区錦３丁目３番８号",
+      "prefecture": "愛知県名古屋市中区錦３丁目３番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180005004265",
+      "name": "東海労働金庫",
+      "address": "愛知県名古屋市中区新栄１丁目７番１２号",
+      "prefecture": "愛知県名古屋市中区新栄１丁目７番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180005005627",
+      "name": "特定非営利活動法人くらし応援ネットワーク",
+      "address": "愛知県名古屋市熱田区金山町１丁目８番１３号",
+      "prefecture": "愛知県名古屋市熱田区金山町１丁目８番１３号",
+      "certification": [
+        {
+          "certification_name": "安全安心なまちづくり関係功労者表彰",
+          "certified_date": "2021-10-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180005006071",
+      "name": "国立大学法人東海国立大学機構",
+      "address": "愛知県名古屋市千種区不老町１番",
+      "prefecture": "愛知県名古屋市千種区不老町１番",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180005009479",
+      "name": "いちい信用金庫",
+      "address": "愛知県一宮市若竹３丁目２番２号",
+      "prefecture": "愛知県一宮市若竹３丁目２番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180005018001",
+      "name": "医療法人たに在宅クリニック",
+      "address": "愛知県一宮市末広１丁目３番１８号ファンタジアビル２Ｆ",
+      "prefecture": "愛知県一宮市末広１丁目３番１８号ファンタジアビル２Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180005018604",
+      "name": "税理士法人鹿野会計",
+      "address": "愛知県名古屋市北区金城町２丁目８番地２",
+      "prefecture": "愛知県名古屋市北区金城町２丁目８番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180301001916",
+      "name": "フタバ産業株式会社",
+      "address": "愛知県岡崎市橋目町字御茶屋１番地",
+      "prefecture": "愛知県岡崎市橋目町字御茶屋１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180301005082",
+      "name": "株式会社イズミテック",
+      "address": "愛知県豊橋市高師町字北新切２６７番地５",
+      "prefecture": "愛知県豊橋市高師町字北新切２６７番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180301008069",
+      "name": "株式会社サーラコーポレーション",
+      "address": "愛知県豊橋市駅前大通１丁目５５番地サーラタワー",
+      "prefecture": "愛知県豊橋市駅前大通１丁目５５番地サーラタワー",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180301014273",
+      "name": "株式会社豊田自動織機",
+      "address": "愛知県刈谷市豊田町２丁目１番地",
+      "prefecture": "愛知県刈谷市豊田町２丁目１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "キャリア支援企業表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180301015230",
+      "name": "株式会社Ｋｏｋｕｎｅ",
+      "address": "愛知県西尾市法光寺町流２０番地３",
+      "prefecture": "愛知県西尾市法光寺町流２０番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180301020115",
+      "name": "株式会社ＢＥＸ",
+      "address": "愛知県豊田市西町５丁目５番地",
+      "prefecture": "愛知県豊田市西町５丁目５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3180305003982",
+      "name": "社会福祉法人順明会",
+      "address": "愛知県豊川市萩町上近久８８番地",
+      "prefecture": "愛知県豊川市萩町上近久８８番地",
+      "certification": [
+        {
+          "certification_name": "キャリア支援企業表彰－表彰",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001062636",
+      "name": "エンゲージェンシー株式会社",
+      "address": "愛知県名古屋市中区栄３丁目８番２０号名古屋証券取引所ビル２Ｆ",
+      "prefecture": "愛知県名古屋市中区栄３丁目８番２０号名古屋証券取引所ビル２Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020232131",
+      "name": "西尾市",
+      "address": "愛知県西尾市寄住町下田２２",
+      "prefecture": "愛知県西尾市寄住町下田２２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010401102571",
+      "name": "株式会社コメダ",
+      "address": "愛知県名古屋市東区葵３丁目１２番２３号",
+      "prefecture": "愛知県名古屋市東区葵３丁目１２番２３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001004425",
+      "name": "株式会社ソフトテックス",
+      "address": "愛知県名古屋市千種区今池５丁目１番５号",
+      "prefecture": "愛知県名古屋市千種区今池５丁目１番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001004474",
+      "name": "ダイトー株式会社",
+      "address": "愛知県名古屋市千種区千種３丁目１番９号",
+      "prefecture": "愛知県名古屋市千種区千種３丁目１番９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001006883",
+      "name": "株式会社テクノ中部",
+      "address": "愛知県名古屋市港区大江町３番１２",
+      "prefecture": "愛知県名古屋市港区大江町３番１２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001006999",
+      "name": "株式会社ドコモＣＳ東海",
+      "address": "愛知県名古屋市東区東桜１丁目１番１０号",
+      "prefecture": "愛知県名古屋市東区東桜１丁目１番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001007287",
+      "name": "株式会社フジトランスコーポレーション",
+      "address": "愛知県名古屋市港区入船１丁目７番４１号",
+      "prefecture": "愛知県名古屋市港区入船１丁目７番４１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001010571",
+      "name": "株式会社シーテック",
+      "address": "愛知県名古屋市緑区忠治山１０１番地",
+      "prefecture": "愛知県名古屋市緑区忠治山１０１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001014762",
+      "name": "タイガー総業株式会社",
+      "address": "愛知県名古屋市瑞穂区妙音通４丁目４０番地",
+      "prefecture": "愛知県名古屋市瑞穂区妙音通４丁目４０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001017641",
+      "name": "株式会社トヨタシステムズ",
+      "address": "愛知県名古屋市東区泉１丁目２３番２２号",
+      "prefecture": "愛知県名古屋市東区泉１丁目２３番２２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001022278",
+      "name": "株式会社中部プラントサービス",
+      "address": "愛知県名古屋市熱田区五本松町１１番２２号",
+      "prefecture": "愛知県名古屋市熱田区五本松町１１番２２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001024794",
+      "name": "猪村工業株式会社",
+      "address": "愛知県名古屋市西区浄心１丁目８番２５号",
+      "prefecture": "愛知県名古屋市西区浄心１丁目８番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001031246",
+      "name": "日本工営都市空間株式会社",
+      "address": "愛知県名古屋市東区東桜２丁目１７番１４号",
+      "prefecture": "愛知県名古屋市東区東桜２丁目１７番１４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001032467",
+      "name": "株式会社フジキカイ",
+      "address": "愛知県名古屋市中村区亀島２丁目１４番１０号",
+      "prefecture": "愛知県名古屋市中村区亀島２丁目１４番１０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001032632",
+      "name": "ホシザキ東海株式会社",
+      "address": "愛知県名古屋市中村区名駅５丁目２１番３号",
+      "prefecture": "愛知県名古屋市中村区名駅５丁目２１番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001033060",
+      "name": "名鉄観光サービス株式会社",
+      "address": "愛知県名古屋市中村区名駅南２丁目１４番１９号",
+      "prefecture": "愛知県名古屋市中村区名駅南２丁目１４番１９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001033795",
+      "name": "朝日機器株式会社",
+      "address": "愛知県名古屋市中区錦２丁目９番２９号",
+      "prefecture": "愛知県名古屋市中区錦２丁目９番２９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001035321",
+      "name": "株式会社川本製作所",
+      "address": "愛知県名古屋市中区大須４丁目１１番３９号",
+      "prefecture": "愛知県名古屋市中区大須４丁目１１番３９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001037565",
+      "name": "大有建設株式会社",
+      "address": "愛知県名古屋市中区金山５丁目１４番２号",
+      "prefecture": "愛知県名古屋市中区金山５丁目１４番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001038002",
+      "name": "中央電気工事株式会社",
+      "address": "愛知県名古屋市中区栄３丁目１４番２２号",
+      "prefecture": "愛知県名古屋市中区栄３丁目１４番２２号",
+      "certification": [
+        {
+          "certification_name": "優秀工事・優秀工事技術者顕彰",
+          "certified_date": "2024-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001038423",
+      "name": "株式会社テクノアスカ",
+      "address": "愛知県名古屋市中区栄４丁目１４番５号",
+      "prefecture": "愛知県名古屋市中区栄４丁目１４番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001038539",
+      "name": "株式会社ＮＴＴデータ東海",
+      "address": "愛知県名古屋市中区錦２丁目１７番２１号",
+      "prefecture": "愛知県名古屋市中区錦２丁目１７番２１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001039009",
+      "name": "ＮＤＳソリューション株式会社",
+      "address": "愛知県名古屋市中区大須４丁目１１番３９号",
+      "prefecture": "愛知県名古屋市中区大須４丁目１１番３９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001046822",
+      "name": "株式会社マリン",
+      "address": "愛知県名古屋市南区桜台１丁目１４番１９号",
+      "prefecture": "愛知県名古屋市南区桜台１丁目１４番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001047184",
+      "name": "株式会社トヨタマップマスター",
+      "address": "愛知県名古屋市中村区平池町４丁目６０番地の１２",
+      "prefecture": "愛知県名古屋市中村区平池町４丁目６０番地の１２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001047390",
+      "name": "ブラザー販売株式会社",
+      "address": "愛知県名古屋市瑞穂区苗代町１５番１号",
+      "prefecture": "愛知県名古屋市瑞穂区苗代町１５番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001050948",
+      "name": "ＣＣＮｅｔ株式会社",
+      "address": "愛知県名古屋市中区正木３丁目９番２７号",
+      "prefecture": "愛知県名古屋市中区正木３丁目９番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001055897",
+      "name": "株式会社プロダスト",
+      "address": "愛知県名古屋市緑区桶狭間切戸２３０１番地",
+      "prefecture": "愛知県名古屋市緑区桶狭間切戸２３０１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001056169",
+      "name": "中日本高速道路株式会社",
+      "address": "愛知県名古屋市中区錦２丁目１８番１９号",
+      "prefecture": "愛知県名古屋市中区錦２丁目１８番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001056623",
+      "name": "株式会社オープンセサミ・テクノロジー",
+      "address": "愛知県名古屋市中村区平池町４丁目６０番地の１２",
+      "prefecture": "愛知県名古屋市中村区平池町４丁目６０番地の１２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001069484",
+      "name": "ホシザキ株式会社",
+      "address": "愛知県豊明市栄町南館３番の１６",
+      "prefecture": "愛知県豊明市栄町南館３番の１６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001071077",
+      "name": "株式会社菱和テレコム",
+      "address": "愛知県名古屋市千種区今池３丁目５番１３号",
+      "prefecture": "愛知県名古屋市千種区今池３丁目５番１３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001073362",
+      "name": "株式会社三交イン",
+      "address": "愛知県名古屋市中村区名駅３丁目２１番７号",
+      "prefecture": "愛知県名古屋市中村区名駅３丁目２１番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001073593",
+      "name": "愛知電機株式会社",
+      "address": "愛知県春日井市愛知町１番地",
+      "prefecture": "愛知県春日井市愛知町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001085143",
+      "name": "三和興産株式会社",
+      "address": "愛知県一宮市木曽川町玉ノ井字砂割３１番地",
+      "prefecture": "愛知県一宮市木曽川町玉ノ井字砂割３１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001088187",
+      "name": "石塚硝子株式会社",
+      "address": "愛知県岩倉市川井町１８８０番地",
+      "prefecture": "愛知県岩倉市川井町１８８０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001094400",
+      "name": "トヨフジ海運株式会社",
+      "address": "愛知県東海市新宝町３３番地の３",
+      "prefecture": "愛知県東海市新宝町３３番地の３",
+      "certification": [
+        {
+          "certification_name": "国土交通大臣表彰",
+          "certified_date": "2023-06-01"
+        },
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001097824",
+      "name": "石光工業株式会社",
+      "address": "愛知県あま市甚目寺山王３５番地",
+      "prefecture": "愛知県あま市甚目寺山王３５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001101313",
+      "name": "イオンビッグ株式会社",
+      "address": "愛知県名古屋市中村区名駅５丁目２５番８号",
+      "prefecture": "愛知県名古屋市中村区名駅５丁目２５番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001104506",
+      "name": "ユニー株式会社",
+      "address": "愛知県稲沢市天池五反田町１番地",
+      "prefecture": "愛知県稲沢市天池五反田町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180001107525",
+      "name": "日本コミュニティケア株式会社",
+      "address": "愛知県名古屋市名東区引山２丁目９０１番地の４",
+      "prefecture": "愛知県名古屋市名東区引山２丁目９０１番地の４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180005004933",
+      "name": "一般財団法人名古屋市療養サービス事業団",
+      "address": "愛知県名古屋市中村区豊国通１丁目１４番地",
+      "prefecture": "愛知県名古屋市中村区豊国通１丁目１４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180005008810",
+      "name": "瀬戸信用金庫",
+      "address": "愛知県瀬戸市東横山町１１９番地の１",
+      "prefecture": "愛知県瀬戸市東横山町１１９番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180005016714",
+      "name": "一般社団法人ライフスキルサポート協会",
+      "address": "愛知県名古屋市中村区名駅５丁目７番３０号",
+      "prefecture": "愛知県名古屋市中村区名駅５丁目７番３０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180301000553",
+      "name": "太田油脂株式会社",
+      "address": "愛知県岡崎市福岡町字下荒追２８番地",
+      "prefecture": "愛知県岡崎市福岡町字下荒追２８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180301000776",
+      "name": "三栄鶏卵株式会社",
+      "address": "愛知県岡崎市日名西町２番地３０",
+      "prefecture": "愛知県岡崎市日名西町２番地３０",
+      "certification": [
+        {
+          "certification_name": "令和４年度東海農政局輸出に取り組む優良事業者表彰",
+          "certified_date": "2023-02-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180301002087",
+      "name": "三井ミーハナイト・メタル株式会社",
+      "address": "愛知県岡崎市岡町字上野川１１１番地",
+      "prefecture": "愛知県岡崎市岡町字上野川１１１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180301011237",
+      "name": "株式会社ニデック",
+      "address": "愛知県蒲郡市拾石町前浜３４番地１４",
+      "prefecture": "愛知県蒲郡市拾石町前浜３４番地１４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2023-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180301014264",
+      "name": "株式会社テルミック",
+      "address": "愛知県刈谷市小垣江町永田４７番地",
+      "prefecture": "愛知県刈谷市小垣江町永田４７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180301014636",
+      "name": "秋田工業株式会社",
+      "address": "愛知県知立市西町逢生１３番地１",
+      "prefecture": "愛知県知立市西町逢生１３番地１",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180301015527",
+      "name": "株式会社マエショウ",
+      "address": "愛知県西尾市吉良町宮迫樫木３１番地１８７",
+      "prefecture": "愛知県西尾市吉良町宮迫樫木３１番地１８７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180301019263",
+      "name": "豊生ブレーキ工業株式会社",
+      "address": "愛知県豊田市和会町道上１０番地",
+      "prefecture": "愛知県豊田市和会町道上１０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180303004692",
+      "name": "どんぐりピット株式会社",
+      "address": "愛知県豊田市山之手４丁目１３１ハートイン山之手２Ａ",
+      "prefecture": "愛知県豊田市山之手４丁目１３１ハートイン山之手２Ａ",
+      "certification": [
+        {
+          "certification_name": "令和３年度食品ロス削減推進大賞",
+          "certified_date": "2021-02-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180305002042",
+      "name": "特定非営利活動法人岡崎まち育てセンター・りた",
+      "address": "愛知県岡崎市梅園町字３丁目６番地６",
+      "prefecture": "愛知県岡崎市梅園町字３丁目６番地６",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2012-06-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4180305004988",
+      "name": "医療法人愛生館",
+      "address": "愛知県碧南市新川町３丁目８８番地",
+      "prefecture": "愛知県碧南市新川町３丁目８８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190001013202",
+      "name": "株式会社アイ・エヌ・ジー",
+      "address": "愛知県名古屋市中川区助光１丁目９０７番地",
+      "prefecture": "愛知県名古屋市中川区助光１丁目９０７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020232114",
+      "name": "豊田市",
+      "address": "愛知県豊田市西町３丁目６０",
+      "prefecture": "愛知県豊田市西町３丁目６０",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001006916",
+      "name": "東海協和株式会社",
+      "address": "愛知県名古屋市港区入船１丁目１番２０号",
+      "prefecture": "愛知県名古屋市港区入船１丁目１番２０号",
+      "certification": [
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2020-12-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001014373",
+      "name": "久野金属工業株式会社",
+      "address": "愛知県名古屋市緑区野末町２０１番地",
+      "prefecture": "愛知県名古屋市緑区野末町２０１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001015504",
+      "name": "株式会社松尾製作所",
+      "address": "愛知県名古屋市南区荒浜町５丁目２１番地",
+      "prefecture": "愛知県名古屋市南区荒浜町５丁目２１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001016221",
+      "name": "株式会社ネイチャーズウェイ",
+      "address": "愛知県名古屋市中区錦１丁目２番２３号",
+      "prefecture": "愛知県名古屋市中区錦１丁目２番２３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001016824",
+      "name": "株式会社三和化学研究所",
+      "address": "愛知県名古屋市東区東外堀町３５番地",
+      "prefecture": "愛知県名古屋市東区東外堀町３５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001027409",
+      "name": "株式会社ｍｅｉｔｏ",
+      "address": "愛知県名古屋市西区笹塚町２丁目４１番地",
+      "prefecture": "愛知県名古屋市西区笹塚町２丁目４１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001031732",
+      "name": "株式会社トヨタエンタプライズ",
+      "address": "愛知県名古屋市中村区名駅４丁目４番１０号",
+      "prefecture": "愛知県名古屋市中村区名駅４丁目４番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001031740",
+      "name": "豊田通商システムズ株式会社",
+      "address": "愛知県名古屋市中村区名駅４丁目１１番２７号",
+      "prefecture": "愛知県名古屋市中村区名駅４丁目１１番２７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001032012",
+      "name": "日本システム開発株式会社",
+      "address": "愛知県名古屋市中村区那古野１丁目４７番１号",
+      "prefecture": "愛知県名古屋市中村区那古野１丁目４７番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001032334",
+      "name": "株式会社Ｊ．ＣＯＮＳＩＳ",
+      "address": "愛知県名古屋市西区牛島町６番１号",
+      "prefecture": "愛知県名古屋市西区牛島町６番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001032490",
+      "name": "ＦＪＴホールディングス株式会社",
+      "address": "愛知県名古屋市中村区名駅南３丁目９番３号",
+      "prefecture": "愛知県名古屋市中村区名駅南３丁目９番３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001038835",
+      "name": "徳倉建設株式会社",
+      "address": "愛知県名古屋市中区錦３丁目１３番５号",
+      "prefecture": "愛知県名古屋市中区錦３丁目１３番５号",
+      "certification": [
+        {
+          "certification_name": "令和４年度九州農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-02-20"
+        },
+        {
+          "certification_name": "令和３年度東海農政局所管農業農村整備事業優良工事等の受注者の表彰",
+          "certified_date": "2022-02-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001038918",
+      "name": "トランコム株式会社",
+      "address": "愛知県名古屋市東区葵１丁目１９番３０号",
+      "prefecture": "愛知県名古屋市東区葵１丁目１９番３０号",
+      "certification": [
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2020-12-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001041871",
+      "name": "リゾートトラスト株式会社",
+      "address": "愛知県名古屋市中区東桜２丁目１８番３１号",
+      "prefecture": "愛知県名古屋市中区東桜２丁目１８番３１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001045658",
+      "name": "東海理化サービス株式会社",
+      "address": "愛知県清須市西枇杷島町泉５７番地",
+      "prefecture": "愛知県清須市西枇杷島町泉５７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001050220",
+      "name": "株式会社シーエナジー",
+      "address": "愛知県名古屋市東区東桜１丁目１３番３号",
+      "prefecture": "愛知県名古屋市東区東桜１丁目１３番３号",
+      "certification": [
+        {
+          "certification_name": "新エネ大賞",
+          "certified_date": "2022-01-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001066720",
+      "name": "株式会社喜多村",
+      "address": "愛知県愛知郡東郷町大字春木字白土１番地の２４２",
+      "prefecture": "愛知県愛知郡東郷町大字春木字白土１番地の２４２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001070417",
+      "name": "株式会社ヘルスケアシステムズ",
+      "address": "愛知県名古屋市昭和区白金１丁目１４番１８号",
+      "prefecture": "愛知県名古屋市昭和区白金１丁目１４番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001072611",
+      "name": "株式会社セントラル・デイリー",
+      "address": "愛知県名古屋市中区錦２丁目９番２９号ＯＲＥ名古屋伏見ビル",
+      "prefecture": "愛知県名古屋市中区錦２丁目９番２９号ＯＲＥ名古屋伏見ビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001080886",
+      "name": "株式会社ヒラテ技研",
+      "address": "愛知県犬山市字西浦３８番地の４",
+      "prefecture": "愛知県犬山市字西浦３８番地の４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001081083",
+      "name": "株式会社東海理化電機製作所",
+      "address": "愛知県丹羽郡大口町豊田３丁目２６０番地",
+      "prefecture": "愛知県丹羽郡大口町豊田３丁目２６０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001082775",
+      "name": "株式会社志水製作所",
+      "address": "愛知県一宮市明地字南古城５番地１",
+      "prefecture": "愛知県一宮市明地字南古城５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001087337",
+      "name": "株式会社愛北リサイクル",
+      "address": "愛知県江南市般若町南山３６０番地",
+      "prefecture": "愛知県江南市般若町南山３６０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001092072",
+      "name": "美松工業株式会社",
+      "address": "愛知県半田市州の崎町２番地１１１",
+      "prefecture": "愛知県半田市州の崎町２番地１１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001094597",
+      "name": "ヤマダインフラテクノス株式会社",
+      "address": "愛知県名古屋市緑区定納山１丁目１５０４番地",
+      "prefecture": "愛知県名古屋市緑区定納山１丁目１５０４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180001115849",
+      "name": "株式会社タスクールＰｌｕｓ",
+      "address": "愛知県名古屋市千種区千種通７丁目２５番地の１",
+      "prefecture": "愛知県名古屋市千種区千種通７丁目２５番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180003009644",
+      "name": "株式会社オンザロード",
+      "address": "愛知県名古屋市中区錦１丁目１９番２４号名古屋第一ビル７階",
+      "prefecture": "愛知県名古屋市中区錦１丁目１９番２４号名古屋第一ビル７階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180005002531",
+      "name": "医療法人スワン会",
+      "address": "愛知県名古屋市港区川西通５丁目２４番地",
+      "prefecture": "愛知県名古屋市港区川西通５丁目２４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180005002886",
+      "name": "社会福祉法人ゆたか福祉会",
+      "address": "愛知県名古屋市南区泉楽通４丁目５番地３",
+      "prefecture": "愛知県名古屋市南区泉楽通４丁目５番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180005005055",
+      "name": "一般社団法人愛知県造園建設業協会",
+      "address": "愛知県名古屋市昭和区駒方町１丁目２４番地",
+      "prefecture": "愛知県名古屋市昭和区駒方町１丁目２４番地",
+      "certification": [
+        {
+          "certification_name": "都市緑化功労者表彰",
+          "certified_date": "2019-10-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180005005253",
+      "name": "社会福祉法人よつ葉の会",
+      "address": "愛知県名古屋市西区新福寺町２丁目６番地の２",
+      "prefecture": "愛知県名古屋市西区新福寺町２丁目６番地の２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180005006227",
+      "name": "三愛友好交流協同組合",
+      "address": "愛知県名古屋市名東区上社３丁目６０９番地",
+      "prefecture": "愛知県名古屋市名東区上社３丁目６０９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180005007423",
+      "name": "特定非営利活動法人なかまの家",
+      "address": "愛知県日進市五色園３丁目５１０番地",
+      "prefecture": "愛知県日進市五色園３丁目５１０番地",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180005009485",
+      "name": "医療法人尾張健友会",
+      "address": "愛知県一宮市千秋町塩尻字山王７番地５",
+      "prefecture": "愛知県一宮市千秋町塩尻字山王７番地５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180005009592",
+      "name": "一宮商工会議所",
+      "address": "愛知県一宮市栄４丁目６番８号",
+      "prefecture": "愛知県一宮市栄４丁目６番８号",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2023-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180301001146",
+      "name": "株式会社鈴木化学工業所",
+      "address": "愛知県額田郡幸田町大字六栗字左右作２番地１",
+      "prefecture": "愛知県額田郡幸田町大字六栗字左右作２番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180301006021",
+      "name": "総合埠頭株式会社",
+      "address": "愛知県豊橋市明海町５番５４",
+      "prefecture": "愛知県豊橋市明海町５番５４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180301013959",
+      "name": "小林クリエイト株式会社",
+      "address": "愛知県刈谷市小垣江町北高根１１５番地",
+      "prefecture": "愛知県刈谷市小垣江町北高根１１５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180301014412",
+      "name": "日高工業株式会社",
+      "address": "愛知県刈谷市一里山町柳原７番地１",
+      "prefecture": "愛知県刈谷市一里山町柳原７番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180301022431",
+      "name": "株式会社くわこや",
+      "address": "愛知県西尾市肴町２４番地",
+      "prefecture": "愛知県西尾市肴町２４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180301028412",
+      "name": "株式会社ＰＲＯＴＥＣＡ",
+      "address": "愛知県名古屋市中村区松原町２丁目４１番地１",
+      "prefecture": "愛知県名古屋市中村区松原町２丁目４１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5180305007247",
+      "name": "医療法人深見十全会",
+      "address": "愛知県西尾市一色町松木島丸山５４番地",
+      "prefecture": "愛知県西尾市一色町松木島丸山５４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5190001027696",
+      "name": "スパイラルローキャス株式会社",
+      "address": "愛知県名古屋市中村区名駅南２丁目１４番１９号",
+      "prefecture": "愛知県名古屋市中村区名駅南２丁目１４番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5700150043723",
+      "name": "岡崎蓑川南部土地区画整理組合",
+      "address": "愛知県岡崎市十王町２丁目９",
+      "prefecture": "愛知県岡崎市十王町２丁目９",
+      "certification": [
+        {
+          "certification_name": "まちづくりアワード",
+          "certified_date": "2023-06-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6000020232220",
+      "name": "東海市",
+      "address": "愛知県東海市中央町１丁目１",
+      "prefecture": "愛知県東海市中央町１丁目１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001001222",
+      "name": "株式会社マルケイ",
+      "address": "愛知県名古屋市守山区瀬古３丁目１４０８番地",
+      "prefecture": "愛知県名古屋市守山区瀬古３丁目１４０８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001002699",
+      "name": "日本空調サービス株式会社",
+      "address": "愛知県名古屋市名東区照が丘２３９番２",
+      "prefecture": "愛知県名古屋市名東区照が丘２３９番２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001005371",
+      "name": "ホンダロジコム株式会社",
+      "address": "愛知県名古屋市千種区今池南２６番４号",
+      "prefecture": "愛知県名古屋市千種区今池南２６番４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001008226",
+      "name": "建設ゴム株式会社",
+      "address": "愛知県名古屋市昭和区阿由知通４丁目１８番地の４",
+      "prefecture": "愛知県名古屋市昭和区阿由知通４丁目１８番地の４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001009595",
+      "name": "株式会社山一ハガネ",
+      "address": "愛知県名古屋市緑区大根山２丁目１４６番地",
+      "prefecture": "愛知県名古屋市緑区大根山２丁目１４６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001014281",
+      "name": "カネハツ食品株式会社",
+      "address": "愛知県名古屋市南区豊３丁目１９番２４号",
+      "prefecture": "愛知県名古屋市南区豊３丁目１９番２４号",
+      "certification": [
+        {
+          "certification_name": "大臣感謝状",
+          "certified_date": "2024-07-17"
+        },
+        {
+          "certification_name": "令和５年度食品ロス削減推進表彰",
+          "certified_date": "2023-09-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001014892",
+      "name": "中京化成工業株式会社",
+      "address": "愛知県名古屋市南区曽池町４丁目７番地",
+      "prefecture": "愛知県名古屋市南区曽池町４丁目７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001016220",
+      "name": "株式会社エスワイシステム",
+      "address": "愛知県名古屋市東区代官町３５番１６号",
+      "prefecture": "愛知県名古屋市東区代官町３５番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001018506",
+      "name": "矢作建設工業株式会社",
+      "address": "愛知県名古屋市東区葵３丁目１９番７号",
+      "prefecture": "愛知県名古屋市東区葵３丁目１９番７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001019090",
+      "name": "株式会社おかむら",
+      "address": "愛知県名古屋市中川区宮脇町１丁目３３番地",
+      "prefecture": "愛知県名古屋市中川区宮脇町１丁目３３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001021749",
+      "name": "加山興業株式会社",
+      "address": "愛知県名古屋市熱田区南一番町１５番５号",
+      "prefecture": "愛知県名古屋市熱田区南一番町１５番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001025106",
+      "name": "兼工業株式会社",
+      "address": "愛知県小牧市大字大草２０３６番地",
+      "prefecture": "愛知県小牧市大字大草２０３６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001027309",
+      "name": "御幸毛織株式会社",
+      "address": "愛知県名古屋市西区市場木町３９０番地",
+      "prefecture": "愛知県名古屋市西区市場木町３９０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001031731",
+      "name": "豊田通商株式会社",
+      "address": "愛知県名古屋市中村区名駅４丁目９番８号",
+      "prefecture": "愛知県名古屋市中村区名駅４丁目９番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001033620",
+      "name": "アイカ工業株式会社",
+      "address": "愛知県清須市西堀江２２８８番地",
+      "prefecture": "愛知県清須市西堀江２２８８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001034362",
+      "name": "株式会社岩田商会",
+      "address": "愛知県名古屋市中区錦１丁目２番１１号",
+      "prefecture": "愛知県名古屋市中区錦１丁目２番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001036144",
+      "name": "株式会社三祐コンサルタンツ",
+      "address": "愛知県名古屋市東区代官町３５番１６号",
+      "prefecture": "愛知県名古屋市東区代官町３５番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度中国四国農政局農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2024-01-11"
+        },
+        {
+          "certification_name": "令和５年度東海農政局所管農業農村整備事業優良工事等の受注者の表彰",
+          "certified_date": "2023-12-26"
+        },
+        {
+          "certification_name": "令和５年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-12-11"
+        },
+        {
+          "certification_name": "令和４年度九州農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-02-20"
+        },
+        {
+          "certification_name": "令和４年度近畿農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-30"
+        },
+        {
+          "certification_name": "令和４年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-27"
+        },
+        {
+          "certification_name": "令和４年度東海農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-24"
+        },
+        {
+          "certification_name": "令和４年度中国四国農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-12"
+        },
+        {
+          "certification_name": "令和４年度北陸農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2022-12-15"
+        },
+        {
+          "certification_name": "令和３年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-03-18"
+        },
+        {
+          "certification_name": "令和３年度中国四国農政局所管農業農村整備事業等優良工事等の受賞者の表彰",
+          "certified_date": "2022-01-31"
+        },
+        {
+          "certification_name": "令和３年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2022-01-11"
+        },
+        {
+          "certification_name": "令和３年度近畿農政局所管農業農村整備事業等優良工事等の受注者の表彰",
+          "certified_date": "2021-12-22"
+        },
+        {
+          "certification_name": "近畿農政局農業農村整備事業等優良工事等の受注者の表彰",
+          "certified_date": "2020-06-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001036656",
+      "name": "シーキューブ株式会社",
+      "address": "愛知県名古屋市中区門前町１番５１号",
+      "prefecture": "愛知県名古屋市中区門前町１番５１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001037514",
+      "name": "大同特殊鋼株式会社",
+      "address": "愛知県名古屋市東区東桜１丁目１番１０号",
+      "prefecture": "愛知県名古屋市東区東桜１丁目１番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001038116",
+      "name": "中部テレコミュニケーション株式会社",
+      "address": "愛知県名古屋市中区錦１丁目１０番１号",
+      "prefecture": "愛知県名古屋市中区錦１丁目１０番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001039378",
+      "name": "株式会社デンソークリエイト",
+      "address": "愛知県名古屋市中区錦２丁目１４番１９号",
+      "prefecture": "愛知県名古屋市中区錦２丁目１４番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001041516",
+      "name": "株式会社八神製作所",
+      "address": "愛知県名古屋市中区千代田２丁目１６番３０号",
+      "prefecture": "愛知県名古屋市中区千代田２丁目１６番３０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001042010",
+      "name": "株式会社ワイ・ヨット",
+      "address": "愛知県名古屋市中区松原３丁目１３番４１号",
+      "prefecture": "愛知県名古屋市中区松原３丁目１３番４１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001046341",
+      "name": "株式会社エアレックス",
+      "address": "愛知県名古屋市中村区椿町１４番１３号",
+      "prefecture": "愛知県名古屋市中村区椿町１４番１３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001048767",
+      "name": "イー・バレイ株式会社",
+      "address": "愛知県名古屋市昭和区福江２丁目９番３３号",
+      "prefecture": "愛知県名古屋市昭和区福江２丁目９番３３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001049410",
+      "name": "トヨタファイナンシャルサービス株式会社",
+      "address": "愛知県名古屋市西区牛島町６番１号名古屋ルーセントタワー",
+      "prefecture": "愛知県名古屋市西区牛島町６番１号名古屋ルーセントタワー",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001052827",
+      "name": "株式会社ハルカホールディングス",
+      "address": "愛知県名古屋市中区錦３丁目４番６号",
+      "prefecture": "愛知県名古屋市中区錦３丁目４番６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001069482",
+      "name": "アルメック株式会社",
+      "address": "愛知県豊明市前後町三ッ谷１３６１番地",
+      "prefecture": "愛知県豊明市前後町三ッ谷１３６１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001075968",
+      "name": "ＣＫＤ株式会社",
+      "address": "愛知県小牧市応時２丁目２５０番地",
+      "prefecture": "愛知県小牧市応時２丁目２５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001076207",
+      "name": "住友理工株式会社",
+      "address": "愛知県小牧市東３丁目１番地",
+      "prefecture": "愛知県小牧市東３丁目１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001077782",
+      "name": "株式会社トクワールド",
+      "address": "愛知県春日井市坂下町１丁目１６９０番地８",
+      "prefecture": "愛知県春日井市坂下町１丁目１６９０番地８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001080737",
+      "name": "エナジーサポート株式会社",
+      "address": "愛知県犬山市字上小針１番地",
+      "prefecture": "愛知県犬山市字上小針１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001086164",
+      "name": "株式会社コスモス調剤",
+      "address": "愛知県名古屋市中村区名駅５丁目４番１４号花車ビル北館８階",
+      "prefecture": "愛知県名古屋市中村区名駅５丁目４番１４号花車ビル北館８階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001087443",
+      "name": "サンハウス食品株式会社",
+      "address": "愛知県江南市高屋町西里７７番地",
+      "prefecture": "愛知県江南市高屋町西里７７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001092088",
+      "name": "株式会社Ｍｉｚｋａｎ　Ｊ　ｐｌｕｓ　Ｈｏｌｄｉｎｇｓ",
+      "address": "愛知県半田市中村町２丁目６番地",
+      "prefecture": "愛知県半田市中村町２丁目６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001092567",
+      "name": "大洋産業株式会社",
+      "address": "愛知県大府市大東町２丁目２５番地",
+      "prefecture": "愛知県大府市大東町２丁目２５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001095306",
+      "name": "株式会社イヤマトータルブリッジサポート",
+      "address": "愛知県名古屋市緑区野末町１４０４番地",
+      "prefecture": "愛知県名古屋市緑区野末町１４０４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180001104652",
+      "name": "株式会社コナミアミューズメント",
+      "address": "愛知県一宮市高田字池尻１番地",
+      "prefecture": "愛知県一宮市高田字池尻１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180005002745",
+      "name": "社会福祉法人愛知県厚生事業団",
+      "address": "愛知県名古屋市東区出来町２丁目８番２１号",
+      "prefecture": "愛知県名古屋市東区出来町２丁目８番２１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180005008577",
+      "name": "東春信用金庫",
+      "address": "愛知県小牧市中央１丁目２３１番地１",
+      "prefecture": "愛知県小牧市中央１丁目２３１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180005019327",
+      "name": "行政書士法人ＴＳＵＢＯＩ　Ａ．Ｐ．",
+      "address": "愛知県名古屋市中区丸の内３丁目１８番１号三晃丸の内ビル３階",
+      "prefecture": "愛知県名古屋市中区丸の内３丁目１８番１号三晃丸の内ビル３階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180005019707",
+      "name": "税理士法人ＭＡＲＫコンサルタンツ",
+      "address": "愛知県名古屋市中区栄４丁目１４番３１号栄オークリッジ４階",
+      "prefecture": "愛知県名古屋市中区栄４丁目１４番３１号栄オークリッジ４階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180301010542",
+      "name": "日本トレクス株式会社",
+      "address": "愛知県豊川市伊奈町南山新田３５０番地",
+      "prefecture": "愛知県豊川市伊奈町南山新田３５０番地",
+      "certification": [
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2018-12-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180301013611",
+      "name": "株式会社アイシン",
+      "address": "愛知県刈谷市朝日町２丁目１番地",
+      "prefecture": "愛知県刈谷市朝日町２丁目１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180301013677",
+      "name": "株式会社アドヴィックス",
+      "address": "愛知県刈谷市昭和町２丁目１番地",
+      "prefecture": "愛知県刈谷市昭和町２丁目１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180301014246",
+      "name": "株式会社ツルタ製作所",
+      "address": "愛知県刈谷市一里山町南大根１２番地１",
+      "prefecture": "愛知県刈谷市一里山町南大根１２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180301015095",
+      "name": "株式会社エス・エヌ・ジー",
+      "address": "愛知県碧南市源氏町５丁目５２番地",
+      "prefecture": "愛知県碧南市源氏町５丁目５２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180301017380",
+      "name": "デンソーテクノ株式会社",
+      "address": "愛知県刈谷市大正町１丁目７１４番地",
+      "prefecture": "愛知県刈谷市大正町１丁目７１４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180301019278",
+      "name": "株式会社ＦＴＳ",
+      "address": "愛知県豊田市鴻ノ巣町２丁目２６番地",
+      "prefecture": "愛知県豊田市鴻ノ巣町２丁目２６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180301022760",
+      "name": "株式会社ヤマキ",
+      "address": "愛知県西尾市寺津町四ノ割横道西１０番地１",
+      "prefecture": "愛知県西尾市寺津町四ノ割横道西１０番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180301025862",
+      "name": "ディープラス株式会社",
+      "address": "愛知県名古屋市中区栄５丁目１３番２１号",
+      "prefecture": "愛知県名古屋市中区栄５丁目１３番２１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180305005489",
+      "name": "医療法人豊成会",
+      "address": "愛知県豊田市御幸町２丁目５５番地",
+      "prefecture": "愛知県豊田市御幸町２丁目５５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6180305008640",
+      "name": "特定非営利活動法人クオーレ",
+      "address": "愛知県豊橋市三本木町字新東上２番地７、１番地１４",
+      "prefecture": "愛知県豊橋市三本木町字新東上２番地７、１番地１４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6190001011550",
+      "name": "株式会社なの花中部",
+      "address": "愛知県名古屋市中区丸の内３丁目２３番２０号",
+      "prefecture": "愛知県名古屋市中区丸の内３丁目２３番２０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020232211",
+      "name": "新城市",
+      "address": "愛知県新城市字東入船１１５番地",
+      "prefecture": "愛知県新城市字東入船１１５番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020232327",
+      "name": "愛西市",
+      "address": "愛知県愛西市稲葉町米野３０８",
+      "prefecture": "愛知県愛西市稲葉町米野３０８",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7011201010490",
+      "name": "株式会社アーレスティ",
+      "address": "愛知県豊橋市三弥町中原１番２号",
+      "prefecture": "愛知県豊橋市三弥町中原１番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7120001149272",
+      "name": "株式会社Ｍｉｚｋａｎ",
+      "address": "愛知県半田市中村町２丁目６番地",
+      "prefecture": "愛知県半田市中村町２丁目６番地",
+      "certification": [
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2016-12-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001007656",
+      "name": "由良海運株式会社",
+      "address": "愛知県名古屋市港区名港２丁目５番６号",
+      "prefecture": "愛知県名古屋市港区名港２丁目５番６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001014891",
+      "name": "中部配管株式会社",
+      "address": "愛知県名古屋市南区塩屋町３丁目１６番地",
+      "prefecture": "愛知県名古屋市南区塩屋町３丁目１６番地",
+      "certification": [
+        {
+          "certification_name": "ガス保安功労者経済産業大臣表彰",
+          "certified_date": "2017-11-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001016070",
+      "name": "いその株式会社",
+      "address": "愛知県名古屋市東区相生町５５番地",
+      "prefecture": "愛知県名古屋市東区相生町５５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001017589",
+      "name": "株式会社メニコン",
+      "address": "愛知県名古屋市中区葵３丁目２１番１９号",
+      "prefecture": "愛知県名古屋市中区葵３丁目２１番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001020428",
+      "name": "名古屋電機工業株式会社",
+      "address": "愛知県あま市篠田面徳２９番地１",
+      "prefecture": "愛知県あま市篠田面徳２９番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001022424",
+      "name": "株式会社トヨタレンタリース名古屋",
+      "address": "愛知県名古屋市熱田区尾頭町２番２２号",
+      "prefecture": "愛知県名古屋市熱田区尾頭町２番２２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001023042",
+      "name": "株式会社山田商会",
+      "address": "愛知県名古屋市熱田区桜田町１９番２１号",
+      "prefecture": "愛知県名古屋市熱田区桜田町１９番２１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001024676",
+      "name": "株式会社アルペン",
+      "address": "愛知県名古屋市中区丸の内２丁目９番４０号",
+      "prefecture": "愛知県名古屋市中区丸の内２丁目９番４０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001025105",
+      "name": "株式会社カノークス",
+      "address": "愛知県名古屋市西区那古野１丁目１番１２号",
+      "prefecture": "愛知県名古屋市西区那古野１丁目１番１２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001027679",
+      "name": "若鈴コンサルタンツ株式会社",
+      "address": "愛知県名古屋市西区中小田井５丁目４５０番地",
+      "prefecture": "愛知県名古屋市西区中小田井５丁目４５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度近畿農政局農業農村整備事業等優良工事等受注者の表彰",
+          "certified_date": "2023-12-18"
+        },
+        {
+          "certification_name": "令和４年度中国四国農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-12"
+        },
+        {
+          "certification_name": "令和３年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2022-01-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001028859",
+      "name": "株式会社萬乗醸造",
+      "address": "愛知県名古屋市緑区大高町字西門田４１番地",
+      "prefecture": "愛知県名古屋市緑区大高町字西門田４１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001034964",
+      "name": "岡谷鋼機株式会社",
+      "address": "愛知県名古屋市中区栄２丁目４番１８号",
+      "prefecture": "愛知県名古屋市中区栄２丁目４番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001039121",
+      "name": "株式会社ナイス",
+      "address": "愛知県名古屋市東区葵１丁目１６番３８号",
+      "prefecture": "愛知県名古屋市東区葵１丁目１６番３８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001045235",
+      "name": "豊田合成株式会社",
+      "address": "愛知県清須市春日長畑１番地",
+      "prefecture": "愛知県清須市春日長畑１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001045697",
+      "name": "株式会社フジミインコーポレーテッド",
+      "address": "愛知県清須市西枇杷島町地領２丁目１番地１",
+      "prefecture": "愛知県清須市西枇杷島町地領２丁目１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001046002",
+      "name": "株式会社福祉の里",
+      "address": "愛知県北名古屋市北野天神１３番地",
+      "prefecture": "愛知県北名古屋市北野天神１３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001047388",
+      "name": "株式会社イハラ合成",
+      "address": "愛知県名古屋市昭和区白金３丁目２番２６号",
+      "prefecture": "愛知県名古屋市昭和区白金３丁目２番２６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001054079",
+      "name": "豊通ヒューマンリソース株式会社",
+      "address": "愛知県名古屋市中村区名駅４丁目９番８号",
+      "prefecture": "愛知県名古屋市中村区名駅４丁目９番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001056397",
+      "name": "株式会社ＩＴＡＧＥ",
+      "address": "愛知県名古屋市中区栄３丁目１８番１号",
+      "prefecture": "愛知県名古屋市中区栄３丁目１８番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001056496",
+      "name": "名古屋眼鏡株式会社",
+      "address": "愛知県名古屋市中区新栄１丁目３５番１９号",
+      "prefecture": "愛知県名古屋市中区新栄１丁目３５番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001064466",
+      "name": "ＮＥＸＣＯ中日本サービス株式会社",
+      "address": "愛知県名古屋市中区栄２丁目４番１８号",
+      "prefecture": "愛知県名古屋市中区栄２丁目４番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001066933",
+      "name": "株式会社東郷製作所",
+      "address": "愛知県愛知郡東郷町大字春木字蛭池１番地",
+      "prefecture": "愛知県愛知郡東郷町大字春木字蛭池１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180001094389",
+      "name": "知多メディアスネットワーク株式会社",
+      "address": "愛知県東海市大田町下浜田１６５番地",
+      "prefecture": "愛知県東海市大田町下浜田１６５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180002072022",
+      "name": "トリオ株式会社",
+      "address": "愛知県瀬戸市西本地町２丁目２７７番地の１",
+      "prefecture": "愛知県瀬戸市西本地町２丁目２７７番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180005002372",
+      "name": "医療法人応世会",
+      "address": "愛知県名古屋市北区大野町３丁目２７番地の３",
+      "prefecture": "愛知県名古屋市北区大野町３丁目２７番地の３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180005002488",
+      "name": "医療法人衆済会",
+      "address": "愛知県名古屋市中村区竹橋町３５番２８号",
+      "prefecture": "愛知県名古屋市中村区竹橋町３５番２８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180005014789",
+      "name": "一般社団法人中川運河キャナルアート",
+      "address": "愛知県名古屋市中区丸の内３丁目１０番２９号リンク丸の内２階",
+      "prefecture": "愛知県名古屋市中区丸の内３丁目１０番２９号リンク丸の内２階",
+      "certification": [
+        {
+          "certification_name": "まちづくりアワード（国土交通大臣表彰）",
+          "certified_date": "2022-06-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301002316",
+      "name": "幸南工業株式会社",
+      "address": "愛知県蒲郡市浜町７０番地",
+      "prefecture": "愛知県蒲郡市浜町７０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301002621",
+      "name": "株式会社岡崎土質試験所",
+      "address": "愛知県岡崎市滝町字長坂９５番地５",
+      "prefecture": "愛知県岡崎市滝町字長坂９５番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301006250",
+      "name": "サーラエナジー株式会社",
+      "address": "愛知県豊橋市駅前大通１丁目５５番地サーラタワー",
+      "prefecture": "愛知県豊橋市駅前大通１丁目５５番地サーラタワー",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301006754",
+      "name": "井村屋フーズ株式会社",
+      "address": "愛知県豊橋市中原町字地歩２４番地の１",
+      "prefecture": "愛知県豊橋市中原町字地歩２４番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301010418",
+      "name": "株式会社トヨコン",
+      "address": "愛知県豊川市川花町２丁目６２番地",
+      "prefecture": "愛知県豊川市川花町２丁目６２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301013635",
+      "name": "アイシン・ソフトウェア株式会社",
+      "address": "愛知県刈谷市相生町１丁目１番地１",
+      "prefecture": "愛知県刈谷市相生町１丁目１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301016951",
+      "name": "株式会社スギ薬局",
+      "address": "愛知県安城市三河安城町１丁目８番地４",
+      "prefecture": "愛知県安城市三河安城町１丁目８番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301018584",
+      "name": "大豊工業株式会社",
+      "address": "愛知県豊田市緑ケ丘３丁目６５番地",
+      "prefecture": "愛知県豊田市緑ケ丘３丁目６５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301018915",
+      "name": "豊田まちづくり株式会社",
+      "address": "愛知県豊田市若宮町１丁目５７番地１",
+      "prefecture": "愛知県豊田市若宮町１丁目５７番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301018923",
+      "name": "トヨタテクニカルディベロップメント株式会社",
+      "address": "愛知県豊田市花本町井前１番地９",
+      "prefecture": "愛知県豊田市花本町井前１番地９",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180301022347",
+      "name": "株式会社エムアイシーグループ",
+      "address": "愛知県西尾市道光寺町東縄６５番地",
+      "prefecture": "愛知県西尾市道光寺町東縄６５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7180305007245",
+      "name": "医療法人社団福祉会",
+      "address": "愛知県西尾市一色町赤羽上郷中１１３番地１",
+      "prefecture": "愛知県西尾市一色町赤羽上郷中１１３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001055826",
+      "name": "株式会社ＭＴＧプロフェッショナル",
+      "address": "愛知県名古屋市中村区本陣通２丁目３２番",
+      "prefecture": "愛知県名古屋市中村区本陣通２丁目３２番",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010601027383",
+      "name": "トヨタファイナンス株式会社",
+      "address": "愛知県名古屋市西区牛島町６番１号",
+      "prefecture": "愛知県名古屋市西区牛島町６番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001010774",
+      "name": "名古屋メツキ工業株式会社",
+      "address": "愛知県名古屋市瑞穂区牛巻町４番６号",
+      "prefecture": "愛知県名古屋市瑞穂区牛巻町４番６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001010997",
+      "name": "ブラザー工業株式会社",
+      "address": "愛知県名古屋市瑞穂区苗代町１５番１号",
+      "prefecture": "愛知県名古屋市瑞穂区苗代町１５番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "健康経営銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001018058",
+      "name": "株式会社ヒメノ",
+      "address": "愛知県名古屋市東区東大曽根町１２番１９号",
+      "prefecture": "愛知県名古屋市東区東大曽根町１２番１９号",
+      "certification": [
+        {
+          "certification_name": "ガス保安功労者経済産業大臣表彰",
+          "certified_date": "2018-11-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001018537",
+      "name": "株式会社ヤマナカ",
+      "address": "愛知県名古屋市中村区岩塚町字西枝１番地の１",
+      "prefecture": "愛知県名古屋市中村区岩塚町字西枝１番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001021359",
+      "name": "ワタナベフーマック株式会社",
+      "address": "愛知県名古屋市中川区露橋２丁目１２番２６号",
+      "prefecture": "愛知県名古屋市中川区露橋２丁目１２番２６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001022373",
+      "name": "株式会社トーカン",
+      "address": "愛知県名古屋市熱田区川並町４番８号",
+      "prefecture": "愛知県名古屋市熱田区川並町４番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001025070",
+      "name": "春日井製菓株式会社",
+      "address": "愛知県名古屋市西区花の木１丁目３番１４号",
+      "prefecture": "愛知県名古屋市西区花の木１丁目３番１４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001026300",
+      "name": "株式会社ＪＲ東海交通事業",
+      "address": "愛知県名古屋市西区八筋町８番地の１",
+      "prefecture": "愛知県名古屋市西区八筋町８番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001030616",
+      "name": "株式会社システムリサーチ",
+      "address": "愛知県名古屋市中村区岩塚本通２丁目１２番",
+      "prefecture": "愛知県名古屋市中村区岩塚本通２丁目１２番",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001031837",
+      "name": "名古屋鉄道株式会社",
+      "address": "愛知県名古屋市中村区名駅１丁目２番４号",
+      "prefecture": "愛知県名古屋市中村区名駅１丁目２番４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001036373",
+      "name": "株式会社あいち銀行",
+      "address": "愛知県名古屋市中区栄３丁目１４番１２号",
+      "prefecture": "愛知県名古屋市中区栄３丁目１４番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001036398",
+      "name": "株式会社名古屋銀行",
+      "address": "愛知県名古屋市中区錦３丁目１９番１７号",
+      "prefecture": "愛知県名古屋市中区錦３丁目１９番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001038130",
+      "name": "キオクシアエンジニアリング株式会社",
+      "address": "愛知県名古屋市中区錦２丁目１４番１９号",
+      "prefecture": "愛知県名古屋市中区錦２丁目１４番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001038758",
+      "name": "株式会社トーエネック",
+      "address": "愛知県名古屋市中区栄１丁目３１番２３号",
+      "prefecture": "愛知県名古屋市中区栄１丁目３１番２３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001039178",
+      "name": "株式会社アイワット",
+      "address": "愛知県名古屋市中区新栄１丁目７番２２号",
+      "prefecture": "愛知県名古屋市中区新栄１丁目７番２２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001039921",
+      "name": "林テレンプ株式会社",
+      "address": "愛知県名古屋市中区上前津１丁目４番５号",
+      "prefecture": "愛知県名古屋市中区上前津１丁目４番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001060596",
+      "name": "株式会社ミルク",
+      "address": "愛知県名古屋市中区錦３丁目７番１２号",
+      "prefecture": "愛知県名古屋市中区錦３丁目７番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001069588",
+      "name": "株式会社中西",
+      "address": "愛知県豊明市栄町高根１０３番地",
+      "prefecture": "愛知県豊明市栄町高根１０３番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": "2020-09-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001078754",
+      "name": "河村電器産業株式会社",
+      "address": "愛知県瀬戸市暁町３番８６",
+      "prefecture": "愛知県瀬戸市暁町３番８６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001081279",
+      "name": "吉永建設工業株式会社",
+      "address": "愛知県丹羽郡扶桑町大字柏森字平塚２８７番地２",
+      "prefecture": "愛知県丹羽郡扶桑町大字柏森字平塚２８７番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001082871",
+      "name": "眞和興業株式会社",
+      "address": "愛知県江南市安良町池尻８０番地",
+      "prefecture": "愛知県江南市安良町池尻８０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001087409",
+      "name": "ＫＴＸ株式会社",
+      "address": "愛知県江南市安良町地蔵５１番地",
+      "prefecture": "愛知県江南市安良町地蔵５１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001097390",
+      "name": "東洋精鋼株式会社",
+      "address": "愛知県弥富市馬ケ地３丁目１９５番地１",
+      "prefecture": "愛知県弥富市馬ケ地３丁目１９５番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001102539",
+      "name": "株式会社アフェクトホールディングス",
+      "address": "愛知県名古屋市中区丸の内３丁目２０番９号三晃社ビル３階",
+      "prefecture": "愛知県名古屋市中区丸の内３丁目２０番９号三晃社ビル３階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001106886",
+      "name": "クオリア株式会社",
+      "address": "愛知県名古屋市中区栄３丁目２番３号名古屋日興證券ビル４階",
+      "prefecture": "愛知県名古屋市中区栄３丁目２番３号名古屋日興證券ビル４階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001124830",
+      "name": "理科研株式会社",
+      "address": "愛知県名古屋市中区新栄１丁目３３番１号",
+      "prefecture": "愛知県名古屋市中区新栄１丁目３３番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001129565",
+      "name": "株式会社ワンロック",
+      "address": "愛知県名古屋市中区平和１丁目１５番２７号リオ第二ビル７階",
+      "prefecture": "愛知県名古屋市中区平和１丁目１５番２７号リオ第二ビル７階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001131736",
+      "name": "株式会社オービタルネット",
+      "address": "愛知県名古屋市中区大須４丁目１３番４６号",
+      "prefecture": "愛知県名古屋市中区大須４丁目１３番４６号",
+      "certification": [
+        {
+          "certification_name": "Ｇｅｏアクティビティコンテスト",
+          "certified_date": "2018-11-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001134862",
+      "name": "株式会社豊通シスコム",
+      "address": "愛知県名古屋市中村区名駅４丁目１１番２７号",
+      "prefecture": "愛知県名古屋市中村区名駅４丁目１１番２７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180001143715",
+      "name": "株式会社ソトハ",
+      "address": "愛知県海部郡蟹江町桜３丁目８２１番地",
+      "prefecture": "愛知県海部郡蟹江町桜３丁目８２１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180002038690",
+      "name": "有限会社ワコー",
+      "address": "愛知県名古屋市天白区植田本町１丁目９１９番地",
+      "prefecture": "愛知県名古屋市天白区植田本町１丁目９１９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180005002487",
+      "name": "医療法人資生会",
+      "address": "愛知県名古屋市天白区塩釜口１丁目４０３番地",
+      "prefecture": "愛知県名古屋市天白区塩釜口１丁目４０３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180005002743",
+      "name": "社会福祉法人愛知育児院",
+      "address": "愛知県名古屋市昭和区南山町５番地",
+      "prefecture": "愛知県名古屋市昭和区南山町５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180005005127",
+      "name": "一般社団法人中部地域づくり協会",
+      "address": "愛知県名古屋市中区丸の内３丁目５番１０号",
+      "prefecture": "愛知県名古屋市中区丸の内３丁目５番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180005006604",
+      "name": "公立大学法人名古屋市立大学",
+      "address": "愛知県名古屋市瑞穂区瑞穂町字川澄１番地１",
+      "prefecture": "愛知県名古屋市瑞穂区瑞穂町字川澄１番地１",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180005008303",
+      "name": "医療法人三仁会",
+      "address": "愛知県春日井市下原町字村東２０９０番地",
+      "prefecture": "愛知県春日井市下原町字村東２０９０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180301011217",
+      "name": "株式会社西浦化学",
+      "address": "愛知県蒲郡市浜町１３番地３",
+      "prefecture": "愛知県蒲郡市浜町１３番地３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180301013915",
+      "name": "株式会社キャッチネットワーク",
+      "address": "愛知県刈谷市野田町大ヒゴ１番地",
+      "prefecture": "愛知県刈谷市野田町大ヒゴ１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180301024623",
+      "name": "株式会社セキソー",
+      "address": "愛知県岡崎市日名北町１番地３",
+      "prefecture": "愛知県岡崎市日名北町１番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180301024706",
+      "name": "株式会社ＴＢエンジニアリング",
+      "address": "愛知県豊田市小坂本町１丁目１１番地１",
+      "prefecture": "愛知県豊田市小坂本町１丁目１１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8180305004588",
+      "name": "碧海信用金庫",
+      "address": "愛知県安城市御幸本町１５番１号",
+      "prefecture": "愛知県安城市御幸本町１５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190001010492",
+      "name": "マックスバリュ中部株式会社",
+      "address": "愛知県名古屋市中区錦１丁目１８番２２号",
+      "prefecture": "愛知県名古屋市中区錦１丁目１８番２２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8700150043407",
+      "name": "知多南部土地改良区",
+      "address": "愛知県知多郡南知多町大字豊浜字貝ケ坪１８",
+      "prefecture": "愛知県知多郡南知多町大字豊浜字貝ケ坪１８",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9010401147034",
+      "name": "株式会社ナルネットコミュニケーションズ",
+      "address": "愛知県春日井市下市場町５丁目１番地１６",
+      "prefecture": "愛知県春日井市下市場町５丁目１番地１６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9120001079055",
+      "name": "株式会社ジェイテクト",
+      "address": "愛知県刈谷市朝日町１丁目１番地",
+      "prefecture": "愛知県刈谷市朝日町１丁目１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001003827",
+      "name": "株式会社キョクトー",
+      "address": "愛知県日進市折戸町中屋敷１８１番地１",
+      "prefecture": "愛知県日進市折戸町中屋敷１８１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001014155",
+      "name": "株式会社エステム",
+      "address": "愛知県名古屋市南区弥次ヱ町２丁目１９番地の１",
+      "prefecture": "愛知県名古屋市南区弥次ヱ町２丁目１９番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001021606",
+      "name": "ＮＴＰシステム株式会社",
+      "address": "愛知県名古屋市熱田区尾頭町２番２２号",
+      "prefecture": "愛知県名古屋市熱田区尾頭町２番２２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001024039",
+      "name": "ナカシャクリエイテブ株式会社",
+      "address": "愛知県名古屋市天白区野並２丁目２１３番地",
+      "prefecture": "愛知県名古屋市天白区野並２丁目２１３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001026134",
+      "name": "中央コンサルタンツ株式会社",
+      "address": "愛知県名古屋市中区丸の内３丁目２２番１号",
+      "prefecture": "愛知県名古屋市中区丸の内３丁目２２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001028031",
+      "name": "クマガイ特殊鋼株式会社",
+      "address": "愛知県名古屋市緑区大高町字上塩田６８番地",
+      "prefecture": "愛知県名古屋市緑区大高町字上塩田６８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001028758",
+      "name": "東山株式会社",
+      "address": "愛知県名古屋市緑区大高町字二番割２３番地１",
+      "prefecture": "愛知県名古屋市緑区大高町字二番割２３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001029351",
+      "name": "アルプススチール株式会社",
+      "address": "愛知県名古屋市中川区月島町１４番１４号",
+      "prefecture": "愛知県名古屋市中川区月島町１４番１４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001029938",
+      "name": "菊水化学工業株式会社",
+      "address": "愛知県名古屋市中区栄１丁目３番３号ＡＭＭＮＡＴビル",
+      "prefecture": "愛知県名古屋市中区栄１丁目３番３号ＡＭＭＮＡＴビル",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001033056",
+      "name": "株式会社電通名鉄コミュニケーションズ",
+      "address": "愛知県名古屋市中村区名駅４丁目８番１８号名古屋三井ビルディング北館１０階",
+      "prefecture": "愛知県名古屋市中村区名駅４丁目８番１８号名古屋三井ビルディング北館１０階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001033543",
+      "name": "株式会社エス・ディ・ロジ",
+      "address": "愛知県名古屋市東区東片端町８番地",
+      "prefecture": "愛知県名古屋市東区東片端町８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001047717",
+      "name": "ジェイアール東海情報システム株式会社",
+      "address": "愛知県名古屋市中村区名駅４丁目４番１０号",
+      "prefecture": "愛知県名古屋市中村区名駅４丁目４番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001055471",
+      "name": "株式会社イープラネット",
+      "address": "愛知県名古屋市中区伊勢山１丁目５番３０号",
+      "prefecture": "愛知県名古屋市中区伊勢山１丁目５番３０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001061494",
+      "name": "マイコミュニケーション株式会社",
+      "address": "愛知県名古屋市東区葵３丁目１９－３",
+      "prefecture": "愛知県名古屋市東区葵３丁目１９－３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001063631",
+      "name": "藤田螺子工業株式会社",
+      "address": "愛知県名古屋市中村区名駅南３丁目９番３号",
+      "prefecture": "愛知県名古屋市中村区名駅南３丁目９番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001066196",
+      "name": "株式会社コミュニティネットワークセンター",
+      "address": "愛知県名古屋市東区東桜１丁目３番１０号",
+      "prefecture": "愛知県名古屋市東区東桜１丁目３番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001067260",
+      "name": "名菱電子株式会社",
+      "address": "愛知県日進市浅田町東前田３８番地２３",
+      "prefecture": "愛知県日進市浅田町東前田３８番地２３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001067905",
+      "name": "日東工業株式会社",
+      "address": "愛知県長久手市蟹原２２０１番地",
+      "prefecture": "愛知県長久手市蟹原２２０１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001074001",
+      "name": "木野瀬印刷株式会社",
+      "address": "愛知県春日井市西本町３丁目２３５番地",
+      "prefecture": "愛知県春日井市西本町３丁目２３５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001075420",
+      "name": "株式会社五合",
+      "address": "愛知県春日井市大手町４丁目８番地１０",
+      "prefecture": "愛知県春日井市大手町４丁目８番地１０",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001084867",
+      "name": "昭和土建株式会社",
+      "address": "愛知県一宮市西島町５丁目８番地",
+      "prefecture": "愛知県一宮市西島町５丁目８番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度東海農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001088934",
+      "name": "株式会社ギガス",
+      "address": "愛知県名古屋市名東区高社２丁目１３０番地",
+      "prefecture": "愛知県名古屋市名東区高社２丁目１３０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001093678",
+      "name": "ＡＮＡ中部空港株式会社",
+      "address": "愛知県常滑市セントレア１丁目１番地",
+      "prefecture": "愛知県常滑市セントレア１丁目１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001094156",
+      "name": "愛知製鋼株式会社",
+      "address": "愛知県東海市荒尾町ワノ割１番地",
+      "prefecture": "愛知県東海市荒尾町ワノ割１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001094206",
+      "name": "日鉄ソリューションズ中部株式会社",
+      "address": "愛知県東海市東海町４丁目７０番地の１",
+      "prefecture": "愛知県東海市東海町４丁目７０番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001098421",
+      "name": "株式会社総務システムサービス",
+      "address": "愛知県あま市篠田南長無２２番地",
+      "prefecture": "愛知県あま市篠田南長無２２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001098495",
+      "name": "株式会社山田製作所",
+      "address": "愛知県あま市花正七反地１９番地",
+      "prefecture": "愛知県あま市花正七反地１９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180001126173",
+      "name": "株式会社リズメリット",
+      "address": "愛知県名古屋市名東区山の手１丁目１１０４番地",
+      "prefecture": "愛知県名古屋市名東区山の手１丁目１１０４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180005003427",
+      "name": "生活協同組合コープあいち",
+      "address": "愛知県名古屋市名東区猪高町大字上社字井堀２５番地の１",
+      "prefecture": "愛知県名古屋市名東区猪高町大字上社字井堀２５番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2018-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180005009028",
+      "name": "社会福祉法人樹の里",
+      "address": "愛知県瀬戸市紺屋田町９３番１０６",
+      "prefecture": "愛知県瀬戸市紺屋田町９３番１０６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180005010480",
+      "name": "社会福祉法人亀泉会",
+      "address": "愛知県稲沢市平和町観音堂東海塚２６番地",
+      "prefecture": "愛知県稲沢市平和町観音堂東海塚２６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180005011727",
+      "name": "知多信用金庫",
+      "address": "愛知県半田市星崎町３丁目３９番地の１０",
+      "prefecture": "愛知県半田市星崎町３丁目３９番地の１０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180301001381",
+      "name": "ＣＤＳ株式会社",
+      "address": "愛知県岡崎市舞木町字市場４６番地",
+      "prefecture": "愛知県岡崎市舞木町字市場４６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180301006265",
+      "name": "サーラ住宅株式会社",
+      "address": "愛知県豊橋市白河町１００番地",
+      "prefecture": "愛知県豊橋市白河町１００番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180301014029",
+      "name": "株式会社サンスタッフ",
+      "address": "愛知県刈谷市若松町１丁目９５番地",
+      "prefecture": "愛知県刈谷市若松町１丁目９５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180301014251",
+      "name": "株式会社デンソー",
+      "address": "愛知県刈谷市昭和町１丁目１番地",
+      "prefecture": "愛知県刈谷市昭和町１丁目１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "健康経営銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "キャリア支援企業表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180301014276",
+      "name": "トヨタ車体株式会社",
+      "address": "愛知県刈谷市一里山町金山１００番地",
+      "prefecture": "愛知県刈谷市一里山町金山１００番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9180301022270",
+      "name": "朝日理化株式会社",
+      "address": "愛知県西尾市西浅井町尾ケ山５番地９６",
+      "prefecture": "愛知県西尾市西浅井町尾ケ山５番地９６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9200001026890",
+      "name": "株式会社サン太陽",
+      "address": "愛知県春日井市八田町８丁目１３番地３",
+      "prefecture": "愛知県春日井市八田町８丁目１３番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

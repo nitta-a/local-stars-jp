@@ -1,0 +1,2324 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1010601020436",
+      "name": "株式会社イワサテック",
+      "address": "千葉県船橋市高瀬町６２番地４",
+      "prefecture": "千葉県船橋市高瀬町６２番地４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001013715",
+      "name": "株式会社システムイオ",
+      "address": "千葉県千葉市美浜区中瀬２丁目６番地１ワールドビジネスガーデンマリブウエスト２４階",
+      "prefecture": "千葉県千葉市美浜区中瀬２丁目６番地１ワールドビジネスガーデンマリブウエスト２４階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001018326",
+      "name": "株式会社ニチオン",
+      "address": "千葉県船橋市栄町２丁目１２番４号",
+      "prefecture": "千葉県船橋市栄町２丁目１２番４号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001036047",
+      "name": "株式会社武井製作所",
+      "address": "千葉県松戸市紙敷１５６７番地",
+      "prefecture": "千葉県松戸市紙敷１５６７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001036939",
+      "name": "株式会社マツモトキヨシ",
+      "address": "千葉県松戸市新松戸東９番地１",
+      "prefecture": "千葉県松戸市新松戸東９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001037227",
+      "name": "株式会社ＹＫＫ　ＡＰラクシー",
+      "address": "千葉県松戸市東松戸３丁目７番地の２１",
+      "prefecture": "千葉県松戸市東松戸３丁目７番地の２１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001037961",
+      "name": "株式会社川和",
+      "address": "千葉県流山市西初石３丁目９番地の１０",
+      "prefecture": "千葉県流山市西初石３丁目９番地の１０",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001043786",
+      "name": "株式会社イシド",
+      "address": "千葉県白井市堀込１丁目１番１２号",
+      "prefecture": "千葉県白井市堀込１丁目１番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001061846",
+      "name": "鈴木建設株式会社",
+      "address": "千葉県旭市後草２３６４番地の３",
+      "prefecture": "千葉県旭市後草２３６４番地の３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001062051",
+      "name": "株式会社カナヤ食品",
+      "address": "千葉県銚子市愛宕町３１２０番地",
+      "prefecture": "千葉県銚子市愛宕町３１２０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001065715",
+      "name": "株式会社シンク・ラボラトリー",
+      "address": "千葉県柏市高田１２０１番地の１１",
+      "prefecture": "千葉県柏市高田１２０１番地の１１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001072505",
+      "name": "キッコーマンビジネスサービス株式会社",
+      "address": "千葉県野田市野田２５０番地",
+      "prefecture": "千葉県野田市野田２５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001074567",
+      "name": "株式会社ろくや",
+      "address": "千葉県南房総市久枝４９４番地",
+      "prefecture": "千葉県南房総市久枝４９４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001075854",
+      "name": "株式会社芝山農園",
+      "address": "千葉県香取市福田５００番地２５",
+      "prefecture": "千葉県香取市福田５００番地２５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040001081596",
+      "name": "株式会社ｗａｓｈ－ｐｌｕｓ",
+      "address": "千葉県浦安市猫実１丁目９番５号",
+      "prefecture": "千葉県浦安市猫実１丁目９番５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040005003101",
+      "name": "生活協同組合パルシステム千葉",
+      "address": "千葉県船橋市本町２丁目１番１号",
+      "prefecture": "千葉県船橋市本町２丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040005006450",
+      "name": "社会福祉法人六親会",
+      "address": "千葉県印西市笠神字徒越１６２０番地１",
+      "prefecture": "千葉県印西市笠神字徒越１６２０番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1040005007837",
+      "name": "君津信用組合",
+      "address": "千葉県木更津市潮見３丁目３番地",
+      "prefecture": "千葉県木更津市潮見３丁目３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2010001140478",
+      "name": "リフォームスタジオ株式会社",
+      "address": "千葉県千葉市美浜区高洲３丁目２１番１号",
+      "prefecture": "千葉県千葉市美浜区高洲３丁目２１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2010001145527",
+      "name": "フードライフデザイン株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目３番地幕張テクノガーデンＢ棟１０Ｆ",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目３番地幕張テクノガーデンＢ棟１０Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001000019",
+      "name": "株式会社千葉銀行",
+      "address": "千葉県千葉市中央区千葉港１番２号",
+      "prefecture": "千葉県千葉市中央区千葉港１番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001000456",
+      "name": "イオンリテール株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001004102",
+      "name": "株式会社大東システムエンジニアリング",
+      "address": "千葉県千葉市美浜区中瀬２丁目６番地１ワールドビジネスガーデンマリブウエスト３３階",
+      "prefecture": "千葉県千葉市美浜区中瀬２丁目６番地１ワールドビジネスガーデンマリブウエスト３３階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001004531",
+      "name": "千葉エンジニアリング株式会社",
+      "address": "千葉県千葉市美浜区稲毛海岸２丁目１番３１号",
+      "prefecture": "千葉県千葉市美浜区稲毛海岸２丁目１番３１号",
+      "certification": [
+        {
+          "certification_name": "北関東防衛局優秀工事等顕彰式",
+          "certified_date": "2019-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001004762",
+      "name": "ＪＲ千葉鉄道サービス株式会社",
+      "address": "千葉県千葉市中央区弁天１丁目５番１号",
+      "prefecture": "千葉県千葉市中央区弁天１丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001008227",
+      "name": "株式会社道路建設コンサルタント",
+      "address": "千葉県千葉市中央区今井１丁目２３番７号",
+      "prefecture": "千葉県千葉市中央区今井１丁目２３番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001008549",
+      "name": "イオンコンパス株式会社",
+      "address": "千葉県千葉市美浜区中瀬２丁目６番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬２丁目６番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001018416",
+      "name": "株式会社パール技研",
+      "address": "千葉県船橋市旭町２丁目８番３１号",
+      "prefecture": "千葉県船橋市旭町２丁目８番３１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001036954",
+      "name": "マブチモーター株式会社",
+      "address": "千葉県松戸市松飛台４３０番地",
+      "prefecture": "千葉県松戸市松飛台４３０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001037176",
+      "name": "株式会社湯浅建設",
+      "address": "千葉県松戸市日暮５丁目２５番地",
+      "prefecture": "千葉県松戸市日暮５丁目２５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001040188",
+      "name": "サンコーテクノ株式会社",
+      "address": "千葉県流山市南流山３丁目１０番地１６",
+      "prefecture": "千葉県流山市南流山３丁目１０番地１６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001040196",
+      "name": "ハイム化粧品株式会社",
+      "address": "千葉県松戸市上本郷２８９番地３",
+      "prefecture": "千葉県松戸市上本郷２８９番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001042944",
+      "name": "ＡＮＡ成田エアポートサービス株式会社",
+      "address": "千葉県成田市木の根３８番地",
+      "prefecture": "千葉県成田市木の根３８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001044817",
+      "name": "成田空港給油施設株式会社",
+      "address": "千葉県成田市三里塚字御料牧場１番２",
+      "prefecture": "千葉県成田市三里塚字御料牧場１番２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001047134",
+      "name": "山田機械工業株式会社",
+      "address": "千葉県佐倉市大作２丁目３番地１",
+      "prefecture": "千葉県佐倉市大作２丁目３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001051961",
+      "name": "富洋観光開発株式会社",
+      "address": "千葉県富津市金谷２２８８番地",
+      "prefecture": "千葉県富津市金谷２２８８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001065334",
+      "name": "岡本硝子株式会社",
+      "address": "千葉県柏市十余二３８０番地",
+      "prefecture": "千葉県柏市十余二３８０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001071167",
+      "name": "キッコーマン株式会社",
+      "address": "千葉県野田市野田２５０番地",
+      "prefecture": "千葉県野田市野田２５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040001073717",
+      "name": "安房運輸株式会社",
+      "address": "千葉県君津市中島４１０番地",
+      "prefecture": "千葉県君津市中島４１０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040005001830",
+      "name": "特定非営利活動法人ちば地域再生リサーチ",
+      "address": "千葉県千葉市美浜区高洲２丁目３番１３号",
+      "prefecture": "千葉県千葉市美浜区高洲２丁目３番１３号",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2014-06-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040005013371",
+      "name": "佐原信用金庫",
+      "address": "千葉県香取市佐原イ５２５番地",
+      "prefecture": "千葉県香取市佐原イ５２５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2040005013850",
+      "name": "医療法人社団創造会",
+      "address": "千葉県我孫子市布佐８３４番地２８",
+      "prefecture": "千葉県我孫子市布佐８３４番地２８",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001079681",
+      "name": "コストコホールセールジャパン株式会社",
+      "address": "千葉県木更津市瓜倉３６１番地（金田西２街区２画地）",
+      "prefecture": "千葉県木更津市瓜倉３６１番地（金田西２街区２画地）",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001004596",
+      "name": "ちばぎんコンピューターサービス株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目１０番地２",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目１０番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001004935",
+      "name": "株式会社千葉薬品",
+      "address": "千葉県千葉市中央区問屋町１番３５号",
+      "prefecture": "千葉県千葉市中央区問屋町１番３５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001006312",
+      "name": "株式会社美光商会",
+      "address": "千葉県千葉市中央区生実町１７４７番地１",
+      "prefecture": "千葉県千葉市中央区生実町１７４７番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001006808",
+      "name": "イオンペット株式会社",
+      "address": "千葉県市川市南八幡４丁目１７番８号",
+      "prefecture": "千葉県市川市南八幡４丁目１７番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001008325",
+      "name": "株式会社エイジス",
+      "address": "千葉県千葉市花見川区幕張町３丁目７７２７番１",
+      "prefecture": "千葉県千葉市花見川区幕張町３丁目７７２７番１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001014059",
+      "name": "イオンマーケティング株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001017730",
+      "name": "第一熱処理工業株式会社",
+      "address": "千葉県船橋市潮見町１６番地２号",
+      "prefecture": "千葉県船橋市潮見町１６番地２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001018935",
+      "name": "株式会社ＳＨＩＮＫＯロジ",
+      "address": "千葉県船橋市前原西２丁目１２番７号",
+      "prefecture": "千葉県船橋市前原西２丁目１２番７号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001025659",
+      "name": "岩代鋼材株式会社",
+      "address": "千葉県市川市平田３丁目５番１号",
+      "prefecture": "千葉県市川市平田３丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001029189",
+      "name": "株式会社アールアンドアール",
+      "address": "千葉県浦安市入船１丁目５番２号",
+      "prefecture": "千葉県浦安市入船１丁目５番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001037150",
+      "name": "山田電器工業株式会社",
+      "address": "千葉県松戸市松飛台２５４番地",
+      "prefecture": "千葉県松戸市松飛台２５４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001042943",
+      "name": "新東京航業株式会社",
+      "address": "千葉県成田市三里塚光ケ丘１番地４５５",
+      "prefecture": "千葉県成田市三里塚光ケ丘１番地４５５",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001042992",
+      "name": "高木測量株式会社",
+      "address": "千葉県成田市並木町８５番地",
+      "prefecture": "千葉県成田市並木町８５番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2024-02-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001050541",
+      "name": "株式会社キミツ鐵構建設",
+      "address": "千葉県木更津市中央１丁目５番９号",
+      "prefecture": "千葉県木更津市中央１丁目５番９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001051218",
+      "name": "株式会社三井化学分析センター",
+      "address": "千葉県袖ケ浦市長浦５８０番地３２",
+      "prefecture": "千葉県袖ケ浦市長浦５８０番地３２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001051795",
+      "name": "株式会社ケイ・ワイ・コーポレーション",
+      "address": "千葉県君津市南子安４丁目２１番８号",
+      "prefecture": "千葉県君津市南子安４丁目２１番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001059104",
+      "name": "大多喜ガス株式会社",
+      "address": "千葉県茂原市茂原６６１番地",
+      "prefecture": "千葉県茂原市茂原６６１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001063980",
+      "name": "ちば醤油株式会社",
+      "address": "千葉県香取市木内１２０８番地",
+      "prefecture": "千葉県香取市木内１２０８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001065176",
+      "name": "株式会社伊勢角",
+      "address": "千葉県柏市中央町２番７号",
+      "prefecture": "千葉県柏市中央町２番７号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040001072503",
+      "name": "キッコーマン食品株式会社",
+      "address": "千葉県野田市野田２５０番地",
+      "prefecture": "千葉県野田市野田２５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040002066735",
+      "name": "斉藤建設有限会社",
+      "address": "千葉県木更津市新田２丁目７番３３号",
+      "prefecture": "千葉県木更津市新田２丁目７番３３号",
+      "certification": [
+        {
+          "certification_name": "優秀工事",
+          "certified_date": "2021-07-13"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3040005016241",
+      "name": "医療法人社団南洲会",
+      "address": "千葉県勝浦市墨名４８５番地２５２",
+      "prefecture": "千葉県勝浦市墨名４８５番地２５２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020120006",
+      "name": "千葉県",
+      "address": "千葉県千葉市中央区市場町１－１",
+      "prefecture": "千葉県千葉市中央区市場町１－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010001030181",
+      "name": "ミニストップ株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001010503",
+      "name": "株式会社ＺＯＺＯ",
+      "address": "千葉県千葉市稲毛区緑町１丁目１５番１６号",
+      "prefecture": "千葉県千葉市稲毛区緑町１丁目１５番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001014132",
+      "name": "イオンアイビス株式会社",
+      "address": "千葉県千葉市美浜区高洲３丁目１３番地２",
+      "prefecture": "千葉県千葉市美浜区高洲３丁目１３番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001019544",
+      "name": "株式会社エクセルシオール・ジャパン",
+      "address": "千葉県船橋市金堀町５８２番地１",
+      "prefecture": "千葉県船橋市金堀町５８２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001026400",
+      "name": "サンレイ工機株式会社",
+      "address": "千葉県市川市本北方２丁目２６番１６号",
+      "prefecture": "千葉県市川市本北方２丁目２６番１６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001026581",
+      "name": "株式会社スズキ技研",
+      "address": "千葉県佐倉市六崎１４４０番地",
+      "prefecture": "千葉県佐倉市六崎１４４０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001034601",
+      "name": "ちばぎん証券株式会社",
+      "address": "千葉県千葉市中央区中央２丁目５番１号",
+      "prefecture": "千葉県千葉市中央区中央２丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001045953",
+      "name": "總武建設株式会社",
+      "address": "千葉県成田市三里塚１５８番地",
+      "prefecture": "千葉県成田市三里塚１５８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001046976",
+      "name": "株式会社常磐植物化学研究所",
+      "address": "千葉県佐倉市木野子１５８番地",
+      "prefecture": "千葉県佐倉市木野子１５８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001061315",
+      "name": "萩原土建株式会社",
+      "address": "千葉県山武郡芝山町大里１５５３番地の３",
+      "prefecture": "千葉県山武郡芝山町大里１５５３番地の３",
+      "certification": [
+        {
+          "certification_name": "令和５年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2024-02-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001071289",
+      "name": "総武物流株式会社",
+      "address": "千葉県野田市野田２３６番地",
+      "prefecture": "千葉県野田市野田２３６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040001081684",
+      "name": "武市薬局株式会社",
+      "address": "千葉県柏市高柳１丁目１－２１ヴァールハイト高柳２階",
+      "prefecture": "千葉県柏市高柳１丁目１－２１ヴァールハイト高柳２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040005001952",
+      "name": "行政書士法人畠山事務所",
+      "address": "千葉県千葉市若葉区千城台西１丁目３４番１０号",
+      "prefecture": "千葉県千葉市若葉区千城台西１丁目３４番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040005002892",
+      "name": "医療法人社団紺整会",
+      "address": "千葉県船橋市飯山満町１丁目８３３番地",
+      "prefecture": "千葉県船橋市飯山満町１丁目８３３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040005003073",
+      "name": "社会福祉法人千葉県福祉援護会",
+      "address": "千葉県船橋市藤原８丁目１７番２号",
+      "prefecture": "千葉県船橋市藤原８丁目１７番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040005007066",
+      "name": "社会福祉法人佐倉厚生会",
+      "address": "千葉県佐倉市鏑木町３４６番地",
+      "prefecture": "千葉県佐倉市鏑木町３４６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4040005014442",
+      "name": "特定非営利活動法人手賀沼トラスト",
+      "address": "千葉県我孫子市根戸新田１３５番地の３",
+      "prefecture": "千葉県我孫子市根戸新田１３５番地の３",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2016-06-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020122050",
+      "name": "館山市",
+      "address": "千葉県館山市北条１１４５－１",
+      "prefecture": "千葉県館山市北条１１４５－１",
+      "certification": [
+        {
+          "certification_name": "第２回「Ｓｐｏｒｔ　ｉｎ　Ｌｉｆｅアワード」",
+          "certified_date": "2023-03-06"
+        },
+        {
+          "certification_name": "体力つくり優秀組織表彰",
+          "certified_date": "2022-02-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5010001053248",
+      "name": "日綜産業株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目３番地",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040001000008",
+      "name": "株式会社京葉銀行",
+      "address": "千葉県千葉市中央区富士見１丁目１１番１１号",
+      "prefecture": "千葉県千葉市中央区富士見１丁目１１番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040001000461",
+      "name": "イオンモール株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度脱炭素都市づくり大賞",
+          "certified_date": "2024-02-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040001008612",
+      "name": "フェデラルエクスプレスジャパン合同会社",
+      "address": "千葉県千葉市美浜区中瀬２丁目６番地１ワールドビジネスガーデンマリブウエスト",
+      "prefecture": "千葉県千葉市美浜区中瀬２丁目６番地１ワールドビジネスガーデンマリブウエスト",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040001016854",
+      "name": "株式会社ＮＩＤ・ＭＩ",
+      "address": "千葉県千葉市美浜区中瀬１丁目６番ｍＢＡＹＰＯＩＮＴ幕張１８階",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目６番ｍＢＡＹＰＯＩＮＴ幕張１８階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040001018586",
+      "name": "部品工業株式会社",
+      "address": "千葉県船橋市丸山４丁目４５番１４号",
+      "prefecture": "千葉県船橋市丸山４丁目４５番１４号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040001046868",
+      "name": "株式会社志津ガーデン",
+      "address": "千葉県佐倉市上座１１７８番地２７",
+      "prefecture": "千葉県佐倉市上座１１７８番地２７",
+      "certification": [
+        {
+          "certification_name": "優秀工事・優秀工事技術者顕彰",
+          "certified_date": "2024-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040001047081",
+      "name": "株式会社ホソヤコーポレーション",
+      "address": "千葉県佐倉市太田２０５６番地",
+      "prefecture": "千葉県佐倉市太田２０５６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040001053518",
+      "name": "赤星工業株式会社",
+      "address": "千葉県市原市八幡海岸通５番地４",
+      "prefecture": "千葉県市原市八幡海岸通５番地４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040001097770",
+      "name": "株式会社ＮＩＰＰＯＮＩＡ　ＳＡＷＡＲＡ",
+      "address": "千葉県香取市佐原イ４７４番地８",
+      "prefecture": "千葉県香取市佐原イ４７４番地８",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040005000706",
+      "name": "千葉県信用保証協会",
+      "address": "千葉県千葉市中央区中央４丁目１７番８号",
+      "prefecture": "千葉県千葉市中央区中央４丁目１７番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040005000747",
+      "name": "千葉県生活協同組合連合会",
+      "address": "千葉県千葉市中央区中央４丁目１３番１０号",
+      "prefecture": "千葉県千葉市中央区中央４丁目１３番１０号",
+      "certification": [
+        {
+          "certification_name": "令和５年度消費者支援功労者表彰",
+          "certified_date": "2023-05-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040005001514",
+      "name": "社会福祉法人煌徳会",
+      "address": "千葉県千葉市花見川区大日町１４９２番２",
+      "prefecture": "千葉県千葉市花見川区大日町１４９２番２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040005004442",
+      "name": "特定非営利活動法人いちかわ市民文化ネットワーク",
+      "address": "千葉県市川市国分７丁目１２－５",
+      "prefecture": "千葉県市川市国分７丁目１２－５",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040005011604",
+      "name": "医療法人社団鼎会",
+      "address": "千葉県松戸市日暮１丁目１６番２Ｍ－ＰＡＲＴⅢ日暮ビル",
+      "prefecture": "千葉県松戸市日暮１丁目１６番２Ｍ－ＰＡＲＴⅢ日暮ビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040005013815",
+      "name": "社会福祉法人アコモード",
+      "address": "千葉県我孫子市布佐１５５９番地２",
+      "prefecture": "千葉県我孫子市布佐１５５９番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040005014111",
+      "name": "ＮＰＯ法人ちば里山トラスト",
+      "address": "千葉県柏市松ケ崎２７７番地",
+      "prefecture": "千葉県柏市松ケ崎２７７番地",
+      "certification": [
+        {
+          "certification_name": "緑化推進運動功労者内閣総理大臣表彰",
+          "certified_date": "2017-04-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5040005019127",
+      "name": "一般社団法人カーボンバレーフォーラム",
+      "address": "千葉県柏市柏インター南４番地６",
+      "prefecture": "千葉県柏市柏インター南４番地６",
+      "certification": [
+        {
+          "certification_name": "産業標準化事業表彰",
+          "certified_date": "2019-10-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001000485",
+      "name": "株式会社イオンファンタジー",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001003380",
+      "name": "イオン株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001007266",
+      "name": "三井Ｅ＆Ｓシステム技研株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目３番地",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001013529",
+      "name": "株式会社日産フィナンシャルサービス",
+      "address": "千葉県千葉市美浜区中瀬２丁目６番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬２丁目６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001013561",
+      "name": "株式会社シンシア",
+      "address": "千葉県船橋市本町２丁目２番７号",
+      "prefecture": "千葉県船橋市本町２丁目２番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001020962",
+      "name": "株式会社地域新聞社",
+      "address": "千葉県八千代市勝田台北１丁目１１番１６号",
+      "prefecture": "千葉県八千代市勝田台北１丁目１１番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001022645",
+      "name": "株式会社横河ブリッジ",
+      "address": "千葉県船橋市山野町２７番地",
+      "prefecture": "千葉県船橋市山野町２７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001026274",
+      "name": "サンアイパック株式会社",
+      "address": "千葉県市川市真間３丁目１番４号",
+      "prefecture": "千葉県市川市真間３丁目１番４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001027017",
+      "name": "東洋合成工業株式会社",
+      "address": "千葉県市川市上妙典１６０３番地",
+      "prefecture": "千葉県市川市上妙典１６０３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001035713",
+      "name": "株式会社新松戸造園",
+      "address": "千葉県松戸市大橋８０９番地",
+      "prefecture": "千葉県松戸市大橋８０９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001035845",
+      "name": "株式会社精工技研",
+      "address": "千葉県松戸市松飛台２９６番地の１",
+      "prefecture": "千葉県松戸市松飛台２９６番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001060926",
+      "name": "イオンタウン株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001067434",
+      "name": "大樹生命アイテクノロジー株式会社",
+      "address": "千葉県柏市東上町８番１８号",
+      "prefecture": "千葉県柏市東上町８番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001083167",
+      "name": "株式会社Ｋ’ｓ　ｇａｒｄｅｎ",
+      "address": "千葉県市川市市川１丁目３番２号",
+      "prefecture": "千葉県市川市市川１丁目３番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040001102819",
+      "name": "株式会社橘花会",
+      "address": "千葉県市川市鬼高２丁目１３番１６号",
+      "prefecture": "千葉県市川市鬼高２丁目１３番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040005000052",
+      "name": "千葉信用金庫",
+      "address": "千葉県千葉市中央区中央２丁目４番１号",
+      "prefecture": "千葉県千葉市中央区中央２丁目４番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040005001380",
+      "name": "公益財団法人日本分析センター",
+      "address": "千葉県千葉市稲毛区山王町２９５番地の３",
+      "prefecture": "千葉県千葉市稲毛区山王町２９５番地の３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040005012551",
+      "name": "銚子信用金庫",
+      "address": "千葉県銚子市双葉町５番地の５",
+      "prefecture": "千葉県銚子市双葉町５番地の５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040005013987",
+      "name": "特定非営利活動法人スマイルクラブ",
+      "address": "千葉県柏市柏５丁目８－１６ウェルズ２１Ｃ号室",
+      "prefecture": "千葉県柏市柏５丁目８－１６ウェルズ２１Ｃ号室",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040005013995",
+      "name": "特定非営利活動法人牧場跡地の緑と環境を考える会",
+      "address": "千葉県柏市東中新宿３丁目１４番９号",
+      "prefecture": "千葉県柏市東中新宿３丁目１４番９号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2016-06-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6040005014878",
+      "name": "一般社団法人柏の葉アーバンデザインセンター",
+      "address": "千葉県柏市若柴１７８番地４柏の葉キャンパス１４８街区２ショップ＆オフィス棟６Ｆ",
+      "prefecture": "千葉県柏市若柴１７８番地４柏の葉キャンパス１４８街区２ショップ＆オフィス棟６Ｆ",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2017-06-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7010001034774",
+      "name": "関東天然瓦斯開発株式会社",
+      "address": "千葉県茂原市茂原６６１番地",
+      "prefecture": "千葉県茂原市茂原６６１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7010801013977",
+      "name": "株式会社エアージャパン",
+      "address": "千葉県成田市木の根３８番地",
+      "prefecture": "千葉県成田市木の根３８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7011801004033",
+      "name": "彦山精機株式会社",
+      "address": "千葉県印西市牧の台２丁目１番地２",
+      "prefecture": "千葉県印西市牧の台２丁目１番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7040001009699",
+      "name": "株式会社イオンイーハート",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7040001009807",
+      "name": "キヤノンカスタマーサポート株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目７番地２",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目７番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7040001045026",
+      "name": "ＮＣＡＪａｐａｎ株式会社",
+      "address": "千葉県成田市東三里塚字岩之台１２３番地４",
+      "prefecture": "千葉県成田市東三里塚字岩之台１２３番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7040001066402",
+      "name": "ベル・エンジニアリング株式会社",
+      "address": "千葉県柏市末広町１４番１号",
+      "prefecture": "千葉県柏市末広町１４番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7040001074099",
+      "name": "グロリア株式会社",
+      "address": "千葉県南房総市石堂３１２番地１",
+      "prefecture": "千葉県南房総市石堂３１２番地１",
+      "certification": [
+        {
+          "certification_name": "高年齢者雇用開発コンテスト",
+          "certified_date": "2020-10-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7040001122097",
+      "name": "イオンネクストデリバリー株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7040005006008",
+      "name": "一般財団法人市川市福祉公社",
+      "address": "千葉県市川市市川南１丁目１番１号ザタワーズイースト２０９号室",
+      "prefecture": "千葉県市川市市川南１丁目１番１号ザタワーズイースト２０９号室",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020122238",
+      "name": "鴨川市",
+      "address": "千葉県鴨川市横渚１４５０",
+      "prefecture": "千葉県鴨川市横渚１４５０",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010001083622",
+      "name": "合同酒精株式会社",
+      "address": "千葉県松戸市上本郷字仲原２５０番地",
+      "prefecture": "千葉県松戸市上本郷字仲原２５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001003619",
+      "name": "住友林業情報システム株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目３番地",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001004807",
+      "name": "シーデーシー情報システム株式会社",
+      "address": "千葉県千葉市中央区本千葉町４番３号",
+      "prefecture": "千葉県千葉市中央区本千葉町４番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001008246",
+      "name": "株式会社千葉ステーションビル",
+      "address": "千葉県千葉市中央区新千葉１丁目７番地２",
+      "prefecture": "千葉県千葉市中央区新千葉１丁目７番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001009723",
+      "name": "株式会社アクティブブレインズ",
+      "address": "千葉県千葉市美浜区中瀬２丁目６番１",
+      "prefecture": "千葉県千葉市美浜区中瀬２丁目６番１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001020564",
+      "name": "株式会社オカムラホーム",
+      "address": "千葉県八千代市村上南２丁目１６番地２５",
+      "prefecture": "千葉県八千代市村上南２丁目１６番地２５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001028302",
+      "name": "株式会社くすりの福太郎",
+      "address": "千葉県鎌ケ谷市新鎌ケ谷２丁目８番１７号",
+      "prefecture": "千葉県鎌ケ谷市新鎌ケ谷２丁目８番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001029424",
+      "name": "株式会社木田屋商店",
+      "address": "千葉県浦安市北栄３丁目３１番３号",
+      "prefecture": "千葉県浦安市北栄３丁目３１番３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001029993",
+      "name": "株式会社ミリアルリゾートホテルズ",
+      "address": "千葉県浦安市舞浜２番地１８",
+      "prefecture": "千葉県浦安市舞浜２番地１８",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001043086",
+      "name": "株式会社ナリコー",
+      "address": "千葉県成田市三里塚光ケ丘１番地１３３１",
+      "prefecture": "千葉県成田市三里塚光ケ丘１番地１３３１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001054257",
+      "name": "コスモペトロサービス株式会社",
+      "address": "千葉県市原市五井海岸２番地",
+      "prefecture": "千葉県市原市五井海岸２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001066302",
+      "name": "株式会社ハクホウ",
+      "address": "千葉県柏市高田１３４１番地",
+      "prefecture": "千葉県柏市高田１３４１番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001071780",
+      "name": "日本アトマイズ加工株式会社",
+      "address": "千葉県野田市西三ケ尾８７番地１６",
+      "prefecture": "千葉県野田市西三ケ尾８７番地１６",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040002056772",
+      "name": "有限会社ちば緑耕舎",
+      "address": "千葉県印旛郡栄町和田１１４番地３０",
+      "prefecture": "千葉県印旛郡栄町和田１１４番地３０",
+      "certification": [
+        {
+          "certification_name": "令和５年度関東農政局土地改良事業地区等営農推進功労者表彰",
+          "certified_date": "2023-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040005001420",
+      "name": "学校法人植草学園",
+      "address": "千葉県千葉市中央区弁天２丁目８番９号",
+      "prefecture": "千葉県千葉市中央区弁天２丁目８番９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040005001619",
+      "name": "国立研究開発法人量子科学技術研究開発機構",
+      "address": "千葉県千葉市稲毛区穴川４丁目９番１号",
+      "prefecture": "千葉県千葉市稲毛区穴川４丁目９番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040005007087",
+      "name": "農事組合法人鹿島",
+      "address": "千葉県佐倉市飯野１８２４番地",
+      "prefecture": "千葉県佐倉市飯野１８２４番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度関東農政局土地改良事業地区営農推進功労者表彰",
+          "certified_date": "2022-11-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040005009166",
+      "name": "医療法人芙蓉会",
+      "address": "千葉県市原市五井５１５５番地",
+      "prefecture": "千葉県市原市五井５１５５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040005015453",
+      "name": "医療法人社団岬風会",
+      "address": "千葉県千葉市美浜区中瀬２丁目６－１ワールドビジネスガーデンマリブウエスト２０階",
+      "prefecture": "千葉県千葉市美浜区中瀬２丁目６－１ワールドビジネスガーデンマリブウエスト２０階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040005016947",
+      "name": "独立行政法人高齢・障害・求職者雇用支援機構",
+      "address": "千葉県千葉市美浜区若葉３丁目１番２号",
+      "prefecture": "千葉県千葉市美浜区若葉３丁目１番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040005017755",
+      "name": "社会福祉法人青葉会",
+      "address": "千葉県柏市十余二字南前山１７５番６６",
+      "prefecture": "千葉県柏市十余二字南前山１７５番６６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040005020742",
+      "name": "社会保険労務士法人アスミル",
+      "address": "千葉県松戸市新松戸３丁目３３番地",
+      "prefecture": "千葉県松戸市新松戸３丁目３３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8700150003055",
+      "name": "フェデラルエクスプレスコーポレーション",
+      "address": "千葉県千葉市美浜区中瀬２丁目６番地１ワールドビジネスガーデンマリブウエスト",
+      "prefecture": "千葉県千葉市美浜区中瀬２丁目６番地１ワールドビジネスガーデンマリブウエスト",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9010001024113",
+      "name": "東洋エンジニアリング株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目１番地",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9011001006563",
+      "name": "ヴィルモランみかど株式会社",
+      "address": "千葉県千葉市緑区大野台１丁目４番１１号",
+      "prefecture": "千葉県千葉市緑区大野台１丁目４番１１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001000020",
+      "name": "株式会社千葉興業銀行",
+      "address": "千葉県千葉市美浜区幸町２丁目１番２号",
+      "prefecture": "千葉県千葉市美浜区幸町２丁目１番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001004260",
+      "name": "株式会社拓匠開発",
+      "address": "千葉県千葉市中央区弁天２丁目２０番２０号",
+      "prefecture": "千葉県千葉市中央区弁天２丁目２０番２０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001008641",
+      "name": "株式会社ＱＶＣジャパン",
+      "address": "千葉県千葉市美浜区ひび野２丁目１番地１",
+      "prefecture": "千葉県千葉市美浜区ひび野２丁目１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001013939",
+      "name": "イオン保険サービス株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001021818",
+      "name": "土佐工業株式会社",
+      "address": "千葉県船橋市三咲４丁目１１番６号",
+      "prefecture": "千葉県船橋市三咲４丁目１１番６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001030133",
+      "name": "株式会社ワイズマート",
+      "address": "千葉県浦安市当代島１丁目２番２５号",
+      "prefecture": "千葉県浦安市当代島１丁目２番２５号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001039109",
+      "name": "株式会社起工業",
+      "address": "千葉県松戸市上本郷９０７番地１",
+      "prefecture": "千葉県松戸市上本郷９０７番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001044645",
+      "name": "成田国際空港株式会社",
+      "address": "千葉県成田市古込字古込１番地１",
+      "prefecture": "千葉県成田市古込字古込１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001057028",
+      "name": "イオントップバリュ株式会社",
+      "address": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001062028",
+      "name": "岡田土建株式会社",
+      "address": "千葉県銚子市東芝町３番地の１",
+      "prefecture": "千葉県銚子市東芝町３番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001064800",
+      "name": "株式会社ピカいち",
+      "address": "千葉県長生郡一宮町一宮１００９５番地２の１",
+      "prefecture": "千葉県長生郡一宮町一宮１００９５番地２の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040001074122",
+      "name": "田中建設株式会社",
+      "address": "千葉県南房総市白子６６８番地",
+      "prefecture": "千葉県南房総市白子６６８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040005004273",
+      "name": "東京ベイ信用金庫",
+      "address": "千葉県市川市市川１丁目２３番２８号",
+      "prefecture": "千葉県市川市市川１丁目２３番２８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040005011294",
+      "name": "社会福祉法人信和会",
+      "address": "千葉県長生郡長南町長南１９８０－２",
+      "prefecture": "千葉県長生郡長南町長南１９８０－２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040005017812",
+      "name": "社会保険労務士法人ハーモニー",
+      "address": "千葉県千葉市美浜区中瀬１丁目３番地幕張テクノガーデンＢ棟２３階",
+      "prefecture": "千葉県千葉市美浜区中瀬１丁目３番地幕張テクノガーデンＢ棟２３階",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（厚生労働省人材開発統括官表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9040005020584",
+      "name": "特定非営利活動法人リトカル",
+      "address": "千葉県千葉市美浜区打瀬１丁目２番地３セントラルパーク・ウエストシータワー２４０６号",
+      "prefecture": "千葉県千葉市美浜区打瀬１丁目２番地３セントラルパーク・ウエストシータワー２４０６号",
+      "certification": [
+        {
+          "certification_name": "Ｇｅｏアクティビティコンテスト表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001009621",
+      "name": "株式会社レゾナック・ハードディスク",
+      "address": "千葉県市原市八幡海岸通５番地１",
+      "prefecture": "千葉県市原市八幡海岸通５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

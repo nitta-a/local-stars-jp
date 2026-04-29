@@ -1,0 +1,1640 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1230001000850",
+      "name": "株式会社ケーブルテレビ富山",
+      "address": "富山県富山市桜橋通り３番１号富山電気ビル",
+      "prefecture": "富山県富山市桜橋通り３番１号富山電気ビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001000958",
+      "name": "コマツ富山株式会社",
+      "address": "富山県富山市本郷２４１３番地の１",
+      "prefecture": "富山県富山市本郷２４１３番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001002005",
+      "name": "富山精密株式会社",
+      "address": "富山県富山市一本木３３番地",
+      "prefecture": "富山県富山市一本木３３番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001002120",
+      "name": "株式会社桝田酒造店",
+      "address": "富山県富山市東岩瀬町２６９番地",
+      "prefecture": "富山県富山市東岩瀬町２６９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001002236",
+      "name": "日医工株式会社",
+      "address": "富山県富山市総曲輪１丁目６番２１",
+      "prefecture": "富山県富山市総曲輪１丁目６番２１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001002946",
+      "name": "株式会社北陸銀行",
+      "address": "富山県富山市堤町通り１丁目２番２６号",
+      "prefecture": "富山県富山市堤町通り１丁目２番２６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001003044",
+      "name": "北陸プラントサービス株式会社",
+      "address": "富山県富山市草島字鶴田１番１",
+      "prefecture": "富山県富山市草島字鶴田１番１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001005676",
+      "name": "株式会社ジオインフォシステム",
+      "address": "富山県富山市千原崎１丁目７番１７号",
+      "prefecture": "富山県富山市千原崎１丁目７番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001006220",
+      "name": "株式会社エコロの森",
+      "address": "富山県富山市文京町３丁目４番地８",
+      "prefecture": "富山県富山市文京町３丁目４番地８",
+      "certification": [
+        {
+          "certification_name": "第７回エコツーリズム大賞",
+          "certified_date": "2012-01-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001007103",
+      "name": "株式会社セイキ",
+      "address": "富山県魚津市東山１６７番地の１",
+      "prefecture": "富山県魚津市東山１６７番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001008844",
+      "name": "安達建設株式会社",
+      "address": "富山県南砺市野田４２５番地の７",
+      "prefecture": "富山県南砺市野田４２５番地の７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001011278",
+      "name": "株式会社ＨＡＲＩＴＡ",
+      "address": "富山県高岡市福岡町本領１０５３番地１",
+      "prefecture": "富山県高岡市福岡町本領１０５３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001011773",
+      "name": "北陸コカ・コーラプロダクツ株式会社",
+      "address": "富山県高岡市内島３５５０番地",
+      "prefecture": "富山県高岡市内島３５５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001012920",
+      "name": "株式会社りらいあんす",
+      "address": "富山県射水市寺塚原１８８番地",
+      "prefecture": "富山県射水市寺塚原１８８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001014272",
+      "name": "阪神ホールディングス株式会社",
+      "address": "富山県富山市小中１６３番地",
+      "prefecture": "富山県富山市小中１６３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230001014735",
+      "name": "株式会社笑農和",
+      "address": "富山県滑川市中川原３４７番",
+      "prefecture": "富山県滑川市中川原３４７番",
+      "certification": [
+        {
+          "certification_name": "第５回宇宙開発利用大賞",
+          "certified_date": "2022-03-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230005003536",
+      "name": "にいかわ信用金庫",
+      "address": "富山県魚津市双葉町６番５号",
+      "prefecture": "富山県魚津市双葉町６番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230005005771",
+      "name": "富山県西部森林組合",
+      "address": "富山県南砺市荒木１２３０番地",
+      "prefecture": "富山県南砺市荒木１２３０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1230005005838",
+      "name": "一般財団法人北陸予防医学協会",
+      "address": "富山県高岡市金屋本町１番３号",
+      "prefecture": "富山県高岡市金屋本町１番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001000255",
+      "name": "株式会社インテック",
+      "address": "富山県富山市牛島新町５番５号",
+      "prefecture": "富山県富山市牛島新町５番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001001055",
+      "name": "佐藤工業株式会社",
+      "address": "富山県富山市桜木町１番１１号",
+      "prefecture": "富山県富山市桜木町１番１１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "東北防衛局優秀工事顕彰",
+          "certified_date": "2023-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001002235",
+      "name": "株式会社日本オープンシステムズ",
+      "address": "富山県富山市牛島町９番５号",
+      "prefecture": "富山県富山市牛島町９番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001002284",
+      "name": "日本海ガス株式会社",
+      "address": "富山県富山市城北町２番３６号",
+      "prefecture": "富山県富山市城北町２番３６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001002648",
+      "name": "ファーマパック株式会社",
+      "address": "富山県富山市小中１６３番地",
+      "prefecture": "富山県富山市小中１６３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001004719",
+      "name": "株式会社池田模範堂",
+      "address": "富山県中新川郡上市町神田１６番地",
+      "prefecture": "富山県中新川郡上市町神田１６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2023-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001007234",
+      "name": "ユウホー設備株式会社",
+      "address": "富山県魚津市末広町６番３５号",
+      "prefecture": "富山県魚津市末広町６番３５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001007465",
+      "name": "黒部クリーンアンドグリーンサービス株式会社",
+      "address": "富山県黒部市荒俣１８８２番地１",
+      "prefecture": "富山県黒部市荒俣１８８２番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001010080",
+      "name": "三協立山株式会社",
+      "address": "富山県高岡市早川７０番地",
+      "prefecture": "富山県高岡市早川７０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001011657",
+      "name": "株式会社氷見村田製作所",
+      "address": "富山県氷見市大浦１２番地５",
+      "prefecture": "富山県氷見市大浦１２番地５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230001012110",
+      "name": "株式会社パナケイア製薬",
+      "address": "富山県高岡市中田４５７６番地",
+      "prefecture": "富山県高岡市中田４５７６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230002007638",
+      "name": "有限会社重松",
+      "address": "富山県魚津市北中５５０番地１",
+      "prefecture": "富山県魚津市北中５５０番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230002013438",
+      "name": "ケーズメタル株式会社",
+      "address": "富山県高岡市ＩＣパーク３番地",
+      "prefecture": "富山県高岡市ＩＣパーク３番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2230005005382",
+      "name": "社会福祉法人砺波福祉会",
+      "address": "富山県砺波市柳瀬３番地",
+      "prefecture": "富山県砺波市柳瀬３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001001203",
+      "name": "新日本海重工業株式会社",
+      "address": "富山県富山市西宮町１番１号",
+      "prefecture": "富山県富山市西宮町１番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001001888",
+      "name": "株式会社トンボ飲料",
+      "address": "富山県富山市下赤江町１丁目６番３４号",
+      "prefecture": "富山県富山市下赤江町１丁目６番３４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001002234",
+      "name": "日本安全産業株式会社",
+      "address": "富山県富山市婦中町島本郷１番地２",
+      "prefecture": "富山県富山市婦中町島本郷１番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001003273",
+      "name": "株式会社ＭＡＥ",
+      "address": "富山県富山市向新庄町１丁目１８番４７号",
+      "prefecture": "富山県富山市向新庄町１丁目１８番４７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001004890",
+      "name": "ユウディケー株式会社",
+      "address": "富山県富山市婦中町中名２２３２番地",
+      "prefecture": "富山県富山市婦中町中名２２３２番地",
+      "certification": [
+        {
+          "certification_name": "安全衛生優良企業公表制度－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001004957",
+      "name": "東ソー・エイアイエイ株式会社",
+      "address": "富山県富山市岩瀬古志町２番地",
+      "prefecture": "富山県富山市岩瀬古志町２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001007506",
+      "name": "シロウマサイエンス株式会社",
+      "address": "富山県下新川郡入善町青木５７７７番地",
+      "prefecture": "富山県下新川郡入善町青木５７７７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001007943",
+      "name": "ＹＫＫビジネスサポート株式会社",
+      "address": "富山県黒部市吉田２００番地",
+      "prefecture": "富山県黒部市吉田２００番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001008891",
+      "name": "株式会社岡部",
+      "address": "富山県南砺市祖山３９番地",
+      "prefecture": "富山県南砺市祖山３９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001009683",
+      "name": "石友ホーム株式会社",
+      "address": "富山県高岡市下牧野３６番地の２",
+      "prefecture": "富山県高岡市下牧野３６番地の２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001010393",
+      "name": "立山電化工業株式会社",
+      "address": "富山県高岡市赤祖父５４６番地",
+      "prefecture": "富山県高岡市赤祖父５４６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001012605",
+      "name": "アルビス株式会社",
+      "address": "富山県射水市流通センター水戸田３丁目４番地",
+      "prefecture": "富山県射水市流通センター水戸田３丁目４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "第３回北陸農政局食育活動表彰",
+          "certified_date": "2024-05-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230001020095",
+      "name": "富山中央青果株式会社",
+      "address": "富山県富山市掛尾町５００番地",
+      "prefecture": "富山県富山市掛尾町５００番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度食品ロス削減推進表彰",
+          "certified_date": "2022-10-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230005000374",
+      "name": "医療法人財団博仁会",
+      "address": "富山県富山市中野新町１丁目１番１１号",
+      "prefecture": "富山県富山市中野新町１丁目１番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230005000382",
+      "name": "医療法人社団三医会",
+      "address": "富山県富山市小中２９１番地",
+      "prefecture": "富山県富山市小中２９１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230005002206",
+      "name": "医療法人社団桜仁会",
+      "address": "富山県富山市下新本町３番５号",
+      "prefecture": "富山県富山市下新本町３番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3230005003154",
+      "name": "社会福祉法人すこやかこども福祉会",
+      "address": "富山県富山市八尾町黒田２６３０番地",
+      "prefecture": "富山県富山市八尾町黒田２６３０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020163228",
+      "name": "上市町",
+      "address": "富山県中新川郡上市町法音寺１番地",
+      "prefecture": "富山県中新川郡上市町法音寺１番地",
+      "certification": [
+        {
+          "certification_name": "第１１回エコツーリズム大賞",
+          "certified_date": "2016-03-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001030574",
+      "name": "アットフィールズテクノロジー株式会社",
+      "address": "富山県魚津市東山８００番地",
+      "prefecture": "富山県魚津市東山８００番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4230001000864",
+      "name": "株式会社廣貫堂",
+      "address": "富山県富山市梅沢町２丁目９番１号",
+      "prefecture": "富山県富山市梅沢町２丁目９番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4230001002092",
+      "name": "株式会社アイペック",
+      "address": "富山県富山市中田１丁目１１３番地１",
+      "prefecture": "富山県富山市中田１丁目１１３番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4230001002811",
+      "name": "北銀ソフトウエア株式会社",
+      "address": "富山県富山市東田地方町１丁目５番２５号",
+      "prefecture": "富山県富山市東田地方町１丁目５番２５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4230001002844",
+      "name": "北電情報システムサービス株式会社",
+      "address": "富山県富山市桜橋通り３番１号",
+      "prefecture": "富山県富山市桜橋通り３番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4230001007785",
+      "name": "ＡＷＳ株式会社",
+      "address": "富山県富山市総曲輪３丁目４番１号",
+      "prefecture": "富山県富山市総曲輪３丁目４番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4230001010525",
+      "name": "戸出化成株式会社",
+      "address": "富山県高岡市ＩＣパーク１２番地",
+      "prefecture": "富山県高岡市ＩＣパーク１２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4230005000357",
+      "name": "社会福祉法人わかば福祉会",
+      "address": "富山県富山市下堀８番地",
+      "prefecture": "富山県富山市下堀８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4230005000373",
+      "name": "医療法人財団五省会",
+      "address": "富山県富山市高田７０番地",
+      "prefecture": "富山県富山市高田７０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4230005004440",
+      "name": "農事組合法人布施の里",
+      "address": "富山県魚津市小川寺１５４２番地",
+      "prefecture": "富山県魚津市小川寺１５４２番地",
+      "certification": [
+        {
+          "certification_name": "令和３年度「飼料用米多収日本一」コンテスト",
+          "certified_date": "2022-02-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4230005008251",
+      "name": "社会福祉法人あいの風福祉会",
+      "address": "富山県高岡市内免５丁目５０番１",
+      "prefecture": "富山県高岡市内免５丁目５０番１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5010401019195",
+      "name": "東ソー・セラミックス株式会社",
+      "address": "富山県富山市岩瀬古志町２",
+      "prefecture": "富山県富山市岩瀬古志町２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5230001000566",
+      "name": "株式会社カシイ",
+      "address": "富山県富山市三郷１８番地",
+      "prefecture": "富山県富山市三郷１８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5230001002141",
+      "name": "ＴＣＳ株式会社",
+      "address": "富山県富山市掛尾町５００番地",
+      "prefecture": "富山県富山市掛尾町５００番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度食品ロス削減推進表彰",
+          "certified_date": "2021-02-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5230001002281",
+      "name": "日本海環境サービス株式会社",
+      "address": "富山県富山市久方町２番５４号",
+      "prefecture": "富山県富山市久方町２番５４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5230001003420",
+      "name": "株式会社ワシントン靴店",
+      "address": "富山県富山市婦中町青島４０１番地",
+      "prefecture": "富山県富山市婦中町青島４０１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5230001004757",
+      "name": "株式会社コージン",
+      "address": "富山県中新川郡上市町森尻５番地",
+      "prefecture": "富山県中新川郡上市町森尻５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5230001005128",
+      "name": "株式会社シンコー",
+      "address": "富山県富山市馬瀬口９０番地",
+      "prefecture": "富山県富山市馬瀬口９０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5230001008246",
+      "name": "株式会社三恵ネツト",
+      "address": "富山県砺波市東石丸２７６番地",
+      "prefecture": "富山県砺波市東石丸２７６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5230001008469",
+      "name": "川田工業株式会社",
+      "address": "富山県南砺市苗島４６１０番地",
+      "prefecture": "富山県南砺市苗島４６１０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001000763",
+      "name": "株式会社久郷一樹園",
+      "address": "富山県富山市丸の内３丁目２番６号",
+      "prefecture": "富山県富山市丸の内３丁目２番６号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト",
+          "certified_date": "2024-10-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001000929",
+      "name": "近藤建設株式会社",
+      "address": "富山県富山市緑町１丁目１番１０号",
+      "prefecture": "富山県富山市緑町１丁目１番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001001456",
+      "name": "第一薬品工業株式会社",
+      "address": "富山県富山市草島１５番１",
+      "prefecture": "富山県富山市草島１５番１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001001811",
+      "name": "東亜薬品株式会社",
+      "address": "富山県富山市三郷２６番地",
+      "prefecture": "富山県富山市三郷２６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001002066",
+      "name": "富山鋼機株式会社",
+      "address": "富山県富山市大塚９０番地",
+      "prefecture": "富山県富山市大塚９０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001002297",
+      "name": "日本海電業株式会社",
+      "address": "富山県富山市下冨居１丁目１番４０号",
+      "prefecture": "富山県富山市下冨居１丁目１番４０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001003007",
+      "name": "北陸電気工事株式会社",
+      "address": "富山県富山市小中２６９番",
+      "prefecture": "富山県富山市小中２６９番",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001006645",
+      "name": "株式会社ビレッジ・フィールド",
+      "address": "富山県富山市住吉町２丁目６番１９号",
+      "prefecture": "富山県富山市住吉町２丁目６番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001007197",
+      "name": "株式会社北陸セラミック",
+      "address": "富山県魚津市横枕１４３番地の３",
+      "prefecture": "富山県魚津市横枕１４３番地の３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001007882",
+      "name": "北陸電機製造株式会社",
+      "address": "富山県滑川市法花寺２３３番地",
+      "prefecture": "富山県滑川市法花寺２３３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001008237",
+      "name": "株式会社熊野製作所",
+      "address": "富山県砺波市苗加２１番地",
+      "prefecture": "富山県砺波市苗加２１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001012379",
+      "name": "大谷製鉄株式会社",
+      "address": "富山県射水市奈呉の江８番地の４",
+      "prefecture": "富山県射水市奈呉の江８番地の４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230001012734",
+      "name": "立山化成株式会社",
+      "address": "富山県射水市大江１１３３番地",
+      "prefecture": "富山県射水市大江１１３３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230005000537",
+      "name": "富山県生活協同組合連合会",
+      "address": "富山県富山市堀川町２０６－５とやま生活協同組合堀川事務所２Ｆ",
+      "prefecture": "富山県富山市堀川町２０６－５とやま生活協同組合堀川事務所２Ｆ",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2016-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6230005003481",
+      "name": "特定非営利活動法人障害者アート支援工房ココペリ",
+      "address": "富山県高岡市伏木古府元町２番５号",
+      "prefecture": "富山県高岡市伏木古府元町２番５号",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020160008",
+      "name": "富山県",
+      "address": "富山県富山市新総曲輪１番７号",
+      "prefecture": "富山県富山市新総曲輪１番７号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020162078",
+      "name": "黒部市",
+      "address": "富山県黒部市三日市１３０１番地",
+      "prefecture": "富山県黒部市三日市１３０１番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001000473",
+      "name": "株式会社大阪屋ショップ",
+      "address": "富山県富山市赤田４８７番地１",
+      "prefecture": "富山県富山市赤田４８７番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001001637",
+      "name": "立山科学株式会社",
+      "address": "富山県富山市下番３０番地",
+      "prefecture": "富山県富山市下番３０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001002503",
+      "name": "阪神化成工業株式会社",
+      "address": "富山県富山市小中１６３番地",
+      "prefecture": "富山県富山市小中１６３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001002569",
+      "name": "Ｐ・Ｆオートメーション株式会社",
+      "address": "富山県富山市池多１８３１番地４",
+      "prefecture": "富山県富山市池多１８３１番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001003022",
+      "name": "北陸電力株式会社",
+      "address": "富山県富山市牛島町１５番１号",
+      "prefecture": "富山県富山市牛島町１５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001005472",
+      "name": "日産富山株式会社",
+      "address": "富山県富山市西新庄１１番４６号",
+      "prefecture": "富山県富山市西新庄１１番４６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001006090",
+      "name": "株式会社グラフ",
+      "address": "富山県富山市中田４５番地６３",
+      "prefecture": "富山県富山市中田４５番地６３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001007634",
+      "name": "大高建設株式会社",
+      "address": "富山県黒部市宇奈月温泉６３３番地１",
+      "prefecture": "富山県黒部市宇奈月温泉６３３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001008590",
+      "name": "ＤＡＩＫＥＮ株式会社",
+      "address": "富山県南砺市井波１番地１",
+      "prefecture": "富山県南砺市井波１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001010803",
+      "name": "協和ファーマケミカル株式会社",
+      "address": "富山県高岡市長慶寺５３０番地",
+      "prefecture": "富山県高岡市長慶寺５３０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001010927",
+      "name": "株式会社ベネフレックス",
+      "address": "富山県高岡市内島３５５０番地",
+      "prefecture": "富山県高岡市内島３５５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001011710",
+      "name": "水口化成株式会社",
+      "address": "富山県氷見市柳田１２番地１",
+      "prefecture": "富山県氷見市柳田１２番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001012147",
+      "name": "トナミ運輸株式会社",
+      "address": "富山県高岡市昭和町３丁目２番１２号",
+      "prefecture": "富山県高岡市昭和町３丁目２番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230001012626",
+      "name": "魚岸精機工業株式会社",
+      "address": "富山県射水市北高木１１８番地の１",
+      "prefecture": "富山県射水市北高木１１８番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230003001255",
+      "name": "カナタスタイル合同会社",
+      "address": "富山県富山市北新町２丁目１番１４号",
+      "prefecture": "富山県富山市北新町２丁目１番１４号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト",
+          "certified_date": "2024-10-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7230005007201",
+      "name": "社会福祉法人射水万葉会",
+      "address": "富山県射水市朴木２１１番地の１",
+      "prefecture": "富山県射水市朴木２１１番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8230001000092",
+      "name": "朝日建設株式会社",
+      "address": "富山県富山市安住町７番１２号",
+      "prefecture": "富山県富山市安住町７番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8230001001751",
+      "name": "津根精機株式会社",
+      "address": "富山県富山市婦中町高日附８５２番地",
+      "prefecture": "富山県富山市婦中町高日附８５２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8230001002106",
+      "name": "株式会社富山第一銀行",
+      "address": "富山県富山市西町５番１号",
+      "prefecture": "富山県富山市西町５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8230001003517",
+      "name": "リードケミカル株式会社",
+      "address": "富山県富山市日俣７７番３",
+      "prefecture": "富山県富山市日俣７７番３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8230001004928",
+      "name": "株式会社吉田住宅設備",
+      "address": "富山県富山市婦中町下坂倉１０８番地",
+      "prefecture": "富山県富山市婦中町下坂倉１０８番地",
+      "certification": [
+        {
+          "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
+          "certified_date": "2018-10-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8230001010901",
+      "name": "北陸コカ・コーラボトリング株式会社",
+      "address": "富山県高岡市内島３５５０番地",
+      "prefecture": "富山県高岡市内島３５５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8230001011627",
+      "name": "株式会社中村機械",
+      "address": "富山県氷見市上泉１４５番地１",
+      "prefecture": "富山県氷見市上泉１４５番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8230001016080",
+      "name": "ＧＲＮ株式会社",
+      "address": "富山県高岡市内島３５５０番地",
+      "prefecture": "富山県高岡市内島３５５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8230005004478",
+      "name": "農事組合法人水土里",
+      "address": "富山県滑川市栗山３９００番地",
+      "prefecture": "富山県滑川市栗山３９００番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度「飼料用米多収日本一」コンテスト",
+          "certified_date": "2023-03-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8230005007010",
+      "name": "社会福祉法人ひみ福祉会",
+      "address": "富山県氷見市柳田字諏訪野３８９２番地の１",
+      "prefecture": "富山県氷見市柳田字諏訪野３８９２番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020162019",
+      "name": "富山市",
+      "address": "富山県富山市新桜町７番３８号",
+      "prefecture": "富山県富山市新桜町７番３８号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020162051",
+      "name": "氷見市",
+      "address": "富山県氷見市鞍川１０６０番地",
+      "prefecture": "富山県氷見市鞍川１０６０番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9230001002212",
+      "name": "株式会社富山村田製作所",
+      "address": "富山県富山市上野３４５番地",
+      "prefecture": "富山県富山市上野３４５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9230001002526",
+      "name": "株式会社ハナガタ",
+      "address": "富山県富山市横内４１７番地",
+      "prefecture": "富山県富山市横内４１７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9230001003524",
+      "name": "株式会社リッチェル",
+      "address": "富山県富山市水橋桜木１３６番地",
+      "prefecture": "富山県富山市水橋桜木１３６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9230001005751",
+      "name": "株式会社富山サンダーバーズベースボールクラブ",
+      "address": "富山県高岡市長慶寺４３番地",
+      "prefecture": "富山県高岡市長慶寺４３番地",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2022-12-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9230001008143",
+      "name": "ダイヤモンドエンジニアリング株式会社",
+      "address": "富山県魚津市釈迦堂１丁目７番２２号",
+      "prefecture": "富山県魚津市釈迦堂１丁目７番２２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9230001008853",
+      "name": "川田ニット株式会社",
+      "address": "富山県南砺市城端１３７０番地",
+      "prefecture": "富山県南砺市城端１３７０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9230001010421",
+      "name": "株式会社高岡市衛生公社",
+      "address": "富山県高岡市材木町７３１番地",
+      "prefecture": "富山県高岡市材木町７３１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9230001011139",
+      "name": "株式会社ヨシケイライフスタイル",
+      "address": "富山県高岡市川原本町１０番９号",
+      "prefecture": "富山県高岡市川原本町１０番９号",
+      "certification": [
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9230001012830",
+      "name": "株式会社フェイス",
+      "address": "富山県射水市浄土寺１６８０番地",
+      "prefecture": "富山県射水市浄土寺１６８０番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

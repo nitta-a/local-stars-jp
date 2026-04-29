@@ -1,0 +1,1224 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020380008",
+      "name": "愛媛県",
+      "address": "愛媛県松山市一番町４丁目４－２",
+      "prefecture": "愛媛県松山市一番町４丁目４－２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1010001045595",
+      "name": "株式会社新来島どっく",
+      "address": "愛媛県今治市大西町新町甲９４５番地",
+      "prefecture": "愛媛県今治市大西町新町甲９４５番地",
+      "certification": [
+        {
+          "certification_name": "安全安心なまちづくり関係功労者表彰",
+          "certified_date": "2020-10-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1500001008874",
+      "name": "石鎚登山ロープウェイ株式会社",
+      "address": "愛媛県西条市西之川下谷甲８１番地",
+      "prefecture": "愛媛県西条市西之川下谷甲８１番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1500001008973",
+      "name": "株式会社西条環境分析センター",
+      "address": "愛媛県西条市樋之口４５２番地",
+      "prefecture": "愛媛県西条市樋之口４５２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1500001014311",
+      "name": "株式会社サンヨ",
+      "address": "愛媛県四国中央市三島宮川２丁目３番１６号",
+      "prefecture": "愛媛県四国中央市三島宮川２丁目３番１６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1500001014699",
+      "name": "大成薬品工業株式会社",
+      "address": "愛媛県四国中央市柴生町４６８番地２",
+      "prefecture": "愛媛県四国中央市柴生町４６８番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1500001014815",
+      "name": "ジャスティン株式会社",
+      "address": "愛媛県四国中央市川之江町３１２５番地の３",
+      "prefecture": "愛媛県四国中央市川之江町３１２５番地の３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1500001018452",
+      "name": "農業生産法人株式会社ミヤモトオレンジガーデン",
+      "address": "愛媛県八幡浜市川上町川名津甲３８８番地",
+      "prefecture": "愛媛県八幡浜市川上町川名津甲３８８番地",
+      "certification": [
+        {
+          "certification_name": "令和３年度中国四国地域未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2022-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1500005002650",
+      "name": "医療法人恕風会",
+      "address": "愛媛県大洲市徳森１５１２番地１",
+      "prefecture": "愛媛県大洲市徳森１５１２番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1500005003789",
+      "name": "社会福祉法人聖風会",
+      "address": "愛媛県西条市氷見字上寺丙１９５番地",
+      "prefecture": "愛媛県西条市氷見字上寺丙１９５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1500005004589",
+      "name": "特定非営利活動法人ｅワーク愛媛",
+      "address": "愛媛県新居浜市萩生１３０９－１",
+      "prefecture": "愛媛県新居浜市萩生１３０９－１",
+      "certification": [
+        {
+          "certification_name": "令和４年度食品ロス削減推進表彰",
+          "certified_date": "2021-02-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1500005006692",
+      "name": "社会福祉法人御荘福祉施設協会",
+      "address": "愛媛県南宇和郡愛南町満倉２３０１番地１",
+      "prefecture": "愛媛県南宇和郡愛南町満倉２３０１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020384429",
+      "name": "伊方町",
+      "address": "愛媛県西宇和郡伊方町湊浦１９９３－１",
+      "prefecture": "愛媛県西宇和郡伊方町湊浦１９９３－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500001000005",
+      "name": "株式会社愛媛銀行",
+      "address": "愛媛県松山市勝山町２丁目１番地",
+      "prefecture": "愛媛県松山市勝山町２丁目１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者志向経営優良事例表彰",
+          "certified_date": "2022-03-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500001000475",
+      "name": "株式会社伊予鉄高島屋",
+      "address": "愛媛県松山市湊町５丁目１番地１",
+      "prefecture": "愛媛県松山市湊町５丁目１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500001000533",
+      "name": "井関農機株式会社",
+      "address": "愛媛県松山市馬木町７００番地",
+      "prefecture": "愛媛県松山市馬木町７００番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500001000764",
+      "name": "株式会社愛媛新聞社",
+      "address": "愛媛県松山市大手町１丁目１２番地１",
+      "prefecture": "愛媛県松山市大手町１丁目１２番地１",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2020-12-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500001001052",
+      "name": "株式会社大亀製作所",
+      "address": "愛媛県松山市小栗５丁目９番８号",
+      "prefecture": "愛媛県松山市小栗５丁目９番８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500001001333",
+      "name": "株式会社キクノ",
+      "address": "愛媛県松山市大手町１丁目８番地８",
+      "prefecture": "愛媛県松山市大手町１丁目８番地８",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500001014244",
+      "name": "岡田電機株式会社",
+      "address": "愛媛県四国中央市三島朝日２丁目２０番２号",
+      "prefecture": "愛媛県四国中央市三島朝日２丁目２０番２号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500001014640",
+      "name": "サンヨー食品株式会社",
+      "address": "愛媛県四国中央市川之江町４１０５番地１７",
+      "prefecture": "愛媛県四国中央市川之江町４１０５番地１７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500001014723",
+      "name": "株式会社リブドゥコーポレーション",
+      "address": "愛媛県四国中央市金田町半田乙４５番地の２",
+      "prefecture": "愛媛県四国中央市金田町半田乙４５番地の２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500005001239",
+      "name": "生活協同組合コープえひめ",
+      "address": "愛媛県松山市朝生田町３丁目１番１２号",
+      "prefecture": "愛媛県松山市朝生田町３丁目１番１２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2020-04-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2500005004794",
+      "name": "医療法人補天会",
+      "address": "愛媛県今治市米屋町３丁目１番地１５",
+      "prefecture": "愛媛県今治市米屋町３丁目１番地１５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3500001003064",
+      "name": "株式会社日本キャリア工業",
+      "address": "愛媛県松山市東垣生町９８０番地５",
+      "prefecture": "愛媛県松山市東垣生町９８０番地５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3500001012016",
+      "name": "いづも株式会社",
+      "address": "愛媛県今治市桜井１丁目１０番２７号",
+      "prefecture": "愛媛県今治市桜井１丁目１０番２７号",
+      "certification": [
+        {
+          "certification_name": "令和３年度中国四国農政局所管農業農村整備事業等優良工事等の受賞者の表彰",
+          "certified_date": "2022-01-31"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3500001012115",
+      "name": "日本食研ホールディングス株式会社",
+      "address": "愛媛県今治市富田新港１丁目３番地",
+      "prefecture": "愛媛県今治市富田新港１丁目３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3500001014400",
+      "name": "トーヨー・ロジテック株式会社",
+      "address": "愛媛県四国中央市村松町８８番地",
+      "prefecture": "愛媛県四国中央市村松町８８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3500001016842",
+      "name": "株式会社日東物産",
+      "address": "愛媛県松山市高砂町３丁目７番地２",
+      "prefecture": "愛媛県松山市高砂町３丁目７番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3500005002649",
+      "name": "特定医療法人弘友会",
+      "address": "愛媛県大洲市東大洲２３５番地２",
+      "prefecture": "愛媛県大洲市東大洲２３５番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3500005003614",
+      "name": "医療法人青峰会",
+      "address": "愛媛県八幡浜市五反田１番耕地１０４６番地１",
+      "prefecture": "愛媛県八幡浜市五反田１番耕地１０４６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010401010221",
+      "name": "コスモ松山石油株式会社",
+      "address": "愛媛県松山市大可賀３丁目５８０番地",
+      "prefecture": "愛媛県松山市大可賀３丁目５８０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4500001000003",
+      "name": "株式会社伊予銀行",
+      "address": "愛媛県松山市南堀端町１番地",
+      "prefecture": "愛媛県松山市南堀端町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4500001005530",
+      "name": "株式会社ダイキアクシス",
+      "address": "愛媛県松山市美沢１丁目９番１号",
+      "prefecture": "愛媛県松山市美沢１丁目９番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4500001007246",
+      "name": "ＰＨＣ株式会社",
+      "address": "愛媛県東温市南方２１３１番地１",
+      "prefecture": "愛媛県東温市南方２１３１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4500001008236",
+      "name": "朝日共販株式会社",
+      "address": "愛媛県西宇和郡伊方町川之浜６５２番地１",
+      "prefecture": "愛媛県西宇和郡伊方町川之浜６５２番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4500001008244",
+      "name": "株式会社あわしま堂",
+      "address": "愛媛県八幡浜市保内町川之石１番耕地２３７番地５３",
+      "prefecture": "愛媛県八幡浜市保内町川之石１番耕地２３７番地５３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4500001009572",
+      "name": "アビリテイーセンター株式会社",
+      "address": "愛媛県新居浜市坂井町２丁目３番１７号",
+      "prefecture": "愛媛県新居浜市坂井町２丁目３番１７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4500001014911",
+      "name": "ペガサス運輸株式会社",
+      "address": "愛媛県四国中央市土居町野田乙１２６番地１",
+      "prefecture": "愛媛県四国中央市土居町野田乙１２６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4500005000692",
+      "name": "医療法人社団慈生会",
+      "address": "愛媛県松山市松末２丁目１９番３６号",
+      "prefecture": "愛媛県松山市松末２丁目１９番３６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4500005004933",
+      "name": "今治タオル工業組合",
+      "address": "愛媛県今治市東門町５丁目１４番３号",
+      "prefecture": "愛媛県今治市東門町５丁目１４番３号",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2019-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5500001000984",
+      "name": "株式会社ＮＴＴデータ四国",
+      "address": "愛媛県松山市本町１丁目３番地４",
+      "prefecture": "愛媛県松山市本町１丁目３番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5500001005141",
+      "name": "愛麺株式会社",
+      "address": "愛媛県松山市高岡町８１番地１",
+      "prefecture": "愛媛県松山市高岡町８１番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5500001010059",
+      "name": "株式会社曽我部鐵工所",
+      "address": "愛媛県新居浜市阿島１丁目４番２５号",
+      "prefecture": "愛媛県新居浜市阿島１丁目４番２５号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5500001011049",
+      "name": "愛和印刷株式会社",
+      "address": "愛媛県今治市祇園町３丁目２番１号",
+      "prefecture": "愛媛県今治市祇園町３丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5500001014225",
+      "name": "愛媛製紙株式会社",
+      "address": "愛媛県四国中央市村松町３７０番地",
+      "prefecture": "愛媛県四国中央市村松町３７０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5500001014803",
+      "name": "三木特種製紙株式会社",
+      "address": "愛媛県四国中央市川之江町１５６番地",
+      "prefecture": "愛媛県四国中央市川之江町１５６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5500002022342",
+      "name": "有限会社ＳＰＣ",
+      "address": "愛媛県四国中央市三島朝日１丁目６番３号",
+      "prefecture": "愛媛県四国中央市三島朝日１丁目６番３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5500005005690",
+      "name": "社会医療法人石川記念会",
+      "address": "愛媛県四国中央市上分町７８８番地１",
+      "prefecture": "愛媛県四国中央市上分町７８８番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6000020383864",
+      "name": "久万高原町",
+      "address": "愛媛県上浮穴郡久万高原町久万２１２",
+      "prefecture": "愛媛県上浮穴郡久万高原町久万２１２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6500001000380",
+      "name": "株式会社アテックス",
+      "address": "愛媛県松山市衣山１丁目２番５号",
+      "prefecture": "愛媛県松山市衣山１丁目２番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6500001002468",
+      "name": "ダイコー通産株式会社",
+      "address": "愛媛県松山市姫原３丁目６番１１号",
+      "prefecture": "愛媛県松山市姫原３丁目６番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6500001003524",
+      "name": "株式会社富士造型",
+      "address": "愛媛県松山市立花６丁目３番４３号",
+      "prefecture": "愛媛県松山市立花６丁目３番４３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6500001006659",
+      "name": "株式会社二神組",
+      "address": "愛媛県松山市竹原２丁目１番１９号",
+      "prefecture": "愛媛県松山市竹原２丁目１番１９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6500001007070",
+      "name": "株式会社よんやく",
+      "address": "愛媛県松山市南高井町１８２８番地",
+      "prefecture": "愛媛県松山市南高井町１８２８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6500001007392",
+      "name": "株式会社フジコソ",
+      "address": "愛媛県東温市則之内字段乙２３０９番地",
+      "prefecture": "愛媛県東温市則之内字段乙２３０９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6500001010074",
+      "name": "株式会社田口工業所",
+      "address": "愛媛県新居浜市松の木町１番２３号",
+      "prefecture": "愛媛県新居浜市松の木町１番２３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6500001010256",
+      "name": "芙蓉海運株式会社",
+      "address": "愛媛県新居浜市西原町２丁目５番３３号",
+      "prefecture": "愛媛県新居浜市西原町２丁目５番３３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6500005000880",
+      "name": "社会福祉法人福角会",
+      "address": "愛媛県松山市福角町甲１８２９番地",
+      "prefecture": "愛媛県松山市福角町甲１８２９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6500005002225",
+      "name": "特定非営利活動法人えひめ消費者ネット",
+      "address": "愛媛県松山市朝生田町７丁目２番２２号大興ビル３０５号",
+      "prefecture": "愛媛県松山市朝生田町７丁目２番２２号大興ビル３０５号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2020-04-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7500001000339",
+      "name": "株式会社アスティス",
+      "address": "愛媛県松山市高野町甲１番地１",
+      "prefecture": "愛媛県松山市高野町甲１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7500001001097",
+      "name": "大森商機株式会社",
+      "address": "愛媛県松山市空港通３丁目９番６号",
+      "prefecture": "愛媛県松山市空港通３丁目９番６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7500001003977",
+      "name": "三浦工業株式会社",
+      "address": "愛媛県松山市堀江町７番地",
+      "prefecture": "愛媛県松山市堀江町７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7500001004694",
+      "name": "石田クリーニング株式会社",
+      "address": "愛媛県伊予市灘町２８番地",
+      "prefecture": "愛媛県伊予市灘町２８番地",
+      "certification": [
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7500001005148",
+      "name": "佐川印刷株式会社",
+      "address": "愛媛県松山市問屋町６番２１号",
+      "prefecture": "愛媛県松山市問屋町６番２１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7500001005767",
+      "name": "株式会社ＡＮＡエアサービス松山",
+      "address": "愛媛県松山市南吉田町２７３１番地",
+      "prefecture": "愛媛県松山市南吉田町２７３１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7500001009719",
+      "name": "おべ工業株式会社",
+      "address": "愛媛県新居浜市菊本町２丁目１４番１号",
+      "prefecture": "愛媛県新居浜市菊本町２丁目１４番１号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7500001014710",
+      "name": "ユニ・チャームプロダクツ株式会社",
+      "address": "愛媛県四国中央市金生町下分１３０番地",
+      "prefecture": "愛媛県四国中央市金生町下分１３０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2020-12-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7500001018934",
+      "name": "安藤工業株式会社",
+      "address": "愛媛県西条市三津屋１９０番地１",
+      "prefecture": "愛媛県西条市三津屋１９０番地１",
+      "certification": [
+        {
+          "certification_name": "令和５年度中国四国農政局農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2024-01-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7500005000681",
+      "name": "医療法人財団慈強会",
+      "address": "愛媛県松山市高井町１２１１番地",
+      "prefecture": "愛媛県松山市高井町１２１１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010901041670",
+      "name": "株式会社ＷｉｓｅＶｉｎｅ",
+      "address": "愛媛県松山市湊町４丁目１１－４Ａ－ＯＮＥビル３Ｆ",
+      "prefecture": "愛媛県松山市湊町４丁目１１－４Ａ－ＯＮＥビル３Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500001002499",
+      "name": "大進建設株式会社",
+      "address": "愛媛県松山市一番町１丁目１５番地１",
+      "prefecture": "愛媛県松山市一番町１丁目１５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500001003662",
+      "name": "星企画株式会社",
+      "address": "愛媛県松山市東石井６丁目１２番３６号",
+      "prefecture": "愛媛県松山市東石井６丁目１２番３６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500001003984",
+      "name": "三浦マシン株式会社",
+      "address": "愛媛県松山市堀江町７番地",
+      "prefecture": "愛媛県松山市堀江町７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500001007705",
+      "name": "仙味エキス株式会社",
+      "address": "愛媛県大洲市平野町野田７７９番地２",
+      "prefecture": "愛媛県大洲市平野町野田７７９番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        },
+        {
+          "certification_name": "第４０回食品産業優良企業等表彰",
+          "certified_date": "2019-03-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500001008439",
+      "name": "丸三産業株式会社",
+      "address": "愛媛県八幡浜市松柏丙８３１番地",
+      "prefecture": "愛媛県八幡浜市松柏丙８３１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500001008653",
+      "name": "オレンジベイフーズ株式会社",
+      "address": "愛媛県八幡浜市保内町宮内１番耕地２８９番地１",
+      "prefecture": "愛媛県八幡浜市保内町宮内１番耕地２８９番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500001010221",
+      "name": "萩尾機械工業株式会社",
+      "address": "愛媛県新居浜市松の木町１番１７号",
+      "prefecture": "愛媛県新居浜市松の木町１番１７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500001014833",
+      "name": "ユニ・チャーム株式会社",
+      "address": "愛媛県四国中央市金生町下分１８２番地",
+      "prefecture": "愛媛県四国中央市金生町下分１８２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者志向経営優良事例表彰",
+          "certified_date": "2023-02-28"
+        },
+        {
+          "certification_name": "攻めのＩＴ経営銘柄",
+          "certified_date": "2019-04-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500001015385",
+      "name": "株式会社西日本セイムス",
+      "address": "愛媛県宇和島市和霊町１２１１番地",
+      "prefecture": "愛媛県宇和島市和霊町１２１１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500001018611",
+      "name": "株式会社クック・チャム四国",
+      "address": "愛媛県新居浜市新須賀町２丁目６番１６号",
+      "prefecture": "愛媛県新居浜市新須賀町２丁目６番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8500002003546",
+      "name": "株式会社ジャックと豆の木園",
+      "address": "愛媛県松山市枝松６丁目７番１６号",
+      "prefecture": "愛媛県松山市枝松６丁目７番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500001001525",
+      "name": "株式会社ケアジャパン",
+      "address": "愛媛県松山市中央１丁目１７番３５号",
+      "prefecture": "愛媛県松山市中央１丁目１７番３５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500001002341",
+      "name": "セキ株式会社",
+      "address": "愛媛県松山市湊町７丁目７番地１",
+      "prefecture": "愛媛県松山市湊町７丁目７番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500001003505",
+      "name": "株式会社フジ",
+      "address": "愛媛県松山市宮西１丁目２番１号",
+      "prefecture": "愛媛県松山市宮西１丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500001004924",
+      "name": "株式会社パルソフトウェアサービス",
+      "address": "愛媛県松山市天山３丁目１０番３１号",
+      "prefecture": "愛媛県松山市天山３丁目１０番３１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500001008512",
+      "name": "株式会社ベルワイド",
+      "address": "愛媛県八幡浜市新町３丁目２７２番地１",
+      "prefecture": "愛媛県八幡浜市新町３丁目２７２番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500001014345",
+      "name": "大王製紙株式会社",
+      "address": "愛媛県四国中央市三島紙屋町２番６０号",
+      "prefecture": "愛媛県四国中央市三島紙屋町２番６０号",
+      "certification": [
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "健康経営銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500001014428",
+      "name": "エリエールペーパーテクノロジー株式会社",
+      "address": "愛媛県四国中央市三島紙屋町５番１号",
+      "prefecture": "愛媛県四国中央市三島紙屋町５番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500002010293",
+      "name": "有限会社リハビリステーションみかん",
+      "address": "愛媛県松山市久万ノ台１２０６番地２",
+      "prefecture": "愛媛県松山市久万ノ台１２０６番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500005000738",
+      "name": "医療法人団伸会",
+      "address": "愛媛県松山市道後町２丁目２番１号",
+      "prefecture": "愛媛県松山市道後町２丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500005000820",
+      "name": "医療法人佑心會",
+      "address": "愛媛県松山市福角町甲１５８２番地",
+      "prefecture": "愛媛県松山市福角町甲１５８２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9500005001934",
+      "name": "国立大学法人愛媛大学",
+      "address": "愛媛県松山市道後樋又１０番１３号",
+      "prefecture": "愛媛県松山市道後樋又１０番１３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2021-12-07"
+        },
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    }
+  ]
+}

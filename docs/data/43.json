@@ -1,0 +1,1396 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1330001000394",
+      "name": "株式会社岩田コーポレーション",
+      "address": "熊本県熊本市北区和泉町１６８番地１８",
+      "prefecture": "熊本県熊本市北区和泉町１６８番地１８",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330001001426",
+      "name": "熊本クミアイプロパン株式会社",
+      "address": "熊本県熊本市中央区八王寺町２番１６号",
+      "prefecture": "熊本県熊本市中央区八王寺町２番１６号",
+      "certification": [
+        {
+          "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
+          "certified_date": "2019-10-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330001002440",
+      "name": "白鷺電気工業株式会社",
+      "address": "熊本県熊本市東区御領８丁目３番３８号",
+      "prefecture": "熊本県熊本市東区御領８丁目３番３８号",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（厚生労働省人材開発統括官表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330001005815",
+      "name": "株式会社エヌ・アイ・ケイ",
+      "address": "熊本県熊本市中央区水道町１４番２７号",
+      "prefecture": "熊本県熊本市中央区水道町１４番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330001009601",
+      "name": "株式会社緒方建設",
+      "address": "熊本県菊池市野間口１０９７番地",
+      "prefecture": "熊本県菊池市野間口１０９７番地",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330001011474",
+      "name": "株式会社中川組",
+      "address": "熊本県玉名市河崎７９３番地３",
+      "prefecture": "熊本県玉名市河崎７９３番地３",
+      "certification": [
+        {
+          "certification_name": "令和５年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2023-12-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330001013074",
+      "name": "岩田建設株式会社",
+      "address": "熊本県下益城郡美里町遠野２６８番地１",
+      "prefecture": "熊本県下益城郡美里町遠野２６８番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330001018115",
+      "name": "トッパン・フォームズ西日本株式会社",
+      "address": "熊本県玉名市大倉４３６",
+      "prefecture": "熊本県玉名市大倉４３６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330001019088",
+      "name": "株式会社ＳＥＮＳＴＹＬＥ",
+      "address": "熊本県熊本市東区健軍１丁目３７番６号",
+      "prefecture": "熊本県熊本市東区健軍１丁目３７番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330005000787",
+      "name": "熊本県酪農業協同組合連合会",
+      "address": "熊本県熊本市東区戸島５丁目１０番１５号",
+      "prefecture": "熊本県熊本市東区戸島５丁目１０番１５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330005003187",
+      "name": "医療法人春水会",
+      "address": "熊本県山鹿市山鹿１５４０番地",
+      "prefecture": "熊本県山鹿市山鹿１５４０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330005004664",
+      "name": "特定非営利活動法人菊池川水域のやさしい自然と豊かな心を育むつくしの会",
+      "address": "熊本県玉名市岩崎７４番地１",
+      "prefecture": "熊本県玉名市岩崎７４番地１",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2023-06-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330005004755",
+      "name": "医療法人社団坂梨会",
+      "address": "熊本県阿蘇市内牧１１５３番地の１",
+      "prefecture": "熊本県阿蘇市内牧１１５３番地の１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330005006594",
+      "name": "熊本県生活協同組合連合会",
+      "address": "熊本県上益城郡益城町大字古閑１０７番地１",
+      "prefecture": "熊本県上益城郡益城町大字古閑１０７番地１",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2016-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020432105",
+      "name": "菊池市",
+      "address": "熊本県菊池市隈府８８８",
+      "prefecture": "熊本県菊池市隈府８８８",
+      "certification": [
+        {
+          "certification_name": "第５回グッドライフアワード",
+          "certified_date": "2017-12-09"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020432121",
+      "name": "上天草市",
+      "address": "熊本県上天草市大矢野町上１５１４",
+      "prefecture": "熊本県上天草市大矢野町上１５１４",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330001000609",
+      "name": "株式会社エレテック",
+      "address": "熊本県熊本市北区弓削６丁目１９番１号",
+      "prefecture": "熊本県熊本市北区弓削６丁目１９番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330001001086",
+      "name": "株式会社九州開発エンジニヤリング",
+      "address": "熊本県熊本市東区錦ケ丘３３番１７号",
+      "prefecture": "熊本県熊本市東区錦ケ丘３３番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330001001532",
+      "name": "株式会社肥後銀行",
+      "address": "熊本県熊本市中央区練兵町１番地",
+      "prefecture": "熊本県熊本市中央区練兵町１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330001002654",
+      "name": "ソフトウエアビジョン株式会社",
+      "address": "熊本県熊本市西区春日１丁目１２番３号ＫＦＧビル",
+      "prefecture": "熊本県熊本市西区春日１丁目１２番３号ＫＦＧビル",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330001004304",
+      "name": "株式会社前田産業",
+      "address": "熊本県熊本市南区野田３丁目１３番１号",
+      "prefecture": "熊本県熊本市南区野田３丁目１３番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330001009088",
+      "name": "株式会社ヒライ",
+      "address": "熊本県熊本市西区春日７丁目２６番７０号",
+      "prefecture": "熊本県熊本市西区春日７丁目２６番７０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330001009443",
+      "name": "株式会社辻組",
+      "address": "熊本県合志市須屋１８４１番地１",
+      "prefecture": "熊本県合志市須屋１８４１番地１",
+      "certification": [
+        {
+          "certification_name": "防衛省施設監特別優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330001009674",
+      "name": "株式会社八方建設",
+      "address": "熊本県菊池市赤星２１１４番地１",
+      "prefecture": "熊本県菊池市赤星２１１４番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330001014526",
+      "name": "株式会社フクマツ",
+      "address": "熊本県葦北郡芦北町大字田浦町５３９番地１",
+      "prefecture": "熊本県葦北郡芦北町大字田浦町５３９番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330005001479",
+      "name": "社会福祉法人熊本市手をつなぐ育成会",
+      "address": "熊本県熊本市中央区新町２丁目４番２７号熊本市健康センター新町分室内",
+      "prefecture": "熊本県熊本市中央区新町２丁目４番２７号熊本市健康センター新町分室内",
+      "certification": [
+        {
+          "certification_name": "令和元年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2019-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330005002106",
+      "name": "国立大学法人熊本大学",
+      "address": "熊本県熊本市中央区黒髪２丁目３９番１号",
+      "prefecture": "熊本県熊本市中央区黒髪２丁目３９番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330005002527",
+      "name": "社会福祉法人白川園",
+      "address": "熊本県熊本市東区戸島西２丁目４番５０号",
+      "prefecture": "熊本県熊本市東区戸島西２丁目４番５０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2330005006593",
+      "name": "生活協同組合くまもと",
+      "address": "熊本県水俣市古賀町１丁目１番１号",
+      "prefecture": "熊本県水俣市古賀町１丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2021-06-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3000020434281",
+      "name": "高森町",
+      "address": "熊本県阿蘇郡高森町大字高森２１６８",
+      "prefecture": "熊本県阿蘇郡高森町大字高森２１６８",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330001000194",
+      "name": "株式会社アントルメ菓樹",
+      "address": "熊本県熊本市東区東野１丁目５番５号",
+      "prefecture": "熊本県熊本市東区東野１丁目５番５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330001002364",
+      "name": "ジョウツー株式会社",
+      "address": "熊本県熊本市中央区大江２丁目１６番３号",
+      "prefecture": "熊本県熊本市中央区大江２丁目１６番３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330001003008",
+      "name": "株式会社熊本銀行",
+      "address": "熊本県熊本市中央区水前寺６丁目２９番２０号",
+      "prefecture": "熊本県熊本市中央区水前寺６丁目２９番２０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330001003635",
+      "name": "株式会社ＳＹＳＫＥＮ",
+      "address": "熊本県熊本市中央区萩原町１４番４５号",
+      "prefecture": "熊本県熊本市中央区萩原町１４番４５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330001005037",
+      "name": "株式会社熊本放送",
+      "address": "熊本県熊本市中央区山崎町３０番地",
+      "prefecture": "熊本県熊本市中央区山崎町３０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330001005094",
+      "name": "株式会社テクノクリエイティブ",
+      "address": "熊本県熊本市中央区神水２丁目９番１号",
+      "prefecture": "熊本県熊本市中央区神水２丁目９番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330001005284",
+      "name": "株式会社ミカド",
+      "address": "熊本県熊本市南区川尻３丁目１１番２８号",
+      "prefecture": "熊本県熊本市南区川尻３丁目１１番２８号",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事技術者顕彰",
+          "certified_date": "2022-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330001006448",
+      "name": "株式会社ナトーハイシステムズ",
+      "address": "熊本県熊本市東区錦ケ丘１２番２１号",
+      "prefecture": "熊本県熊本市東区錦ケ丘１２番２１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330005000174",
+      "name": "一般財団法人熊本県スポーツ振興事業団",
+      "address": "熊本県熊本市東区平山町２７７６番地",
+      "prefecture": "熊本県熊本市東区平山町２７７６番地",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2022-05-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330005001098",
+      "name": "医療法人伊東会",
+      "address": "熊本県熊本市中央区子飼本町４番１４号",
+      "prefecture": "熊本県熊本市中央区子飼本町４番１４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330005001206",
+      "name": "社会医療法人佐藤会",
+      "address": "熊本県熊本市北区弓削５丁目１２番２５号",
+      "prefecture": "熊本県熊本市北区弓削５丁目１２番２５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330005002105",
+      "name": "グリーンコープ生活協同組合くまもと",
+      "address": "熊本県熊本市西区新土河原２丁目１番１号",
+      "prefecture": "熊本県熊本市西区新土河原２丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2013-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3330005002402",
+      "name": "特定非営利活動法人熊本クレ・サラ被害をなくす会",
+      "address": "熊本県熊本市西区二本木３丁目１番２８－４０３号",
+      "prefecture": "熊本県熊本市西区二本木３丁目１番２８－４０３号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2011-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020439932",
+      "name": "水俣芦北広域行政事務組合",
+      "address": "熊本県水俣市ひばりヶ丘３－１２",
+      "prefecture": "熊本県水俣市ひばりヶ丘３－１２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010701008411",
+      "name": "平田機工株式会社",
+      "address": "熊本県熊本市北区植木町一木１１１番地",
+      "prefecture": "熊本県熊本市北区植木町一木１１１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001021319",
+      "name": "ソニーセミコンダクタマニュファクチャリング株式会社",
+      "address": "熊本県菊池郡菊陽町大字原水４０００番地１",
+      "prefecture": "熊本県菊池郡菊陽町大字原水４０００番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "第１５回エコツーリズム大賞",
+          "certified_date": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4330001000103",
+      "name": "アジアプランニング株式会社",
+      "address": "熊本県熊本市中央区渡鹿７丁目１５番２８号",
+      "prefecture": "熊本県熊本市中央区渡鹿７丁目１５番２８号",
+      "certification": [
+        {
+          "certification_name": "令和４年度九州農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-02-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4330001001745",
+      "name": "光進建設株式会社",
+      "address": "熊本県熊本市東区御領２丁目２８番１号",
+      "prefecture": "熊本県熊本市東区御領２丁目２８番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4330001005903",
+      "name": "株式会社ナカハラ",
+      "address": "熊本県熊本市北区室園町１０番３０号",
+      "prefecture": "熊本県熊本市北区室園町１０番３０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4330001007809",
+      "name": "株式会社ワイズ・リーディング",
+      "address": "熊本県熊本市北区高平３丁目４３番１１号",
+      "prefecture": "熊本県熊本市北区高平３丁目４３番１１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4330001016000",
+      "name": "丸昭建設株式会社",
+      "address": "熊本県人吉市西間上町２４７９番地１",
+      "prefecture": "熊本県人吉市西間上町２４７９番地１",
+      "certification": [
+        {
+          "certification_name": "令和３年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-03-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4330001016446",
+      "name": "株式会社エーブル",
+      "address": "熊本県八代市新港町３丁目９番地８",
+      "prefecture": "熊本県八代市新港町３丁目９番地８",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4330001019151",
+      "name": "株式会社ＩＳＩＧＮ",
+      "address": "熊本県熊本市東区健軍１丁目３７番６号",
+      "prefecture": "熊本県熊本市東区健軍１丁目３７番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4330005001213",
+      "name": "医療法人杉村会",
+      "address": "熊本県熊本市中央区本荘３丁目７番１８号",
+      "prefecture": "熊本県熊本市中央区本荘３丁目７番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4330005002541",
+      "name": "社会医療法人潤心会",
+      "address": "熊本県菊池郡菊陽町大字原水２９２１番地",
+      "prefecture": "熊本県菊池郡菊陽町大字原水２９２１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4330005002814",
+      "name": "菊池地域農業協同組合",
+      "address": "熊本県菊池市旭志川辺１８７５番地",
+      "prefecture": "熊本県菊池市旭志川辺１８７５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020434825",
+      "name": "芦北町",
+      "address": "熊本県葦北郡芦北町大字芦北２０１５",
+      "prefecture": "熊本県葦北郡芦北町大字芦北２０１５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5330001001422",
+      "name": "株式会社中九州クボタ",
+      "address": "熊本県菊池郡大津町大字引水７８９番地１",
+      "prefecture": "熊本県菊池郡大津町大字引水７８９番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5330001001488",
+      "name": "株式会社ＫＩＳ",
+      "address": "熊本県熊本市南区幸田１丁目６番２７号",
+      "prefecture": "熊本県熊本市南区幸田１丁目６番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5330001001760",
+      "name": "株式会社興農園",
+      "address": "熊本県熊本市中央区上通町８番１４号",
+      "prefecture": "熊本県熊本市中央区上通町８番１４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5330001001802",
+      "name": "金剛株式会社",
+      "address": "熊本県熊本市西区上熊本３丁目８番１号",
+      "prefecture": "熊本県熊本市西区上熊本３丁目８番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5330001003963",
+      "name": "株式会社ヒライホールディングス",
+      "address": "熊本県熊本市西区春日７丁目２６番７０号",
+      "prefecture": "熊本県熊本市西区春日７丁目２６番７０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5330001005423",
+      "name": "くまもと新世紀株式会社",
+      "address": "熊本県熊本市中央区上通町２番１号",
+      "prefecture": "熊本県熊本市中央区上通町２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5330001011017",
+      "name": "株式会社大福物流",
+      "address": "熊本県上益城郡甲佐町大字白旗１９００番地１",
+      "prefecture": "熊本県上益城郡甲佐町大字白旗１９００番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5330001011181",
+      "name": "株式会社再春館製薬所",
+      "address": "熊本県上益城郡益城町大字寺中１３６３番地１",
+      "prefecture": "熊本県上益城郡益城町大字寺中１３６３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5330005001410",
+      "name": "学校法人九州ルーテル学院",
+      "address": "熊本県熊本市中央区黒髪３丁目１２番１６号",
+      "prefecture": "熊本県熊本市中央区黒髪３丁目１２番１６号",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5330005007589",
+      "name": "社会福祉法人ペートル会",
+      "address": "熊本県球磨郡相良村大字川辺１７７１番地",
+      "prefecture": "熊本県球磨郡相良村大字川辺１７７１番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330001001256",
+      "name": "株式会社くまさんメディクス",
+      "address": "熊本県熊本市北区下硯川町２２０５番地",
+      "prefecture": "熊本県熊本市北区下硯川町２２０５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330001001933",
+      "name": "株式会社佐幸",
+      "address": "熊本県熊本市北区植木町木留２７５番地３",
+      "prefecture": "熊本県熊本市北区植木町木留２７５番地３",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330001004647",
+      "name": "株式会社明和不動産",
+      "address": "熊本県熊本市中央区辛島町４番３５号",
+      "prefecture": "熊本県熊本市中央区辛島町４番３５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330001005042",
+      "name": "新産住拓株式会社",
+      "address": "熊本県熊本市南区近見８丁目９番８５号",
+      "prefecture": "熊本県熊本市南区近見８丁目９番８５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330001006420",
+      "name": "株式会社アスリートクラブ熊本",
+      "address": "熊本県熊本市中央区妙体寺町５番４号",
+      "prefecture": "熊本県熊本市中央区妙体寺町５番４号",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2020-12-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330001009308",
+      "name": "株式会社共同",
+      "address": "熊本県合志市栄３７６６番地の２４",
+      "prefecture": "熊本県合志市栄３７６６番地の２４",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330001011577",
+      "name": "株式会社天水総合カンパニー",
+      "address": "熊本県玉名市中１６１２番地１",
+      "prefecture": "熊本県玉名市中１６１２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330001012889",
+      "name": "西田鉄工株式会社",
+      "address": "熊本県宇土市松山町４５４１番地",
+      "prefecture": "熊本県宇土市松山町４５４１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和４年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330001013929",
+      "name": "ヤマハマリン株式会社",
+      "address": "熊本県八代市新港町４丁目８番地",
+      "prefecture": "熊本県八代市新港町４丁目８番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330001015470",
+      "name": "藍の村観光株式会社",
+      "address": "熊本県上天草市大矢野町登立９１０番地",
+      "prefecture": "熊本県上天草市大矢野町登立９１０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330002007558",
+      "name": "株式会社永田パン",
+      "address": "熊本県熊本市北区貢町松の本５６１番地",
+      "prefecture": "熊本県熊本市北区貢町松の本５６１番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6330002024900",
+      "name": "有限会社重元園芸",
+      "address": "熊本県宇土市走潟町２２３９番地",
+      "prefecture": "熊本県宇土市走潟町２２３９番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度九州地域未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2023-05-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020439649",
+      "name": "人吉下球磨消防組合",
+      "address": "熊本県人吉市下林町１",
+      "prefecture": "熊本県人吉市下林町１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7330001000364",
+      "name": "株式会社イノス",
+      "address": "熊本県熊本市中央区紺屋町１丁目１３番地５",
+      "prefecture": "熊本県熊本市中央区紺屋町１丁目１３番地５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7330001010074",
+      "name": "株式会社セイブクリーン",
+      "address": "熊本県合志市御代志１５３８番地１",
+      "prefecture": "熊本県合志市御代志１５３８番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7330001010454",
+      "name": "開成工業株式会社",
+      "address": "熊本県熊本市北区植木町石川４５０番地１",
+      "prefecture": "熊本県熊本市北区植木町石川４５０番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7330001011782",
+      "name": "菊川建設株式会社",
+      "address": "熊本県玉名市横島町横島３８３４番地の３",
+      "prefecture": "熊本県玉名市横島町横島３８３４番地の３",
+      "certification": [
+        {
+          "certification_name": "令和４年度九州農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-02-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7330001015528",
+      "name": "株式会社アマケンテック",
+      "address": "熊本県天草市河浦町今田３０６１番地",
+      "prefecture": "熊本県天草市河浦町今田３０６１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7330001022318",
+      "name": "ＤＡＩＺ株式会社",
+      "address": "熊本県熊本市中央区南熊本５丁目１番１号",
+      "prefecture": "熊本県熊本市中央区南熊本５丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7330001026194",
+      "name": "株式会社ＳａｎｄＫ",
+      "address": "熊本県熊本市東区健軍１丁目３７番６号",
+      "prefecture": "熊本県熊本市東区健軍１丁目３７番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7330005001144",
+      "name": "医療法人金澤会",
+      "address": "熊本県熊本市西区島崎２丁目２２番１５号",
+      "prefecture": "熊本県熊本市西区島崎２丁目２２番１５号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7330005008800",
+      "name": "ＮＰＯ法人オハイエくまもと",
+      "address": "熊本県熊本市中央区山崎町８－８　４Ｆ",
+      "prefecture": "熊本県熊本市中央区山崎町８－８　４Ｆ",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7330005009749",
+      "name": "地方独立行政法人くまもと県北病院",
+      "address": "熊本県玉名市玉名５５０番地",
+      "prefecture": "熊本県玉名市玉名５５０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020433675",
+      "name": "南関町",
+      "address": "熊本県玉名郡南関町大字関町６４番地",
+      "prefecture": "熊本県玉名郡南関町大字関町６４番地",
+      "certification": [
+        {
+          "certification_name": "体力つくり優秀組織表彰",
+          "certified_date": "2023-02-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330001000140",
+      "name": "株式会社旭技研コンサルタント",
+      "address": "熊本県熊本市東区長嶺東２丁目２６番６号",
+      "prefecture": "熊本県熊本市東区長嶺東２丁目２６番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330001002376",
+      "name": "株式会社十八測量設計",
+      "address": "熊本県熊本市中央区新大江３丁目９番４８号",
+      "prefecture": "熊本県熊本市中央区新大江３丁目９番４８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330001012532",
+      "name": "阿蘇ゴルフアンドホテルリゾート株式会社",
+      "address": "熊本県阿蘇市赤水１６００番地３",
+      "prefecture": "熊本県阿蘇市赤水１６００番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330001013010",
+      "name": "株式会社サン・ファーム",
+      "address": "熊本県熊本市南区城南町今吉野１０００番地の１",
+      "prefecture": "熊本県熊本市南区城南町今吉野１０００番地の１",
+      "certification": [
+        {
+          "certification_name": "令和３年度地産地消等優良活動表彰",
+          "certified_date": "2022-01-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330001013605",
+      "name": "シントワールド株式会社",
+      "address": "熊本県八代市新浜町壱号１番６",
+      "prefecture": "熊本県八代市新浜町壱号１番６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330001013794",
+      "name": "株式会社小笹建設",
+      "address": "熊本県八代市渡町１３０３番地",
+      "prefecture": "熊本県八代市渡町１３０３番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2023-12-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330001016913",
+      "name": "株式会社コッコファーム",
+      "address": "熊本県菊池市森北１０７７番地",
+      "prefecture": "熊本県菊池市森北１０７７番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330001017556",
+      "name": "株式会社きらり．コーポレーション",
+      "address": "熊本県熊本市北区清水亀井町１６番１１号",
+      "prefecture": "熊本県熊本市北区清水亀井町１６番１１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330005001234",
+      "name": "医療法人社団仁誠会",
+      "address": "熊本県熊本市東区戸島西２丁目３番１０号",
+      "prefecture": "熊本県熊本市東区戸島西２丁目３番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330005001911",
+      "name": "医療法人野尻会",
+      "address": "熊本県熊本市中央区新町４丁目７番２２号",
+      "prefecture": "熊本県熊本市中央区新町４丁目７番２２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330005004740",
+      "name": "ＮＰＯ法人熊本消費者協会",
+      "address": "熊本県熊本市中央区水前寺３丁目１７－１５",
+      "prefecture": "熊本県熊本市中央区水前寺３丁目１７－１５",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2017-05-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8330005005243",
+      "name": "公益財団法人阿蘇火山博物館久木文化財団",
+      "address": "熊本県阿蘇市赤水１９３０番地１",
+      "prefecture": "熊本県阿蘇市赤水１９３０番地１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9330001008372",
+      "name": "エルアコンサルティング株式会社",
+      "address": "熊本県熊本市南区田井島１丁目３番５０号",
+      "prefecture": "熊本県熊本市南区田井島１丁目３番５０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9330001008471",
+      "name": "熊本大同青果株式会社",
+      "address": "熊本県熊本市西区田崎町４８４番地",
+      "prefecture": "熊本県熊本市西区田崎町４８４番地",
+      "certification": [
+        {
+          "certification_name": "第４１回食品産業優良企業等表彰",
+          "certified_date": "2020-03-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9330001010080",
+      "name": "東京エレクトロン九州株式会社",
+      "address": "熊本県合志市福原１番地１",
+      "prefecture": "熊本県合志市福原１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9330001013777",
+      "name": "八代港湾工業株式会社",
+      "address": "熊本県八代市港町２６２番地の１８",
+      "prefecture": "熊本県八代市港町２６２番地の１８",
+      "certification": [
+        {
+          "certification_name": "令和５年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2023-12-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9330005001497",
+      "name": "社会福祉法人西部福祉会",
+      "address": "熊本県熊本市西区中島町１８７４番地",
+      "prefecture": "熊本県熊本市西区中島町１８７４番地",
+      "certification": [
+        {
+          "certification_name": "令和元年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2019-12-03"
+        }
+      ]
+    }
+  ]
+}

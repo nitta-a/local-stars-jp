@@ -1,0 +1,1516 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020093840",
+      "name": "塩谷町",
+      "address": "栃木県塩谷郡塩谷町大字玉生９５５番地３",
+      "prefecture": "栃木県塩谷郡塩谷町大字玉生９５５番地３",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060001002889",
+      "name": "株式会社テツカクリエート",
+      "address": "栃木県河内郡上三川町大字多功２５７１番地２",
+      "prefecture": "栃木県河内郡上三川町大字多功２５７１番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060001003243",
+      "name": "トヨタＬ＆Ｆ栃木株式会社",
+      "address": "栃木県宇都宮市平出工業団地３７番地２",
+      "prefecture": "栃木県宇都宮市平出工業団地３７番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060001003689",
+      "name": "パナソニックホームズ北関東株式会社",
+      "address": "栃木県宇都宮市平出町４０６７番地３",
+      "prefecture": "栃木県宇都宮市平出町４０６７番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060001004729",
+      "name": "渡辺建設株式会社",
+      "address": "栃木県宇都宮市今泉新町１８０番地",
+      "prefecture": "栃木県宇都宮市今泉新町１８０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060001010545",
+      "name": "株式会社ナカニシ",
+      "address": "栃木県鹿沼市下日向７００番地",
+      "prefecture": "栃木県鹿沼市下日向７００番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060001011790",
+      "name": "株式会社ＴＭＣ経営支援センター",
+      "address": "栃木県那須塩原市大原間西１丁目１０番地６",
+      "prefecture": "栃木県那須塩原市大原間西１丁目１０番地６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060001013341",
+      "name": "株式会社サカタロジスティックス",
+      "address": "栃木県矢板市乙畑字大登野１７５４番地１",
+      "prefecture": "栃木県矢板市乙畑字大登野１７５４番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060001014604",
+      "name": "ハイビック株式会社",
+      "address": "栃木県小山市大字飯塚１７２８番地",
+      "prefecture": "栃木県小山市大字飯塚１７２８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060001016443",
+      "name": "株式会社タスク",
+      "address": "栃木県栃木市惣社町１５１０番地１",
+      "prefecture": "栃木県栃木市惣社町１５１０番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060001019000",
+      "name": "ニッケン産業株式会社",
+      "address": "栃木県足利市大久保町２８２番地１",
+      "prefecture": "栃木県足利市大久保町２８２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1060005006259",
+      "name": "社会福祉法人愛日会",
+      "address": "栃木県足利市田中町１００番地",
+      "prefecture": "栃木県足利市田中町１００番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060001001444",
+      "name": "清原住電株式会社",
+      "address": "栃木県宇都宮市清原工業団地１８番５",
+      "prefecture": "栃木県宇都宮市清原工業団地１８番５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060001001667",
+      "name": "株式会社コジマ",
+      "address": "栃木県宇都宮市星が丘２丁目１番８号",
+      "prefecture": "栃木県宇都宮市星が丘２丁目１番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060001002178",
+      "name": "グランディハウス株式会社",
+      "address": "栃木県宇都宮市大通り４丁目３番１８号",
+      "prefecture": "栃木県宇都宮市大通り４丁目３番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060001009727",
+      "name": "ヘイコーパツク株式会社",
+      "address": "栃木県芳賀郡芳賀町大字祖母井１７０２番地１",
+      "prefecture": "栃木県芳賀郡芳賀町大字祖母井１７０２番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060001009891",
+      "name": "ホンダエンジニアリング株式会社",
+      "address": "栃木県芳賀郡芳賀町芳賀台６番地１",
+      "prefecture": "栃木県芳賀郡芳賀町芳賀台６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060001014462",
+      "name": "株式会社フレンド",
+      "address": "栃木県小山市大字羽川５２４番地２",
+      "prefecture": "栃木県小山市大字羽川５２４番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060001016517",
+      "name": "ケーブルテレビ株式会社",
+      "address": "栃木県栃木市樋ノ口町４３番地５",
+      "prefecture": "栃木県栃木市樋ノ口町４３番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060002016318",
+      "name": "有限会社大滝",
+      "address": "栃木県日光市日向５２５番地３",
+      "prefecture": "栃木県日光市日向５２５番地３",
+      "certification": [
+        {
+          "certification_name": "令和３年度地産地消等優良活動表彰",
+          "certified_date": "2022-02-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060005002190",
+      "name": "特定非営利活動法人もうひとつの美術館",
+      "address": "栃木県那須郡那珂川町小口１１８１番地２",
+      "prefecture": "栃木県那須郡那珂川町小口１１８１番地２",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2023-12-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060005005573",
+      "name": "栃木信用金庫",
+      "address": "栃木県栃木市万町９番２８号",
+      "prefecture": "栃木県栃木市万町９番２８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060005006274",
+      "name": "社会福祉法人美明会",
+      "address": "栃木県足利市久保田町１２２３番地",
+      "prefecture": "栃木県足利市久保田町１２２３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2060005009384",
+      "name": "医療法人賛永会",
+      "address": "栃木県宇都宮市花園町１７番１",
+      "prefecture": "栃木県宇都宮市花園町１７番１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3010401149936",
+      "name": "株式会社壮関",
+      "address": "栃木県矢板市こぶし台４番地１",
+      "prefecture": "栃木県矢板市こぶし台４番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060001002210",
+      "name": "株式会社下野新聞社",
+      "address": "栃木県宇都宮市昭和１丁目８番１１号",
+      "prefecture": "栃木県宇都宮市昭和１丁目８番１１号",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2021-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060001003365",
+      "name": "中村土建株式会社",
+      "address": "栃木県宇都宮市大曽４丁目１０番１９号",
+      "prefecture": "栃木県宇都宮市大曽４丁目１０番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060001003885",
+      "name": "株式会社フカサワ",
+      "address": "栃木県宇都宮市元今泉４丁目６番９号",
+      "prefecture": "栃木県宇都宮市元今泉４丁目６番９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060001012267",
+      "name": "株式会社ＤＩ・ＳＡＮＷＡ　ＣＯＲＰＯＲＡＴＩＯＮ",
+      "address": "栃木県那須塩原市東三島２丁目８３番地１",
+      "prefecture": "栃木県那須塩原市東三島２丁目８３番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060001014164",
+      "name": "株式会社カワチ薬品",
+      "address": "栃木県小山市大字卒島１２９３番地",
+      "prefecture": "栃木県小山市大字卒島１２９３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060001018339",
+      "name": "岩澤建設株式会社",
+      "address": "栃木県足利市久保田町５６４番地１",
+      "prefecture": "栃木県足利市久保田町５６４番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060001023792",
+      "name": "株式会社ライブガーデン",
+      "address": "栃木県栃木市川原田町１３４１番地２",
+      "prefecture": "栃木県栃木市川原田町１３４１番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060003001482",
+      "name": "ジョンソン・マッセイ・ジャパン合同会社",
+      "address": "栃木県さくら市喜連川５１２３番地３",
+      "prefecture": "栃木県さくら市喜連川５１２３番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060005000581",
+      "name": "栃木県生活協同組合連合会",
+      "address": "栃木県宇都宮市中今泉２丁目７番１９号",
+      "prefecture": "栃木県宇都宮市中今泉２丁目７番１９号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2012-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060005000771",
+      "name": "社会福祉法人栃木県共同募金会",
+      "address": "栃木県宇都宮市若草１丁目１０番６号",
+      "prefecture": "栃木県宇都宮市若草１丁目１０番６号",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2020-12-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060005001596",
+      "name": "社会福祉法人光誠会",
+      "address": "栃木県宇都宮市東簗瀬１丁目２９番地１",
+      "prefecture": "栃木県宇都宮市東簗瀬１丁目２９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3060005003576",
+      "name": "鹿沼相互信用金庫",
+      "address": "栃木県鹿沼市上田町２３３１番地",
+      "prefecture": "栃木県鹿沼市上田町２３３１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010001147620",
+      "name": "デクセリアルズ株式会社",
+      "address": "栃木県下野市下坪山１７２４番地",
+      "prefecture": "栃木県下野市下坪山１７２４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010901007287",
+      "name": "株式会社田中電気研究所",
+      "address": "栃木県那須烏山市宮原３２番地１",
+      "prefecture": "栃木県那須烏山市宮原３２番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        },
+        {
+          "certification_name": "工業標準化事業表彰",
+          "certified_date": "2018-10-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001003777",
+      "name": "株式会社ピノキオ薬局",
+      "address": "栃木県宇都宮市東宿郷４丁目１番１７号相生ビル",
+      "prefecture": "栃木県宇都宮市東宿郷４丁目１番１７号相生ビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001004180",
+      "name": "松屋製粉株式会社",
+      "address": "栃木県河内郡上三川町大字多功２５６８番地５",
+      "prefecture": "栃木県河内郡上三川町大字多功２５６８番地５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001004718",
+      "name": "和田工業株式会社",
+      "address": "栃木県宇都宮市今泉町２１番地",
+      "prefecture": "栃木県宇都宮市今泉町２１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001005253",
+      "name": "株式会社雀宮産業",
+      "address": "栃木県宇都宮市五代１丁目２番４号",
+      "prefecture": "栃木県宇都宮市五代１丁目２番４号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001005922",
+      "name": "マニー株式会社",
+      "address": "栃木県宇都宮市清原工業団地８番３",
+      "prefecture": "栃木県宇都宮市清原工業団地８番３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001008066",
+      "name": "佐藤工業株式会社",
+      "address": "栃木県那須烏山市金井２丁目１５番１９号",
+      "prefecture": "栃木県那須烏山市金井２丁目１５番１９号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001008628",
+      "name": "株式会社日光自然博物館",
+      "address": "栃木県日光市中宮祠２４８０番地１",
+      "prefecture": "栃木県日光市中宮祠２４８０番地１",
+      "certification": [
+        {
+          "certification_name": "第１７回エコツーリズム大賞",
+          "certified_date": "2022-02-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001011722",
+      "name": "株式会社パン・アキモト",
+      "address": "栃木県那須塩原市東小屋２９５番地４",
+      "prefecture": "栃木県那須塩原市東小屋２９５番地４",
+      "certification": [
+        {
+          "certification_name": "第５回グッドライフアワード",
+          "certified_date": "2017-12-09"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001014188",
+      "name": "国分関信越株式会社",
+      "address": "栃木県小山市大字出井１２１１番地４",
+      "prefecture": "栃木県小山市大字出井１２１１番地４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001015038",
+      "name": "株式会社小林工業",
+      "address": "栃木県下野市石橋２５３番地",
+      "prefecture": "栃木県下野市石橋２５３番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度関東農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060001023420",
+      "name": "ギガフォトン株式会社",
+      "address": "栃木県小山市大字横倉新田４００番地",
+      "prefecture": "栃木県小山市大字横倉新田４００番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060005001620",
+      "name": "社会医療法人恵生会",
+      "address": "栃木県さくら市氏家２６５０番地",
+      "prefecture": "栃木県さくら市氏家２６５０番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060005003047",
+      "name": "社会福祉法人的場会",
+      "address": "栃木県芳賀郡市貝町大字続谷７３６番地",
+      "prefecture": "栃木県芳賀郡市貝町大字続谷７３６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4060005004788",
+      "name": "特定非営利活動法人宇都宮まちづくり推進機構",
+      "address": "栃木県宇都宮市中央３丁目１番４号栃木県産業会館２階",
+      "prefecture": "栃木県宇都宮市中央３丁目１番４号栃木県産業会館２階",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2015-06-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020090000",
+      "name": "栃木県",
+      "address": "栃木県宇都宮市塙田１丁目１－２０",
+      "prefecture": "栃木県宇都宮市塙田１丁目１－２０",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060001000014",
+      "name": "株式会社栃木銀行",
+      "address": "栃木県宇都宮市西２丁目１番１８号",
+      "prefecture": "栃木県宇都宮市西２丁目１番１８号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060001002613",
+      "name": "株式会社ダイミック",
+      "address": "栃木県宇都宮市御幸ケ原町８１番地１４",
+      "prefecture": "栃木県宇都宮市御幸ケ原町８１番地１４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060001003116",
+      "name": "株式会社東武宇都宮百貨店",
+      "address": "栃木県宇都宮市宮園町５番４号",
+      "prefecture": "栃木県宇都宮市宮園町５番４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060001008511",
+      "name": "光工業株式会社",
+      "address": "栃木県日光市大室１９６０番地１",
+      "prefecture": "栃木県日光市大室１９６０番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060001010954",
+      "name": "株式会社横尾製作所",
+      "address": "栃木県鹿沼市口粟野５８番地１",
+      "prefecture": "栃木県鹿沼市口粟野５８番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060001011259",
+      "name": "ＨＡＭＡ　ＴＥＣ株式会社",
+      "address": "栃木県宇都宮市平出工業団地４６番地９",
+      "prefecture": "栃木県宇都宮市平出工業団地４６番地９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060001014864",
+      "name": "株式会社フライングガーデン",
+      "address": "栃木県小山市本郷町３丁目４番１８号",
+      "prefecture": "栃木県小山市本郷町３丁目４番１８号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060001020458",
+      "name": "第一酒造株式会社",
+      "address": "栃木県佐野市田島町４８８番地",
+      "prefecture": "栃木県佐野市田島町４８８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060005002691",
+      "name": "特定非営利活動法人とちぎ消費生活サポートネット",
+      "address": "栃木県日光市木和田島１３６５番地２６",
+      "prefecture": "栃木県日光市木和田島１３６５番地２６",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2012-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060005007518",
+      "name": "農事組合法人日光アグリサービス",
+      "address": "栃木県日光市芹沼８４０番地１",
+      "prefecture": "栃木県日光市芹沼８４０番地１",
+      "certification": [
+        {
+          "certification_name": "令和４年度関東ブロック豆類経営改善共励会",
+          "certified_date": "2023-08-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5060005007732",
+      "name": "特定非営利活動法人栃木県防災士会",
+      "address": "栃木県那須郡那須町大字寺子乙２５４８番地５２",
+      "prefecture": "栃木県那須郡那須町大字寺子乙２５４８番地５２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6000020092029",
+      "name": "足利市",
+      "address": "栃木県足利市本城３丁目２１４５",
+      "prefecture": "栃木県足利市本城３丁目２１４５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6000020092045",
+      "name": "佐野市",
+      "address": "栃木県佐野市高砂町１",
+      "prefecture": "栃木県佐野市高砂町１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6010001162824",
+      "name": "株式会社壮関",
+      "address": "栃木県矢板市こぶし台４番地１",
+      "prefecture": "栃木県矢板市こぶし台４番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060001002967",
+      "name": "栃木住友電工株式会社",
+      "address": "栃木県宇都宮市清原工業団地１８番４",
+      "prefecture": "栃木県宇都宮市清原工業団地１８番４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060001014228",
+      "name": "小林酒造株式会社",
+      "address": "栃木県小山市大字卒島７４３番地１",
+      "prefecture": "栃木県小山市大字卒島７４３番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060001016026",
+      "name": "株式会社板橋組",
+      "address": "栃木県小山市城山町１丁目３番２６号",
+      "prefecture": "栃木県小山市城山町１丁目３番２６号",
+      "certification": [
+        {
+          "certification_name": "令和３年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2022-01-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060001016496",
+      "name": "栃木精工株式会社",
+      "address": "栃木県栃木市平柳町２丁目１番５号",
+      "prefecture": "栃木県栃木市平柳町２丁目１番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060001016587",
+      "name": "丸光ケアサービス株式会社",
+      "address": "栃木県栃木市箱森町５０番１５号",
+      "prefecture": "栃木県栃木市箱森町５０番１５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060001020655",
+      "name": "三福工業株式会社",
+      "address": "栃木県佐野市植下町１２４８番地",
+      "prefecture": "栃木県佐野市植下町１２４８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060001020812",
+      "name": "中里建設株式会社",
+      "address": "栃木県佐野市栃本町１０５１番地",
+      "prefecture": "栃木県佐野市栃本町１０５１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060002038052",
+      "name": "有限会社邦史会",
+      "address": "栃木県足利市堀込町２８３２番地",
+      "prefecture": "栃木県足利市堀込町２８３２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060005000595",
+      "name": "とちぎコープ生活協同組合",
+      "address": "栃木県宇都宮市川田町８５８番地",
+      "prefecture": "栃木県宇都宮市川田町８５８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060005006205",
+      "name": "両毛フーズ株式会社",
+      "address": "栃木県足利市福居町１７７０番地",
+      "prefecture": "栃木県足利市福居町１７７０番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6060005006865",
+      "name": "佐野信用金庫",
+      "address": "栃木県佐野市本町２９１０番地",
+      "prefecture": "栃木県佐野市本町２９１０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020092011",
+      "name": "宇都宮市",
+      "address": "栃木県宇都宮市旭１丁目１－５",
+      "prefecture": "栃木県宇都宮市旭１丁目１－５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7060001005382",
+      "name": "関東商事株式会社",
+      "address": "栃木県河内郡上三川町大字石田１８００番地１",
+      "prefecture": "栃木県河内郡上三川町大字石田１８００番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7060001005820",
+      "name": "エム・イー・エム・シー株式会社",
+      "address": "栃木県宇都宮市清原工業団地１１番地２",
+      "prefecture": "栃木県宇都宮市清原工業団地１１番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7060001006026",
+      "name": "シンテックス株式会社",
+      "address": "栃木県さくら市喜連川１１１４番地",
+      "prefecture": "栃木県さくら市喜連川１１１４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7060001006851",
+      "name": "株式会社テクノスチールダイシン",
+      "address": "栃木県宇都宮市上小倉町２５８６番地",
+      "prefecture": "栃木県宇都宮市上小倉町２５８６番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7060001009301",
+      "name": "桑名商事株式会社",
+      "address": "栃木県真岡市寺内１４９３番地１",
+      "prefecture": "栃木県真岡市寺内１４９３番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7060001009722",
+      "name": "株式会社ホンダテクノフォート",
+      "address": "栃木県芳賀郡芳賀町芳賀台８９番４",
+      "prefecture": "栃木県芳賀郡芳賀町芳賀台８９番４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7060001024416",
+      "name": "株式会社ファンテクノロジー",
+      "address": "栃木県宇都宮市ゆいの杜２丁目２０番１６号",
+      "prefecture": "栃木県宇都宮市ゆいの杜２丁目２０番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7060001030190",
+      "name": "那須まちづくり株式会社",
+      "address": "栃木県那須郡那須町大字豊原丙１３４０番地",
+      "prefecture": "栃木県那須郡那須町大字豊原丙１３４０番地",
+      "certification": [
+        {
+          "certification_name": "地域づくり表彰",
+          "certified_date": "2020-11-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7060005003829",
+      "name": "社会福祉法人京福会",
+      "address": "栃木県那須塩原市住吉町５番１０号",
+      "prefecture": "栃木県那須塩原市住吉町５番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010001059936",
+      "name": "吉澤石灰工業株式会社",
+      "address": "栃木県佐野市宮下町７番１０号",
+      "prefecture": "栃木県佐野市宮下町７番１０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001001208",
+      "name": "株式会社カンセキ",
+      "address": "栃木県宇都宮市西川田本町３丁目１番１号",
+      "prefecture": "栃木県宇都宮市西川田本町３丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001001257",
+      "name": "株式会社カナメ",
+      "address": "栃木県宇都宮市平出工業団地３８番５２号",
+      "prefecture": "栃木県宇都宮市平出工業団地３８番５２号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001002651",
+      "name": "株式会社たいらや",
+      "address": "栃木県宇都宮市平出工業団地９番２３",
+      "prefecture": "栃木県宇都宮市平出工業団地９番２３",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001002998",
+      "name": "栃木トヨタ自動車株式会社",
+      "address": "栃木県宇都宮市横田新町３番４７号",
+      "prefecture": "栃木県宇都宮市横田新町３番４７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001003245",
+      "name": "トヨタカローラ栃木株式会社",
+      "address": "栃木県宇都宮市上横田町７９８番地",
+      "prefecture": "栃木県宇都宮市上横田町７９８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001004409",
+      "name": "明恵産業株式会社",
+      "address": "栃木県宇都宮市不動前１丁目３番１１号",
+      "prefecture": "栃木県宇都宮市不動前１丁目３番１１号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001005084",
+      "name": "エス・トータルサポート株式会社",
+      "address": "栃木県宇都宮市宮みらい２番１５号",
+      "prefecture": "栃木県宇都宮市宮みらい２番１５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001008005",
+      "name": "株式会社荒川建設",
+      "address": "栃木県那須烏山市田野倉１９２番地１",
+      "prefecture": "栃木県那須烏山市田野倉１９２番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001011553",
+      "name": "株式会社みつわランドリー",
+      "address": "栃木県那須塩原市鍋掛１０８７番地１０７４",
+      "prefecture": "栃木県那須塩原市鍋掛１０８７番地１０７４",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001013525",
+      "name": "キヤノンメディカルシステムズ株式会社",
+      "address": "栃木県大田原市下石上１３８５番地",
+      "prefecture": "栃木県大田原市下石上１３８５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060001016759",
+      "name": "株式会社サカエ工業",
+      "address": "栃木県栃木市大平町西野田６１４番地",
+      "prefecture": "栃木県栃木市大平町西野田６１４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060002027474",
+      "name": "有限会社スペクトルデザイン",
+      "address": "栃木県大田原市湯津上２８５番地１",
+      "prefecture": "栃木県大田原市湯津上２８５番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060005004834",
+      "name": "医療法人光風会",
+      "address": "栃木県小山市大字乙女７９５番地",
+      "prefecture": "栃木県小山市大字乙女７９５番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8060005004859",
+      "name": "医療法人アスムス",
+      "address": "栃木県小山市大字喜沢１４７５番地３２８",
+      "prefecture": "栃木県小山市大字喜沢１４７５番地３２８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9010001198725",
+      "name": "株式会社オノプラント",
+      "address": "栃木県河内郡上三川町大字多功２５７０番地２",
+      "prefecture": "栃木県河内郡上三川町大字多功２５７０番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001020440",
+      "name": "株式会社大正光学",
+      "address": "栃木県鹿沼市深程１２４番地",
+      "prefecture": "栃木県鹿沼市深程１２４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001000002",
+      "name": "株式会社足利銀行",
+      "address": "栃木県宇都宮市桜４丁目１番２５号",
+      "prefecture": "栃木県宇都宮市桜４丁目１番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001001355",
+      "name": "北関東綜合警備保障株式会社",
+      "address": "栃木県宇都宮市不動前１丁目３番１４号",
+      "prefecture": "栃木県宇都宮市不動前１丁目３番１４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001002080",
+      "name": "シーデーピージャパン株式会社",
+      "address": "栃木県宇都宮市峰２丁目２番１号",
+      "prefecture": "栃木県宇都宮市峰２丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001002188",
+      "name": "晋豊建設株式会社",
+      "address": "栃木県宇都宮市屋板町５７８番地３７８",
+      "prefecture": "栃木県宇都宮市屋板町５７８番地３７８",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001003715",
+      "name": "株式会社ピーシーレールウェイコンサルタント",
+      "address": "栃木県宇都宮市元今泉３丁目１８番１３号",
+      "prefecture": "栃木県宇都宮市元今泉３丁目１８番１３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001011040",
+      "name": "神谷建設株式会社",
+      "address": "栃木県鹿沼市府中町３８３番地",
+      "prefecture": "栃木県鹿沼市府中町３８３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001013540",
+      "name": "持田製薬工場株式会社",
+      "address": "栃木県大田原市中田原４３１番地",
+      "prefecture": "栃木県大田原市中田原４３１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001014051",
+      "name": "いなば建設株式会社",
+      "address": "栃木県小山市大字大行寺１２０５番地３",
+      "prefecture": "栃木県小山市大字大行寺１２０５番地３",
+      "certification": [
+        {
+          "certification_name": "令和４年度関東農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001018507",
+      "name": "菊地歯車株式会社",
+      "address": "栃木県足利市福富新町７２６番地３０",
+      "prefecture": "栃木県足利市福富新町７２６番地３０",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001019050",
+      "name": "ハートランド・データ株式会社",
+      "address": "栃木県足利市福居町３６１番地",
+      "prefecture": "栃木県足利市福居町３６１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001027887",
+      "name": "株式会社ＩＰＡＨ",
+      "address": "栃木県宇都宮市西刑部町２７１２番地３７",
+      "prefecture": "栃木県宇都宮市西刑部町２７１２番地３７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9060001030610",
+      "name": "株式会社テンドリル",
+      "address": "栃木県さくら市草川７１番地１１",
+      "prefecture": "栃木県さくら市草川７１番地１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

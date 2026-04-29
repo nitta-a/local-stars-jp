@@ -1,0 +1,1200 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020245615",
+      "name": "御浜町",
+      "address": "三重県南牟婁郡御浜町大字阿田和６１２０－１",
+      "prefecture": "三重県南牟婁郡御浜町大字阿田和６１２０－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1180301032376",
+      "name": "株式会社Ｏｎ－Ｃｏ",
+      "address": "三重県桑名市大字西別所１３７５番地",
+      "prefecture": "三重県桑名市大字西別所１３７５番地",
+      "certification": [
+        {
+          "certification_name": "第１１回グッドライフアワード",
+          "certified_date": "2023-12-02"
+        },
+        {
+          "certification_name": "まちづくりアワード（特別賞）",
+          "certified_date": "2022-06-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1190001000731",
+      "name": "東進産業株式会社",
+      "address": "三重県津市大里睦合町２５９７番地",
+      "prefecture": "三重県津市大里睦合町２５９７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1190001004435",
+      "name": "株式会社長久丸",
+      "address": "三重県尾鷲市三木浦町３３３番地の１２",
+      "prefecture": "三重県尾鷲市三木浦町３３３番地の１２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1190001005045",
+      "name": "清水清三郎商店株式会社",
+      "address": "三重県鈴鹿市若松東３丁目９番３３号",
+      "prefecture": "三重県鈴鹿市若松東３丁目９番３３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1190001005227",
+      "name": "株式会社トピア",
+      "address": "三重県鈴鹿市一ノ宮町１４７７番１",
+      "prefecture": "三重県鈴鹿市一ノ宮町１４７７番１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1190001006514",
+      "name": "株式会社ＵＬ　Ｊａｐａｎ",
+      "address": "三重県伊勢市朝熊町４３８３番３２６",
+      "prefecture": "三重県伊勢市朝熊町４３８３番３２６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1190001008733",
+      "name": "株式会社安永",
+      "address": "三重県伊賀市緑ケ丘中町３８６０番地",
+      "prefecture": "三重県伊賀市緑ケ丘中町３８６０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1190001009863",
+      "name": "株式会社中田商事",
+      "address": "三重県伊賀市荒木野々浦８９３番地の１",
+      "prefecture": "三重県伊賀市荒木野々浦８９３番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1190001010144",
+      "name": "株式会社オクムラ",
+      "address": "三重県松阪市曲町６３８番地１",
+      "prefecture": "三重県松阪市曲町６３８番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1190005004596",
+      "name": "社会福祉法人三重豊生会",
+      "address": "三重県度会郡度会町大野木字山田２９４５番２",
+      "prefecture": "三重県度会郡度会町大野木字山田２９４５番２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1190005008845",
+      "name": "社会福祉法人風薫会",
+      "address": "三重県四日市市高砂町６番５号",
+      "prefecture": "三重県四日市市高砂町６番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2190001001539",
+      "name": "平和製粉株式会社",
+      "address": "三重県津市河芸町東千里字新界４９５番地１",
+      "prefecture": "三重県津市河芸町東千里字新界４９５番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2190001010309",
+      "name": "株式会社三十三銀行",
+      "address": "三重県四日市市西新地７番８号",
+      "prefecture": "三重県四日市市西新地７番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2190001014648",
+      "name": "河村産業株式会社",
+      "address": "三重県四日市市西大鐘町３３０番地",
+      "prefecture": "三重県四日市市西大鐘町３３０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2190001016693",
+      "name": "四日市合成株式会社",
+      "address": "三重県四日市市宮東町２丁目１番地",
+      "prefecture": "三重県四日市市宮東町２丁目１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2190001017444",
+      "name": "東海住電精密株式会社",
+      "address": "三重県三重郡菰野町大字大強原２５００番地の５",
+      "prefecture": "三重県三重郡菰野町大字大強原２５００番地の５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2190001017485",
+      "name": "株式会社フジ技研",
+      "address": "三重県いなべ市大安町鍋坂２２６２番地８",
+      "prefecture": "三重県いなべ市大安町鍋坂２２６２番地８",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2190002008319",
+      "name": "株式会社伊勢福",
+      "address": "三重県伊勢市宇治中之切町５２番地",
+      "prefecture": "三重県伊勢市宇治中之切町５２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2190002010646",
+      "name": "有限会社ノア",
+      "address": "三重県鳥羽市安楽島町１２６８番地１９",
+      "prefecture": "三重県鳥羽市安楽島町１２６８番地１９",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2190005003044",
+      "name": "国立大学法人三重大学",
+      "address": "三重県津市栗真町屋町１５７７番地",
+      "prefecture": "三重県津市栗真町屋町１５７７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001000993",
+      "name": "株式会社松阪鉄工所",
+      "address": "三重県津市高茶屋小森町１８１４番地",
+      "prefecture": "三重県津市高茶屋小森町１８１４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001005448",
+      "name": "三重ヤクルト販売株式会社",
+      "address": "三重県津市あのつ台４丁目６番２",
+      "prefecture": "三重県津市あのつ台４丁目６番２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001007213",
+      "name": "株式会社マスヤ",
+      "address": "三重県伊勢市小俣町相合１３０６番地",
+      "prefecture": "三重県伊勢市小俣町相合１３０６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001008814",
+      "name": "上野キヤノンマテリアル株式会社",
+      "address": "三重県伊賀市三田字東大町４１０番地の７",
+      "prefecture": "三重県伊賀市三田字東大町４１０番地の７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001011891",
+      "name": "井村屋株式会社",
+      "address": "三重県津市高茶屋７丁目１番１号",
+      "prefecture": "三重県津市高茶屋７丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001012691",
+      "name": "ヤマモリ株式会社",
+      "address": "三重県桑名市大字森忠４６５番地の４",
+      "prefecture": "三重県桑名市大字森忠４６５番地の４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001012931",
+      "name": "三重重工業株式会社",
+      "address": "三重県員弁郡東員町大字山田字北前塚３７１０番地",
+      "prefecture": "三重県員弁郡東員町大字山田字北前塚３７１０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001015397",
+      "name": "太陽化学株式会社",
+      "address": "三重県四日市市山田町８００番",
+      "prefecture": "三重県四日市市山田町８００番",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001016362",
+      "name": "三重機械鉄工株式会社",
+      "address": "三重県四日市市諏訪町８番２３号",
+      "prefecture": "三重県四日市市諏訪町８番２３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001020629",
+      "name": "株式会社三厚連ウイズ",
+      "address": "三重県鈴鹿市安塚町山之花１２７５番地１８４",
+      "prefecture": "三重県鈴鹿市安塚町山之花１２７５番地１８４",
+      "certification": [
+        {
+          "certification_name": "令和元年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2019-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190001022170",
+      "name": "ユナイテッド・セミコンダクター・ジャパン株式会社",
+      "address": "三重県桑名市多度町御衣野２０００番地",
+      "prefecture": "三重県桑名市多度町御衣野２０００番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3190005009908",
+      "name": "一般財団法人食品分析開発センターＳＵＮＡＴＥＣ",
+      "address": "三重県四日市市赤堀新町９番５号",
+      "prefecture": "三重県四日市市赤堀新町９番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020242080",
+      "name": "名張市",
+      "address": "三重県名張市鴻之台１番町１番地",
+      "prefecture": "三重県名張市鴻之台１番町１番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190001000209",
+      "name": "おぼろタオル株式会社",
+      "address": "三重県津市上浜町３丁目１５５番地",
+      "prefecture": "三重県津市上浜町３丁目１５５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190001000893",
+      "name": "株式会社百五デジタルソリューションズ",
+      "address": "三重県津市岩田２１番２７号",
+      "prefecture": "三重県津市岩田２１番２７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190001004853",
+      "name": "株式会社荏原風力機械",
+      "address": "三重県鈴鹿市高岡町２４７０番地",
+      "prefecture": "三重県鈴鹿市高岡町２４７０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190001007121",
+      "name": "株式会社山野建設",
+      "address": "三重県伊勢市浦口４丁目１番１１号",
+      "prefecture": "三重県伊勢市浦口４丁目１番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190001008573",
+      "name": "長谷製陶株式会社",
+      "address": "三重県伊賀市丸柱５６９番地",
+      "prefecture": "三重県伊賀市丸柱５６９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190001009381",
+      "name": "株式会社タカキタ",
+      "address": "三重県名張市夏見２８２８番地",
+      "prefecture": "三重県名張市夏見２８２８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190001009984",
+      "name": "株式会社ケアサポートあゆむ",
+      "address": "三重県尾鷲市光ヶ丘１１番４４号",
+      "prefecture": "三重県尾鷲市光ヶ丘１１番４４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190005000147",
+      "name": "社会福祉法人いろどり福祉会",
+      "address": "三重県津市芸濃町椋本字藤ノ山３８０５番２",
+      "prefecture": "三重県津市芸濃町椋本字藤ノ山３８０５番２",
+      "certification": [
+        {
+          "certification_name": "高年齢者雇用開発コンテスト",
+          "certified_date": "2019-10-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190005000155",
+      "name": "医療法人思源会",
+      "address": "三重県津市一身田町３３３番地",
+      "prefecture": "三重県津市一身田町３３３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190005004643",
+      "name": "学校法人皇學館",
+      "address": "三重県伊勢市神田久志本町１７０４番地",
+      "prefecture": "三重県伊勢市神田久志本町１７０４番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190005008883",
+      "name": "北伊勢上野信用金庫",
+      "address": "三重県四日市市安島２丁目２番３号",
+      "prefecture": "三重県四日市市安島２丁目２番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4190005009568",
+      "name": "農事組合法人キタコマツファーム",
+      "address": "三重県四日市市北小松町２８番地",
+      "prefecture": "三重県四日市市北小松町２８番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度豊かなむらづくり全国表彰事業",
+          "certified_date": "2023-10-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020240001",
+      "name": "三重県",
+      "address": "三重県津市広明町１３番地",
+      "prefecture": "三重県津市広明町１３番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020242055",
+      "name": "桑名市",
+      "address": "三重県桑名市中央町２丁目３７",
+      "prefecture": "三重県桑名市中央町２丁目３７",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5010001021056",
+      "name": "セントラルグラスフアイバー株式会社",
+      "address": "三重県松阪市大口町９２６番地１",
+      "prefecture": "三重県松阪市大口町９２６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5190001000125",
+      "name": "井村屋グループ株式会社",
+      "address": "三重県津市高茶屋７丁目１番１号",
+      "prefecture": "三重県津市高茶屋７丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5190001000892",
+      "name": "株式会社百五銀行",
+      "address": "三重県津市岩田２１番２７号",
+      "prefecture": "三重県津市岩田２１番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5190001001395",
+      "name": "三重中西金属株式会社",
+      "address": "三重県津市久居新町６５０番地",
+      "prefecture": "三重県津市久居新町６５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5190001004423",
+      "name": "株式会社主婦の店",
+      "address": "三重県尾鷲市瀬木山町１１番５７号",
+      "prefecture": "三重県尾鷲市瀬木山町１１番５７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5190001011147",
+      "name": "株式会社尾鍋組",
+      "address": "三重県松阪市飯高町宮前３２１番地の４",
+      "prefecture": "三重県松阪市飯高町宮前３２１番地の４",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2021-04-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5190001011824",
+      "name": "株式会社東海セイムス",
+      "address": "三重県松阪市久保町１４５６番地４",
+      "prefecture": "三重県松阪市久保町１４５６番地４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5190001012145",
+      "name": "栗田精工株式会社",
+      "address": "三重県桑名市大字北別所１５８２番地",
+      "prefecture": "三重県桑名市大字北別所１５８２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5190002005932",
+      "name": "株式会社飯田商事",
+      "address": "三重県鈴鹿市飯野寺家町２９６番地の１",
+      "prefecture": "三重県鈴鹿市飯野寺家町２９６番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6190001000066",
+      "name": "株式会社アールビーサポート",
+      "address": "三重県津市芸濃町椋本６１７７番地１",
+      "prefecture": "三重県津市芸濃町椋本６１７７番地１",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト",
+          "certified_date": "2021-10-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6190001009009",
+      "name": "株式会社愛安住",
+      "address": "三重県伊賀市大野木２１１２番地の２８",
+      "prefecture": "三重県伊賀市大野木２１１２番地の２８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6190005006118",
+      "name": "社会福祉法人青山福祉会",
+      "address": "三重県伊賀市腰山１１３５番地",
+      "prefecture": "三重県伊賀市腰山１１３５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020242012",
+      "name": "津市",
+      "address": "三重県津市西丸之内２３－１",
+      "prefecture": "三重県津市西丸之内２３－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020242128",
+      "name": "熊野市",
+      "address": "三重県熊野市井戸町７９６",
+      "prefecture": "三重県熊野市井戸町７９６",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020242144",
+      "name": "いなべ市",
+      "address": "三重県いなべ市北勢町阿下喜３１番地",
+      "prefecture": "三重県いなべ市北勢町阿下喜３１番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7190001000362",
+      "name": "三交不動産株式会社",
+      "address": "三重県津市丸之内９番１８号",
+      "prefecture": "三重県津市丸之内９番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7190001001047",
+      "name": "三重交通株式会社",
+      "address": "三重県津市中央１番１号",
+      "prefecture": "三重県津市中央１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7190001005031",
+      "name": "株式会社ＳＡＮＫＥＩ",
+      "address": "三重県鈴鹿市上野町字助町４８番地",
+      "prefecture": "三重県鈴鹿市上野町字助町４８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7190001010568",
+      "name": "株式会社松阪電子計算センター",
+      "address": "三重県松阪市石津町字地蔵裏３５３番地１",
+      "prefecture": "三重県松阪市石津町字地蔵裏３５３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7190001015253",
+      "name": "住友電装株式会社",
+      "address": "三重県四日市市西末広町１番１４号",
+      "prefecture": "三重県四日市市西末広町１番１４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7190001016061",
+      "name": "藤井撚糸株式会社",
+      "address": "三重県四日市市羽津町２０番１４号",
+      "prefecture": "三重県四日市市羽津町２０番１４号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7190001020914",
+      "name": "ＳＷＳスマイル株式会社",
+      "address": "三重県津市新家町５３０番地の１",
+      "prefecture": "三重県津市新家町５３０番地の１",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7190002011061",
+      "name": "株式会社ウェルフェア三重",
+      "address": "三重県伊勢市黒瀬町８６５番地１",
+      "prefecture": "三重県伊勢市黒瀬町８６５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7190005007726",
+      "name": "社会医療法人尚徳会",
+      "address": "三重県桑名市さくらの丘１番地",
+      "prefecture": "三重県桑名市さくらの丘１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010001100311",
+      "name": "ホンダモビリティランド株式会社",
+      "address": "三重県鈴鹿市稲生町７９９２番地",
+      "prefecture": "三重県鈴鹿市稲生町７９９２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190001000048",
+      "name": "旭電器工業株式会社",
+      "address": "三重県津市白塚町２８５６番地",
+      "prefecture": "三重県津市白塚町２８５６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190001000667",
+      "name": "株式会社ＺＴＶ",
+      "address": "三重県津市あのつ台４丁目７番地１",
+      "prefecture": "三重県津市あのつ台４丁目７番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190001001070",
+      "name": "株式会社アレクシード",
+      "address": "三重県津市羽所町３８８番地津三交ビルディング６階",
+      "prefecture": "三重県津市羽所町３８８番地津三交ビルディング６階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190001004255",
+      "name": "日本土木工業株式会社",
+      "address": "三重県南牟婁郡御浜町大字引作１４１番地５２",
+      "prefecture": "三重県南牟婁郡御浜町大字引作１４１番地５２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190001007299",
+      "name": "海王丸漁業株式会社",
+      "address": "三重県度会郡南伊勢町礫浦１２７番地",
+      "prefecture": "三重県度会郡南伊勢町礫浦１２７番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190001010113",
+      "name": "宇野重工株式会社",
+      "address": "三重県松阪市大津町１６０７番地の１",
+      "prefecture": "三重県松阪市大津町１６０７番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190001011202",
+      "name": "株式会社丸八土建",
+      "address": "三重県多気郡大台町江馬６６８番地の１",
+      "prefecture": "三重県多気郡大台町江馬６６８番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190001012852",
+      "name": "日本ハム食品株式会社",
+      "address": "三重県桑名郡木曽岬町大字三崎６０１番地の１",
+      "prefecture": "三重県桑名郡木曽岬町大字三崎６０１番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190001015343",
+      "name": "株式会社第一電気工業",
+      "address": "三重県四日市市笹川３丁目３３番地",
+      "prefecture": "三重県四日市市笹川３丁目３３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190005006652",
+      "name": "社会福祉法人斎宮会",
+      "address": "三重県多気郡多気町仁田字シノ原７０６番地の７",
+      "prefecture": "三重県多気郡多気町仁田字シノ原７０６番地の７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8190005006693",
+      "name": "生活協同組合コープみえ",
+      "address": "三重県津市羽所町３７９番地",
+      "prefecture": "三重県津市羽所町３７９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2020-04-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9190001001029",
+      "name": "株式会社マルヤス",
+      "address": "三重県津市東丸之内２０番１０号",
+      "prefecture": "三重県津市東丸之内２０番１０号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9190001001061",
+      "name": "三重金属工業株式会社",
+      "address": "三重県津市半田５６４番地の１",
+      "prefecture": "三重県津市半田５６４番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9190001009427",
+      "name": "名張近鉄ガス株式会社",
+      "address": "三重県名張市桔梗が丘１番町一街区５番地の１",
+      "prefecture": "三重県名張市桔梗が丘１番町一街区５番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9190001010896",
+      "name": "万協製薬株式会社",
+      "address": "三重県多気郡多気町五桂１１６９番地の１４２",
+      "prefecture": "三重県多気郡多気町五桂１１６９番地の１４２",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9190001017405",
+      "name": "株式会社佐野テック",
+      "address": "三重県三重郡菰野町大字千草５０５１番地９",
+      "prefecture": "三重県三重郡菰野町大字千草５０５１番地９",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9190005000200",
+      "name": "医療法人凰林会",
+      "address": "三重県津市榊原町５６３０番地",
+      "prefecture": "三重県津市榊原町５６３０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9190005005463",
+      "name": "医療法人豊和会",
+      "address": "三重県志摩市阿児町鵜方２５５５番地９",
+      "prefecture": "三重県志摩市阿児町鵜方２５５５番地９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9190005006239",
+      "name": "医療法人（社団）寺田病院",
+      "address": "三重県名張市夏見３２６０番地１",
+      "prefecture": "三重県名張市夏見３２６０番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9190005010018",
+      "name": "特定非営利活動法人伊賀ＦＣくノ一",
+      "address": "三重県伊賀市土橋６１番地",
+      "prefecture": "三重県伊賀市土橋６１番地",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2022-12-02"
+        }
+      ]
+    }
+  ]
+}

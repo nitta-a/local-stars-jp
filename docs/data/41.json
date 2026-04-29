@@ -1,0 +1,812 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1300001000109",
+      "name": "栄城設備工業株式会社",
+      "address": "佐賀県佐賀市兵庫南３丁目４番７号",
+      "prefecture": "佐賀県佐賀市兵庫南３丁目４番７号",
+      "certification": [
+        {
+          "certification_name": "優秀工事・優秀工事技術者顕彰",
+          "certified_date": "2024-07-02"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-06-29"
+        },
+        {
+          "certification_name": "九州防衛局優秀工事等顕彰状",
+          "certified_date": "2019-07-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300001001362",
+      "name": "株式会社建匠コンサルタント",
+      "address": "佐賀県佐賀市水ヶ江５丁目８番１１号",
+      "prefecture": "佐賀県佐賀市水ヶ江５丁目８番１１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300001001429",
+      "name": "株式会社まんてん",
+      "address": "佐賀県佐賀市鍋島町大字森田９６４番地２",
+      "prefecture": "佐賀県佐賀市鍋島町大字森田９６４番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300001003086",
+      "name": "株式会社東和",
+      "address": "佐賀県佐賀市高木瀬西６丁目９番３号",
+      "prefecture": "佐賀県佐賀市高木瀬西６丁目９番３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300001003623",
+      "name": "モロドミ建設株式会社",
+      "address": "佐賀県多久市南多久町大字下多久２５６６番地",
+      "prefecture": "佐賀県多久市南多久町大字下多久２５６６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300001004662",
+      "name": "株式会社ホンダカーズ中央佐賀",
+      "address": "佐賀県佐賀市巨勢町大字牛島２０４番地７",
+      "prefecture": "佐賀県佐賀市巨勢町大字牛島２０４番地７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300001007260",
+      "name": "唐津土建工業株式会社",
+      "address": "佐賀県唐津市二タ子２丁目７番５１号",
+      "prefecture": "佐賀県唐津市二タ子２丁目７番５１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300001007418",
+      "name": "株式会社Ｎｅｗ　Ｌｅａｄ",
+      "address": "佐賀県唐津市浜玉町横田下７５番地２",
+      "prefecture": "佐賀県唐津市浜玉町横田下７５番地２",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300005000377",
+      "name": "医療法人社団杠葉会",
+      "address": "佐賀県佐賀市諸富町大字諸富津２３０番地２",
+      "prefecture": "佐賀県佐賀市諸富町大字諸富津２３０番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300005002712",
+      "name": "国立大学法人佐賀大学",
+      "address": "佐賀県佐賀市本庄町１番地",
+      "prefecture": "佐賀県佐賀市本庄町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300005004428",
+      "name": "特定非営利活動法人伊万里はちがめプラン",
+      "address": "佐賀県伊万里市大坪町狩立乙２４３６の１",
+      "prefecture": "佐賀県伊万里市大坪町狩立乙２４３６の１",
+      "certification": [
+        {
+          "certification_name": "第６回食品産業もったいない大賞",
+          "certified_date": "2019-01-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1300005005582",
+      "name": "トリゼン食鳥肉協同組合",
+      "address": "佐賀県唐津市双水１７８２番地１",
+      "prefecture": "佐賀県唐津市双水１７８２番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2300001000982",
+      "name": "株式会社丸福建設",
+      "address": "佐賀県佐賀市久保田町大字徳万１６４７番地",
+      "prefecture": "佐賀県佐賀市久保田町大字徳万１６４７番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2023-12-27"
+        },
+        {
+          "certification_name": "令和３年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-03-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2300001001023",
+      "name": "株式会社モトシマ",
+      "address": "佐賀県佐賀市巨勢町大字修理田１２０１番地",
+      "prefecture": "佐賀県佐賀市巨勢町大字修理田１２０１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2300001004042",
+      "name": "株式会社イーダブリュエムファクトリー",
+      "address": "佐賀県佐賀市天神３丁目１５番１号",
+      "prefecture": "佐賀県佐賀市天神３丁目１５番１号",
+      "certification": [
+        {
+          "certification_name": "Ｇｅｏアクティビティコンテスト",
+          "certified_date": "2018-11-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2300005000260",
+      "name": "コープさが生活協同組合",
+      "address": "佐賀県佐賀市開成３丁目３番２８号",
+      "prefecture": "佐賀県佐賀市開成３丁目３番２８号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2020-04-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2300005005986",
+      "name": "特定非営利活動法人佐賀消費者フォーラム",
+      "address": "佐賀県佐賀市神野東４丁目１番３１－１０３号アパートメント１２",
+      "prefecture": "佐賀県佐賀市神野東４丁目１番３１－１０３号アパートメント１２",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2012-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3300001006211",
+      "name": "株式会社大同工務店",
+      "address": "佐賀県鳥栖市神辺町１４１８番地４",
+      "prefecture": "佐賀県鳥栖市神辺町１４１８番地４",
+      "certification": [
+        {
+          "certification_name": "九州防衛局優秀工事等顕彰状",
+          "certified_date": "2019-07-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3300001006434",
+      "name": "鳥栖キユーピー株式会社",
+      "address": "佐賀県鳥栖市田代外町７０１番地",
+      "prefecture": "佐賀県鳥栖市田代外町７０１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3300005003411",
+      "name": "医療法人天心堂",
+      "address": "佐賀県鹿島市大字中村２１３４番地４",
+      "prefecture": "佐賀県鹿島市大字中村２１３４番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3300005003502",
+      "name": "医療法人社団栄寿会",
+      "address": "佐賀県杵島郡江北町大字上小田２８０番地１",
+      "prefecture": "佐賀県杵島郡江北町大字上小田２８０番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4300001000816",
+      "name": "株式会社大和建設",
+      "address": "佐賀県佐賀市兵庫北５丁目３番３５号",
+      "prefecture": "佐賀県佐賀市兵庫北５丁目３番３５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4300001000964",
+      "name": "株式会社ミズ",
+      "address": "佐賀県佐賀市水ヶ江１丁目１番１１号",
+      "prefecture": "佐賀県佐賀市水ヶ江１丁目１番１１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4300001003686",
+      "name": "ケイエスケイツール株式会社",
+      "address": "佐賀県佐賀市久保田町大字久保田１５１２番地",
+      "prefecture": "佐賀県佐賀市久保田町大字久保田１５１２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4300001006268",
+      "name": "株式会社ニシキ",
+      "address": "佐賀県鳥栖市酒井西町６３４番地１",
+      "prefecture": "佐賀県鳥栖市酒井西町６３４番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4300001006425",
+      "name": "株式会社トスデリカ",
+      "address": "佐賀県鳥栖市田代外町７０１番地",
+      "prefecture": "佐賀県鳥栖市田代外町７０１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4300001007308",
+      "name": "平野建設産業株式会社",
+      "address": "佐賀県唐津市西寺町１３８８番地",
+      "prefecture": "佐賀県唐津市西寺町１３８８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4300005002742",
+      "name": "社会福祉法人佐賀キリスト教事業団",
+      "address": "佐賀県佐賀市大和町大字久留間３８６５番地１",
+      "prefecture": "佐賀県佐賀市大和町大字久留間３８６５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4300005006561",
+      "name": "社会福祉法人はる",
+      "address": "佐賀県佐賀市高木瀬町大字長瀬１１６８番１",
+      "prefecture": "佐賀県佐賀市高木瀬町大字長瀬１１６８番１",
+      "certification": [
+        {
+          "certification_name": "令和元年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2019-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5300001000641",
+      "name": "株式会社ＪＡライフサポート佐賀",
+      "address": "佐賀県神埼市神埼町尾崎７７８番地",
+      "prefecture": "佐賀県神埼市神埼町尾崎７７８番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5300001003628",
+      "name": "吉田刃物株式会社",
+      "address": "佐賀県多久市南多久町大字花祭２８０８番地",
+      "prefecture": "佐賀県多久市南多久町大字花祭２８０８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5300005002584",
+      "name": "医療法人社団高仁会",
+      "address": "佐賀県多久市北多久町大字多久原２５１２番地２４",
+      "prefecture": "佐賀県多久市北多久町大字多久原２５１２番地２４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6010001049336",
+      "name": "田中電子工業株式会社",
+      "address": "佐賀県神埼郡吉野ヶ里町吉田２３０３番地１５",
+      "prefecture": "佐賀県神埼郡吉野ヶ里町吉田２３０３番地１５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300001000665",
+      "name": "株式会社葉隠緑化建設",
+      "address": "佐賀県佐賀市嘉瀬町大字扇町２６１７番地の７",
+      "prefecture": "佐賀県佐賀市嘉瀬町大字扇町２６１７番地の７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300001000905",
+      "name": "松尾建設株式会社",
+      "address": "佐賀県佐賀市多布施１丁目４番２７号",
+      "prefecture": "佐賀県佐賀市多布施１丁目４番２７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2023-12-27"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300001001176",
+      "name": "レグナテック株式会社",
+      "address": "佐賀県佐賀市諸富町大字山領２６６番地１",
+      "prefecture": "佐賀県佐賀市諸富町大字山領２６６番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300001003890",
+      "name": "木村情報技術株式会社",
+      "address": "佐賀県佐賀市卸本町６番１号",
+      "prefecture": "佐賀県佐賀市卸本町６番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300001005821",
+      "name": "ありた株式会社",
+      "address": "佐賀県西松浦郡有田町立部乙１０番地１",
+      "prefecture": "佐賀県西松浦郡有田町立部乙１０番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300001006539",
+      "name": "牟田建設株式会社",
+      "address": "佐賀県神埼郡吉野ヶ里町大曲１７５６番地",
+      "prefecture": "佐賀県神埼郡吉野ヶ里町大曲１７５６番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2023-12-27"
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300001007339",
+      "name": "ホンダカーズ佐賀株式会社",
+      "address": "佐賀県唐津市鏡４５３１番地１",
+      "prefecture": "佐賀県唐津市鏡４５３１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300005000397",
+      "name": "株式会社アルタ",
+      "address": "佐賀県佐賀市開成３丁目６番１６号",
+      "prefecture": "佐賀県佐賀市開成３丁目６番１６号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300005002542",
+      "name": "特定非営利活動法人消費生活相談員の会さが",
+      "address": "佐賀県佐賀市白山２丁目１番１２号佐賀商工ビル７階",
+      "prefecture": "佐賀県佐賀市白山２丁目１番１２号佐賀商工ビル７階",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2011-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300005003417",
+      "name": "社会医療法人祐愛会",
+      "address": "佐賀県鹿島市大字高津原４３０６番地",
+      "prefecture": "佐賀県鹿島市大字高津原４３０６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6300005005000",
+      "name": "社会福祉法人椎原寿恵会",
+      "address": "佐賀県鳥栖市村田町１２５０番地１",
+      "prefecture": "佐賀県鳥栖市村田町１２５０番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7300001000326",
+      "name": "ＪＳＲマイクロ九州株式会社",
+      "address": "佐賀県佐賀市久保泉町大字上和泉１５８０番地１",
+      "prefecture": "佐賀県佐賀市久保泉町大字上和泉１５８０番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7300001001150",
+      "name": "株式会社西村土木建設",
+      "address": "佐賀県佐賀市川副町大字南里１４８９番地１",
+      "prefecture": "佐賀県佐賀市川副町大字南里１４８９番地１",
+      "certification": [
+        {
+          "certification_name": "令和４年度九州農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-02-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7300001004525",
+      "name": "株式会社クッキングセンター佐賀",
+      "address": "佐賀県佐賀市久保泉町大字上和泉１１９１番地２０",
+      "prefecture": "佐賀県佐賀市久保泉町大字上和泉１１９１番地２０",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7300001004608",
+      "name": "株式会社セリタ建設",
+      "address": "佐賀県武雄市朝日町大字中野１０１５３番地４",
+      "prefecture": "佐賀県武雄市朝日町大字中野１０１５３番地４",
+      "certification": [
+        {
+          "certification_name": "環境人づくり企業大賞２０１８",
+          "certified_date": "2019-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7300001006281",
+      "name": "久光製薬株式会社",
+      "address": "佐賀県鳥栖市田代大官町４０８番地",
+      "prefecture": "佐賀県鳥栖市田代大官町４０８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7300005005791",
+      "name": "唐津農業協同組合",
+      "address": "佐賀県唐津市浜玉町浜崎５９８番地１",
+      "prefecture": "佐賀県唐津市浜玉町浜崎５９８番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8300001000201",
+      "name": "株式会社佐賀共栄銀行",
+      "address": "佐賀県佐賀市松原４丁目２番１２号",
+      "prefecture": "佐賀県佐賀市松原４丁目２番１２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8300001000424",
+      "name": "株式会社佐電工",
+      "address": "佐賀県佐賀市天神１丁目４番３号",
+      "prefecture": "佐賀県佐賀市天神１丁目４番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8300001000564",
+      "name": "株式会社中野建設",
+      "address": "佐賀県佐賀市水ヶ江２丁目１１番２３号",
+      "prefecture": "佐賀県佐賀市水ヶ江２丁目１１番２３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和３年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-03-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8300001003402",
+      "name": "岡本建設株式会社",
+      "address": "佐賀県小城市芦刈町三王崎１１０番地",
+      "prefecture": "佐賀県小城市芦刈町三王崎１１０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8300001004887",
+      "name": "株式会社植松建設",
+      "address": "佐賀県鹿島市大字高津原３５４１番地１",
+      "prefecture": "佐賀県鹿島市大字高津原３５４１番地１",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト",
+          "certified_date": "2024-10-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8300005003398",
+      "name": "特定非営利活動法人スチューデント・サポート・フェイス",
+      "address": "佐賀県佐賀市八幡小路２番３号",
+      "prefecture": "佐賀県佐賀市八幡小路２番３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8300005005031",
+      "name": "特定非営利活動法人ＩＴサポートさが",
+      "address": "佐賀県佐賀市神野東２丁目１番２５号グレイスモナージュ",
+      "prefecture": "佐賀県佐賀市神野東２丁目１番２５号グレイスモナージュ",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2017-05-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9300001000183",
+      "name": "株式会社佐賀銀行",
+      "address": "佐賀県佐賀市唐人２丁目７番２０号",
+      "prefecture": "佐賀県佐賀市唐人２丁目７番２０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9300001003285",
+      "name": "株式会社スーパーモリナガ",
+      "address": "佐賀県佐賀市川副町大字南里７５７番地",
+      "prefecture": "佐賀県佐賀市川副町大字南里７５７番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9300001003566",
+      "name": "株式会社嶋本建設",
+      "address": "佐賀県小城市三日月町堀江５２５番地１",
+      "prefecture": "佐賀県小城市三日月町堀江５２５番地１",
+      "certification": [
+        {
+          "certification_name": "令和５年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2023-12-27"
+        },
+        {
+          "certification_name": "令和４年度九州農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-02-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9300005006409",
+      "name": "社会保険労務士法人きたむら事務所",
+      "address": "佐賀県佐賀市天神１丁目２番５５号",
+      "prefecture": "佐賀県佐賀市天神１丁目２番５５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

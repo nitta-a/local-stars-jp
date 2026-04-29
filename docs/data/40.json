@@ -1,0 +1,2888 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1010401098326",
+      "name": "株式会社エバーライフ",
+      "address": "福岡県福岡市中央区天神２丁目５番５５号アーバンネット天神ビル",
+      "prefecture": "福岡県福岡市中央区天神２丁目５番５５号アーバンネット天神ビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290001001521",
+      "name": "株式会社清和",
+      "address": "福岡県福岡市南区大楠１丁目２２番２２号",
+      "prefecture": "福岡県福岡市南区大楠１丁目２２番２２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290001004367",
+      "name": "株式会社福岡銀行",
+      "address": "福岡県福岡市中央区天神２丁目１３番１号",
+      "prefecture": "福岡県福岡市中央区天神２丁目１３番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290001009110",
+      "name": "株式会社トライアルカンパニー",
+      "address": "福岡県福岡市東区多の津１丁目１２番２号",
+      "prefecture": "福岡県福岡市東区多の津１丁目１２番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290001012411",
+      "name": "九州総合サービス株式会社",
+      "address": "福岡県福岡市博多区美野島３丁目１番２８号",
+      "prefecture": "福岡県福岡市博多区美野島３丁目１番２８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290001014985",
+      "name": "株式会社ドコモＣＳ九州",
+      "address": "福岡県福岡市中央区渡辺通２丁目６番１号",
+      "prefecture": "福岡県福岡市中央区渡辺通２丁目６番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290001016263",
+      "name": "福博綜合印刷株式会社",
+      "address": "福岡県福岡市博多区堅粕３丁目１６番１４号",
+      "prefecture": "福岡県福岡市博多区堅粕３丁目１６番１４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290001016577",
+      "name": "ホシザキ北九株式会社",
+      "address": "福岡県福岡市博多区博多駅南３丁目１８番９号",
+      "prefecture": "福岡県福岡市博多区博多駅南３丁目１８番９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290001018169",
+      "name": "日創グループ株式会社",
+      "address": "福岡県福岡市南区向野２丁目１０番２５号",
+      "prefecture": "福岡県福岡市南区向野２丁目１０番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290001057209",
+      "name": "株式会社オフィスインプローブ",
+      "address": "福岡県福岡市西区横浜２丁目７－７横浜二丁目アパートメント３０２",
+      "prefecture": "福岡県福岡市西区横浜２丁目７－７横浜二丁目アパートメント３０２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290002037060",
+      "name": "有限会社松活",
+      "address": "福岡県糟屋郡志免町南里４丁目１２番１２号",
+      "prefecture": "福岡県糟屋郡志免町南里４丁目１２番１２号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290005006302",
+      "name": "エフコープ生活協同組合",
+      "address": "福岡県糟屋郡篠栗町中央１丁目８番３号",
+      "prefecture": "福岡県糟屋郡篠栗町中央１丁目８番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2018-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290005006392",
+      "name": "特定非営利活動法人消費者支援機構福岡",
+      "address": "福岡県福岡市博多区博多駅前１丁目１８番１６号",
+      "prefecture": "福岡県福岡市博多区博多駅前１丁目１８番１６号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2018-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290005006401",
+      "name": "ＮＰＯ法人はあとスペース",
+      "address": "福岡県福岡市東区土井２丁目３４番１６号",
+      "prefecture": "福岡県福岡市東区土井２丁目３４番１６号",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2022-12-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290005008678",
+      "name": "医療法人八女発心会",
+      "address": "福岡県八女郡広川町大字新代２３１６番地",
+      "prefecture": "福岡県八女郡広川町大字新代２３１６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290801002231",
+      "name": "株式会社タカギ",
+      "address": "福岡県北九州市小倉南区大字堀越４１３",
+      "prefecture": "福岡県北九州市小倉南区大字堀越４１３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        },
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2020-04-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290801002603",
+      "name": "ＴＯＴＯ株式会社",
+      "address": "福岡県北九州市小倉北区中島２丁目１番１号",
+      "prefecture": "福岡県北九州市小倉北区中島２丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "健康経営銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2020-04-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290801009078",
+      "name": "日鉄ソリューションズ九州株式会社",
+      "address": "福岡県福岡市博多区博多駅前２丁目３番７号",
+      "prefecture": "福岡県福岡市博多区博多駅前２丁目３番７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290801010069",
+      "name": "株式会社新菱",
+      "address": "福岡県北九州市八幡西区黒崎３丁目９番２２号",
+      "prefecture": "福岡県北九州市八幡西区黒崎３丁目９番２２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290801010770",
+      "name": "安川マニュファクチャリング株式会社",
+      "address": "福岡県北九州市八幡西区黒崎城石２番１号",
+      "prefecture": "福岡県北九州市八幡西区黒崎城石２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290801015778",
+      "name": "株式会社オートウェイ",
+      "address": "福岡県京都郡苅田町大字苅田字松浦３７８７番地６２",
+      "prefecture": "福岡県京都郡苅田町大字苅田字松浦３７８７番地６２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290801017634",
+      "name": "株式会社Ｆ　ｓｔａｇｅ",
+      "address": "福岡県北九州市小倉北区赤坂３丁目１１番３３号",
+      "prefecture": "福岡県北九州市小倉北区赤坂３丁目１１番３３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1290805000520",
+      "name": "社会福祉法人敬寿会",
+      "address": "福岡県北九州市小倉南区大字新道寺１０８５番地の１",
+      "prefecture": "福岡県北九州市小倉南区大字新道寺１０８５番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1330001012084",
+      "name": "株式会社ダイチ",
+      "address": "福岡県大牟田市四山町１０１番地１７",
+      "prefecture": "福岡県大牟田市四山町１０１番地１７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020408930",
+      "name": "飯塚地区消防組合",
+      "address": "福岡県飯塚市菰田５２番地１",
+      "prefecture": "福岡県飯塚市菰田５２番地１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001005793",
+      "name": "メディア総研株式会社",
+      "address": "福岡県福岡市中央区大名２丁目８番１号",
+      "prefecture": "福岡県福岡市中央区大名２丁目８番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001017525",
+      "name": "ロイヤルホールディングス株式会社",
+      "address": "福岡県福岡市博多区那珂３丁目２８番５号",
+      "prefecture": "福岡県福岡市博多区那珂３丁目２８番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度食品ロス削減推進表彰",
+          "certified_date": "2023-09-29"
+        },
+        {
+          "certification_name": "令和４年度食品ロス削減推進表彰",
+          "certified_date": "2022-10-18"
+        },
+        {
+          "certification_name": "食品ロス削減環境大臣表彰",
+          "certified_date": "2021-10-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001020586",
+      "name": "株式会社エスティ環境設計研究所",
+      "address": "福岡県福岡市博多区須崎町１２番８号",
+      "prefecture": "福岡県福岡市博多区須崎町１２番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001020974",
+      "name": "株式会社ケアリング",
+      "address": "福岡県福岡市博多区千代３丁目６番３号",
+      "prefecture": "福岡県福岡市博多区千代３丁目６番３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001025932",
+      "name": "パナソニックリビング中四国・九州株式会社",
+      "address": "福岡県福岡市博多区博多駅東２丁目１０番３５号",
+      "prefecture": "福岡県福岡市博多区博多駅東２丁目１０番３５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001030338",
+      "name": "株式会社グッデイ",
+      "address": "福岡県福岡市中央区天神１丁目６番８号",
+      "prefecture": "福岡県福岡市中央区天神１丁目６番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001030882",
+      "name": "麻生介護サービス株式会社",
+      "address": "福岡県福岡市博多区博多駅前３丁目２７番２２号",
+      "prefecture": "福岡県福岡市博多区博多駅前３丁目２７番２２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001047638",
+      "name": "株式会社どんどんライス",
+      "address": "福岡県筑後市大字長浜７２９番地１",
+      "prefecture": "福岡県筑後市大字長浜７２９番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001055228",
+      "name": "龍宮株式会社",
+      "address": "福岡県うきは市吉井町新治２７８番地",
+      "prefecture": "福岡県うきは市吉井町新治２７８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001069351",
+      "name": "株式会社Ｋｙｕｌｕｘ",
+      "address": "福岡県福岡市西区九大新町４番地１",
+      "prefecture": "福岡県福岡市西区九大新町４番地１",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2023-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001072306",
+      "name": "株式会社テノ．ホールディングス",
+      "address": "福岡県福岡市博多区上呉服町１０番１０号",
+      "prefecture": "福岡県福岡市博多区上呉服町１０番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001078699",
+      "name": "株式会社ｔｅｎ",
+      "address": "福岡県福岡市中央区舞鶴１丁目１番２７号",
+      "prefecture": "福岡県福岡市中央区舞鶴１丁目１番２７号",
+      "certification": [
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290001084788",
+      "name": "株式会社ゆうか",
+      "address": "福岡県大野城市御笠川５丁目１１番１７号",
+      "prefecture": "福岡県大野城市御笠川５丁目１１番１７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290801005381",
+      "name": "昭和食品株式会社",
+      "address": "福岡県北九州市門司区黄金町６番２８号",
+      "prefecture": "福岡県北九州市門司区黄金町６番２８号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290801009473",
+      "name": "株式会社ソルネット",
+      "address": "福岡県北九州市八幡東区中央２丁目８番１３号",
+      "prefecture": "福岡県北九州市八幡東区中央２丁目８番１３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2290801010349",
+      "name": "株式会社ドーワテクノス",
+      "address": "福岡県北九州市八幡西区黒崎城石３番５号",
+      "prefecture": "福岡県北九州市八幡西区黒崎城石３番５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3010001129215",
+      "name": "パナソニックコネクト株式会社",
+      "address": "福岡県福岡市博多区美野島４丁目１番６２号",
+      "prefecture": "福岡県福岡市博多区美野島４丁目１番６２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001006320",
+      "name": "株式会社岩田屋三越",
+      "address": "福岡県福岡市中央区天神２丁目５番３５号",
+      "prefecture": "福岡県福岡市中央区天神２丁目５番３５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001007855",
+      "name": "ＳＣＳＫ九州株式会社",
+      "address": "福岡県福岡市博多区博多駅東１丁目１７番１号コネクトスクエア博多",
+      "prefecture": "福岡県福岡市博多区博多駅東１丁目１７番１号コネクトスクエア博多",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001008903",
+      "name": "株式会社電通九州",
+      "address": "福岡県福岡市中央区赤坂１丁目１６番１０号",
+      "prefecture": "福岡県福岡市中央区赤坂１丁目１６番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001010025",
+      "name": "西日本高速道路エンジニアリング九州株式会社",
+      "address": "福岡県福岡市中央区舞鶴１丁目２番２２号",
+      "prefecture": "福岡県福岡市中央区舞鶴１丁目２番２２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "安全衛生優良企業公表制度－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001012491",
+      "name": "株式会社ＮＴＴデータ九州",
+      "address": "福岡県福岡市博多区博多駅前１丁目１７番２１号",
+      "prefecture": "福岡県福岡市博多区博多駅前１丁目１７番２１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001016220",
+      "name": "三井不動産リアルティ九州株式会社",
+      "address": "福岡県福岡市中央区天神１丁目１番１号",
+      "prefecture": "福岡県福岡市中央区天神１丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001017474",
+      "name": "株式会社菱熱",
+      "address": "福岡県福岡市博多区博多駅南１丁目８番１３号",
+      "prefecture": "福岡県福岡市博多区博多駅南１丁目８番１３号",
+      "certification": [
+        {
+          "certification_name": "九州防衛局優秀工事等顕彰状",
+          "certified_date": "2018-07-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001018175",
+      "name": "株式会社ペンシル",
+      "address": "福岡県福岡市中央区天神１丁目１０番２０号１５階",
+      "prefecture": "福岡県福岡市中央区天神１丁目１０番２０号１５階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001020197",
+      "name": "株式会社イデックスビジネスサービス",
+      "address": "福岡県福岡市博多区店屋町６番１８号",
+      "prefecture": "福岡県福岡市博多区店屋町６番１８号",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001020445",
+      "name": "株式会社よかタウン",
+      "address": "福岡県福岡市東区松島６丁目６番３３号",
+      "prefecture": "福岡県福岡市東区松島６丁目６番３３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001022251",
+      "name": "株式会社ガンバリオン",
+      "address": "福岡県福岡市中央区渡辺通２丁目４番８号",
+      "prefecture": "福岡県福岡市中央区渡辺通２丁目４番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001036565",
+      "name": "株式会社九州フジパン",
+      "address": "福岡県糟屋郡新宮町上府北３丁目１番１号",
+      "prefecture": "福岡県糟屋郡新宮町上府北３丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001040897",
+      "name": "タダスエ建設株式会社",
+      "address": "福岡県筑紫野市大字永岡１２７２番地６９",
+      "prefecture": "福岡県筑紫野市大字永岡１２７２番地６９",
+      "certification": [
+        {
+          "certification_name": "九州防衛局優秀工事等顕彰状",
+          "certified_date": "2018-07-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001041276",
+      "name": "悠悠ホーム株式会社",
+      "address": "福岡県大野城市筒井４丁目１９番１０号",
+      "prefecture": "福岡県大野城市筒井４丁目１９番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001043990",
+      "name": "オーケー食品工業株式会社",
+      "address": "福岡県朝倉市小田１０８０番地１",
+      "prefecture": "福岡県朝倉市小田１０８０番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290001048726",
+      "name": "久留米情報システム株式会社",
+      "address": "福岡県久留米市東櫛原町３８９番地１",
+      "prefecture": "福岡県久留米市東櫛原町３８９番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290005003025",
+      "name": "グリーンコープ生活協同組合連合会",
+      "address": "福岡県福岡市博多区博多駅前１丁目５番１号",
+      "prefecture": "福岡県福岡市博多区博多駅前１丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "大臣感謝状",
+          "certified_date": "2024-07-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290005003504",
+      "name": "特定非営利活動法人コンシューマー福岡",
+      "address": "福岡県福岡市東区箱崎５丁目１１番６－４１６号",
+      "prefecture": "福岡県福岡市東区箱崎５丁目１１番６－４１６号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2011-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290005012950",
+      "name": "社会保険労務士法人アドバンス",
+      "address": "福岡県福岡市中央区舞鶴２丁目２番１１号",
+      "prefecture": "福岡県福岡市中央区舞鶴２丁目２番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290005014609",
+      "name": "ＮＰＯ法人改革プロジェクト",
+      "address": "福岡県宗像市鐘崎４２１－４",
+      "prefecture": "福岡県宗像市鐘崎４２１－４",
+      "certification": [
+        {
+          "certification_name": "第一回「Ｓｐｏｒｔ　ｉｎ　Ｌｉｆｅアワード」",
+          "certified_date": "2022-03-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290801000786",
+      "name": "株式会社川口建設",
+      "address": "福岡県北九州市小倉北区霧ケ丘２丁目２１番６号",
+      "prefecture": "福岡県北九州市小倉北区霧ケ丘２丁目２１番６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290801001727",
+      "name": "株式会社しんこう",
+      "address": "福岡県北九州市小倉南区上曽根新町１３番３号",
+      "prefecture": "福岡県北九州市小倉南区上曽根新町１３番３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290801012146",
+      "name": "九州総合建設株式会社",
+      "address": "福岡県北九州市若松区浜町１丁目６番１８号",
+      "prefecture": "福岡県北九州市若松区浜町１丁目６番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290801012245",
+      "name": "シャボン玉石けん株式会社",
+      "address": "福岡県北九州市若松区南二島２丁目２３番１号",
+      "prefecture": "福岡県北九州市若松区南二島２丁目２３番１号",
+      "certification": [
+        {
+          "certification_name": "第７回グッドライフアワード",
+          "certified_date": "2019-11-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290801015553",
+      "name": "株式会社ウエダ",
+      "address": "福岡県築上郡築上町大字上別府５７９番地の１",
+      "prefecture": "福岡県築上郡築上町大字上別府５７９番地の１",
+      "certification": [
+        {
+          "certification_name": "優秀工事・優秀工事技術者顕彰",
+          "certified_date": "2023-07-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3290801016485",
+      "name": "三好食品工業株式会社",
+      "address": "福岡県田川市大字伊加利２１９９番地の１",
+      "prefecture": "福岡県田川市大字伊加利２１９９番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001007004",
+      "name": "九州電力株式会社",
+      "address": "福岡県福岡市中央区渡辺通２丁目１番８２号",
+      "prefecture": "福岡県福岡市中央区渡辺通２丁目１番８２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001007160",
+      "name": "九電産業株式会社",
+      "address": "福岡県福岡市中央区渡辺通２丁目１番８２号",
+      "prefecture": "福岡県福岡市中央区渡辺通２丁目１番８２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001007656",
+      "name": "株式会社産研設計",
+      "address": "福岡県福岡市博多区上川端町１２番２０号",
+      "prefecture": "福岡県福岡市博多区上川端町１２番２０号",
+      "certification": [
+        {
+          "certification_name": "優秀業務・優秀業務技術者顕彰者",
+          "certified_date": "2023-07-05"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀業務顕彰",
+          "certified_date": "2022-07-13"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀業務技術者顕彰",
+          "certified_date": "2022-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001009413",
+      "name": "西日本鉄道株式会社",
+      "address": "福岡県福岡市中央区天神１丁目１１番１号",
+      "prefecture": "福岡県福岡市中央区天神１丁目１１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001015766",
+      "name": "株式会社博運社",
+      "address": "福岡県福岡市博多区吉塚５丁目５番３２号",
+      "prefecture": "福岡県福岡市博多区吉塚５丁目５番３２号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001017713",
+      "name": "株式会社ディジテック",
+      "address": "福岡県福岡市博多区博多駅前３丁目１８番２８号",
+      "prefecture": "福岡県福岡市博多区博多駅前３丁目１８番２８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001019783",
+      "name": "芙蓉開発株式会社",
+      "address": "福岡県福岡市博多区山王１丁目１０番２９号",
+      "prefecture": "福岡県福岡市博多区山王１丁目１０番２９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001022507",
+      "name": "株式会社テノ．コーポレーション",
+      "address": "福岡県福岡市博多区上呉服町１０番１０号",
+      "prefecture": "福岡県福岡市博多区上呉服町１０番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001023455",
+      "name": "株式会社Ｆｕｓｉｃ",
+      "address": "福岡県福岡市中央区天神４丁目１番７号第３明星ビル６Ｆ",
+      "prefecture": "福岡県福岡市中央区天神４丁目１番７号第３明星ビル６Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001023926",
+      "name": "ＴＩＳ西日本株式会社",
+      "address": "福岡県福岡市博多区博多駅東２丁目５番１号",
+      "prefecture": "福岡県福岡市博多区博多駅東２丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001025724",
+      "name": "株式会社才田組",
+      "address": "福岡県福岡市博多区光丘町１丁目２番３０号",
+      "prefecture": "福岡県福岡市博多区光丘町１丁目２番３０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001038313",
+      "name": "株式会社七洋製作所",
+      "address": "福岡県糟屋郡宇美町ゆりが丘４丁目２番１２号",
+      "prefecture": "福岡県糟屋郡宇美町ゆりが丘４丁目２番１２号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001042983",
+      "name": "ＨＹＵＧＡ　ＰＲＩＭＡＲＹ　ＣＡＲＥ株式会社",
+      "address": "福岡県春日市春日原北町２丁目２番１号",
+      "prefecture": "福岡県春日市春日原北町２丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001045573",
+      "name": "株式会社サカヒラ",
+      "address": "福岡県飯塚市潤野１１３３番地６",
+      "prefecture": "福岡県飯塚市潤野１１３３番地６",
+      "certification": [
+        {
+          "certification_name": "優秀工事・優秀工事技術者顕彰",
+          "certified_date": "2023-07-05"
+        },
+        {
+          "certification_name": "九州防衛局優秀工事等顕彰状",
+          "certified_date": "2019-07-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001067064",
+      "name": "株式会社九州建設マネジメントセンター",
+      "address": "福岡県福岡市博多区博多駅東２丁目１０番３５号",
+      "prefecture": "福岡県福岡市博多区博多駅東２丁目１０番３５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290001085966",
+      "name": "ＪＲ九州ビジネスパートナーズ株式会社",
+      "address": "福岡県福岡市博多区博多駅前１丁目５番１号",
+      "prefecture": "福岡県福岡市博多区博多駅前１丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290002052180",
+      "name": "有限会社Ｌｉｎｋプロジェクト",
+      "address": "福岡県久留米市津福本町１６１８番地３",
+      "prefecture": "福岡県久留米市津福本町１６１８番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290005001267",
+      "name": "学校法人福岡大学",
+      "address": "福岡県福岡市城南区七隈８丁目１９番１号",
+      "prefecture": "福岡県福岡市城南区七隈８丁目１９番１号",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290005013519",
+      "name": "医療法人野崎ウイメンズクリニック",
+      "address": "福岡県福岡市中央区天神１丁目９番１７号",
+      "prefecture": "福岡県福岡市中央区天神１丁目９番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290801003202",
+      "name": "株式会社不動産中央情報センター",
+      "address": "福岡県北九州市小倉北区東篠崎１丁目３番１３号",
+      "prefecture": "福岡県北九州市小倉北区東篠崎１丁目３番１３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290801010181",
+      "name": "大英産業株式会社",
+      "address": "福岡県北九州市八幡西区下上津役４丁目１番３６号",
+      "prefecture": "福岡県北九州市八幡西区下上津役４丁目１番３６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290801011989",
+      "name": "ひびき灘開発株式会社",
+      "address": "福岡県北九州市若松区久岐の浜１番９号",
+      "prefecture": "福岡県北九州市若松区久岐の浜１番９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290805000534",
+      "name": "社会医療法人北九州病院",
+      "address": "福岡県北九州市小倉北区室町３丁目１番２号",
+      "prefecture": "福岡県北九州市小倉北区室町３丁目１番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4290805005013",
+      "name": "医療法人藤紫会",
+      "address": "福岡県北九州市八幡西区椋枝２丁目１０番１５号",
+      "prefecture": "福岡県北九州市八幡西区椋枝２丁目１０番１５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020403482",
+      "name": "久山町",
+      "address": "福岡県糟屋郡久山町大字久原３６３２",
+      "prefecture": "福岡県糟屋郡久山町大字久原３６３２",
+      "certification": [
+        {
+          "certification_name": "地域づくり表彰",
+          "certified_date": "2022-12-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001008224",
+      "name": "西部建設株式会社",
+      "address": "福岡県福岡市中央区地行１丁目１５番２９号",
+      "prefecture": "福岡県福岡市中央区地行１丁目１５番２９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001010106",
+      "name": "フォーサイトシステム株式会社",
+      "address": "福岡県福岡市中央区長浜１丁目４番６号",
+      "prefecture": "福岡県福岡市中央区長浜１丁目４番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001014049",
+      "name": "西部ガス情報システム株式会社",
+      "address": "福岡県福岡市博多区千代１丁目１５番２７号",
+      "prefecture": "福岡県福岡市博多区千代１丁目１５番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001016276",
+      "name": "株式会社福山コンサルタント",
+      "address": "福岡県福岡市博多区博多駅東３丁目６番１８号",
+      "prefecture": "福岡県福岡市博多区博多駅東３丁目６番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001016870",
+      "name": "ミサワホーム九州株式会社",
+      "address": "福岡県福岡市博多区博多駅前３丁目２番８号",
+      "prefecture": "福岡県福岡市博多区博多駅前３丁目２番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001025186",
+      "name": "ロイヤル株式会社",
+      "address": "福岡県福岡市博多区那珂３丁目２８番５号",
+      "prefecture": "福岡県福岡市博多区那珂３丁目２８番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001036357",
+      "name": "株式会社西部技研",
+      "address": "福岡県古賀市青柳３１０８番地３",
+      "prefecture": "福岡県古賀市青柳３１０８番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001037925",
+      "name": "西部電気工業株式会社",
+      "address": "福岡県福岡市博多区博多駅東３丁目７番１号",
+      "prefecture": "福岡県福岡市博多区博多駅東３丁目７番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001045829",
+      "name": "九特興業株式会社",
+      "address": "福岡県飯塚市潤野１１３３番地６",
+      "prefecture": "福岡県飯塚市潤野１１３３番地６",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事等顕彰",
+          "certified_date": "2024-07-18"
+        },
+        {
+          "certification_name": "優秀工事・優秀工事技術者顕彰",
+          "certified_date": "2023-07-05"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-06-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001045969",
+      "name": "株式会社ジャパンネットワークグループ",
+      "address": "福岡県福岡市中央区大名２丁目１２番８号大名町ビル１０階",
+      "prefecture": "福岡県福岡市中央区大名２丁目１２番８号大名町ビル１０階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001046091",
+      "name": "株式会社イーサポート",
+      "address": "福岡県飯塚市新立岩４番地４",
+      "prefecture": "福岡県飯塚市新立岩４番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290001053303",
+      "name": "柳川冷凍食品株式会社",
+      "address": "福岡県柳川市西蒲池１０２７番地１０２８番地",
+      "prefecture": "福岡県柳川市西蒲池１０２７番地１０２８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290002051652",
+      "name": "有限会社共栄資源管理センター小郡",
+      "address": "福岡県小郡市上岩田７６６番地",
+      "prefecture": "福岡県小郡市上岩田７６６番地",
+      "certification": [
+        {
+          "certification_name": "キャリア支援企業表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290005000838",
+      "name": "公益財団法人九州経済調査協会",
+      "address": "福岡県福岡市中央区渡辺通２丁目１番８２号",
+      "prefecture": "福岡県福岡市中央区渡辺通２丁目１番８２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290005001662",
+      "name": "特定医療法人社団三光会",
+      "address": "福岡県大野城市南大利２丁目７番２号",
+      "prefecture": "福岡県大野城市南大利２丁目７番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290005003147",
+      "name": "医療法人貝塚病院",
+      "address": "福岡県福岡市東区箱崎７丁目７番２７号",
+      "prefecture": "福岡県福岡市東区箱崎７丁目７番２７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290005010663",
+      "name": "社会医療法人聖峰会",
+      "address": "福岡県久留米市田主丸町益生田８９２番地",
+      "prefecture": "福岡県久留米市田主丸町益生田８９２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290005013749",
+      "name": "一般財団法人九州環境管理協会",
+      "address": "福岡県福岡市東区松香台１丁目１０番１号",
+      "prefecture": "福岡県福岡市東区松香台１丁目１０番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290801000504",
+      "name": "オーエーセンター株式会社",
+      "address": "福岡県北九州市小倉北区宇佐町２丁目１０番１号",
+      "prefecture": "福岡県北九州市小倉北区宇佐町２丁目１０番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290801002046",
+      "name": "株式会社ゼンリン",
+      "address": "福岡県北九州市小倉北区室町１丁目１番１号",
+      "prefecture": "福岡県北九州市小倉北区室町１丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290801010767",
+      "name": "株式会社安川電機",
+      "address": "福岡県北九州市八幡西区黒崎城石２番１号",
+      "prefecture": "福岡県北九州市八幡西区黒崎城石２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290805005103",
+      "name": "医療法人寿芳会",
+      "address": "福岡県北九州市若松区本町２丁目１５番６号",
+      "prefecture": "福岡県北九州市若松区本町２丁目１５番６号",
+      "certification": [
+        {
+          "certification_name": "キャリア支援企業表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "キャリア支援企業表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290805005607",
+      "name": "医療法人健明会",
+      "address": "福岡県直方市大字上新入２４９０番地の７",
+      "prefecture": "福岡県直方市大字上新入２４９０番地の７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5290805008080",
+      "name": "公益社団法人北九州市障害福祉ボランティア協会",
+      "address": "福岡県北九州市戸畑区汐井町１－６ウェルとばた６Ｆ",
+      "prefecture": "福岡県北九州市戸畑区汐井町１－６ウェルとばた６Ｆ",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5340001004192",
+      "name": "株式会社マツモトキヨシ九州販売",
+      "address": "福岡県福岡市早良区飯倉６丁目２４番２０号",
+      "prefecture": "福岡県福岡市早良区飯倉６丁目２４番２０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6000020400009",
+      "name": "福岡県",
+      "address": "福岡県福岡市博多区東公園７番７号",
+      "prefecture": "福岡県福岡市博多区東公園７番７号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001001120",
+      "name": "株式会社クラフティア",
+      "address": "福岡県福岡市中央区天神１丁目１１番１号ＯＮＥＦＵＫＵＯＫＡＢＬＤＧ．１４階",
+      "prefecture": "福岡県福岡市中央区天神１丁目１１番１号ＯＮＥＦＵＫＵＯＫＡＢＬＤＧ．１４階",
+      "certification": [
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001001707",
+      "name": "株式会社千代田工業所",
+      "address": "福岡県福岡市南区塩原４丁目２８番２５号",
+      "prefecture": "福岡県福岡市南区塩原４丁目２８番２５号",
+      "certification": [
+        {
+          "certification_name": "優秀工事・優秀工事技術者顕彰",
+          "certified_date": "2024-07-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001006672",
+      "name": "大橋エアシステム株式会社",
+      "address": "福岡県福岡市中央区薬院２丁目３番４１号",
+      "prefecture": "福岡県福岡市中央区薬院２丁目３番４１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀工事・優秀工事技術者顕彰",
+          "certified_date": "2023-07-05"
+        },
+        {
+          "certification_name": "九州防衛局優秀工事等顕彰状",
+          "certified_date": "2018-07-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001007068",
+      "name": "株式会社キシヤ",
+      "address": "福岡県福岡市東区松島１丁目４１番２１号",
+      "prefecture": "福岡県福岡市東区松島１丁目４１番２１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001007720",
+      "name": "株式会社サン電工社",
+      "address": "福岡県福岡市中央区鳥飼２丁目６番５１号",
+      "prefecture": "福岡県福岡市中央区鳥飼２丁目６番５１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001010204",
+      "name": "株式会社富士ピー・エス",
+      "address": "福岡県福岡市中央区薬院１丁目１３番８号",
+      "prefecture": "福岡県福岡市中央区薬院１丁目１３番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001010856",
+      "name": "ヤマウホールディングス株式会社",
+      "address": "福岡県福岡市中央区舞鶴３丁目２番１号",
+      "prefecture": "福岡県福岡市中央区舞鶴３丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001010864",
+      "name": "株式会社渕上ファインズ",
+      "address": "福岡県福岡市博多区冷泉町６番１６号",
+      "prefecture": "福岡県福岡市博多区冷泉町６番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001012621",
+      "name": "九州旅客鉄道株式会社",
+      "address": "福岡県福岡市博多区博多駅前３丁目２５番２１号",
+      "prefecture": "福岡県福岡市博多区博多駅前３丁目２５番２１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001013446",
+      "name": "株式会社サニクリーン九州",
+      "address": "福岡県福岡市博多区半道橋１丁目１７番４１号",
+      "prefecture": "福岡県福岡市博多区半道橋１丁目１７番４１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001013578",
+      "name": "ＪＲ九州ファーストフーズ株式会社",
+      "address": "福岡県福岡市博多区博多駅東１丁目１０番７号",
+      "prefecture": "福岡県福岡市博多区博多駅東１丁目１０番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001014048",
+      "name": "西部ガスホールディングス株式会社",
+      "address": "福岡県福岡市博多区千代１丁目１７番１号",
+      "prefecture": "福岡県福岡市博多区千代１丁目１７番１号",
+      "certification": [
+        {
+          "certification_name": "まちづくりアワード（特別賞）",
+          "certified_date": "2022-06-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001014089",
+      "name": "株式会社正興電機製作所",
+      "address": "福岡県福岡市博多区東光２丁目７番２５号",
+      "prefecture": "福岡県福岡市博多区東光２丁目７番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001017604",
+      "name": "イオン九州株式会社",
+      "address": "福岡県福岡市東区香椎浜２丁目８番３０号",
+      "prefecture": "福岡県福岡市東区香椎浜２丁目８番３０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト",
+          "certified_date": "2021-10-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001018305",
+      "name": "双日九州株式会社",
+      "address": "福岡県福岡市中央区天神１丁目４番２号",
+      "prefecture": "福岡県福岡市中央区天神１丁目４番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001019336",
+      "name": "ニッポンロジ株式会社",
+      "address": "福岡県福岡市東区蒲田２丁目３８番３号",
+      "prefecture": "福岡県福岡市東区蒲田２丁目３８番３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001021416",
+      "name": "スリーアール株式会社",
+      "address": "福岡県福岡市博多区東光２丁目８番３０号高光第一ビル２階",
+      "prefecture": "福岡県福岡市博多区東光２丁目８番３０号高光第一ビル２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001021770",
+      "name": "株式会社レベルファイブ",
+      "address": "福岡県福岡市中央区薬院１丁目１番１号",
+      "prefecture": "福岡県福岡市中央区薬院１丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001022802",
+      "name": "ユーロフィンＱＫＥＮ株式会社",
+      "address": "福岡県宗像市王丸４１１－１",
+      "prefecture": "福岡県宗像市王丸４１１－１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001023676",
+      "name": "株式会社読売新聞西部本社",
+      "address": "福岡県福岡市中央区赤坂１丁目１６番５号",
+      "prefecture": "福岡県福岡市中央区赤坂１丁目１６番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001045588",
+      "name": "柴田建設工業株式会社",
+      "address": "福岡県飯塚市柏の森４７７番地の１",
+      "prefecture": "福岡県飯塚市柏の森４７７番地の１",
+      "certification": [
+        {
+          "certification_name": "優秀工事・優秀工事技術者顕彰",
+          "certified_date": "2024-07-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001049168",
+      "name": "株式会社筑邦銀行",
+      "address": "福岡県久留米市諏訪野町２４５６番地の１",
+      "prefecture": "福岡県久留米市諏訪野町２４５６番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001049738",
+      "name": "株式会社ユー・エス・イー",
+      "address": "福岡県久留米市長門石２丁目１０番５８号",
+      "prefecture": "福岡県久留米市長門石２丁目１０番５８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001053970",
+      "name": "中島物産株式会社",
+      "address": "福岡県大牟田市不知火町２丁目７番地の１",
+      "prefecture": "福岡県大牟田市不知火町２丁目７番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001075445",
+      "name": "株式会社ヒューマンリレーション",
+      "address": "福岡県福岡市中央区天神２丁目４－３８ＮＴＴ－ＫＦビル９階",
+      "prefecture": "福岡県福岡市中央区天神２丁目４－３８ＮＴＴ－ＫＦビル９階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001083241",
+      "name": "株式会社サイバー大学",
+      "address": "福岡県福岡市東区香椎照葉３丁目２番１号",
+      "prefecture": "福岡県福岡市東区香椎照葉３丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "テレワーク推進企業等厚生労働大臣表彰－表彰（特別奨励賞）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001084768",
+      "name": "九州電力送配電株式会社",
+      "address": "福岡県福岡市中央区渡辺通２丁目１番８２号",
+      "prefecture": "福岡県福岡市中央区渡辺通２丁目１番８２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290001088579",
+      "name": "西部瓦斯株式会社",
+      "address": "福岡県福岡市博多区千代１丁目１７番１号",
+      "prefecture": "福岡県福岡市博多区千代１丁目１７番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290005014028",
+      "name": "ＮＰＯ法人ＳＦＤ２１ＪＡＰＡＮ",
+      "address": "福岡県福岡市西区大字女原４７２番地２",
+      "prefecture": "福岡県福岡市西区大字女原４７２番地２",
+      "certification": [
+        {
+          "certification_name": "安全安心なまちづくり関係功労者表彰",
+          "certified_date": "2020-10-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290801006665",
+      "name": "新日本熱学株式会社",
+      "address": "福岡県北九州市戸畑区中原新町２番３号",
+      "prefecture": "福岡県北九州市戸畑区中原新町２番３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290801012011",
+      "name": "若築建設株式会社",
+      "address": "福岡県北九州市若松区浜町１丁目４番７号",
+      "prefecture": "福岡県北九州市若松区浜町１丁目４番７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2024-07-05"
+        },
+        {
+          "certification_name": "令和４年度九州農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-02-20"
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020405221",
+      "name": "大木町",
+      "address": "福岡県三潴郡大木町大字八町牟田２５５－１",
+      "prefecture": "福岡県三潴郡大木町大字八町牟田２５５－１",
+      "certification": [
+        {
+          "certification_name": "第８回グッドライフアワード",
+          "certified_date": "2020-12-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130005014868",
+      "name": "一般社団法人ルートプラス",
+      "address": "福岡県福津市日蒔野４丁目８番地１４号",
+      "prefecture": "福岡県福津市日蒔野４丁目８番地１４号",
+      "certification": [
+        {
+          "certification_name": "第２回「Ｓｐｏｒｔ　ｉｎ　Ｌｉｆｅアワード」",
+          "certified_date": "2023-03-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001001409",
+      "name": "株式会社ＥＮＪＥＣ",
+      "address": "福岡県福岡市南区長丘３丁目１番１８号",
+      "prefecture": "福岡県福岡市南区長丘３丁目１番１８号",
+      "certification": [
+        {
+          "certification_name": "環境人づくり企業大賞２０１８",
+          "certified_date": "2019-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001006977",
+      "name": "株式会社ＱＴｎｅｔ",
+      "address": "福岡県福岡市中央区天神１丁目１２番２０号",
+      "prefecture": "福岡県福岡市中央区天神１丁目１２番２０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001008379",
+      "name": "総合メディカル株式会社",
+      "address": "福岡県福岡市中央区大名２丁目９番２３号",
+      "prefecture": "福岡県福岡市中央区大名２丁目９番２３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001012372",
+      "name": "西鉄観光バス株式会社",
+      "address": "福岡県福岡市中央区那の津３丁目８番１５号",
+      "prefecture": "福岡県福岡市中央区那の津３丁目８番１５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001014336",
+      "name": "ユーロフィン太平環境株式会社",
+      "address": "福岡県福岡市博多区金の隈２丁目２番３１号",
+      "prefecture": "福岡県福岡市博多区金の隈２丁目２番３１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001024574",
+      "name": "株式会社ダスキンサーヴ九州",
+      "address": "福岡県福岡市博多区博多駅東２丁目６番２３号",
+      "prefecture": "福岡県福岡市博多区博多駅東２丁目６番２３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001049076",
+      "name": "大電株式会社",
+      "address": "福岡県久留米市南２丁目１５番１号",
+      "prefecture": "福岡県久留米市南２丁目１５番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001049191",
+      "name": "株式会社ムーンスター",
+      "address": "福岡県久留米市白山町６０番地",
+      "prefecture": "福岡県久留米市白山町６０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001049712",
+      "name": "山一建設工業株式会社",
+      "address": "福岡県久留米市草野町吉木２５０５番地の１",
+      "prefecture": "福岡県久留米市草野町吉木２５０５番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001054159",
+      "name": "オギハラ食品株式会社",
+      "address": "福岡県大牟田市浜田町２０番地の７",
+      "prefecture": "福岡県大牟田市浜田町２０番地の７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001071757",
+      "name": "株式会社ガスパル九州",
+      "address": "福岡県福岡市中央区高砂１丁目１番２９号",
+      "prefecture": "福岡県福岡市中央区高砂１丁目１番２９号",
+      "certification": [
+        {
+          "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
+          "certified_date": "2019-10-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290001076913",
+      "name": "株式会社ミスターマックス",
+      "address": "福岡県福岡市東区松田１丁目５番７号",
+      "prefecture": "福岡県福岡市東区松田１丁目５番７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290005001256",
+      "name": "学校法人中村学園",
+      "address": "福岡県福岡市城南区別府５丁目７番１号",
+      "prefecture": "福岡県福岡市城南区別府５丁目７番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290005002683",
+      "name": "日本遠洋旋網漁業協同組合",
+      "address": "福岡県福岡市中央区長浜３丁目１１番３号",
+      "prefecture": "福岡県福岡市中央区長浜３丁目１１番３号",
+      "certification": [
+        {
+          "certification_name": "大臣感謝状",
+          "certified_date": "2024-07-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290005003087",
+      "name": "特定非営利活動法人はかた夢松原の会",
+      "address": "福岡県福岡市中央区大名１丁目２番１５号",
+      "prefecture": "福岡県福岡市中央区大名１丁目２番１５号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2021-09-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290005005728",
+      "name": "社会福祉法人宗像福祉会",
+      "address": "福岡県宗像市田久２丁目５番１号",
+      "prefecture": "福岡県宗像市田久２丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290801000873",
+      "name": "北九州福祉サービス株式会社",
+      "address": "福岡県北九州市小倉北区馬借１丁目３番２１号きたふくビル",
+      "prefecture": "福岡県北九州市小倉北区馬借１丁目３番２１号きたふくビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290801003744",
+      "name": "株式会社安川ロジステック",
+      "address": "福岡県北九州市小倉北区大手町１２番１号",
+      "prefecture": "福岡県北九州市小倉北区大手町１２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290801018825",
+      "name": "株式会社北九州家守舎",
+      "address": "福岡県北九州市小倉北区魚町２丁目１番７号",
+      "prefecture": "福岡県北九州市小倉北区魚町２丁目１番７号",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2014-06-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290805004994",
+      "name": "特定非営利活動法人則松金山川コスモス会",
+      "address": "福岡県北九州市八幡西区則松６丁目７番１１号",
+      "prefecture": "福岡県北九州市八幡西区則松６丁目７番１１号",
+      "certification": [
+        {
+          "certification_name": "緑化推進運動功労者内閣総理大臣表彰",
+          "certified_date": "2019-04-26"
+        },
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2016-06-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7290805008285",
+      "name": "ＮＰＯ法人しいだコミュニティ倶楽部",
+      "address": "福岡県築上郡築上町大字高塚７８７番地２",
+      "prefecture": "福岡県築上郡築上町大字高塚７８７番地２",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2022-12-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290001001390",
+      "name": "株式会社新生堂薬局",
+      "address": "福岡県福岡市南区中尾３丁目１２番１７号",
+      "prefecture": "福岡県福岡市南区中尾３丁目１２番１７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290001004344",
+      "name": "株式会社西日本シティ銀行",
+      "address": "福岡県福岡市博多区博多駅前３丁目１番１号",
+      "prefecture": "福岡県福岡市博多区博多駅前３丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290001006662",
+      "name": "株式会社オートメイション・テクノロジー",
+      "address": "福岡県福岡市博多区東比恵２丁目８番１６号",
+      "prefecture": "福岡県福岡市博多区東比恵２丁目８番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290001009392",
+      "name": "株式会社西日本新聞社",
+      "address": "福岡県福岡市中央区天神１丁目４番１号",
+      "prefecture": "福岡県福岡市中央区天神１丁目４番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290001009896",
+      "name": "福岡印刷株式会社",
+      "address": "福岡県福岡市中央区天神３丁目４番３号",
+      "prefecture": "福岡県福岡市中央区天神３丁目４番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290001012719",
+      "name": "株式会社アトル",
+      "address": "福岡県福岡市東区香椎浜ふ頭２丁目５番１号",
+      "prefecture": "福岡県福岡市東区香椎浜ふ頭２丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290001019029",
+      "name": "株式会社ＪＩＭＯＳ",
+      "address": "福岡県福岡市博多区冷泉町２番１号",
+      "prefecture": "福岡県福岡市博多区冷泉町２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290001045520",
+      "name": "株式会社筑豊冷機",
+      "address": "福岡県福岡市東区馬出１丁目３２番１３号",
+      "prefecture": "福岡県福岡市東区馬出１丁目３２番１３号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-06-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290001048300",
+      "name": "株式会社赤ちゃんの城",
+      "address": "福岡県久留米市津福今町３７３番地の１",
+      "prefecture": "福岡県久留米市津福今町３７３番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290001049067",
+      "name": "大成ジオテック株式会社",
+      "address": "福岡県久留米市西町１１７４番地の１０",
+      "prefecture": "福岡県久留米市西町１１７４番地の１０",
+      "certification": [
+        {
+          "certification_name": "国土地理院長表彰（優良業務）",
+          "certified_date": "2023-07-19"
+        },
+        {
+          "certification_name": "災害対策関係功労者感謝状贈呈",
+          "certified_date": "2022-02-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290002055139",
+      "name": "株式会社大塚食品",
+      "address": "福岡県大牟田市平原町１４６番地",
+      "prefecture": "福岡県大牟田市平原町１４６番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290005006205",
+      "name": "社会福祉法人柚の木福祉会",
+      "address": "福岡県糟屋郡志免町志免４丁目２２番１１号",
+      "prefecture": "福岡県糟屋郡志免町志免４丁目２２番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2020-12-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290005010941",
+      "name": "ＮＰＯ法人くるめＳＴＰ",
+      "address": "福岡県久留米市東町４９２番地クィーンズ久留米ステーションスクエア１１０１号",
+      "prefecture": "福岡県久留米市東町４９２番地クィーンズ久留米ステーションスクエア１１０１号",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2022-12-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290801001648",
+      "name": "サンアクアＴＯＴＯ株式会社",
+      "address": "福岡県北九州市小倉南区舞ケ丘１丁目２番１号",
+      "prefecture": "福岡県北九州市小倉南区舞ケ丘１丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290801002605",
+      "name": "ＴＯＴＯリモデルサービス株式会社",
+      "address": "福岡県北九州市小倉北区中島２丁目１番１号",
+      "prefecture": "福岡県北九州市小倉北区中島２丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290801003000",
+      "name": "株式会社ニシコン",
+      "address": "福岡県北九州市小倉北区京町３丁目１３番１７号",
+      "prefecture": "福岡県北九州市小倉北区京町３丁目１３番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290801003859",
+      "name": "株式会社陽和",
+      "address": "福岡県北九州市小倉南区大字朽網３９１４番７５",
+      "prefecture": "福岡県北九州市小倉南区大字朽網３９１４番７５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290801004238",
+      "name": "ＴＯＴＯウォシュレットテクノ株式会社",
+      "address": "福岡県北九州市小倉北区中島２丁目１番１号",
+      "prefecture": "福岡県北九州市小倉北区中島２丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290801016613",
+      "name": "株式会社海渡設計",
+      "address": "福岡県福岡市東区名島２丁目２番８号",
+      "prefecture": "福岡県福岡市東区名島２丁目２番８号",
+      "certification": [
+        {
+          "certification_name": "九州防衛局優秀工事等顕彰状",
+          "certified_date": "2018-07-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8290802013700",
+      "name": "化成フロンティアサービス株式会社",
+      "address": "福岡県北九州市八幡西区黒崎城石１番１号",
+      "prefecture": "福岡県北九州市八幡西区黒崎城石１番１号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8320001003037",
+      "name": "株式会社ＱＴｍｅｄｉａ",
+      "address": "福岡県福岡市中央区天神１丁目４番２号",
+      "prefecture": "福岡県福岡市中央区天神１丁目４番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020402290",
+      "name": "みやま市",
+      "address": "福岡県みやま市瀬高町小川５",
+      "prefecture": "福岡県みやま市瀬高町小川５",
+      "certification": [
+        {
+          "certification_name": "第７回グッドライフアワード",
+          "certified_date": "2019-11-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9010001044516",
+      "name": "株式会社三洋コンサルタント",
+      "address": "福岡県北九州市門司区高田１丁目３番１号",
+      "prefecture": "福岡県北九州市門司区高田１丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001004368",
+      "name": "株式会社福岡中央銀行",
+      "address": "福岡県福岡市中央区大名２丁目１２番１号",
+      "prefecture": "福岡県福岡市中央区大名２丁目１２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001006249",
+      "name": "株式会社伊藤商店",
+      "address": "福岡県福岡市中央区天神３丁目１０番１号",
+      "prefecture": "福岡県福岡市中央区天神３丁目１０番１号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001008146",
+      "name": "九電不動産株式会社",
+      "address": "福岡県福岡市中央区薬院１丁目１３番８号",
+      "prefecture": "福岡県福岡市中央区薬院１丁目１３番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001015357",
+      "name": "株式会社ソフトサービス",
+      "address": "福岡県福岡市博多区東光２丁目１４－１",
+      "prefecture": "福岡県福岡市博多区東光２丁目１４－１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001017650",
+      "name": "福岡トヨペツト株式会社",
+      "address": "福岡県福岡市博多区東光１丁目６番１３号",
+      "prefecture": "福岡県福岡市博多区東光１丁目６番１３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001023673",
+      "name": "株式会社読売西部サービス",
+      "address": "福岡県福岡市中央区赤坂１丁目１６番５号",
+      "prefecture": "福岡県福岡市中央区赤坂１丁目１６番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001024746",
+      "name": "株式会社すこやか工房",
+      "address": "福岡県福岡市博多区冷泉町９－２６",
+      "prefecture": "福岡県福岡市博多区冷泉町９－２６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001033879",
+      "name": "株式会社フィネス",
+      "address": "福岡県福岡市博多区博多駅南２丁目８番３５号博多ステラビル４階",
+      "prefecture": "福岡県福岡市博多区博多駅南２丁目８番３５号博多ステラビル４階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001041122",
+      "name": "株式会社冨士機",
+      "address": "福岡県福岡市博多区博多駅東１丁目１０番３０号",
+      "prefecture": "福岡県福岡市博多区博多駅東１丁目１０番３０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001045338",
+      "name": "一番食品株式会社",
+      "address": "福岡県飯塚市伊川１１１５番地",
+      "prefecture": "福岡県飯塚市伊川１１１５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001053175",
+      "name": "株式会社ファインテック",
+      "address": "福岡県柳川市西浜武５７５番地１",
+      "prefecture": "福岡県柳川市西浜武５７５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290001053209",
+      "name": "堀永殖産株式会社",
+      "address": "福岡県みやま市瀬高町大江１８１８番地",
+      "prefecture": "福岡県みやま市瀬高町大江１８１８番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290003004894",
+      "name": "西部ガス絆結株式会社",
+      "address": "福岡県福岡市博多区千代１丁目１７番１号",
+      "prefecture": "福岡県福岡市博多区千代１丁目１７番１号",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（厚生労働省人材開発統括官表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290005006245",
+      "name": "医療法人成雅会",
+      "address": "福岡県糟屋郡須惠町大字新原１４番地の７",
+      "prefecture": "福岡県糟屋郡須惠町大字新原１４番地の７",
+      "certification": [
+        {
+          "certification_name": "高年齢者雇用開発コンテスト",
+          "certified_date": "2020-10-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290005006674",
+      "name": "公益財団法人おおのじょう緑のトラスト協会",
+      "address": "福岡県大野城市御笠川３丁目４番１号",
+      "prefecture": "福岡県大野城市御笠川３丁目４番１号",
+      "certification": [
+        {
+          "certification_name": "緑化推進運動功労者内閣総理大臣表彰",
+          "certified_date": "2018-04-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290801012529",
+      "name": "株式会社デンソー九州",
+      "address": "福岡県北九州市八幡西区本城５丁目４番１号",
+      "prefecture": "福岡県北九州市八幡西区本城５丁目４番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290802009516",
+      "name": "有限会社新門司建設",
+      "address": "福岡県北九州市門司区大字猿喰６２９番地の１０",
+      "prefecture": "福岡県北九州市門司区大字猿喰６２９番地の１０",
+      "certification": [
+        {
+          "certification_name": "環境人づくり企業大賞２０１８",
+          "certified_date": "2019-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290805003499",
+      "name": "国立大学法人九州工業大学",
+      "address": "福岡県北九州市戸畑区仙水町１番１号",
+      "prefecture": "福岡県北九州市戸畑区仙水町１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9290805006064",
+      "name": "特定非営利活動法人直方川づくりの会",
+      "address": "福岡県直方市溝堀３丁目６番４１号",
+      "prefecture": "福岡県直方市溝堀３丁目６番４１号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2016-06-12"
+        }
+      ]
+    }
+  ]
+}

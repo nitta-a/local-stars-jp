@@ -1,0 +1,1724 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1030001063612",
+      "name": "株式会社岩井化成",
+      "address": "茨城県坂東市馬立南の台１２６３番地２",
+      "prefecture": "茨城県坂東市馬立南の台１２６３番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001000563",
+      "name": "株式会社ＭＫエレクトロニクス",
+      "address": "茨城県水戸市堀町１１６５番地の９４",
+      "prefecture": "茨城県水戸市堀町１１６５番地の９４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001001231",
+      "name": "株式会社常陽銀行",
+      "address": "茨城県水戸市南町２丁目５番５号",
+      "prefecture": "茨城県水戸市南町２丁目５番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001001867",
+      "name": "トヨタカローラ新茨城株式会社",
+      "address": "茨城県水戸市水府町１５２２番地の１",
+      "prefecture": "茨城県水戸市水府町１５２２番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001002213",
+      "name": "株式会社フットボールクラブ水戸ホーリーホック",
+      "address": "茨城県水戸市宮町１丁目７番４４号ＣＯＭＢＯＸ３１０、１階",
+      "prefecture": "茨城県水戸市宮町１丁目７番４４号ＣＯＭＢＯＸ３１０、１階",
+      "certification": [
+        {
+          "certification_name": "第一回「Ｓｐｏｒｔ　ｉｎ　Ｌｉｆｅアワード」",
+          "certified_date": "2022-03-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001002254",
+      "name": "株式会社アンドエスティＨＤ",
+      "address": "茨城県水戸市泉町３丁目１番２７号",
+      "prefecture": "茨城県水戸市泉町３丁目１番２７号",
+      "certification": [
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001007996",
+      "name": "株式会社潤工社",
+      "address": "茨城県笠間市福田９６１番地２０",
+      "prefecture": "茨城県笠間市福田９６１番地２０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001010315",
+      "name": "三展ミネコンサルタント株式会社",
+      "address": "茨城県土浦市桜町４丁目１１番１４号",
+      "prefecture": "茨城県土浦市桜町４丁目１１番１４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001020339",
+      "name": "株式会社ハラキン",
+      "address": "茨城県鹿嶋市大字武井釜８１２番地１",
+      "prefecture": "茨城県鹿嶋市大字武井釜８１２番地１",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001021106",
+      "name": "株式会社横河ＮＳエンジニアリング",
+      "address": "茨城県神栖市砂山１６番地５",
+      "prefecture": "茨城県神栖市砂山１６番地５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001023399",
+      "name": "東鉱商事株式会社",
+      "address": "茨城県日立市幸町１丁目３番８号",
+      "prefecture": "茨城県日立市幸町１丁目３番８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001023548",
+      "name": "株式会社堀田電機製作所",
+      "address": "茨城県日立市石名坂町２丁目４３番９号",
+      "prefecture": "茨城県日立市石名坂町２丁目４３番９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001023572",
+      "name": "株式会社日昌製作所",
+      "address": "茨城県日立市滑川町１丁目９番１０号",
+      "prefecture": "茨城県日立市滑川町１丁目９番１０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001025313",
+      "name": "常磐建設株式会社",
+      "address": "茨城県龍ケ崎市馴馬町２８４６番地１",
+      "prefecture": "茨城県龍ケ崎市馴馬町２８４６番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001026889",
+      "name": "海老根建設株式会社",
+      "address": "茨城県久慈郡大子町大字大子１８３５番地２",
+      "prefecture": "茨城県久慈郡大子町大字大子１８３５番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001029495",
+      "name": "日本エクシード株式会社",
+      "address": "茨城県常総市内守谷町４３８２番地４",
+      "prefecture": "茨城県常総市内守谷町４３８２番地４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050001030156",
+      "name": "渡辺食品株式会社",
+      "address": "茨城県常総市古間木３５７番地の２",
+      "prefecture": "茨城県常総市古間木３５７番地の２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1050005000147",
+      "name": "水戸信用金庫",
+      "address": "茨城県水戸市城南２丁目２番２１号",
+      "prefecture": "茨城県水戸市城南２丁目２番２１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2010401157080",
+      "name": "ＯＢＡＲＡエナジーコンポーネンツ株式会社",
+      "address": "茨城県石岡市柏原４番地２",
+      "prefecture": "茨城県石岡市柏原４番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050001001057",
+      "name": "株式会社坂場商店",
+      "address": "茨城県水戸市本町２丁目７番８号",
+      "prefecture": "茨城県水戸市本町２丁目７番８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050001002914",
+      "name": "株式会社柳田組",
+      "address": "茨城県東茨城郡茨城町大字小鶴１３５７番地３",
+      "prefecture": "茨城県東茨城郡茨城町大字小鶴１３５７番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050001005181",
+      "name": "昭和建設株式会社",
+      "address": "茨城県水戸市千波町１９０５番地",
+      "prefecture": "茨城県水戸市千波町１９０５番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事",
+          "certified_date": "2021-07-14"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050001007269",
+      "name": "株式会社吉田屋",
+      "address": "茨城県東茨城郡大洗町磯浜町５４６番地",
+      "prefecture": "茨城県東茨城郡大洗町磯浜町５４６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050001009364",
+      "name": "栗田アルミ工業株式会社",
+      "address": "茨城県土浦市北神立町４番地５",
+      "prefecture": "茨城県土浦市北神立町４番地５",
+      "certification": [
+        {
+          "certification_name": "キャリア支援企業表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "キャリア支援企業表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050001011691",
+      "name": "筑波乳業株式会社",
+      "address": "茨城県石岡市泉町６番１号",
+      "prefecture": "茨城県石岡市泉町６番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050001018530",
+      "name": "北進産業株式会社",
+      "address": "茨城県古河市大山１５１７番地",
+      "prefecture": "茨城県古河市大山１５１７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050001021625",
+      "name": "株式会社茂木工務店",
+      "address": "茨城県潮来市辻６６番地の３",
+      "prefecture": "茨城県潮来市辻６６番地の３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050001031384",
+      "name": "関東道路株式会社",
+      "address": "茨城県筑西市下川島６３５番地",
+      "prefecture": "茨城県筑西市下川島６３５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050001031500",
+      "name": "関彰商事株式会社",
+      "address": "茨城県筑西市一本松１７５５番地２",
+      "prefecture": "茨城県筑西市一本松１７５５番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050005005211",
+      "name": "国立研究開発法人物質・材料研究機構",
+      "address": "茨城県つくば市千現１丁目２番地１",
+      "prefecture": "茨城県つくば市千現１丁目２番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050005005541",
+      "name": "社会福祉法人芳香会",
+      "address": "茨城県古河市上大野６９８番地",
+      "prefecture": "茨城県古河市上大野６９８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050005010310",
+      "name": "結城信用金庫",
+      "address": "茨城県結城市大字結城５５７番地",
+      "prefecture": "茨城県結城市大字結城５５７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2050005011481",
+      "name": "一般社団法人ＡＯＡａｒｔ",
+      "address": "茨城県つくば市谷田部４３７７番地",
+      "prefecture": "茨城県つくば市谷田部４３７７番地",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3000020085464",
+      "name": "境町",
+      "address": "茨城県猿島郡境町３９１－１",
+      "prefecture": "茨城県猿島郡境町３９１－１",
+      "certification": [
+        {
+          "certification_name": "外務大臣表彰",
+          "certified_date": "2022-08-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001000462",
+      "name": "株式会社ヴィオーラ",
+      "address": "茨城県水戸市見川町２１３１番地の４０４",
+      "prefecture": "茨城県水戸市見川町２１３１番地の４０４",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001000586",
+      "name": "株式会社大塚製作所",
+      "address": "茨城県水戸市谷津町細田１番地６４",
+      "prefecture": "茨城県水戸市谷津町細田１番地６４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001001163",
+      "name": "常陽コンピューターサービス株式会社",
+      "address": "茨城県水戸市西原２丁目１６番２５号",
+      "prefecture": "茨城県水戸市西原２丁目１６番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001002987",
+      "name": "株式会社旭物産",
+      "address": "茨城県水戸市高田町１２７番地",
+      "prefecture": "茨城県水戸市高田町１２７番地",
+      "certification": [
+        {
+          "certification_name": "第４１回食品産業優良企業等表彰",
+          "certified_date": "2020-03-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001003283",
+      "name": "株式会社ナムチェバザール",
+      "address": "茨城県水戸市末広町２丁目２番１０号",
+      "prefecture": "茨城県水戸市末広町２丁目２番１０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001005560",
+      "name": "株式会社九州ケーズデンキ",
+      "address": "茨城県水戸市城南２丁目７番５号",
+      "prefecture": "茨城県水戸市城南２丁目７番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001009405",
+      "name": "高橋興業株式会社",
+      "address": "茨城県土浦市大町１２番１号",
+      "prefecture": "茨城県土浦市大町１２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001011939",
+      "name": "美野里デリカ株式会社",
+      "address": "茨城県小美玉市納場６１７番地の１",
+      "prefecture": "茨城県小美玉市納場６１７番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001023645",
+      "name": "マルイアドバンス株式会社",
+      "address": "茨城県日立市森山町５丁目８番１８号",
+      "prefecture": "茨城県日立市森山町５丁目８番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001024692",
+      "name": "株式会社ユニキャスト",
+      "address": "茨城県日立市大みか町３丁目１番１２号",
+      "prefecture": "茨城県日立市大みか町３丁目１番１２号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001026524",
+      "name": "株式会社三友製作所",
+      "address": "茨城県常陸太田市馬場町４５７",
+      "prefecture": "茨城県常陸太田市馬場町４５７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001028215",
+      "name": "フォージテックカワベ株式会社",
+      "address": "茨城県つくばみらい市野堀字原山４７９番地８",
+      "prefecture": "茨城県つくばみらい市野堀字原山４７９番地８",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050001029329",
+      "name": "株式会社アトック",
+      "address": "茨城県常総市水海道淵頭町２９５２番地",
+      "prefecture": "茨城県常総市水海道淵頭町２９５２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050002033065",
+      "name": "有限会社川原代自動車電機工業所",
+      "address": "茨城県龍ケ崎市南中島町５７番地５",
+      "prefecture": "茨城県龍ケ崎市南中島町５７番地５",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（職業能力開発局長表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（職業能力開発局長表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050005004765",
+      "name": "医療法人社団健美会",
+      "address": "茨城県坂東市辺田６３５番地１",
+      "prefecture": "茨城県坂東市辺田６３５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050005005210",
+      "name": "国立研究開発法人防災科学技術研究所",
+      "address": "茨城県つくば市天王台３丁目１番地",
+      "prefecture": "茨城県つくば市天王台３丁目１番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050005008411",
+      "name": "医療法人博仁会",
+      "address": "茨城県常陸大宮市上町３１３番地",
+      "prefecture": "茨城県常陸大宮市上町３１３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3050005009938",
+      "name": "医療法人社団平仁会",
+      "address": "茨城県筑西市野殿１１３１番地",
+      "prefecture": "茨城県筑西市野殿１１３１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020082279",
+      "name": "筑西市",
+      "address": "茨城県筑西市丙３６０",
+      "prefecture": "茨城県筑西市丙３６０",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020088862",
+      "name": "筑西広域市町村圏事務組合",
+      "address": "茨城県筑西市直井１０７６",
+      "prefecture": "茨城県筑西市直井１０７６",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001000494",
+      "name": "ウルノ商事株式会社",
+      "address": "茨城県水戸市元吉田町１０７７番２",
+      "prefecture": "茨城県水戸市元吉田町１０７７番２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001005873",
+      "name": "茨城グランディハウス株式会社",
+      "address": "茨城県水戸市けやき台３丁目５６番地",
+      "prefecture": "茨城県水戸市けやき台３丁目５６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001009057",
+      "name": "株式会社筑波銀行",
+      "address": "茨城県土浦市中央２丁目１１番７号",
+      "prefecture": "茨城県土浦市中央２丁目１１番７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001015955",
+      "name": "株式会社東京電機",
+      "address": "茨城県つくば市桜３丁目１１番地１",
+      "prefecture": "茨城県つくば市桜３丁目１１番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001016689",
+      "name": "キヤノン化成株式会社",
+      "address": "茨城県つくば市茎崎１８８８番地２",
+      "prefecture": "茨城県つくば市茎崎１８８８番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001020451",
+      "name": "株式会社いわい",
+      "address": "茨城県神栖市奥野谷５９００番の１１",
+      "prefecture": "茨城県神栖市奥野谷５９００番の１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001023479",
+      "name": "日立電設工事株式会社",
+      "address": "茨城県日立市城南町３丁目３番５号",
+      "prefecture": "茨城県日立市城南町３丁目３番５号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001026589",
+      "name": "野内商事株式会社",
+      "address": "茨城県常陸太田市木崎一町７７９番地",
+      "prefecture": "茨城県常陸太田市木崎一町７７９番地",
+      "certification": [
+        {
+          "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
+          "certified_date": "2018-10-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001028016",
+      "name": "桂建設株式会社",
+      "address": "茨城県牛久市さくら台１丁目１８番地４",
+      "prefecture": "茨城県牛久市さくら台１丁目１８番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001028874",
+      "name": "十和運送株式会社",
+      "address": "茨城県つくばみらい市細代４０８番地１",
+      "prefecture": "茨城県つくばみらい市細代４０８番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050001031580",
+      "name": "日本デイリーネット株式会社",
+      "address": "茨城県筑西市みどり町２丁目１番１号",
+      "prefecture": "茨城県筑西市みどり町２丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050005005267",
+      "name": "大学共同利用機関法人高エネルギー加速器研究機構",
+      "address": "茨城県つくば市大穂１番地１",
+      "prefecture": "茨城県つくば市大穂１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4050005005317",
+      "name": "国立研究開発法人森林研究・整備機構",
+      "address": "茨城県つくば市松の里１番地",
+      "prefecture": "茨城県つくば市松の里１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050001001616",
+      "name": "高橋建設工業株式会社",
+      "address": "茨城県水戸市双葉台５丁目８１１番地の２",
+      "prefecture": "茨城県水戸市双葉台５丁目８１１番地の２",
+      "certification": [
+        {
+          "certification_name": "令和４年度関東農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050001004569",
+      "name": "株式会社グルービー",
+      "address": "茨城県那珂郡東海村舟石川駅西４丁目１０番６号",
+      "prefecture": "茨城県那珂郡東海村舟石川駅西４丁目１０番６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050001009824",
+      "name": "株式会社山本工務店",
+      "address": "茨城県土浦市東崎町１１番５号",
+      "prefecture": "茨城県土浦市東崎町１１番５号",
+      "certification": [
+        {
+          "certification_name": "令和３年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2022-01-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050001010807",
+      "name": "伸栄工業株式会社",
+      "address": "茨城県かすみがうら市上稲吉１７５１番地",
+      "prefecture": "茨城県かすみがうら市上稲吉１７５１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050001016325",
+      "name": "株式会社カイテキホーム",
+      "address": "茨城県つくば市筑穂２丁目３番地１",
+      "prefecture": "茨城県つくば市筑穂２丁目３番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050001024047",
+      "name": "日興建設株式会社",
+      "address": "茨城県高萩市大字安良川９１５番地４",
+      "prefecture": "茨城県高萩市大字安良川９１５番地４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050001024204",
+      "name": "株式会社ジェイ・オー・エヌ・七二",
+      "address": "茨城県北茨城市関本町富士ケ丘９２２番地５",
+      "prefecture": "茨城県北茨城市関本町富士ケ丘９２２番地５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050001025012",
+      "name": "株式会社アゲル",
+      "address": "茨城県つくば市研究学園４丁目１番地９",
+      "prefecture": "茨城県つくば市研究学園４丁目１番地９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050001025383",
+      "name": "株式会社諸岡",
+      "address": "茨城県龍ケ崎市庄兵衛新田町３５８番地",
+      "prefecture": "茨城県龍ケ崎市庄兵衛新田町３５８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050001027990",
+      "name": "株式会社牛久製作所",
+      "address": "茨城県牛久市牛久町５０４番地の１",
+      "prefecture": "茨城県牛久市牛久町５０４番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050002039572",
+      "name": "株式会社アオイ・サラウンディングス",
+      "address": "茨城県常総市新石下２７３１番地１",
+      "prefecture": "茨城県常総市新石下２７３１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050005000481",
+      "name": "茨城県信用組合",
+      "address": "茨城県水戸市大町２丁目３番１２号",
+      "prefecture": "茨城県水戸市大町２丁目３番１２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5050005005266",
+      "name": "国立大学法人筑波大学",
+      "address": "茨城県つくば市天王台１丁目１番１",
+      "prefecture": "茨城県つくば市天王台１丁目１番１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360001015948",
+      "name": "アディッシュプラス株式会社",
+      "address": "茨城県鹿嶋市宮中１丁目９番３５号",
+      "prefecture": "茨城県鹿嶋市宮中１丁目９番３５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6000020082252",
+      "name": "常陸大宮市",
+      "address": "茨城県常陸大宮市中富町３１３５－６",
+      "prefecture": "茨城県常陸大宮市中富町３１３５－６",
+      "certification": [
+        {
+          "certification_name": "令和５年度「未来につながる持続可能な農業推進コンクール」",
+          "certified_date": "2024-06-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050001000278",
+      "name": "茨城トヨペット株式会社",
+      "address": "茨城県水戸市千波町２０２８番地の１",
+      "prefecture": "茨城県水戸市千波町２０２８番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050001000897",
+      "name": "株式会社ケーズホールディングス",
+      "address": "茨城県水戸市城南２丁目７番５号",
+      "prefecture": "茨城県水戸市城南２丁目７番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050001001730",
+      "name": "デジタルサーブ株式会社",
+      "address": "茨城県水戸市白梅２丁目３番１６号",
+      "prefecture": "茨城県水戸市白梅２丁目３番１６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050001006325",
+      "name": "株式会社タンゲ製作所",
+      "address": "茨城県那珂市向山字笠松１２３０番２",
+      "prefecture": "茨城県那珂市向山字笠松１２３０番２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050001009303",
+      "name": "株式会社ジョイフル本田",
+      "address": "茨城県土浦市富士崎１丁目１６番２号",
+      "prefecture": "茨城県土浦市富士崎１丁目１６番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050001012067",
+      "name": "エア・ウォーター・リアライズ株式会社",
+      "address": "茨城県小美玉市三箇８１７番地１",
+      "prefecture": "茨城県小美玉市三箇８１７番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050001014550",
+      "name": "キヤノンセミコンダクターエクィップメント株式会社",
+      "address": "茨城県稲敷郡阿見町大字吉原３５７７番地",
+      "prefecture": "茨城県稲敷郡阿見町大字吉原３５７７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050001015301",
+      "name": "株式会社あいだ測量設計",
+      "address": "茨城県つくば市西高野３１２番地３",
+      "prefecture": "茨城県つくば市西高野３１２番地３",
+      "certification": [
+        {
+          "certification_name": "国土地理院関東地方測量部長表彰（優良業務）",
+          "certified_date": "2023-07-19"
+        },
+        {
+          "certification_name": "国土地理院長表彰（優良業務）",
+          "certified_date": "2019-07-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050001026579",
+      "name": "ピジョンマニュファクチャリング茨城株式会社",
+      "address": "茨城県常陸太田市岡田町２０６８番地１",
+      "prefecture": "茨城県常陸太田市岡田町２０６８番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050001037106",
+      "name": "株式会社茨城新聞社",
+      "address": "茨城県水戸市笠原町９７８番地２５茨城県開発公社ビル",
+      "prefecture": "茨城県水戸市笠原町９７８番地２５茨城県開発公社ビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2023-12-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050005002007",
+      "name": "国立研究開発法人日本原子力研究開発機構",
+      "address": "茨城県那珂郡東海村大字舟石川７６５番地１",
+      "prefecture": "茨城県那珂郡東海村大字舟石川７６５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050005003657",
+      "name": "社会福祉法人泰仁会",
+      "address": "茨城県石岡市小倉字狐原４４２－１",
+      "prefecture": "茨城県石岡市小倉字狐原４４２－１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6050005007278",
+      "name": "特定非営利活動法人森の自然学校助川山保全くらぶ",
+      "address": "茨城県日立市西成沢町４丁目１８番９号",
+      "prefecture": "茨城県日立市西成沢町４丁目１８番９号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2019-05-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050001002975",
+      "name": "株式会社鯉淵工業",
+      "address": "茨城県水戸市鯉淵町１１９９番地",
+      "prefecture": "茨城県水戸市鯉淵町１１９９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050001004071",
+      "name": "株木建設株式会社",
+      "address": "茨城県水戸市吉沢町３１１番地１",
+      "prefecture": "茨城県水戸市吉沢町３１１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2024-02-08"
+        },
+        {
+          "certification_name": "令和３年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2022-01-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050001005202",
+      "name": "株式会社関西ケーズデンキ",
+      "address": "茨城県水戸市城南２丁目７番５号",
+      "prefecture": "茨城県水戸市城南２丁目７番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050001010004",
+      "name": "日本サポートシステム株式会社",
+      "address": "茨城県土浦市卸町２丁目１３番３号",
+      "prefecture": "茨城県土浦市卸町２丁目１３番３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050001013519",
+      "name": "西山運輸機工株式会社",
+      "address": "茨城県結城郡八千代町大字尾崎３０９番地の１",
+      "prefecture": "茨城県結城郡八千代町大字尾崎３０９番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050001024697",
+      "name": "株式会社アプリシエイト",
+      "address": "茨城県水戸市三の丸１丁目１番３号ステーションフロント水戸７Ｆ",
+      "prefecture": "茨城県水戸市三の丸１丁目１番３号ステーションフロント水戸７Ｆ",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050001031710",
+      "name": "エンケイマカベ株式会社",
+      "address": "茨城県桜川市真壁町下小幡３５番地",
+      "prefecture": "茨城県桜川市真壁町下小幡３５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050001031925",
+      "name": "株式会社安秀工業",
+      "address": "茨城県筑西市蒔田２番地の２",
+      "prefecture": "茨城県筑西市蒔田２番地の２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050005002245",
+      "name": "医療法人蔦会",
+      "address": "茨城県ひたちなか市笹野町１丁目３番１号",
+      "prefecture": "茨城県ひたちなか市笹野町１丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050005004010",
+      "name": "いばらきコープ生活協同組合",
+      "address": "茨城県小美玉市西郷地１７０３番地",
+      "prefecture": "茨城県小美玉市西郷地１７０３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2015-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050005005207",
+      "name": "国立研究開発法人農業・食品産業技術総合研究機構",
+      "address": "茨城県つくば市観音台３丁目１番地１",
+      "prefecture": "茨城県つくば市観音台３丁目１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050005007517",
+      "name": "社会福祉法人山水苑",
+      "address": "茨城県日立市下深荻町字富士山下１７７０番地",
+      "prefecture": "茨城県日立市下深荻町字富士山下１７７０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050005008408",
+      "name": "社会福祉法人博友会",
+      "address": "茨城県常陸大宮市野口平１４６番地の１",
+      "prefecture": "茨城県常陸大宮市野口平１４６番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050005009926",
+      "name": "社会福祉法人征峯会",
+      "address": "茨城県筑西市上平塚５９０番地１",
+      "prefecture": "茨城県筑西市上平塚５９０番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7050005010710",
+      "name": "一般財団法人高度情報科学技術研究機構",
+      "address": "茨城県那珂郡東海村大字白方字白根２番地の４",
+      "prefecture": "茨城県那珂郡東海村大字白方字白根２番地の４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050001002009",
+      "name": "株式会社ノーブルホーム",
+      "address": "茨城県水戸市笠原町１１９６番地の１５",
+      "prefecture": "茨城県水戸市笠原町１１９６番地の１５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050001007123",
+      "name": "株式会社ヤマイチ",
+      "address": "茨城県ひたちなか市南神敷台１０番地１０",
+      "prefecture": "茨城県ひたちなか市南神敷台１０番地１０",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050001007305",
+      "name": "株式会社大倉商事",
+      "address": "茨城県ひたちなか市大字中根４９２４番地",
+      "prefecture": "茨城県ひたちなか市大字中根４９２４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050001009466",
+      "name": "株式会社ジステック",
+      "address": "茨城県土浦市小松３丁目２４番２５号",
+      "prefecture": "茨城県土浦市小松３丁目２４番２５号",
+      "certification": [
+        {
+          "certification_name": "令和４年度関東農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050001014557",
+      "name": "キヤノンエコロジーインダストリー株式会社",
+      "address": "茨城県坂東市馬立１２３４番地",
+      "prefecture": "茨城県坂東市馬立１２３４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050001016297",
+      "name": "株式会社カスミ",
+      "address": "茨城県つくば市西大橋５９９番地１",
+      "prefecture": "茨城県つくば市西大橋５９９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050001016537",
+      "name": "ＣＹＢＥＲＤＹＮＥ株式会社",
+      "address": "茨城県つくば市学園南２丁目２番地１",
+      "prefecture": "茨城県つくば市学園南２丁目２番地１",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2020-04-17"
+        },
+        {
+          "certification_name": "工業標準化事業表彰",
+          "certified_date": "2018-10-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050001022873",
+      "name": "アイガ電子工業株式会社",
+      "address": "茨城県日立市千石町３丁目１７番１５号",
+      "prefecture": "茨城県日立市千石町３丁目１７番１５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050001037921",
+      "name": "株式会社茨城荷役運輸",
+      "address": "茨城県東茨城郡茨城町大字長岡３４７４番地１",
+      "prefecture": "茨城県東茨城郡茨城町大字長岡３４７４番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050002035825",
+      "name": "株式会社ＪＡ常陸アグリサポート",
+      "address": "茨城県常陸大宮市東野３２１８番地の２",
+      "prefecture": "茨城県常陸大宮市東野３２１８番地の２",
+      "certification": [
+        {
+          "certification_name": "令和４年度関東農政局土地改良事業地区営農推進功労者表彰",
+          "certified_date": "2022-11-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050005000982",
+      "name": "生活協同組合パルシステム茨城栃木",
+      "address": "茨城県水戸市梅香２丁目１番３９号",
+      "prefecture": "茨城県水戸市梅香２丁目１番３９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2014-05-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8050005002590",
+      "name": "社会福祉法人木犀会",
+      "address": "茨城県笠間市鯉淵６２６６番地１８５",
+      "prefecture": "茨城県笠間市鯉淵６２６６番地１８５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9050001000291",
+      "name": "茨城日産自動車株式会社",
+      "address": "茨城県水戸市千波町１９４９番地１",
+      "prefecture": "茨城県水戸市千波町１９４９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9050001002899",
+      "name": "株式会社美鈴",
+      "address": "茨城県水戸市米沢町４１５番地の１",
+      "prefecture": "茨城県水戸市米沢町４１５番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9050001006545",
+      "name": "株式会社あ印",
+      "address": "茨城県ひたちなか市沢メキ１１１０番地の９",
+      "prefecture": "茨城県ひたちなか市沢メキ１１１０番地の９",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9050001007923",
+      "name": "大平建設株式会社",
+      "address": "茨城県笠間市鯉渕６３４０番地",
+      "prefecture": "茨城県笠間市鯉渕６３４０番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事",
+          "certified_date": "2021-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9050001017377",
+      "name": "ペンギンシステム株式会社",
+      "address": "茨城県つくば市千現２丁目１番地６つくば研究支援センターＣＢ１０",
+      "prefecture": "茨城県つくば市千現２丁目１番地６つくば研究支援センターＣＢ１０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9050001020109",
+      "name": "大川運輸株式会社",
+      "address": "茨城県鹿嶋市宮中２丁目４番１３号",
+      "prefecture": "茨城県鹿嶋市宮中２丁目４番１３号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9050001026584",
+      "name": "瑞井精工株式会社",
+      "address": "茨城県常陸太田市馬場町９４８番地の１",
+      "prefecture": "茨城県常陸太田市馬場町９４８番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9050005000858",
+      "name": "茨城県生活協同組合連合会",
+      "address": "茨城県水戸市梅香１丁目５番５号茨城県ＪＡ会館分館５階",
+      "prefecture": "茨城県水戸市梅香１丁目５番５号茨城県ＪＡ会館分館５階",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2015-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9050005001006",
+      "name": "社会福祉法人勇成会",
+      "address": "茨城県水戸市下入野町１９２４番地１",
+      "prefecture": "茨城県水戸市下入野町１９２４番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9050005001955",
+      "name": "特定非営利活動法人消費者サポートいばらき",
+      "address": "茨城県水戸市南町１丁目２番２７号水戸スタービル５階",
+      "prefecture": "茨城県水戸市南町１丁目２番２７号水戸スタービル５階",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2022-05-26"
+        }
+      ]
+    }
+  ]
+}

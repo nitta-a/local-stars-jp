@@ -1,0 +1,2632 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020110001",
+      "name": "埼玉県",
+      "address": "埼玉県さいたま市浦和区高砂３丁目１５－１",
+      "prefecture": "埼玉県さいたま市浦和区高砂３丁目１５－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001004269",
+      "name": "株式会社島忠",
+      "address": "埼玉県さいたま市中央区上落合８丁目３番３２号",
+      "prefecture": "埼玉県さいたま市中央区上落合８丁目３番３２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001008006",
+      "name": "株式会社丸電",
+      "address": "埼玉県さいたま市西区三橋５丁目１８３４番地１",
+      "prefecture": "埼玉県さいたま市西区三橋５丁目１８３４番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001009870",
+      "name": "コスモプラス株式会社",
+      "address": "埼玉県さいたま市北区土呂町２丁目１２番２０号",
+      "prefecture": "埼玉県さいたま市北区土呂町２丁目１２番２０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001026255",
+      "name": "小島化学薬品株式会社",
+      "address": "埼玉県狭山市柏原３３７番地２６",
+      "prefecture": "埼玉県狭山市柏原３３７番地２６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001042723",
+      "name": "株式会社アイチコーポレーション",
+      "address": "埼玉県上尾市大字領家字山下１１５２番地の１０",
+      "prefecture": "埼玉県上尾市大字領家字山下１１５２番地の１０",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001055246",
+      "name": "株式会社中里組",
+      "address": "埼玉県川越市神明町１３番地８",
+      "prefecture": "埼玉県川越市神明町１３番地８",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001062110",
+      "name": "丸和工業株式会社",
+      "address": "埼玉県北本市宮内５丁目３５１番地",
+      "prefecture": "埼玉県北本市宮内５丁目３５１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001064965",
+      "name": "吉野電化工業株式会社",
+      "address": "埼玉県越谷市越ヶ谷５丁目１番１９号",
+      "prefecture": "埼玉県越谷市越ヶ谷５丁目１番１９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001071094",
+      "name": "株式会社豊島製作所",
+      "address": "埼玉県東松山市大字下野本１４１４番地",
+      "prefecture": "埼玉県東松山市大字下野本１４１４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001071210",
+      "name": "株式会社グランドール",
+      "address": "埼玉県比企郡滑川町大字福田６６５番地４",
+      "prefecture": "埼玉県比企郡滑川町大字福田６６５番地４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001072935",
+      "name": "株式会社エミアス",
+      "address": "埼玉県狭山市富士見２丁目２１番地２７号",
+      "prefecture": "埼玉県狭山市富士見２丁目２１番地２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030001090714",
+      "name": "株式会社グラファイトデザイン",
+      "address": "埼玉県秩父市太田２４７４番地１",
+      "prefecture": "埼玉県秩父市太田２４７４番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030005001873",
+      "name": "特定非営利活動法人埼玉消費者被害をなくす会",
+      "address": "埼玉県さいたま市浦和区岸町７丁目１１番５号埼玉県生活協同組合連合会内",
+      "prefecture": "埼玉県さいたま市浦和区岸町７丁目１１番５号埼玉県生活協同組合連合会内",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2011-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1030005007111",
+      "name": "国立研究開発法人理化学研究所",
+      "address": "埼玉県和光市広沢２番１号",
+      "prefecture": "埼玉県和光市広沢２番１号",
+      "certification": [
+        {
+          "certification_name": "女性の活躍推進企業",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "ＨＰＣＧ、Ｇｒａｐｈ５００第１位、ＴＯＰ５００第２位、ＨＰＬ－ＡＩ第３位",
+          "certified_date": "2022-11-15"
+        },
+        {
+          "certification_name": "ＨＰＣＧ、Ｇｒａｐｈ５００第１位、ＴＯＰ５００、ＨＰＬ－ＡＩ第２位",
+          "certified_date": "2022-05-30"
+        },
+        {
+          "certification_name": "Ｇｒａｐｈ５００，　ＴＯＰ５００，　ＨＰＣＧ，　ＨＰＬ－ＡＩ　第１位",
+          "certified_date": "2021-11-16"
+        },
+        {
+          "certification_name": "ＴＯＰ５００，　ＨＰＣＧ，　ＨＰＬ－ＡＩ　第１位獲得",
+          "certified_date": "2020-11-17"
+        },
+        {
+          "certification_name": "Ｇｒａｐｈ５００　第１位獲得",
+          "certified_date": "2020-11-17"
+        },
+        {
+          "certification_name": "ＣＥＡＴＥＣ　ＡＷＡＲＤ　２０２０「総務大臣賞」",
+          "certified_date": "2020-10-19"
+        },
+        {
+          "certification_name": "２０２０年度グッドデザイン賞",
+          "certified_date": "2020-10-01"
+        },
+        {
+          "certification_name": "ＭＭ総研大賞２０２０「大賞」「ものづくり優秀賞」",
+          "certified_date": "2020-09-02"
+        },
+        {
+          "certification_name": "平成３０年度全国発明表彰「２１世紀発明賞」",
+          "certified_date": "2018-05-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1120901030611",
+      "name": "株式会社テクアノーツ",
+      "address": "埼玉県川口市芝下１丁目１番３号",
+      "prefecture": "埼玉県川口市芝下１丁目１番３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020111007",
+      "name": "さいたま市",
+      "address": "埼玉県さいたま市浦和区常盤６丁目４－４",
+      "prefecture": "埼玉県さいたま市浦和区常盤６丁目４－４",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        },
+        {
+          "certification_name": "第８回グッドライフアワード",
+          "certified_date": "2020-12-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020112178",
+      "name": "鴻巣市",
+      "address": "埼玉県鴻巣市中央１－１",
+      "prefecture": "埼玉県鴻巣市中央１－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001000011",
+      "name": "ＡＧＳ株式会社",
+      "address": "埼玉県さいたま市浦和区針ヶ谷４丁目３番２５号",
+      "prefecture": "埼玉県さいたま市浦和区針ヶ谷４丁目３番２５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001000820",
+      "name": "株式会社イマギイレ",
+      "address": "埼玉県さいたま市西区大字内野本郷２１９番３",
+      "prefecture": "埼玉県さいたま市西区大字内野本郷２１９番３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001004490",
+      "name": "株式会社アクア",
+      "address": "埼玉県さいたま市岩槻区大字裏慈恩寺４６２番地７",
+      "prefecture": "埼玉県さいたま市岩槻区大字裏慈恩寺４６２番地７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001010159",
+      "name": "株式会社ＮＴＴ東日本‐関信越",
+      "address": "埼玉県さいたま市浦和区常盤５丁目８番１７号",
+      "prefecture": "埼玉県さいたま市浦和区常盤５丁目８番１７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001028060",
+      "name": "株式会社小金井精機製作所",
+      "address": "埼玉県入間市狭山台４丁目１６番地１３",
+      "prefecture": "埼玉県入間市狭山台４丁目１６番地１３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001032839",
+      "name": "株式会社ジェイ・オー・シー羽生",
+      "address": "埼玉県羽生市小松台１丁目６０３番地の３６",
+      "prefecture": "埼玉県羽生市小松台１丁目６０３番地の３６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001041625",
+      "name": "株式会社鈴木薬局",
+      "address": "埼玉県上尾市本町５丁目１３番２７号",
+      "prefecture": "埼玉県上尾市本町５丁目１３番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001045163",
+      "name": "株式会社リゾン",
+      "address": "埼玉県朝霞市西弁財２丁目４番４０号",
+      "prefecture": "埼玉県朝霞市西弁財２丁目４番４０号",
+      "certification": [
+        {
+          "certification_name": "まちづくりアワード（特別賞）",
+          "certified_date": "2022-06-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001050122",
+      "name": "株式会社かくの木",
+      "address": "埼玉県新座市石神２丁目３番３号",
+      "prefecture": "埼玉県新座市石神２丁目３番３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001056243",
+      "name": "山下ゴム株式会社",
+      "address": "埼玉県ふじみ野市亀久保１２３９番地",
+      "prefecture": "埼玉県ふじみ野市亀久保１２３９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001056747",
+      "name": "株式会社ビジネスオリコ",
+      "address": "埼玉県川越市大字鯨井新田６番地１",
+      "prefecture": "埼玉県川越市大字鯨井新田６番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030001124033",
+      "name": "フロイデ株式会社",
+      "address": "埼玉県加須市駒場４３９番地７",
+      "prefecture": "埼玉県加須市駒場４３９番地７",
+      "certification": [
+        {
+          "certification_name": "第７回食品産業もったいない大賞",
+          "certified_date": "2020-02-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030005001410",
+      "name": "コープデリ生活協同組合連合会",
+      "address": "埼玉県さいたま市南区根岸１丁目４番１３号",
+      "prefecture": "埼玉県さいたま市南区根岸１丁目４番１３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和３年度地産地消等優良活動表彰",
+          "certified_date": "2022-02-10"
+        },
+        {
+          "certification_name": "令和３年度食品ロス削減推進大賞",
+          "certified_date": "2021-02-22"
+        },
+        {
+          "certification_name": "第７回食品産業もったいない大賞",
+          "certified_date": "2020-02-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030005001427",
+      "name": "更生保護法人清心寮",
+      "address": "埼玉県さいたま市浦和区岸町７丁目１２番１９号",
+      "prefecture": "埼玉県さいたま市浦和区岸町７丁目１２番１９号",
+      "certification": [
+        {
+          "certification_name": "安全安心なまちづくり関係功労者表彰",
+          "certified_date": "2018-10-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030005009288",
+      "name": "医療法人本庄福島病院",
+      "address": "埼玉県本庄市千代田１丁目１番１８号",
+      "prefecture": "埼玉県本庄市千代田１丁目１番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2030005009734",
+      "name": "社会福祉法人元気村",
+      "address": "埼玉県鴻巣市東１丁目１番２５号",
+      "prefecture": "埼玉県鴻巣市東１丁目１番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3010001242447",
+      "name": "トリニティ株式会社",
+      "address": "埼玉県新座市東北２丁目３４番１５号ホワイトハイツ小峰２階",
+      "prefecture": "埼玉県新座市東北２丁目３４番１５号ホワイトハイツ小峰２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3010501007399",
+      "name": "高田製薬株式会社",
+      "address": "埼玉県さいたま市南区沼影１丁目１１番１号",
+      "prefecture": "埼玉県さいたま市南区沼影１丁目１１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3012701000919",
+      "name": "ブリヂストンプラントエンジニアリング株式会社",
+      "address": "埼玉県比企郡吉見町大字長谷１９１３番地",
+      "prefecture": "埼玉県比企郡吉見町大字長谷１９１３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3013301008369",
+      "name": "東日本総合計画株式会社",
+      "address": "埼玉県さいたま市大宮区仲町２丁目６５番地２",
+      "prefecture": "埼玉県さいたま市大宮区仲町２丁目６５番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "国土地理院長表彰（優良業務）",
+          "certified_date": "2019-07-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001000968",
+      "name": "ＡＬＳＯＫ介護株式会社",
+      "address": "埼玉県さいたま市大宮区三橋２丁目７９５番地",
+      "prefecture": "埼玉県さいたま市大宮区三橋２丁目７９５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001011668",
+      "name": "日産プリンス埼玉販売株式会社",
+      "address": "埼玉県さいたま市中央区下落合４丁目２４番１５号",
+      "prefecture": "埼玉県さいたま市中央区下落合４丁目２４番１５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001011684",
+      "name": "株式会社エイチワン",
+      "address": "埼玉県さいたま市大宮区桜木町１丁目１９５番地１大宮ソラミチＫＯＺ１１階",
+      "prefecture": "埼玉県さいたま市大宮区桜木町１丁目１９５番地１大宮ソラミチＫＯＺ１１階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001016733",
+      "name": "株式会社ミツウロコクリエイティブソリューションズ",
+      "address": "埼玉県さいたま市大宮区下町１丁目８番地１",
+      "prefecture": "埼玉県さいたま市大宮区下町１丁目８番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001020074",
+      "name": "エスオーエル株式会社",
+      "address": "埼玉県戸田市中町１丁目３４番の１",
+      "prefecture": "埼玉県戸田市中町１丁目３４番の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001023283",
+      "name": "埼玉日産自動車株式会社",
+      "address": "埼玉県さいたま市中央区上落合９丁目３番６号",
+      "prefecture": "埼玉県さいたま市中央区上落合９丁目３番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001039412",
+      "name": "キヤノンファインテックニスカ株式会社",
+      "address": "埼玉県三郷市中央１丁目１４番地１",
+      "prefecture": "埼玉県三郷市中央１丁目１４番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001045666",
+      "name": "サンケン電気株式会社",
+      "address": "埼玉県新座市北野３丁目６番３号",
+      "prefecture": "埼玉県新座市北野３丁目６番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001054881",
+      "name": "株式会社シオノ工業",
+      "address": "埼玉県川越市神明町２３番地１５",
+      "prefecture": "埼玉県川越市神明町２３番地１５",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001060211",
+      "name": "ケイアイスター不動産株式会社",
+      "address": "埼玉県本庄市西富田７６２番地１",
+      "prefecture": "埼玉県本庄市西富田７６２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001062083",
+      "name": "株式会社ノヴァ",
+      "address": "埼玉県北本市中丸９丁目２０番地",
+      "prefecture": "埼玉県北本市中丸９丁目２０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001073626",
+      "name": "株式会社アヤベ洋菓子",
+      "address": "埼玉県川口市大字新堀１０７０番地５",
+      "prefecture": "埼玉県川口市大字新堀１０７０番地５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001074186",
+      "name": "小原歯車工業株式会社",
+      "address": "埼玉県川口市仲町１３番１７号",
+      "prefecture": "埼玉県川口市仲町１３番１７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001085910",
+      "name": "株式会社シバサキ製作所",
+      "address": "埼玉県大里郡寄居町大字桜沢１５６０番地３０",
+      "prefecture": "埼玉県大里郡寄居町大字桜沢１５６０番地３０",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001087080",
+      "name": "株式会社ファイブイズホーム",
+      "address": "埼玉県行田市持田３丁目２番１７号",
+      "prefecture": "埼玉県行田市持田３丁目２番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3030001090373",
+      "name": "株式会社トコウ",
+      "address": "埼玉県入間市大字中神９９１番地",
+      "prefecture": "埼玉県入間市大字中神９９１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3070001006474",
+      "name": "株式会社カインズ",
+      "address": "埼玉県本庄市早稲田の杜１丁目２番１号",
+      "prefecture": "埼玉県本庄市早稲田の杜１丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和元年度製品安全対策優良企業表彰",
+          "certified_date": "2019-11-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001000777",
+      "name": "株式会社一蔵",
+      "address": "埼玉県さいたま市北区大成町４丁目６９９番地１",
+      "prefecture": "埼玉県さいたま市北区大成町４丁目６９９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001002410",
+      "name": "株式会社クリーン工房",
+      "address": "埼玉県さいたま市中央区新都心１１番地２さいたま新都心ＬＡタワー３０Ｆ",
+      "prefecture": "埼玉県さいたま市中央区新都心１１番地２さいたま新都心ＬＡタワー３０Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001007483",
+      "name": "株式会社富士薬品",
+      "address": "埼玉県さいたま市大宮区桜木町４丁目３８３番地",
+      "prefecture": "埼玉県さいたま市大宮区桜木町４丁目３８３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001019801",
+      "name": "株式会社ＪＩＮ",
+      "address": "埼玉県さいたま市大宮区下町１丁目４２－２",
+      "prefecture": "埼玉県さいたま市大宮区下町１丁目４２－２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001033538",
+      "name": "株式会社アドバンファシリティズ",
+      "address": "埼玉県加須市新利根１丁目５番地",
+      "prefecture": "埼玉県加須市新利根１丁目５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001034271",
+      "name": "パシフィックシステム株式会社",
+      "address": "埼玉県さいたま市桜区田島８丁目４番１９号",
+      "prefecture": "埼玉県さいたま市桜区田島８丁目４番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001042118",
+      "name": "株式会社シーエックスカーゴ",
+      "address": "埼玉県桶川市赤堀１丁目５番地",
+      "prefecture": "埼玉県桶川市赤堀１丁目５番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001044808",
+      "name": "株式会社山陽精機",
+      "address": "埼玉県朝霞市浜崎１丁目２番８号アゴラ２０ビル",
+      "prefecture": "埼玉県朝霞市浜崎１丁目２番８号アゴラ２０ビル",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001045368",
+      "name": "関口工業株式会社",
+      "address": "埼玉県志木市中宗岡１丁目３番３４号",
+      "prefecture": "埼玉県志木市中宗岡１丁目３番３４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001051119",
+      "name": "正和工業株式会社",
+      "address": "埼玉県春日部市豊野町２丁目３２番地１９",
+      "prefecture": "埼玉県春日部市豊野町２丁目３２番地１９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001055722",
+      "name": "株式会社ヤオコー",
+      "address": "埼玉県川越市新宿町１丁目１０番地１",
+      "prefecture": "埼玉県川越市新宿町１丁目１０番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001056852",
+      "name": "富士食品商事株式会社",
+      "address": "埼玉県ふじみ野市上福岡２丁目６番１０号",
+      "prefecture": "埼玉県ふじみ野市上福岡２丁目６番１０号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001070911",
+      "name": "高橋精機株式会社",
+      "address": "埼玉県東松山市大字新郷８８番地２０",
+      "prefecture": "埼玉県東松山市大字新郷８８番地２０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001075092",
+      "name": "サンキョー株式会社",
+      "address": "埼玉県川口市西青木４丁目１番３号",
+      "prefecture": "埼玉県川口市西青木４丁目１番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001077683",
+      "name": "ＴＯＭＯＥ株式会社",
+      "address": "埼玉県川口市東本郷１丁目７番６号",
+      "prefecture": "埼玉県川口市東本郷１丁目７番６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001084721",
+      "name": "株式会社埼玉電算センター",
+      "address": "埼玉県熊谷市拾六間７７０番地",
+      "prefecture": "埼玉県熊谷市拾六間７７０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001086585",
+      "name": "マルコーフーズ株式会社",
+      "address": "埼玉県深谷市新戒６９７番地１",
+      "prefecture": "埼玉県深谷市新戒６９７番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001086866",
+      "name": "株式会社サンワックス",
+      "address": "埼玉県行田市行田２２番１０号",
+      "prefecture": "埼玉県行田市行田２２番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001089423",
+      "name": "新電元スリーイー株式会社",
+      "address": "埼玉県飯能市大字芦苅場３番地１",
+      "prefecture": "埼玉県飯能市大字芦苅場３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030001100610",
+      "name": "株式会社ＦＲＤジャパン",
+      "address": "埼玉県さいたま市岩槻区古ケ場１丁目７番１３号",
+      "prefecture": "埼玉県さいたま市岩槻区古ケ場１丁目７番１３号",
+      "certification": [
+        {
+          "certification_name": "日本スタートアップ大賞２０２４",
+          "certified_date": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030005002027",
+      "name": "税理士法人さくら税務",
+      "address": "埼玉県さいたま市南区別所５丁目１５番２号",
+      "prefecture": "埼玉県さいたま市南区別所５丁目１５番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030005003479",
+      "name": "社会福祉法人安心会",
+      "address": "埼玉県所沢市東狭山ケ丘５丁目９２８番地１",
+      "prefecture": "埼玉県所沢市東狭山ケ丘５丁目９２８番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030005009600",
+      "name": "医療法人桂水会",
+      "address": "埼玉県本庄市北堀８１０番地",
+      "prefecture": "埼玉県本庄市北堀８１０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030005012141",
+      "name": "青木信用金庫",
+      "address": "埼玉県川口市中青木２丁目１３番２１号",
+      "prefecture": "埼玉県川口市中青木２丁目１３番２１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030005012570",
+      "name": "国立研究開発法人科学技術振興機構",
+      "address": "埼玉県川口市本町４丁目１番８号",
+      "prefecture": "埼玉県川口市本町４丁目１番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030005012653",
+      "name": "社会福祉法人末広会",
+      "address": "埼玉県川口市末広３丁目４番１３号",
+      "prefecture": "埼玉県川口市末広３丁目４番１３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4030005013957",
+      "name": "医療法人江仁会",
+      "address": "埼玉県深谷市江原３５０番地",
+      "prefecture": "埼玉県深谷市江原３５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001001816",
+      "name": "株式会社カタヤマ",
+      "address": "埼玉県さいたま市桜区西堀８丁目２１番３５号",
+      "prefecture": "埼玉県さいたま市桜区西堀８丁目２１番３５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001004959",
+      "name": "Ｔ＆Ｄ情報システム株式会社",
+      "address": "埼玉県さいたま市浦和区針ヶ谷４丁目２番１８号",
+      "prefecture": "埼玉県さいたま市浦和区針ヶ谷４丁目２番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001006393",
+      "name": "日新火災情報システム株式会社",
+      "address": "埼玉県さいたま市浦和区上木崎２丁目７番５号",
+      "prefecture": "埼玉県さいたま市浦和区上木崎２丁目７番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001006798",
+      "name": "株式会社ハーベス",
+      "address": "埼玉県さいたま市浦和区常盤９丁目２１番１４号",
+      "prefecture": "埼玉県さいたま市浦和区常盤９丁目２１番１４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001010008",
+      "name": "株式会社日本水工コンサルタント",
+      "address": "埼玉県さいたま市大宮区東町２丁目５０番",
+      "prefecture": "埼玉県さいたま市大宮区東町２丁目５０番",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和４年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001011204",
+      "name": "株式会社タムロン",
+      "address": "埼玉県さいたま市見沼区大字蓮沼１３８５番地",
+      "prefecture": "埼玉県さいたま市見沼区大字蓮沼１３８５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001014248",
+      "name": "ケアサポート株式会社",
+      "address": "埼玉県さいたま市大宮区土手町１丁目２番地",
+      "prefecture": "埼玉県さいたま市大宮区土手町１丁目２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001017432",
+      "name": "株式会社そらまめキッズツアー",
+      "address": "埼玉県さいたま市浦和区高砂２丁目１番２０号日建高砂ビル３階",
+      "prefecture": "埼玉県さいたま市浦和区高砂２丁目１番２０号日建高砂ビル３階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001021979",
+      "name": "株式会社ＪＲＳ",
+      "address": "埼玉県戸田市笹目南町３３番９号",
+      "prefecture": "埼玉県戸田市笹目南町３３番９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001026284",
+      "name": "狭山ケーブルテレビ株式会社",
+      "address": "埼玉県狭山市富士見２丁目４番５号",
+      "prefecture": "埼玉県狭山市富士見２丁目４番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001026755",
+      "name": "入間ガス株式会社",
+      "address": "埼玉県入間市扇台１丁目５番２５号",
+      "prefecture": "埼玉県入間市扇台１丁目５番２５号",
+      "certification": [
+        {
+          "certification_name": "ガス保安功労者経済産業大臣表彰",
+          "certified_date": "2017-11-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001033165",
+      "name": "ブリヂストンフローテック株式会社",
+      "address": "埼玉県加須市南篠崎１丁目３番１号",
+      "prefecture": "埼玉県加須市南篠崎１丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001044311",
+      "name": "株式会社フコク",
+      "address": "埼玉県上尾市菅谷３丁目１０５番地",
+      "prefecture": "埼玉県上尾市菅谷３丁目１０５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001055143",
+      "name": "ちふれホールディングス株式会社",
+      "address": "埼玉県川越市芳野台２丁目８番５９",
+      "prefecture": "埼玉県川越市芳野台２丁目８番５９",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001055498",
+      "name": "武州製薬株式会社",
+      "address": "埼玉県川越市大字竹野１番地",
+      "prefecture": "埼玉県川越市大字竹野１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001064375",
+      "name": "株式会社中央住宅",
+      "address": "埼玉県越谷市南越谷１丁目２１番地２",
+      "prefecture": "埼玉県越谷市南越谷１丁目２１番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001069820",
+      "name": "豊盛工業株式会社",
+      "address": "埼玉県坂戸市にっさい花みず木６丁目２４番１号",
+      "prefecture": "埼玉県坂戸市にっさい花みず木６丁目２４番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001074060",
+      "name": "株式会社エンプラス",
+      "address": "埼玉県川口市並木２丁目３０番１号",
+      "prefecture": "埼玉県川口市並木２丁目３０番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001086717",
+      "name": "株式会社エイブルフソー",
+      "address": "埼玉県行田市城西５丁目１０番２３号",
+      "prefecture": "埼玉県行田市城西５丁目１０番２３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001098373",
+      "name": "シチズン時計マニュファクチャリング株式会社",
+      "address": "埼玉県所沢市大字下富８４０番地",
+      "prefecture": "埼玉県所沢市大字下富８４０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030005001408",
+      "name": "生活協同組合コープみらい",
+      "address": "埼玉県さいたま市南区根岸１丁目５番５号",
+      "prefecture": "埼玉県さいたま市南区根岸１丁目５番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2017-05-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030005019417",
+      "name": "医療法人心",
+      "address": "埼玉県さいたま市北区大成町４丁目３１８番地３",
+      "prefecture": "埼玉県さいたま市北区大成町４丁目３１８番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001000271",
+      "name": "アイ・シー・ネット株式会社",
+      "address": "埼玉県さいたま市中央区新都心１１番地２",
+      "prefecture": "埼玉県さいたま市中央区新都心１１番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001002490",
+      "name": "株式会社武蔵野銀行",
+      "address": "埼玉県さいたま市大宮区桜木町１丁目１０番地８",
+      "prefecture": "埼玉県さいたま市大宮区桜木町１丁目１０番地８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001002788",
+      "name": "後藤精工株式会社",
+      "address": "埼玉県さいたま市中央区上峰３丁目１１番１号",
+      "prefecture": "埼玉県さいたま市中央区上峰３丁目１１番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001005972",
+      "name": "株式会社東建ジオテック",
+      "address": "埼玉県さいたま市浦和区仲町３丁目１３番１０号",
+      "prefecture": "埼玉県さいたま市浦和区仲町３丁目１３番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001007713",
+      "name": "ホシザキ北関東株式会社",
+      "address": "埼玉県さいたま市北区宮原町３丁目３６番地",
+      "prefecture": "埼玉県さいたま市北区宮原町３丁目３６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001008686",
+      "name": "株式会社遊楽",
+      "address": "埼玉県さいたま市浦和区高砂２丁目８番１６号",
+      "prefecture": "埼玉県さいたま市浦和区高砂２丁目８番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001009800",
+      "name": "株式会社日さく",
+      "address": "埼玉県さいたま市大宮区桜木町４丁目１９９番地３",
+      "prefecture": "埼玉県さいたま市大宮区桜木町４丁目１９９番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001017472",
+      "name": "フォルシアクラリオン・エレクトロニクス株式会社",
+      "address": "埼玉県さいたま市中央区新都心７番地２",
+      "prefecture": "埼玉県さいたま市中央区新都心７番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001017844",
+      "name": "協和精工株式会社",
+      "address": "埼玉県さいたま市岩槻区諏訪２丁目１番地１９号",
+      "prefecture": "埼玉県さいたま市岩槻区諏訪２丁目１番地１９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001031085",
+      "name": "株式会社エフテック",
+      "address": "埼玉県久喜市菖蒲町昭和沼１９番地",
+      "prefecture": "埼玉県久喜市菖蒲町昭和沼１９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001047692",
+      "name": "協和界面科学株式会社",
+      "address": "埼玉県新座市野火止５丁目４番４１号",
+      "prefecture": "埼玉県新座市野火止５丁目４番４１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001048071",
+      "name": "ホンダ開発株式会社",
+      "address": "埼玉県和光市本町５番３９号",
+      "prefecture": "埼玉県和光市本町５番３９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001052750",
+      "name": "三州製菓株式会社",
+      "address": "埼玉県春日部市豊野町２丁目８番地３",
+      "prefecture": "埼玉県春日部市豊野町２丁目８番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001057056",
+      "name": "株式会社サンロジスティックス",
+      "address": "埼玉県入間郡三芳町大字上富字中西１４４６番１",
+      "prefecture": "埼玉県入間郡三芳町大字上富字中西１４４６番１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001058228",
+      "name": "ハスクバーナ・ゼノア株式会社",
+      "address": "埼玉県川越市南台１丁目９番",
+      "prefecture": "埼玉県川越市南台１丁目９番",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001060489",
+      "name": "キヤノン・コンポーネンツ株式会社",
+      "address": "埼玉県児玉郡上里町大字七本木３４６１番地１",
+      "prefecture": "埼玉県児玉郡上里町大字七本木３４６１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001065059",
+      "name": "ポラス株式会社",
+      "address": "埼玉県越谷市南越谷１丁目２１番地２",
+      "prefecture": "埼玉県越谷市南越谷１丁目２１番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001067294",
+      "name": "アトムテクノス株式会社",
+      "address": "埼玉県北葛飾郡松伏町大字松伏３２３６番地",
+      "prefecture": "埼玉県北葛飾郡松伏町大字松伏３２３６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001070777",
+      "name": "株式会社環境テクノ",
+      "address": "埼玉県東松山市大字大谷３０６８番地７０",
+      "prefecture": "埼玉県東松山市大字大谷３０６８番地７０",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001097102",
+      "name": "株式会社チャレジョブ",
+      "address": "埼玉県鴻巣市本町１丁目２番１号エルミこうのすアネックス２階",
+      "prefecture": "埼玉県鴻巣市本町１丁目２番１号エルミこうのすアネックス２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030001111259",
+      "name": "株式会社天地人",
+      "address": "埼玉県川越市岸町２丁目７番地５らくだビル３階",
+      "prefecture": "埼玉県川越市岸町２丁目７番地５らくだビル３階",
+      "certification": [
+        {
+          "certification_name": "第５回宇宙開発利用大賞",
+          "certified_date": "2022-03-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030002020624",
+      "name": "株式会社岩槻タクシー",
+      "address": "埼玉県さいたま市岩槻区加倉１丁目１番１４号",
+      "prefecture": "埼玉県さいたま市岩槻区加倉１丁目１番１４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030005001407",
+      "name": "全国生活協同組合連合会",
+      "address": "埼玉県さいたま市大宮区大門町２丁目１１８番地",
+      "prefecture": "埼玉県さいたま市大宮区大門町２丁目１１８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030005001745",
+      "name": "独立行政法人水資源機構",
+      "address": "埼玉県さいたま市中央区新都心１１番地２",
+      "prefecture": "埼玉県さいたま市中央区新都心１１番地２",
+      "certification": [
+        {
+          "certification_name": "環境人づくり企業大賞２０１８",
+          "certified_date": "2019-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030005001803",
+      "name": "国立大学法人埼玉大学",
+      "address": "埼玉県さいたま市桜区大字下大久保２５５番地",
+      "prefecture": "埼玉県さいたま市桜区大字下大久保２５５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030005011166",
+      "name": "特定非営利活動法人つるがしま里山サポートクラブ",
+      "address": "埼玉県鶴ヶ島市大字脚折８６番地３",
+      "prefecture": "埼玉県鶴ヶ島市大字脚折８６番地３",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2023-06-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6030005013121",
+      "name": "埼玉縣信用金庫",
+      "address": "埼玉県熊谷市本町１丁目１３０番地１",
+      "prefecture": "埼玉県熊谷市本町１丁目１３０番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6090001014373",
+      "name": "株式会社コークッキング",
+      "address": "埼玉県東松山市元宿１丁目２９番地１７",
+      "prefecture": "埼玉県東松山市元宿１丁目２９番地１７",
+      "certification": [
+        {
+          "certification_name": "第７回グッドライフアワード",
+          "certified_date": "2019-11-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001003876",
+      "name": "株式会社システムインテグレータ",
+      "address": "埼玉県さいたま市中央区新都心１１番地２",
+      "prefecture": "埼玉県さいたま市中央区新都心１１番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001008396",
+      "name": "メディカル・ケア・サービス株式会社",
+      "address": "埼玉県さいたま市中央区新都心１１番地２ランド・アクシス・タワー２９階",
+      "prefecture": "埼玉県さいたま市中央区新都心１１番地２ランド・アクシス・タワー２９階",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001010063",
+      "name": "東亜建設工業株式会社",
+      "address": "埼玉県さいたま市南区辻２丁目３番１０号",
+      "prefecture": "埼玉県さいたま市南区辻２丁目３番１０号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001013074",
+      "name": "株式会社ＣＰＳ",
+      "address": "埼玉県さいたま市浦和区仲町１丁目１２番１号カタヤマビル９Ｆ",
+      "prefecture": "埼玉県さいたま市浦和区仲町１丁目１２番１号カタヤマビル９Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001033080",
+      "name": "株式会社キャステック",
+      "address": "埼玉県加須市豊野台２丁目７１７番地６号",
+      "prefecture": "埼玉県加須市豊野台２丁目７１７番地６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001046900",
+      "name": "株式会社ホンダレインボーモータースクール",
+      "address": "埼玉県和光市下新倉５丁目２７番１号",
+      "prefecture": "埼玉県和光市下新倉５丁目２７番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001050910",
+      "name": "金杉建設株式会社",
+      "address": "埼玉県春日部市南１丁目６番９号",
+      "prefecture": "埼玉県春日部市南１丁目６番９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001054333",
+      "name": "株式会社いとねん",
+      "address": "埼玉県川越市大字大袋新田４６７番地",
+      "prefecture": "埼玉県川越市大字大袋新田４６７番地",
+      "certification": [
+        {
+          "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
+          "certified_date": "2018-10-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001059514",
+      "name": "株式会社ヤオコービジネスサービス",
+      "address": "埼玉県川越市新宿町１丁目１０番地１",
+      "prefecture": "埼玉県川越市新宿町１丁目１０番地１",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト",
+          "certified_date": "2024-10-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001073044",
+      "name": "アイシン産業株式会社",
+      "address": "埼玉県川口市八幡木３丁目１５番１７",
+      "prefecture": "埼玉県川口市八幡木３丁目１５番１７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030001105061",
+      "name": "ＰＬＵＳケアサービス株式会社",
+      "address": "埼玉県川口市芝２丁目２１番２９号",
+      "prefecture": "埼玉県川口市芝２丁目２１番２９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030005001075",
+      "name": "医療法人有隣会",
+      "address": "埼玉県さいたま市南区大字太田窪１９７３番地５",
+      "prefecture": "埼玉県さいたま市南区大字太田窪１９７３番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7030005002593",
+      "name": "生活協同組合パルシステム埼玉",
+      "address": "埼玉県蕨市錦町２丁目１０番４号",
+      "prefecture": "埼玉県蕨市錦町２丁目１０番４号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2020-04-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020113484",
+      "name": "鳩山町",
+      "address": "埼玉県比企郡鳩山町大字大豆戸１８４－１６",
+      "prefecture": "埼玉県比企郡鳩山町大字大豆戸１８４－１６",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020113492",
+      "name": "ときがわ町",
+      "address": "埼玉県比企郡ときがわ町大字玉川２４９０",
+      "prefecture": "埼玉県比企郡ときがわ町大字玉川２４９０",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010001066908",
+      "name": "ＳＡＫＵＲＡ　Ｕｎｉｔｅｄ　Ｓｏｌｕｔｉｏｎ株式会社",
+      "address": "埼玉県さいたま市南区別所５丁目１５番２号",
+      "prefecture": "埼玉県さいたま市南区別所５丁目１５番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010401016099",
+      "name": "総合事務サービス株式会社",
+      "address": "埼玉県和光市本町２０番２５号パルテール和光２０１号室",
+      "prefecture": "埼玉県和光市本町２０番２５号パルテール和光２０１号室",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010401023954",
+      "name": "株式会社俳優座劇場",
+      "address": "埼玉県越谷市大字増森２６０５番地２",
+      "prefecture": "埼玉県越谷市大字増森２６０５番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001003009",
+      "name": "株式会社埼玉新聞社",
+      "address": "埼玉県さいたま市北区吉野町２丁目２８２番地３",
+      "prefecture": "埼玉県さいたま市北区吉野町２丁目２８２番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001006291",
+      "name": "日本自動機工株式会社",
+      "address": "埼玉県さいたま市浦和区岸町７丁目１番７号",
+      "prefecture": "埼玉県さいたま市浦和区岸町７丁目１番７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001009848",
+      "name": "株式会社埼玉りそな銀行",
+      "address": "埼玉県さいたま市浦和区常盤７丁目４番１号",
+      "prefecture": "埼玉県さいたま市浦和区常盤７丁目４番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001014831",
+      "name": "マレリ株式会社",
+      "address": "埼玉県さいたま市北区宮原町２丁目１９番地４",
+      "prefecture": "埼玉県さいたま市北区宮原町２丁目１９番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001021646",
+      "name": "株式会社ＯＫＩソフトウェア",
+      "address": "埼玉県蕨市中央１丁目１６番８号",
+      "prefecture": "埼玉県蕨市中央１丁目１６番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001028534",
+      "name": "株式会社ホレスト",
+      "address": "埼玉県入間市扇町屋５丁目６番１４号１",
+      "prefecture": "埼玉県入間市扇町屋５丁目６番１４号１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001043599",
+      "name": "ＵＤトラックス株式会社",
+      "address": "埼玉県上尾市大字壱丁目１番地",
+      "prefecture": "埼玉県上尾市大字壱丁目１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001044928",
+      "name": "テイ・エステック株式会社",
+      "address": "埼玉県朝霞市栄町３丁目７番２７号",
+      "prefecture": "埼玉県朝霞市栄町３丁目７番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001046841",
+      "name": "株式会社本田技術研究所",
+      "address": "埼玉県和光市中央１丁目４番１号",
+      "prefecture": "埼玉県和光市中央１丁目４番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001054167",
+      "name": "株式会社シンミドウ",
+      "address": "埼玉県さいたま市大宮区桜木町４丁目２４４番地１都築ビル",
+      "prefecture": "埼玉県さいたま市大宮区桜木町４丁目２４４番地１都築ビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001056477",
+      "name": "株式会社武蔵野ロジスティクス",
+      "address": "埼玉県入間郡三芳町大字上富１６７番地",
+      "prefecture": "埼玉県入間郡三芳町大字上富１６７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001060306",
+      "name": "高橋ソース株式会社",
+      "address": "埼玉県本庄市下野堂６０４番地７",
+      "prefecture": "埼玉県本庄市下野堂６０４番地７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001065552",
+      "name": "株式会社サイゼリヤ",
+      "address": "埼玉県吉川市旭２番地５",
+      "prefecture": "埼玉県吉川市旭２番地５",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001065560",
+      "name": "三生技研株式会社",
+      "address": "埼玉県吉川市旭６番地１",
+      "prefecture": "埼玉県吉川市旭６番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001080997",
+      "name": "株式会社コマーム",
+      "address": "埼玉県川口市並木２丁目５番１号埼玉りそな銀行西川口支店ビル１階",
+      "prefecture": "埼玉県川口市並木２丁目５番１号埼玉りそな銀行西川口支店ビル１階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001085575",
+      "name": "大和屋株式会社",
+      "address": "埼玉県熊谷市末広２丁目１１８番地",
+      "prefecture": "埼玉県熊谷市末広２丁目１１８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001085963",
+      "name": "株式会社ベルク",
+      "address": "埼玉県鶴ヶ島市大字脚折１６４６番",
+      "prefecture": "埼玉県鶴ヶ島市大字脚折１６４６番",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001089452",
+      "name": "西武ガス株式会社",
+      "address": "埼玉県飯能市大字双柳３７３番地１５",
+      "prefecture": "埼玉県飯能市大字双柳３７３番地１５",
+      "certification": [
+        {
+          "certification_name": "ガス保安功労者経済産業大臣表彰",
+          "certified_date": "2018-11-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001102314",
+      "name": "アグリファーム株式会社",
+      "address": "埼玉県加須市駒場４３９番地７",
+      "prefecture": "埼玉県加須市駒場４３９番地７",
+      "certification": [
+        {
+          "certification_name": "第７回食品産業もったいない大賞",
+          "certified_date": "2020-02-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030001134142",
+      "name": "やまね酒造株式会社",
+      "address": "埼玉県飯能市大字赤沢２２３番地",
+      "prefecture": "埼玉県飯能市大字赤沢２２３番地",
+      "certification": [
+        {
+          "certification_name": "第１９回エコツーリズム大賞",
+          "certified_date": "2024-02-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030003002058",
+      "name": "ベストプランナー合同会社",
+      "address": "埼玉県さいたま市大宮区吉敷町１丁目６４－１－６０１",
+      "prefecture": "埼玉県さいたま市大宮区吉敷町１丁目６４－１－６０１",
+      "certification": [
+        {
+          "certification_name": "テレワーク推進企業等厚生労働大臣表彰－表彰（特別奨励賞）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030005003483",
+      "name": "社会福祉法人健寿会",
+      "address": "埼玉県所沢市北中２丁目３０１番地１",
+      "prefecture": "埼玉県所沢市北中２丁目３０１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030005004011",
+      "name": "社会福祉法人杏樹会",
+      "address": "埼玉県入間市大字上藤沢８５１番地１",
+      "prefecture": "埼玉県入間市大字上藤沢８５１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030005004317",
+      "name": "公益財団法人トトロのふるさと基金",
+      "address": "埼玉県所沢市三ケ島３丁目１１６９－１",
+      "prefecture": "埼玉県所沢市三ケ島３丁目１１６９－１",
+      "certification": [
+        {
+          "certification_name": "第１８回エコツーリズム大賞",
+          "certified_date": "2023-02-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030005009877",
+      "name": "社会福祉法人一粒",
+      "address": "埼玉県北本市中丸９丁目２５７番",
+      "prefecture": "埼玉県北本市中丸９丁目２５７番",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8030005022203",
+      "name": "税理士法人ビズアシスト",
+      "address": "埼玉県さいたま市北区土呂町２丁目１７番地２小泉ビル１階",
+      "prefecture": "埼玉県さいたま市北区土呂町２丁目１７番地２小泉ビル１階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8040001025753",
+      "name": "株式会社ビックロジサービス",
+      "address": "埼玉県戸田市美女木５丁目１９番地８",
+      "prefecture": "埼玉県戸田市美女木５丁目１９番地８",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001027362",
+      "name": "第一倉庫冷蔵株式会社",
+      "address": "埼玉県さいたま市南区白幡５丁目８番１９号",
+      "prefecture": "埼玉県さいたま市南区白幡５丁目８番１９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001000319",
+      "name": "株式会社朝日ラバー",
+      "address": "埼玉県さいたま市大宮区土手町２丁目７番２",
+      "prefecture": "埼玉県さいたま市大宮区土手町２丁目７番２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "産業標準化事業表彰",
+          "certified_date": "2021-10-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001000566",
+      "name": "株式会社アイダ設計",
+      "address": "埼玉県上尾市今泉３丁目１０番地１１",
+      "prefecture": "埼玉県上尾市今泉３丁目１０番地１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001002983",
+      "name": "日本環境マネジメント株式会社",
+      "address": "埼玉県さいたま市浦和区仲町１丁目１２番１号",
+      "prefecture": "埼玉県さいたま市浦和区仲町１丁目１２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "都市緑化功労者表彰",
+          "certified_date": "2016-10-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001008072",
+      "name": "浦和レッドダイヤモンズ株式会社",
+      "address": "埼玉県さいたま市浦和区高砂２丁目８番１６号",
+      "prefecture": "埼玉県さいたま市浦和区高砂２丁目８番１６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001010524",
+      "name": "リズム株式会社",
+      "address": "埼玉県さいたま市大宮区北袋町１丁目２９９番地１２",
+      "prefecture": "埼玉県さいたま市大宮区北袋町１丁目２９９番地１２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001018591",
+      "name": "曙ブレーキ岩槻製造株式会社",
+      "address": "埼玉県さいたま市岩槻区大字鹿室１１９０番地",
+      "prefecture": "埼玉県さいたま市岩槻区大字鹿室１１９０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001023377",
+      "name": "株式会社ジーテクト",
+      "address": "埼玉県さいたま市大宮区桜木町１丁目１１番地２０",
+      "prefecture": "埼玉県さいたま市大宮区桜木町１丁目１１番地２０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001024516",
+      "name": "株式会社タカヤマ",
+      "address": "埼玉県所沢市大字南永井３７番地９号",
+      "prefecture": "埼玉県所沢市大字南永井３７番地９号",
+      "certification": [
+        {
+          "certification_name": "環境人づくり企業大賞２０１８",
+          "certified_date": "2019-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001030761",
+      "name": "株式会社塩崎テクノブレイン",
+      "address": "埼玉県久喜市本町４丁目５番３７号",
+      "prefecture": "埼玉県久喜市本町４丁目５番３７号",
+      "certification": [
+        {
+          "certification_name": "令和５年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2024-02-08"
+        },
+        {
+          "certification_name": "令和３年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2022-01-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001041957",
+      "name": "ブリヂストンサイクル株式会社",
+      "address": "埼玉県上尾市中妻３丁目１番地の１",
+      "prefecture": "埼玉県上尾市中妻３丁目１番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001043235",
+      "name": "株式会社ＢＡＮＫＡＮわものや",
+      "address": "埼玉県上尾市宮本町４番２号",
+      "prefecture": "埼玉県上尾市宮本町４番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001045124",
+      "name": "株式会社武蔵野",
+      "address": "埼玉県朝霞市西原１丁目１番１号",
+      "prefecture": "埼玉県朝霞市西原１丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001052533",
+      "name": "株式会社アイソニーフーズ",
+      "address": "埼玉県春日部市豊野町２丁目１１番地９",
+      "prefecture": "埼玉県春日部市豊野町２丁目１１番地９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001055560",
+      "name": "本田金属技術株式会社",
+      "address": "埼玉県川越市大字的場字亀ケ渕１６２０番地",
+      "prefecture": "埼玉県川越市大字的場字亀ケ渕１６２０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001056550",
+      "name": "株式会社島村工業",
+      "address": "埼玉県比企郡川島町大字牛ケ谷戸４８９番地",
+      "prefecture": "埼玉県比企郡川島町大字牛ケ谷戸４８９番地",
+      "certification": [
+        {
+          "certification_name": "令和３年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2022-01-28"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001064396",
+      "name": "株式会社ティー・アイ・シー",
+      "address": "埼玉県越谷市南越谷１丁目１６番１３号",
+      "prefecture": "埼玉県越谷市南越谷１丁目１６番１３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001136930",
+      "name": "ミサワリフォーム関東株式会社",
+      "address": "埼玉県さいたま市大宮区天沼町１丁目４３４番地１",
+      "prefecture": "埼玉県さいたま市大宮区天沼町１丁目４３４番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030005004910",
+      "name": "医療法人社団白桜会",
+      "address": "埼玉県白岡市上野田１２６７番地１",
+      "prefecture": "埼玉県白岡市上野田１２６７番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030005010842",
+      "name": "医療法人社団満寿会",
+      "address": "埼玉県鶴ヶ島市大字上広谷８番地１５",
+      "prefecture": "埼玉県鶴ヶ島市大字上広谷８番地１５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030005015478",
+      "name": "一般財団法人埼玉県交通教育協会",
+      "address": "埼玉県さいたま市北区植竹町２丁目２番地",
+      "prefecture": "埼玉県さいたま市北区植竹町２丁目２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

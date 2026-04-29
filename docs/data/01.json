@@ -1,0 +1,3368 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020016446",
+      "name": "池田町",
+      "address": "北海道中川郡池田町字西一条７丁目１１",
+      "prefecture": "北海道中川郡池田町字西一条７丁目１１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1000020016454",
+      "name": "豊頃町",
+      "address": "北海道中川郡豊頃町茂岩本町１２５",
+      "prefecture": "北海道中川郡豊頃町茂岩本町１２５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1000020019275",
+      "name": "深川地区消防組合",
+      "address": "北海道深川市八条１０番２０号",
+      "prefecture": "北海道深川市八条１０番２０号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001001267",
+      "name": "池田煖房工業株式会社",
+      "address": "北海道札幌市北区北十二条西３丁目２番２０号",
+      "prefecture": "北海道札幌市北区北十二条西３丁目２番２０号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        },
+        {
+          "certification_name": "帯広防衛支局優秀工事等表彰",
+          "certified_date": "2022-07-01"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001005219",
+      "name": "株式会社なの花北海道",
+      "address": "北海道札幌市中央区北九条西２４丁目３番１２号",
+      "prefecture": "北海道札幌市中央区北九条西２４丁目３番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001008691",
+      "name": "株式会社清風堂",
+      "address": "北海道札幌市東区北十六条東１丁目２番１５号",
+      "prefecture": "北海道札幌市東区北十六条東１丁目２番１５号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001010268",
+      "name": "株式会社田中建築設備事務所",
+      "address": "北海道札幌市中央区南一条西７丁目２０番１号",
+      "prefecture": "北海道札幌市中央区南一条西７丁目２０番１号",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001012066",
+      "name": "株式会社南香園",
+      "address": "北海道札幌市中央区北十一条西１５丁目１番５２号",
+      "prefecture": "北海道札幌市中央区北十一条西１５丁目１番５２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001014789",
+      "name": "北盛電設株式会社",
+      "address": "北海道札幌市中央区北七条西２０丁目１番１５号",
+      "prefecture": "北海道札幌市中央区北七条西２０丁目１番１５号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001015639",
+      "name": "ホシザキ北海道株式会社",
+      "address": "北海道札幌市白石区菊水一条４丁目１番８号",
+      "prefecture": "北海道札幌市白石区菊水一条４丁目１番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001018377",
+      "name": "株式会社アークス",
+      "address": "北海道札幌市中央区南十三条西１１丁目２番３２号",
+      "prefecture": "北海道札幌市中央区南十三条西１１丁目２番３２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001025729",
+      "name": "株式会社サンドラッグプラス",
+      "address": "北海道札幌市東区北四十一条東９丁目３番１号",
+      "prefecture": "北海道札幌市東区北四十一条東９丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001027964",
+      "name": "株式会社オストジャパングループ",
+      "address": "北海道札幌市厚別区厚別南５丁目１番７号",
+      "prefecture": "北海道札幌市厚別区厚別南５丁目１番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001039456",
+      "name": "株式会社ＨｉＳＣ",
+      "address": "北海道札幌市中央区北一条東２丁目５番８号",
+      "prefecture": "北海道札幌市中央区北一条東２丁目５番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001041759",
+      "name": "株式会社調和技研",
+      "address": "北海道札幌市中央区南二条西１２丁目３２４番地２　９０２",
+      "prefecture": "北海道札幌市中央区南二条西１２丁目３２４番地２　９０２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430001061575",
+      "name": "株式会社エス・エム・エスサポートサービス",
+      "address": "北海道札幌市中央区北五条西２丁目５番地ＪＲタワーオフィスプラザさっぽろ",
+      "prefecture": "北海道札幌市中央区北五条西２丁目５番地ＪＲタワーオフィスプラザさっぽろ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430002034968",
+      "name": "株式会社トーホーエンジニアリング",
+      "address": "北海道札幌市豊平区平岸二条６丁目１番１４号三慶ビル３階",
+      "prefecture": "北海道札幌市豊平区平岸二条６丁目１番１４号三慶ビル３階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1430005000653",
+      "name": "社会福祉法人札幌報恩会",
+      "address": "北海道札幌市厚別区厚別町上野幌８２２番地",
+      "prefecture": "北海道札幌市厚別区厚別町上野幌８２２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1440001006521",
+      "name": "株式会社前田組",
+      "address": "北海道檜山郡江差町字豊川町１６８番地の１",
+      "prefecture": "北海道檜山郡江差町字豊川町１６８番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1450001001819",
+      "name": "株式会社高組",
+      "address": "北海道旭川市三条通１９丁目右１０号",
+      "prefecture": "北海道旭川市三条通１９丁目右１０号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1450001002602",
+      "name": "株式会社富士建設コンサル",
+      "address": "北海道旭川市三条通２１丁目右１号",
+      "prefecture": "北海道旭川市三条通２１丁目右１号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        },
+        {
+          "certification_name": "帯広防衛支局優秀工事等顕彰",
+          "certified_date": "2024-07-04"
+        },
+        {
+          "certification_name": "北海道防衛局優秀工事等表彰",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1450005003464",
+      "name": "紋別漁業協同組合",
+      "address": "北海道紋別市港町６丁目５番２号",
+      "prefecture": "北海道紋別市港町６丁目５番２号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1460101000942",
+      "name": "高堂建設株式会社",
+      "address": "北海道帯広市東一条南１６丁目１５番地",
+      "prefecture": "北海道帯広市東一条南１６丁目１５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1460105000542",
+      "name": "帯広市川西農業協同組合",
+      "address": "北海道帯広市川西町西２線６１番地の１",
+      "prefecture": "北海道帯広市川西町西２線６１番地の１",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2020-04-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1460105001549",
+      "name": "社会福祉法人光寿会",
+      "address": "北海道帯広市西十七条南３丁目２４番２４号",
+      "prefecture": "北海道帯広市西十七条南３丁目２４番２４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1460301000288",
+      "name": "北見通運株式会社",
+      "address": "北海道北見市豊地９３番地１",
+      "prefecture": "北海道北見市豊地９３番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1460305000367",
+      "name": "きたみらい農業協同組合",
+      "address": "北海道北見市中ノ島町１丁目１番８号",
+      "prefecture": "北海道北見市中ノ島町１丁目１番８号",
+      "certification": [
+        {
+          "certification_name": "令和４年度未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2023-05-31"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020016098",
+      "name": "えりも町",
+      "address": "北海道幌泉郡えりも町字本町２０６",
+      "prefecture": "北海道幌泉郡えりも町字本町２０６",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2010001145766",
+      "name": "株式会社萬世閣",
+      "address": "北海道虻田郡洞爺湖町洞爺湖温泉２１番地",
+      "prefecture": "北海道虻田郡洞爺湖町洞爺湖温泉２１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2010401111228",
+      "name": "株式会社ファーストコネクト",
+      "address": "北海道札幌市中央区北一条西５丁目２番地札幌興銀ビル６階",
+      "prefecture": "北海道札幌市中央区北一条西５丁目２番地札幌興銀ビル６階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001010952",
+      "name": "株式会社電通北海道",
+      "address": "北海道札幌市中央区大通西５丁目１１番地１",
+      "prefecture": "北海道札幌市中央区大通西５丁目１１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001015010",
+      "name": "北都システム株式会社",
+      "address": "北海道札幌市厚別区厚別中央二条３丁目５番１１号",
+      "prefecture": "北海道札幌市厚別区厚別中央二条３丁目５番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001023582",
+      "name": "丸彦小野商事株式会社",
+      "address": "北海道札幌市手稲区前田一条６丁目２番８号",
+      "prefecture": "北海道札幌市手稲区前田一条６丁目２番８号",
+      "certification": [
+        {
+          "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
+          "certified_date": "2019-10-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001023599",
+      "name": "丸彦渡辺建設株式会社",
+      "address": "北海道札幌市豊平区豊平六条６丁目５番８号",
+      "prefecture": "北海道札幌市豊平区豊平六条６丁目５番８号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001032014",
+      "name": "株式会社エイト設計",
+      "address": "北海道札幌市中央区大通西１丁目１４番地２",
+      "prefecture": "北海道札幌市中央区大通西１丁目１４番地２",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等顕彰",
+          "certified_date": "2024-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001041460",
+      "name": "株式会社世壱屋",
+      "address": "北海道札幌市中央区南五条西１丁目１－１２",
+      "prefecture": "北海道札幌市中央区南五条西１丁目１－１２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001043713",
+      "name": "株式会社丹波組",
+      "address": "北海道千歳市本町１丁目１４番地",
+      "prefecture": "北海道千歳市本町１丁目１４番地",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001044959",
+      "name": "株式会社ホームロジスティクス",
+      "address": "北海道札幌市北区新琴似七条１丁目２番３９号",
+      "prefecture": "北海道札幌市北区新琴似七条１丁目２番３９号",
+      "certification": [
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2020-12-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001056517",
+      "name": "株式会社アイスジャパン",
+      "address": "北海道室蘭市中島町４丁目９番２８号",
+      "prefecture": "北海道室蘭市中島町４丁目９番２８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001056896",
+      "name": "株式会社永澤機械",
+      "address": "北海道室蘭市東町３丁目１番４号",
+      "prefecture": "北海道室蘭市東町３丁目１番４号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430001078429",
+      "name": "株式会社ノースディテール",
+      "address": "北海道札幌市中央区北一条西１丁目６番地",
+      "prefecture": "北海道札幌市中央区北一条西１丁目６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430005000578",
+      "name": "社会福祉法人シルバニア",
+      "address": "北海道札幌市東区東苗穂町１０８９番１",
+      "prefecture": "北海道札幌市東区東苗穂町１０８９番１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430005001436",
+      "name": "社会医療法人医仁会",
+      "address": "北海道札幌市中央区南一条西１４丁目２９１番地１９０",
+      "prefecture": "北海道札幌市中央区南一条西１４丁目２９１番地１９０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2430005001997",
+      "name": "社会医療法人豊生会",
+      "address": "北海道札幌市東区東苗穂三条１丁目２番１８号",
+      "prefecture": "北海道札幌市東区東苗穂三条１丁目２番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2440001001001",
+      "name": "株式会社ジャックス",
+      "address": "北海道函館市若松町２番５号",
+      "prefecture": "北海道函館市若松町２番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2450001000712",
+      "name": "男山株式会社",
+      "address": "北海道旭川市永山二条７丁目１番３３号",
+      "prefecture": "北海道旭川市永山二条７丁目１番３３号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2450001008111",
+      "name": "株式会社佐藤組",
+      "address": "北海道稚内市朝日１丁目３番５号",
+      "prefecture": "北海道稚内市朝日１丁目３番５号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2450001008409",
+      "name": "稚内電気工事株式会社",
+      "address": "北海道稚内市萩見５丁目３３番４号",
+      "prefecture": "北海道稚内市萩見５丁目３３番４号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等表彰",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2450001008508",
+      "name": "株式会社天塩町酪農振興公社",
+      "address": "北海道天塩郡天塩町新地通６丁目２３４３番地",
+      "prefecture": "北海道天塩郡天塩町新地通６丁目２３４３番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2450005000270",
+      "name": "社会福祉法人北海道療育園",
+      "address": "北海道旭川市春光台四条１０丁目",
+      "prefecture": "北海道旭川市春光台四条１０丁目",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2460001000653",
+      "name": "株式会社残間金属工業",
+      "address": "北海道釧路郡釧路町国誉５丁目１２番地１",
+      "prefecture": "北海道釧路郡釧路町国誉５丁目１２番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2460001001965",
+      "name": "菱エステイ島本鉄工株式会社",
+      "address": "北海道釧路市星が浦南３丁目１番８号",
+      "prefecture": "北海道釧路市星が浦南３丁目１番８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2460101000421",
+      "name": "カルビーポテト株式会社",
+      "address": "北海道帯広市別府町零号３１番地４",
+      "prefecture": "北海道帯広市別府町零号３１番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2460101000842",
+      "name": "大開技術コンサルタント株式会社",
+      "address": "北海道中川郡幕別町札内新北町１９７番地７１",
+      "prefecture": "北海道中川郡幕別町札内新北町１９７番地７１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2460101001816",
+      "name": "村上土建開発工業株式会社",
+      "address": "北海道河東郡音更町木野大通西５丁目２番地３",
+      "prefecture": "北海道河東郡音更町木野大通西５丁目２番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2460101001849",
+      "name": "株式会社安井測量設計事務所",
+      "address": "北海道帯広市西十条南８丁目５番地の７",
+      "prefecture": "北海道帯広市西十条南８丁目５番地の７",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2460101001964",
+      "name": "株式会社六花亭",
+      "address": "北海道帯広市西二十四条北１丁目３番１９号",
+      "prefecture": "北海道帯広市西二十四条北１丁目３番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2460105000459",
+      "name": "社会福祉法人真宗協会",
+      "address": "北海道帯広市空港南町３０３番地１",
+      "prefecture": "北海道帯広市空港南町３０３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2460301003109",
+      "name": "上印宮川漁業株式会社",
+      "address": "北海道網走市北六条東１丁目１３番地",
+      "prefecture": "北海道網走市北六条東１丁目１３番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3000020014729",
+      "name": "幌加内町",
+      "address": "北海道雨竜郡幌加内町字幌加内４６９９",
+      "prefecture": "北海道雨竜郡幌加内町字幌加内４６９９",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3000020015784",
+      "name": "白老町",
+      "address": "北海道白老郡白老町大町１丁目１－１",
+      "prefecture": "北海道白老郡白老町大町１丁目１－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3000020016675",
+      "name": "鶴居村",
+      "address": "北海道阿寒郡鶴居村鶴居西１丁目１",
+      "prefecture": "北海道阿寒郡鶴居村鶴居西１丁目１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001001109",
+      "name": "株式会社アルファ水工コンサルタンツ",
+      "address": "北海道札幌市西区発寒九条１４丁目５１６番３３６",
+      "prefecture": "北海道札幌市西区発寒九条１４丁目５１６番３３６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001004334",
+      "name": "北一ミート株式会社",
+      "address": "北海道札幌市東区東雁来六条２丁目２番２５号",
+      "prefecture": "北海道札幌市東区東雁来六条２丁目２番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001010217",
+      "name": "ダットジャパン株式会社",
+      "address": "北海道札幌市中央区南三条西５丁目１番１",
+      "prefecture": "北海道札幌市中央区南三条西５丁目１番１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001011396",
+      "name": "株式会社道新サービスセンター",
+      "address": "北海道札幌市中央区大通西１８丁目１番３０号",
+      "prefecture": "北海道札幌市中央区大通西１８丁目１番３０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001012915",
+      "name": "Ｕｍｉｏｓ　Ｈｏｋｋａｉｄｏ株式会社",
+      "address": "北海道札幌市西区西町北１８丁目１番１号",
+      "prefecture": "北海道札幌市西区西町北１８丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "第４０回食品産業優良企業等表彰",
+          "certified_date": "2019-03-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001015439",
+      "name": "株式会社プリプレス・センター",
+      "address": "北海道札幌市中央区南十条西８丁目４番地１",
+      "prefecture": "北海道札幌市中央区南十条西８丁目４番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001019225",
+      "name": "株式会社サングリン太陽園",
+      "address": "北海道札幌市白石区流通センター６丁目１番１８号",
+      "prefecture": "北海道札幌市白石区流通センター６丁目１番１８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001022088",
+      "name": "株式会社北海道新聞社",
+      "address": "北海道札幌市中央区大通東４丁目１番地",
+      "prefecture": "北海道札幌市中央区大通東４丁目１番地",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2022-12-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001022658",
+      "name": "株式会社北海道銀行",
+      "address": "北海道札幌市中央区大通西４丁目１番地",
+      "prefecture": "北海道札幌市中央区大通西４丁目１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001030099",
+      "name": "株式会社アクアテック",
+      "address": "北海道札幌市西区発寒九条１４丁目５１６番２５５",
+      "prefecture": "北海道札幌市西区発寒九条１４丁目５１６番２５５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001043514",
+      "name": "郷土建設株式会社",
+      "address": "北海道恵庭市有明町２丁目６番９号",
+      "prefecture": "北海道恵庭市有明町２丁目６番９号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等表彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001044958",
+      "name": "株式会社ニトリ",
+      "address": "北海道札幌市北区新琴似七条１丁目２番３９号",
+      "prefecture": "北海道札幌市北区新琴似七条１丁目２番３９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001048389",
+      "name": "株式会社砂子組",
+      "address": "北海道空知郡奈井江町字チャシュナイ９８７番地１０",
+      "prefecture": "北海道空知郡奈井江町字チャシュナイ９８７番地１０",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001048439",
+      "name": "滝川ガス株式会社",
+      "address": "北海道滝川市新町３丁目１１番５号",
+      "prefecture": "北海道滝川市新町３丁目１１番５号",
+      "certification": [
+        {
+          "certification_name": "ガス保安功労者経済産業大臣表彰",
+          "certified_date": "2019-11-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430001073742",
+      "name": "Ｓｅｐｔｅｎｉ　Ａｄ　Ｃｒｅａｔｉｖｅ株式会社",
+      "address": "北海道札幌市中央区北一条西５丁目２番地",
+      "prefecture": "北海道札幌市中央区北一条西５丁目２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430005000916",
+      "name": "一般社団法人札幌市手をつなぐ育成会",
+      "address": "北海道札幌市北区北八条西６丁目２番地の１５育成会活動センターいんくる内",
+      "prefecture": "北海道札幌市北区北八条西６丁目２番地の１５育成会活動センターいんくる内",
+      "certification": [
+        {
+          "certification_name": "令和元年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2019-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430005001286",
+      "name": "公益財団法人さっぽろ青少年女性活動協会",
+      "address": "北海道札幌市西区宮の沢一条１丁目１番１０号",
+      "prefecture": "北海道札幌市西区宮の沢一条１丁目１番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430005003175",
+      "name": "北海道労働金庫",
+      "address": "北海道札幌市中央区北一条西５丁目３番地１０",
+      "prefecture": "北海道札幌市中央区北一条西５丁目３番地１０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430005004314",
+      "name": "特定非営利活動法人琴似発寒川市民フォーラム西区ホタルの会",
+      "address": "北海道札幌市西区福井８丁目１番１０号",
+      "prefecture": "北海道札幌市西区福井８丁目１番１０号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2022-05-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3430005010758",
+      "name": "公益社団法人北海道勤労者医療協会",
+      "address": "北海道札幌市西区西町北１９丁目１番５号",
+      "prefecture": "北海道札幌市西区西町北１９丁目１番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3440001006239",
+      "name": "株式会社ワイエスフーズ",
+      "address": "北海道茅部郡森町字砂原西４丁目２３０番地の１２",
+      "prefecture": "北海道茅部郡森町字砂原西４丁目２３０番地の１２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3440002009505",
+      "name": "有限会社厚沢部町農業振興公社",
+      "address": "北海道檜山郡厚沢部町鶉町８５３番地",
+      "prefecture": "北海道檜山郡厚沢部町鶉町８５３番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3450005003933",
+      "name": "一般社団法人旭川消費者協会",
+      "address": "北海道旭川市一条通８丁目１０８番地フィール旭川内",
+      "prefecture": "北海道旭川市一条通８丁目１０８番地フィール旭川内",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2014-05-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3460001001972",
+      "name": "株式会社リラィアブル",
+      "address": "北海道釧路市春採５丁目１６番１７号",
+      "prefecture": "北海道釧路市春採５丁目１６番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3460101001385",
+      "name": "萩原建設工業株式会社",
+      "address": "北海道帯広市東七条南８丁目２番地",
+      "prefecture": "北海道帯広市東七条南８丁目２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3460101001542",
+      "name": "株式会社北王",
+      "address": "北海道帯広市西七条北１丁目１１番地",
+      "prefecture": "北海道帯広市西七条北１丁目１１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3460101001798",
+      "name": "宮坂建設工業株式会社",
+      "address": "北海道帯広市西十三条南１４丁目１番地２",
+      "prefecture": "北海道帯広市西十三条南１４丁目１番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        },
+        {
+          "certification_name": "帯広防衛支局優秀工事等顕彰",
+          "certified_date": "2024-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020012335",
+      "name": "伊達市",
+      "address": "北海道伊達市鹿島町２０－１",
+      "prefecture": "北海道伊達市鹿島町２０－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020016641",
+      "name": "標茶町",
+      "address": "北海道川上郡標茶町川上４丁目２",
+      "prefecture": "北海道川上郡標茶町川上４丁目２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010001196130",
+      "name": "Ｗｅｅｋｌｙ＆Ｍｏｎｔｈｌｙ株式会社",
+      "address": "北海道札幌市北区北六条西１丁目３番地８",
+      "prefecture": "北海道札幌市北区北六条西１丁目３番地８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430001000976",
+      "name": "株式会社アミノアップ",
+      "address": "北海道札幌市清田区真栄３６３番地３２",
+      "prefecture": "北海道札幌市清田区真栄３６３番地３２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430001013788",
+      "name": "ＤＭＧ　ＭＯＲＩ　Ｄｉｇｉｔａｌ株式会社",
+      "address": "北海道札幌市厚別区下野幌テクノパーク１丁目１番１４号",
+      "prefecture": "北海道札幌市厚別区下野幌テクノパーク１丁目１番１４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430001015958",
+      "name": "イオン北海道株式会社",
+      "address": "北海道札幌市白石区本通２１丁目南１番１０号",
+      "prefecture": "北海道札幌市白石区本通２１丁目南１番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430001022351",
+      "name": "北海道電力株式会社",
+      "address": "北海道札幌市中央区大通東１丁目２番地",
+      "prefecture": "北海道札幌市中央区大通東１丁目２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430001022657",
+      "name": "北海道旅客鉄道株式会社",
+      "address": "北海道札幌市中央区北十一条西１５丁目１番１号",
+      "prefecture": "北海道札幌市中央区北十一条西１５丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "第１８回エコツーリズム大賞",
+          "certified_date": "2023-02-27"
+        },
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2019-12-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430001028448",
+      "name": "株式会社興和総合研究所",
+      "address": "北海道札幌市中央区大通西２６丁目２番１０号－７０６",
+      "prefecture": "北海道札幌市中央区大通西２６丁目２番１０号－７０６",
+      "certification": [
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2018-12-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430001042242",
+      "name": "株式会社ふじと屋",
+      "address": "北海道札幌市東区伏古十一条４丁目７番５号",
+      "prefecture": "北海道札幌市東区伏古十一条４丁目７番５号",
+      "certification": [
+        {
+          "certification_name": "令和元年度優良ふるさと食品中央コンクール表彰",
+          "certified_date": "2020-03-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430005003042",
+      "name": "北海道生活協同組合連合会",
+      "address": "北海道札幌市白石区菊水三条４丁目１－３全労済北海道会館内",
+      "prefecture": "北海道札幌市白石区菊水三条４丁目１－３全労済北海道会館内",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2018-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430005003174",
+      "name": "北海道信用保証協会",
+      "address": "北海道札幌市中央区大通西１４丁目１番地",
+      "prefecture": "北海道札幌市中央区大通西１４丁目１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430005006887",
+      "name": "夕張市農業協同組合",
+      "address": "北海道夕張市沼ノ沢２１３番地２７",
+      "prefecture": "北海道夕張市沼ノ沢２１３番地２７",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4430005013132",
+      "name": "特定非営利活動法人あい",
+      "address": "北海道札幌市西区二十四軒三条６丁目５番１４号１階",
+      "prefecture": "北海道札幌市西区二十四軒三条６丁目５番１４号１階",
+      "certification": [
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4440001000414",
+      "name": "株式会社曲小小倉工務店",
+      "address": "北海道函館市亀田町１７番２号",
+      "prefecture": "北海道函館市亀田町１７番２号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4450001000561",
+      "name": "エーピーテクノ株式会社",
+      "address": "北海道旭川市神楽岡十二条６丁目３番１７号",
+      "prefecture": "北海道旭川市神楽岡十二条６丁目３番１７号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4460001004438",
+      "name": "株式会社釧路製作所",
+      "address": "北海道釧路市川北町９番１９号",
+      "prefecture": "北海道釧路市川北町９番１９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4460005001084",
+      "name": "一般社団法人摩周湖観光協会",
+      "address": "北海道川上郡弟子屈町摩周３丁目３番１号",
+      "prefecture": "北海道川上郡弟子屈町摩周３丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "第１８回エコツーリズム大賞",
+          "certified_date": "2023-02-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4462501000016",
+      "name": "株式会社犬飼工務店",
+      "address": "北海道標津郡中標津町東十四条南１丁目１番地",
+      "prefecture": "北海道標津郡中標津町東十四条南１丁目１番地",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等表彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4462501000131",
+      "name": "高部電気株式会社",
+      "address": "北海道標津郡中標津町共立１番地１１",
+      "prefecture": "北海道標津郡中標津町共立１番地１１",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等顕彰",
+          "certified_date": "2024-07-04"
+        },
+        {
+          "certification_name": "帯広防衛支局優秀工事等表彰",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020013943",
+      "name": "蘭越町",
+      "address": "北海道磯谷郡蘭越町蘭越町２５８－５",
+      "prefecture": "北海道磯谷郡蘭越町蘭越町２５８－５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020014818",
+      "name": "増毛町",
+      "address": "北海道増毛郡増毛町弁天町３丁目６１",
+      "prefecture": "北海道増毛郡増毛町弁天町３丁目６１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020015849",
+      "name": "洞爺湖町",
+      "address": "北海道虻田郡洞爺湖町栄町５８",
+      "prefecture": "北海道虻田郡洞爺湖町栄町５８",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5240005007169",
+      "name": "特定非営利活動法人日本歯科ボランティア機構",
+      "address": "北海道厚岸郡厚岸町港町４丁目１７０番地",
+      "prefecture": "北海道厚岸郡厚岸町港町４丁目１７０番地",
+      "certification": [
+        {
+          "certification_name": "外務大臣表彰",
+          "certified_date": "2020-12-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001001098",
+      "name": "株式会社アルファ技研",
+      "address": "北海道札幌市西区西町南２１丁目２番１１号",
+      "prefecture": "北海道札幌市西区西町南２１丁目２番１１号",
+      "certification": [
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001001263",
+      "name": "池田食品株式会社",
+      "address": "北海道札幌市白石区中央一条３丁目３２番地",
+      "prefecture": "北海道札幌市白石区中央一条３丁目３２番地",
+      "certification": [
+        {
+          "certification_name": "輸出に取り組む優良事業者表彰農林水産省北海道農政事務所長賞",
+          "certified_date": "2021-03-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001004638",
+      "name": "株式会社共伸設備設計事務所",
+      "address": "北海道札幌市中央区北一条西９丁目３番１０号",
+      "prefecture": "北海道札幌市中央区北一条西９丁目３番１０号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        },
+        {
+          "certification_name": "北海道防衛局優秀工事等表彰",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001010545",
+      "name": "株式会社つうけん",
+      "address": "北海道札幌市中央区北四条西１５丁目１番地２３",
+      "prefecture": "北海道札幌市中央区北四条西１５丁目１番地２３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001010586",
+      "name": "塚田設備管理株式会社",
+      "address": "北海道札幌市西区二十四軒一条５丁目１番",
+      "prefecture": "北海道札幌市西区二十四軒一条５丁目１番",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001011683",
+      "name": "道路工業株式会社",
+      "address": "北海道札幌市中央区南八条西１５丁目２番１号",
+      "prefecture": "北海道札幌市中央区南八条西１５丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001012590",
+      "name": "日興美装工業株式会社",
+      "address": "北海道札幌市北区北十九条西４丁目１番２１号",
+      "prefecture": "北海道札幌市北区北十九条西４丁目１番２１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001015701",
+      "name": "北開工営株式会社",
+      "address": "北海道札幌市白石区本郷通１３丁目南４番１号",
+      "prefecture": "北海道札幌市白石区本郷通１３丁目南４番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001018621",
+      "name": "Ｒ＆Ｘグループ株式会社",
+      "address": "北海道札幌市東区北二十四条東１７丁目１番１２号",
+      "prefecture": "北海道札幌市東区北二十四条東１７丁目１番１２号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001019207",
+      "name": "三共舗道株式会社",
+      "address": "北海道滝川市明神町４丁目１番１７号",
+      "prefecture": "北海道滝川市明神町４丁目１番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001020635",
+      "name": "株式会社中央ネームプレート製作所",
+      "address": "北海道札幌市東区北三十九条東１丁目２番１７号",
+      "prefecture": "北海道札幌市東区北三十九条東１丁目２番１７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001021443",
+      "name": "北海航測株式会社",
+      "address": "北海道札幌市中央区北三条西１７丁目２番地３６",
+      "prefecture": "北海道札幌市中央区北三条西１７丁目２番地３６",
+      "certification": [
+        {
+          "certification_name": "国土地理院長表彰（優良業務）",
+          "certified_date": "2021-07-19"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001021765",
+      "name": "株式会社ドーコン",
+      "address": "北海道札幌市厚別区厚別中央一条５丁目４番１号",
+      "prefecture": "北海道札幌市厚別区厚別中央一条５丁目４番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001021815",
+      "name": "北海道瓦斯株式会社",
+      "address": "北海道札幌市東区北七条東２丁目１番１号",
+      "prefecture": "北海道札幌市東区北七条東２丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001021831",
+      "name": "株式会社北海道建設新聞社",
+      "address": "北海道札幌市中央区北四条西１９丁目１番地",
+      "prefecture": "北海道札幌市中央区北四条西１９丁目１番地",
+      "certification": [
+        {
+          "certification_name": "Ｇｅｏアクティビティコンテスト表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001025535",
+      "name": "株式会社ナスカコンピュータ",
+      "address": "北海道札幌市中央区大通西３丁目１１番地",
+      "prefecture": "北海道札幌市中央区大通西３丁目１１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001028348",
+      "name": "アイビック食品株式会社",
+      "address": "北海道札幌市東区苗穂町１３丁目１番１５号",
+      "prefecture": "北海道札幌市東区苗穂町１３丁目１番１５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001031236",
+      "name": "北海サポート株式会社",
+      "address": "北海道札幌市東区北四十二条東１５丁目１番１号栄町ビル６Ｆ",
+      "prefecture": "北海道札幌市東区北四十二条東１５丁目１番１号栄町ビル６Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001043438",
+      "name": "恵庭建設株式会社",
+      "address": "北海道恵庭市泉町２６番地",
+      "prefecture": "北海道恵庭市泉町２６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001043636",
+      "name": "ＡＮＡ新千歳空港株式会社",
+      "address": "北海道千歳市美々１２９２番地（新千歳空港内）",
+      "prefecture": "北海道千歳市美々１２９２番地（新千歳空港内）",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001046622",
+      "name": "日の出交通株式会社",
+      "address": "北海道岩見沢市大和二条９丁目１９番地５",
+      "prefecture": "北海道岩見沢市大和二条９丁目１９番地５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001053338",
+      "name": "トヨタ自動車北海道株式会社",
+      "address": "北海道苫小牧市字勇払１４５番１",
+      "prefecture": "北海道苫小牧市字勇払１４５番１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001053809",
+      "name": "北海道クリーン開発株式会社",
+      "address": "北海道苫小牧市寿町２丁目３番１４号",
+      "prefecture": "北海道苫小牧市寿町２丁目３番１４号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430001072841",
+      "name": "明治コンサルタント株式会社",
+      "address": "北海道札幌市中央区南七条西１丁目２１番地１",
+      "prefecture": "北海道札幌市中央区南七条西１丁目２１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5430005005806",
+      "name": "社会福祉法人パートナー",
+      "address": "北海道石狩市花川北六条３丁目１６番地",
+      "prefecture": "北海道石狩市花川北六条３丁目１６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5440001000545",
+      "name": "紀の國建設株式会社",
+      "address": "北海道函館市昭和１丁目３番８号",
+      "prefecture": "北海道函館市昭和１丁目３番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5440001001188",
+      "name": "株式会社高橋組",
+      "address": "北海道函館市高盛町３番２０号",
+      "prefecture": "北海道函館市高盛町３番２０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5440001002442",
+      "name": "株式会社森川組",
+      "address": "北海道函館市海岸町９番２３号",
+      "prefecture": "北海道函館市海岸町９番２３号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2023-07-11"
+        },
+        {
+          "certification_name": "北海道防衛局優秀工事等表彰",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5440003001038",
+      "name": "合同会社友結",
+      "address": "北海道函館市本通４丁目８番９号",
+      "prefecture": "北海道函館市本通４丁目８番９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5450001000156",
+      "name": "荒井建設株式会社",
+      "address": "北海道旭川市四条西２丁目２番２号",
+      "prefecture": "北海道旭川市四条西２丁目２番２号",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等表彰",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5450001009478",
+      "name": "野村漁業株式会社",
+      "address": "北海道紋別市南が丘町１丁目１１番１８号",
+      "prefecture": "北海道紋別市南が丘町１丁目１１番１８号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5450005002025",
+      "name": "社会福祉法人美瑛慈光会",
+      "address": "北海道上川郡美瑛町南町４丁目４番",
+      "prefecture": "北海道上川郡美瑛町南町４丁目４番",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5460101000402",
+      "name": "川岸電設株式会社",
+      "address": "北海道帯広市西二条南３８丁目４番１４号",
+      "prefecture": "北海道帯広市西二条南３８丁目４番１４号",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等顕彰",
+          "certified_date": "2024-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5460101000757",
+      "name": "株式会社ズコーシャ",
+      "address": "北海道帯広市西十八条北１丁目１７番地",
+      "prefecture": "北海道帯広市西十八条北１丁目１７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5460101001326",
+      "name": "仁木工業株式会社",
+      "address": "北海道河東郡音更町大通３丁目２番地",
+      "prefecture": "北海道河東郡音更町大通３丁目２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5460105000209",
+      "name": "十勝農業協同組合連合会",
+      "address": "北海道帯広市西十二条南６丁目３番地１",
+      "prefecture": "北海道帯広市西十二条南６丁目３番地１",
+      "certification": [
+        {
+          "certification_name": "民間部門農林水産研究開発功績者表彰",
+          "certified_date": "2023-11-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001000743",
+      "name": "株式会社ＡＳＥ",
+      "address": "北海道札幌市厚別区下野幌テクノパーク１丁目２番１６号",
+      "prefecture": "北海道札幌市厚別区下野幌テクノパーク１丁目２番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001007458",
+      "name": "日本アイビーエム・ソリューション・サービス株式会社",
+      "address": "北海道札幌市中央区北五条西６丁目２番地２札幌センタービル",
+      "prefecture": "北海道札幌市中央区北五条西６丁目２番地２札幌センタービル",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001014917",
+      "name": "国分北海道株式会社",
+      "address": "北海道札幌市中央区南六条西９丁目１０１８番地３",
+      "prefecture": "北海道札幌市中央区南六条西９丁目１０１８番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001022250",
+      "name": "株式会社ＨＤＣ",
+      "address": "北海道札幌市中央区南一条西１０丁目２番地南１条道銀ビル",
+      "prefecture": "北海道札幌市中央区南一条西１０丁目２番地南１条道銀ビル",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001024817",
+      "name": "株式会社サンセリテ札幌",
+      "address": "北海道札幌市中央区大通西１４丁目３番地１７",
+      "prefecture": "北海道札幌市中央区大通西１４丁目３番地１７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001025872",
+      "name": "株式会社メディカルシステムネットワーク",
+      "address": "北海道札幌市中央区北十条西２４丁目３番地",
+      "prefecture": "北海道札幌市中央区北十条西２４丁目３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001034659",
+      "name": "エコモット株式会社",
+      "address": "北海道札幌市中央区北一条東１丁目２番５号",
+      "prefecture": "北海道札幌市中央区北一条東１丁目２番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001048543",
+      "name": "株式会社中山組",
+      "address": "北海道滝川市明神町４丁目１番１７号",
+      "prefecture": "北海道滝川市明神町４丁目１番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001050730",
+      "name": "株式会社エムデジ",
+      "address": "北海道小樽市新光１丁目１１番１号",
+      "prefecture": "北海道小樽市新光１丁目１１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001052660",
+      "name": "株式会社遠藤組",
+      "address": "北海道苫小牧市日の出町２丁目８番１５号",
+      "prefecture": "北海道苫小牧市日の出町２丁目８番１５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430001053592",
+      "name": "ハーバー株式会社",
+      "address": "北海道苫小牧市新開町４丁目３番２号",
+      "prefecture": "北海道苫小牧市新開町４丁目３番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430005001473",
+      "name": "医療法人社団明生会",
+      "address": "北海道札幌市西区八軒二条西１丁目１番１号",
+      "prefecture": "北海道札幌市西区八軒二条西１丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6430005011159",
+      "name": "特定非営利活動法人小樽民家再生プロジェクト",
+      "address": "北海道小樽市相生町８番１３号株式会社石井印刷内",
+      "prefecture": "北海道小樽市相生町８番１３号株式会社石井印刷内",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2018-06-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6440001000206",
+      "name": "株式会社エスイーシー",
+      "address": "北海道函館市末広町２２番１号",
+      "prefecture": "北海道函館市末広町２２番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6440001006467",
+      "name": "株式会社田畑建設",
+      "address": "北海道檜山郡江差町字伏木戸町６３４番地",
+      "prefecture": "北海道檜山郡江差町字伏木戸町６３４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6440005000978",
+      "name": "新函館農業協同組合",
+      "address": "北海道北斗市本町１丁目１番２１号",
+      "prefecture": "北海道北斗市本町１丁目１番２１号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6450001008025",
+      "name": "株式会社エフエムわっかない",
+      "address": "北海道稚内市富岡２丁目１番２１号",
+      "prefecture": "北海道稚内市富岡２丁目１番２１号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6450001008504",
+      "name": "天塩ハイヤー株式会社",
+      "address": "北海道天塩郡幌延町二条南１丁目２４番地２",
+      "prefecture": "北海道天塩郡幌延町二条南１丁目２４番地２",
+      "certification": [
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2019-12-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6460101000153",
+      "name": "永光建設株式会社",
+      "address": "北海道帯広市西二十条北２丁目２８番地２１",
+      "prefecture": "北海道帯広市西二十条北２丁目２８番地２１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6460101001548",
+      "name": "株式会社北開水工コンサルタント",
+      "address": "北海道帯広市東七条南１７丁目１番地１",
+      "prefecture": "北海道帯広市東七条南１７丁目１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6460101006051",
+      "name": "株式会社ファームノート",
+      "address": "北海道帯広市西八条南１８丁目３番地４",
+      "prefecture": "北海道帯広市西八条南１８丁目３番地４",
+      "certification": [
+        {
+          "certification_name": "第５回日本ベンチャー大賞",
+          "certified_date": "2019-05-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6460301000135",
+      "name": "岡本建設株式会社",
+      "address": "北海道北見市無加川町４０４番地７",
+      "prefecture": "北海道北見市無加川町４０４番地７",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等表彰",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020010006",
+      "name": "北海道",
+      "address": "北海道札幌市中央区北三条西６丁目１",
+      "prefecture": "北海道札幌市中央区北三条西６丁目１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7010401032840",
+      "name": "株式会社ＮＴＴネクシア",
+      "address": "北海道札幌市中央区大通西１４丁目７番地",
+      "prefecture": "北海道札幌市中央区大通西１４丁目７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001004883",
+      "name": "キヤリアバンク株式会社",
+      "address": "北海道札幌市中央区北五条西５丁目７番地",
+      "prefecture": "北海道札幌市中央区北五条西５丁目７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001005618",
+      "name": "株式会社構研エンジニアリング",
+      "address": "北海道札幌市中央区北四条東４丁目１番地１",
+      "prefecture": "北海道札幌市中央区北四条東４丁目１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001011772",
+      "name": "株式会社ドコモＣＳ北海道",
+      "address": "北海道札幌市中央区北一条西１４丁目６番地ドコモ北海道ビル",
+      "prefecture": "北海道札幌市中央区北一条西１４丁目６番地ドコモ北海道ビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001014965",
+      "name": "北電興業株式会社",
+      "address": "北海道札幌市中央区北一条東３丁目１番地の１",
+      "prefecture": "北海道札幌市中央区北一条東３丁目１番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001015237",
+      "name": "フュージョン株式会社",
+      "address": "北海道札幌市中央区北四条西４丁目１番地",
+      "prefecture": "北海道札幌市中央区北四条西４丁目１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001027067",
+      "name": "株式会社アドバコム",
+      "address": "北海道札幌市中央区北二条西２丁目１番地１号ハクオウビル３Ｆ",
+      "prefecture": "北海道札幌市中央区北二条西２丁目１番地１号ハクオウビル３Ｆ",
+      "certification": [
+        {
+          "certification_name": "第１０回グッドライフアワード",
+          "certified_date": "2022-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001028230",
+      "name": "東日本フード株式会社",
+      "address": "北海道札幌市北区北八条西１丁目３番地",
+      "prefecture": "北海道札幌市北区北八条西１丁目３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001029022",
+      "name": "株式会社ファイバーゲート",
+      "address": "北海道札幌市中央区南一条西８丁目１０－３",
+      "prefecture": "北海道札幌市中央区南一条西８丁目１０－３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001033602",
+      "name": "丸吉ロジ株式会社",
+      "address": "北海道北広島市輪厚６８１番地１４",
+      "prefecture": "北海道北広島市輪厚６８１番地１４",
+      "certification": [
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2018-12-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001048369",
+      "name": "末廣屋電機株式会社",
+      "address": "北海道滝川市栄町１丁目５番１７号",
+      "prefecture": "北海道滝川市栄町１丁目５番１７号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-11"
+        },
+        {
+          "certification_name": "北海道防衛局優秀工事等表彰",
+          "certified_date": "2022-07-01"
+        },
+        {
+          "certification_name": "優秀工事",
+          "certified_date": "2021-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001052148",
+      "name": "ＨＴＭ株式会社",
+      "address": "北海道虻田郡倶知安町ニセコひらふ四条１丁目３番１６－２号",
+      "prefecture": "北海道虻田郡倶知安町ニセコひらふ四条１丁目３番１６－２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001060877",
+      "name": "株式会社ケン・ホテルマネジメントキャビン北海道",
+      "address": "北海道札幌市中央区南一条西６丁目１５番地１",
+      "prefecture": "北海道札幌市中央区南一条西６丁目１５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001069398",
+      "name": "株式会社アインファーマシーズ",
+      "address": "北海道札幌市白石区東札幌五条２丁目４番３０号",
+      "prefecture": "北海道札幌市白石区東札幌五条２丁目４番３０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430001078663",
+      "name": "北海道電力ネットワーク株式会社",
+      "address": "北海道札幌市中央区大通東１丁目２番地",
+      "prefecture": "北海道札幌市中央区大通東１丁目２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430005003056",
+      "name": "生活協同組合コープさっぽろ",
+      "address": "北海道札幌市西区発寒十一条５丁目１０番１号",
+      "prefecture": "北海道札幌市西区発寒十一条５丁目１０番１号",
+      "certification": [
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2020-04-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430005003072",
+      "name": "ホクレン農業協同組合連合会",
+      "address": "北海道札幌市中央区北四条西１丁目３番地",
+      "prefecture": "北海道札幌市中央区北四条西１丁目３番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430005005201",
+      "name": "特定非営利活動法人消費者支援ネット北海道",
+      "address": "北海道札幌市中央区北四条西１２丁目１番５５",
+      "prefecture": "北海道札幌市中央区北四条西１２丁目１番５５",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2014-05-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430005005911",
+      "name": "医療法人社団いずみ会",
+      "address": "北海道千歳市清流５丁目１番１号",
+      "prefecture": "北海道千歳市清流５丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7430005012643",
+      "name": "恵庭かのな協同組合",
+      "address": "北海道恵庭市南島松８１７番地１８",
+      "prefecture": "北海道恵庭市南島松８１７番地１８",
+      "certification": [
+        {
+          "certification_name": "農林水産省北海道農政事務所長賞",
+          "certified_date": "2019-01-31"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7440001004593",
+      "name": "メイホク食品株式会社",
+      "address": "北海道北斗市清水川２２０番地１",
+      "prefecture": "北海道北斗市清水川２２０番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7440005000291",
+      "name": "社会医療法人函館脳神経外科",
+      "address": "北海道函館市神山１丁目４番１２号",
+      "prefecture": "北海道函館市神山１丁目４番１２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7450001003181",
+      "name": "株式会社水野染工場",
+      "address": "北海道旭川市大雪通３丁目４８８番地の２６",
+      "prefecture": "北海道旭川市大雪通３丁目４８８番地の２６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7450001006424",
+      "name": "スガノ農機株式会社",
+      "address": "北海道空知郡上富良野町西２線北２５号",
+      "prefecture": "北海道空知郡上富良野町西２線北２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7450001008313",
+      "name": "丸共水産株式会社",
+      "address": "北海道稚内市中央４丁目１８番１８号",
+      "prefecture": "北海道稚内市中央４丁目１８番１８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7460101000697",
+      "name": "株式会社振興電気",
+      "address": "北海道帯広市西十七条南１丁目１４番地１",
+      "prefecture": "北海道帯広市西十七条南１丁目１４番地１",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7460101001539",
+      "name": "北王コンサルタント株式会社",
+      "address": "北海道帯広市西七条北１丁目１１番地",
+      "prefecture": "北海道帯広市西七条北１丁目１１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7460105000454",
+      "name": "社会福祉法人刀圭会",
+      "address": "北海道帯広市西十六条北１丁目２７番地１２７",
+      "prefecture": "北海道帯広市西十六条北１丁目２７番地１２７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7460301000076",
+      "name": "稲村電設工事株式会社",
+      "address": "北海道北見市常盤町５丁目１番地８",
+      "prefecture": "北海道北見市常盤町５丁目１番地８",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等表彰",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7460305001756",
+      "name": "特定非営利活動法人ワークフェア",
+      "address": "北海道北見市美芳町５丁目２番１３号",
+      "prefecture": "北海道北見市美芳町５丁目２番１３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7460305001780",
+      "name": "特定非営利活動法人森のこだま",
+      "address": "北海道網走郡津別町字上里７０３番地１",
+      "prefecture": "北海道網走郡津別町字上里７０３番地１",
+      "certification": [
+        {
+          "certification_name": "第１５回エコツーリズム大賞",
+          "certified_date": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020014311",
+      "name": "浦臼町",
+      "address": "北海道樺戸郡浦臼町字ウラウスナイ１８３－１５",
+      "prefecture": "北海道樺戸郡浦臼町字ウラウスナイ１８３－１５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010001171286",
+      "name": "マルゴト株式会社",
+      "address": "北海道札幌市中央区南一条西１６丁目１番地３２３春野ビル３Ｆ",
+      "prefecture": "北海道札幌市中央区南一条西１６丁目１番地３２３春野ビル３Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001001789",
+      "name": "岩田地崎建設株式会社",
+      "address": "北海道札幌市中央区北二条東１７丁目２番地",
+      "prefecture": "北海道札幌市中央区北二条東１７丁目２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        },
+        {
+          "certification_name": "優秀工事",
+          "certified_date": "2021-07-13"
+        },
+        {
+          "certification_name": "北海道防衛局優秀工事等表彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001007068",
+      "name": "ＳＣＳＫ北海道株式会社",
+      "address": "北海道札幌市中央区北一条西６丁目１番地２",
+      "prefecture": "北海道札幌市中央区北一条西６丁目１番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001008702",
+      "name": "株式会社正文舎",
+      "address": "北海道札幌市白石区菊水二条１丁目４番２７号",
+      "prefecture": "北海道札幌市白石区菊水二条１丁目４番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001021837",
+      "name": "株式会社北海道技術コンサルタント",
+      "address": "北海道札幌市東区苗穂町４丁目２番８号",
+      "prefecture": "北海道札幌市東区苗穂町４丁目２番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001021969",
+      "name": "北海道総合通信網株式会社",
+      "address": "北海道札幌市中央区北一条東２丁目５番３",
+      "prefecture": "北海道札幌市中央区北一条東２丁目５番３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001022570",
+      "name": "日本アクセス北海道株式会社",
+      "address": "北海道札幌市東区苗穂町９丁目１番１号",
+      "prefecture": "北海道札幌市東区苗穂町９丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001022711",
+      "name": "株式会社北洋銀行",
+      "address": "北海道札幌市中央区大通西３丁目７番地",
+      "prefecture": "北海道札幌市中央区大通西３丁目７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001032917",
+      "name": "佐藤水産株式会社",
+      "address": "北海道札幌市中央区宮の森三条１丁目５番４６号",
+      "prefecture": "北海道札幌市中央区宮の森三条１丁目５番４６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001041570",
+      "name": "雪印メグミルク株式会社",
+      "address": "北海道札幌市東区苗穂町６丁目１番１号",
+      "prefecture": "北海道札幌市東区苗穂町６丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001053211",
+      "name": "株式会社タナカコンサルタント",
+      "address": "北海道苫小牧市新開町２丁目１番３号",
+      "prefecture": "北海道苫小牧市新開町２丁目１番３号",
+      "certification": [
+        {
+          "certification_name": "国土地理院長表彰（優良業務）",
+          "certified_date": "2022-07-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001062798",
+      "name": "株式会社シーヴイテック北海道",
+      "address": "北海道苫小牧市字勇払１４５番地１",
+      "prefecture": "北海道苫小牧市字勇払１４５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001062914",
+      "name": "チトセ浜理薬品株式会社",
+      "address": "北海道千歳市泉沢１００７番地８１",
+      "prefecture": "北海道千歳市泉沢１００７番地８１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430001083852",
+      "name": "株式会社２７９",
+      "address": "北海道札幌市西区発寒十六条１２丁目１－２０",
+      "prefecture": "北海道札幌市西区発寒十六条１２丁目１－２０",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430005000317",
+      "name": "日正寺",
+      "address": "北海道札幌市北区北三十六条西４丁目１番１号",
+      "prefecture": "北海道札幌市北区北三十六条西４丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430005001281",
+      "name": "公益財団法人札幌市公園緑化協会",
+      "address": "北海道札幌市中央区北一条東１丁目６番地１６",
+      "prefecture": "北海道札幌市中央区北一条東１丁目６番地１６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430005001620",
+      "name": "社会医療法人社団愛心館",
+      "address": "北海道札幌市東区北二十七条東１丁目１番１５号",
+      "prefecture": "北海道札幌市東区北二十七条東１丁目１番１５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430005001819",
+      "name": "医療法人社団仁秀会白石整形外科",
+      "address": "北海道札幌市白石区中央二条４丁目１番２号",
+      "prefecture": "北海道札幌市白石区中央二条４丁目１番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430005004656",
+      "name": "医療法人喬成会",
+      "address": "北海道石狩市花川南七条５丁目２番地",
+      "prefecture": "北海道石狩市花川南七条５丁目２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430005006859",
+      "name": "特定非営利活動法人三笠森水遊学舎",
+      "address": "北海道三笠市幾春別栗丘町１３番地",
+      "prefecture": "北海道三笠市幾春別栗丘町１３番地",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2019-05-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430005008525",
+      "name": "特定非営利活動法人きもべつＷＡＯ",
+      "address": "北海道虻田郡喜茂別町字喜茂別３５０番地",
+      "prefecture": "北海道虻田郡喜茂別町字喜茂別３５０番地",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2022-05-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430005010885",
+      "name": "公益社団法人札幌消費者協会",
+      "address": "北海道札幌市北区北八条西３丁目２８番地（札幌市消費者センター内）",
+      "prefecture": "北海道札幌市北区北八条西３丁目２８番地（札幌市消費者センター内）",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2018-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8450001002728",
+      "name": "株式会社北拓",
+      "address": "北海道旭川市旭神一条５丁目８番１６号",
+      "prefecture": "北海道旭川市旭神一条５丁目８番１６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8450001006605",
+      "name": "ふらのまちづくり株式会社",
+      "address": "北海道富良野市幸町１３番１号",
+      "prefecture": "北海道富良野市幸町１３番１号",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2016-06-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8450001006836",
+      "name": "北海道アイスパビリオン株式会社",
+      "address": "北海道上川郡上川町栄町４０番地",
+      "prefecture": "北海道上川郡上川町栄町４０番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8450001008989",
+      "name": "株式会社堀口組",
+      "address": "北海道留萌市高砂町１丁目４番１５号",
+      "prefecture": "北海道留萌市高砂町１丁目４番１５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8460001001068",
+      "name": "太平洋設備株式会社",
+      "address": "北海道釧路市春採５丁目１６番１７号",
+      "prefecture": "北海道釧路市春採５丁目１６番１７号",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8460301002443",
+      "name": "株式会社西村組",
+      "address": "北海道紋別郡湧別町栄町１３３番地の１",
+      "prefecture": "北海道紋別郡湧別町栄町１３３番地の１",
+      "certification": [
+        {
+          "certification_name": "船員安全・労働環境取組大賞",
+          "certified_date": "2021-09-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8460301002996",
+      "name": "株式会社テレワークマネジメント",
+      "address": "北海道北見市高栄西町４丁目７番１３号",
+      "prefecture": "北海道北見市高栄西町４丁目７番１３号",
+      "certification": [
+        {
+          "certification_name": "テレワーク推進企業等厚生労働大臣表彰－表彰（特別奨励賞）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8460301003169",
+      "name": "鈴木工業株式会社",
+      "address": "北海道網走市字潮見１４３番地の９",
+      "prefecture": "北海道網走市字潮見１４３番地の９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020012157",
+      "name": "美唄市",
+      "address": "北海道美唄市西三条南１丁目１－１",
+      "prefecture": "北海道美唄市西三条南１丁目１－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020012173",
+      "name": "江別市",
+      "address": "北海道江別市高砂町６",
+      "prefecture": "北海道江別市高砂町６",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020016471",
+      "name": "足寄町",
+      "address": "北海道足寄郡足寄町北一条４丁目４８－１",
+      "prefecture": "北海道足寄郡足寄町北一条４丁目４８－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020016918",
+      "name": "別海町",
+      "address": "北海道野付郡別海町別海常盤町２８０",
+      "prefecture": "北海道野付郡別海町別海常盤町２８０",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9430001001078",
+      "name": "株式会社アレフ",
+      "address": "北海道札幌市白石区菊水六条３丁目１番２６号",
+      "prefecture": "北海道札幌市白石区菊水六条３丁目１番２６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度食品ロス削減推進表彰",
+          "certified_date": "2023-09-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9430001002571",
+      "name": "株式会社ＮＴＴ東日本－北海道",
+      "address": "北海道札幌市中央区大通西１４丁目７番地",
+      "prefecture": "北海道札幌市中央区大通西１４丁目７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9430001008437",
+      "name": "株式会社すずらん商事",
+      "address": "北海道札幌市白石区菊水上町四条３丁目５１番１６号",
+      "prefecture": "北海道札幌市白石区菊水上町四条３丁目５１番１６号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9430001011754",
+      "name": "株式会社特殊衣料",
+      "address": "北海道札幌市西区発寒十四条１４丁目２番４０号",
+      "prefecture": "北海道札幌市西区発寒十四条１４丁目２番４０号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9430001020202",
+      "name": "株式会社サッポロドラッグストアー",
+      "address": "北海道札幌市東区北八条東４丁目１番２０号",
+      "prefecture": "北海道札幌市東区北八条東４丁目１番２０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9430001021794",
+      "name": "北海道コカ・コーラボトリング株式会社",
+      "address": "北海道札幌市清田区清田一条１丁目２番１号",
+      "prefecture": "北海道札幌市清田区清田一条１丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9430001022322",
+      "name": "北海道テレビ放送株式会社",
+      "address": "北海道札幌市中央区北一条西１丁目６番地",
+      "prefecture": "北海道札幌市中央区北一条西１丁目６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9430001043707",
+      "name": "株式会社玉川組",
+      "address": "北海道恵庭市相生町４丁目６番３０号",
+      "prefecture": "北海道恵庭市相生町４丁目６番３０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2024-07-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9430001050240",
+      "name": "株式会社トップジェント・ファッション・コア",
+      "address": "北海道小樽市色内１丁目１０番２１号",
+      "prefecture": "北海道小樽市色内１丁目１０番２１号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": "2020-09-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9430001056642",
+      "name": "株式会社キメラ",
+      "address": "北海道室蘭市香川町２４番地１６",
+      "prefecture": "北海道室蘭市香川町２４番地１６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9440001001424",
+      "name": "朋栄土木工業株式会社",
+      "address": "北海道函館市高松町３番地",
+      "prefecture": "北海道函館市高松町３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9440001001770",
+      "name": "函館山ロープウェイ株式会社",
+      "address": "北海道函館市元町１９番７号",
+      "prefecture": "北海道函館市元町１９番７号",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2021-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9440005001536",
+      "name": "社会福祉法人聖樹の杜",
+      "address": "北海道亀田郡七飯町本町３丁目１８番１２号",
+      "prefecture": "北海道亀田郡七飯町本町３丁目１８番１２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9450001002256",
+      "name": "株式会社中原建築設計事務所",
+      "address": "北海道旭川市本町１丁目８４０番地７",
+      "prefecture": "北海道旭川市本町１丁目８４０番地７",
+      "certification": [
+        {
+          "certification_name": "北海道防衛局優秀工事等顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9450001007338",
+      "name": "株式会社西條",
+      "address": "北海道名寄市西三条南６丁目２５番地１",
+      "prefecture": "北海道名寄市西三条南６丁目２５番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9450001007602",
+      "name": "士別市農畜産物加工株式会社",
+      "address": "北海道士別市武徳町８８４番地４",
+      "prefecture": "北海道士別市武徳町８８４番地４",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9450005003135",
+      "name": "特定非営利活動法人天塩川を清流にする会",
+      "address": "北海道天塩郡天塩町新開通１０丁目２４０４番地の１",
+      "prefecture": "北海道天塩郡天塩町新開通１０丁目２４０４番地の１",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2020-05-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9460001001950",
+      "name": "株式会社ヨシダ造園緑化",
+      "address": "北海道釧路市緑ケ岡２丁目３６番１５号",
+      "prefecture": "北海道釧路市緑ケ岡２丁目３６番１５号",
+      "certification": [
+        {
+          "certification_name": "帯広防衛支局優秀工事等顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9460101001966",
+      "name": "六花亭商事株式会社",
+      "address": "北海道帯広市西二十四条北１丁目３番１９号",
+      "prefecture": "北海道帯広市西二十四条北１丁目３番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9460101003005",
+      "name": "株式会社川村組",
+      "address": "北海道河東郡上士幌町字上士幌東２線２３４番地",
+      "prefecture": "北海道河東郡上士幌町字上士幌東２線２３４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9460105001938",
+      "name": "一般社団法人帯広消費者協会",
+      "address": "北海道帯広市西四条南１３丁目",
+      "prefecture": "北海道帯広市西四条南１３丁目",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2013-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9460301003606",
+      "name": "株式会社知床ネイチャーオフィス",
+      "address": "北海道斜里郡斜里町ウトロ東３６５番地",
+      "prefecture": "北海道斜里郡斜里町ウトロ東３６５番地",
+      "certification": [
+        {
+          "certification_name": "第９回エコツーリズム大賞",
+          "certified_date": "2014-02-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9460305000161",
+      "name": "医療法人オホーツク勤労者医療協会",
+      "address": "北海道北見市常盤町５丁目７番地５",
+      "prefecture": "北海道北見市常盤町５丁目７番地５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

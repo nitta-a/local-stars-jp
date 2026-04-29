@@ -1,0 +1,2860 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1010703003272",
+      "name": "株式会社ＲＵＴＩＬＥＡ",
+      "address": "京都府京都市中京区下丸屋町３９７番地",
+      "prefecture": "京都府京都市中京区下丸屋町３９７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1120001129841",
+      "name": "酒井工業株式会社",
+      "address": "京都府京都市南区東九条中御霊町５３番地４",
+      "prefecture": "京都府京都市南区東九条中御霊町５３番地４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001004795",
+      "name": "株式会社佐藤喜代松商店",
+      "address": "京都府京都市北区平野宮西町１０５番地",
+      "prefecture": "京都府京都市北区平野宮西町１０５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001005661",
+      "name": "株式会社洛北義肢",
+      "address": "京都府京都市北区大北山原谷乾町２２番地の１６",
+      "prefecture": "京都府京都市北区大北山原谷乾町２２番地の１６",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（厚生労働省人材開発統括官表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001011032",
+      "name": "株式会社大興製作所",
+      "address": "京都府京都市南区久世中久町６７６番地３",
+      "prefecture": "京都府京都市南区久世中久町６７６番地３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001011313",
+      "name": "内外エンジニアリング株式会社",
+      "address": "京都府京都市南区久世中久世町１丁目１４１番地",
+      "prefecture": "京都府京都市南区久世中久世町１丁目１４１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2024-02-08"
+        },
+        {
+          "certification_name": "令和５年度中国四国農政局農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2024-01-11"
+        },
+        {
+          "certification_name": "令和５年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2023-12-27"
+        },
+        {
+          "certification_name": "令和５年度東海農政局所管農業農村整備事業優良工事等の受注者の表彰",
+          "certified_date": "2023-12-26"
+        },
+        {
+          "certification_name": "令和５年度近畿農政局農業農村整備事業等優良工事等受注者の表彰",
+          "certified_date": "2023-12-18"
+        },
+        {
+          "certification_name": "令和５年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-12-11"
+        },
+        {
+          "certification_name": "令和４年度中国四国農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-12"
+        },
+        {
+          "certification_name": "令和３年度九州農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-03-18"
+        },
+        {
+          "certification_name": "令和３年度東海農政局所管農業農村整備事業優良工事等の受注者の表彰",
+          "certified_date": "2022-02-24"
+        },
+        {
+          "certification_name": "令和３年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2022-01-28"
+        },
+        {
+          "certification_name": "令和３年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2022-01-11"
+        },
+        {
+          "certification_name": "近畿農政局農業農村整備事業等優良工事等の受注者の表彰",
+          "certified_date": "2020-06-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001011420",
+      "name": "任天堂株式会社",
+      "address": "京都府京都市南区上鳥羽鉾立町１１番地１",
+      "prefecture": "京都府京都市南区上鳥羽鉾立町１１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001011676",
+      "name": "株式会社堀場製作所",
+      "address": "京都府京都市南区吉祥院宮の東町２番地",
+      "prefecture": "京都府京都市南区吉祥院宮の東町２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "健康経営銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001012716",
+      "name": "佐々木化学薬品株式会社",
+      "address": "京都府京都市山科区勧修寺西北出町１０番地",
+      "prefecture": "京都府京都市山科区勧修寺西北出町１０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001016650",
+      "name": "株式会社エース",
+      "address": "京都府京都市下京区七条通木屋町上る大宮町２０５番地",
+      "prefecture": "京都府京都市下京区七条通木屋町上る大宮町２０５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001016824",
+      "name": "オムロン株式会社",
+      "address": "京都府京都市下京区塩小路通堀川東入南不動堂町８０１番地",
+      "prefecture": "京都府京都市下京区塩小路通堀川東入南不動堂町８０１番地",
+      "certification": [
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "健康経営銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001017021",
+      "name": "株式会社京進",
+      "address": "京都府京都市下京区烏丸通五条下る大坂町３８２番地１",
+      "prefecture": "京都府京都市下京区烏丸通五条下る大坂町３８２番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001018003",
+      "name": "株式会社ＴＡＮＡＸ",
+      "address": "京都府京都市下京区五条通烏丸東入松屋町４３８番地",
+      "prefecture": "京都府京都市下京区五条通烏丸東入松屋町４３８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001018928",
+      "name": "マルホ発條工業株式会社",
+      "address": "京都府京都市下京区中堂寺南町１３４番地京都リサーチパーク１号館",
+      "prefecture": "京都府京都市下京区中堂寺南町１３４番地京都リサーチパーク１号館",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001019307",
+      "name": "株式会社ワイエムシィ",
+      "address": "京都府京都市下京区五条通烏丸西入醍醐町２８４番地",
+      "prefecture": "京都府京都市下京区五条通烏丸西入醍醐町２８４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001019471",
+      "name": "京都電機器株式会社",
+      "address": "京都府京都市下京区東洞院通上珠数屋町上る富田町３８２番地",
+      "prefecture": "京都府京都市下京区東洞院通上珠数屋町上る富田町３８２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001021849",
+      "name": "トヨタカローラ京都株式会社",
+      "address": "京都府京都市中京区西ノ京南大炊御門町１番地の１",
+      "prefecture": "京都府京都市中京区西ノ京南大炊御門町１番地の１",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2021-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001023465",
+      "name": "日本シティネットワーク株式会社",
+      "address": "京都府京都市南区東九条中御霊町５３番地の４",
+      "prefecture": "京都府京都市南区東九条中御霊町５３番地の４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001025940",
+      "name": "株式会社アイケイエス",
+      "address": "京都府京都市左京区一乗寺松原町１２番地３０",
+      "prefecture": "京都府京都市左京区一乗寺松原町１２番地３０",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001030569",
+      "name": "株式会社ナベル",
+      "address": "京都府京都市南区西九条森本町８６番地",
+      "prefecture": "京都府京都市南区西九条森本町８６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001030783",
+      "name": "カンケンテクノ株式会社",
+      "address": "京都府長岡京市神足太田３０番地２",
+      "prefecture": "京都府長岡京市神足太田３０番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001032540",
+      "name": "日本タブレット株式会社",
+      "address": "京都府宇治市槇島町目川１４９番地の１",
+      "prefecture": "京都府宇治市槇島町目川１４９番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001032887",
+      "name": "株式会社名高精工所",
+      "address": "京都府宇治市槇島町中川原２８番地",
+      "prefecture": "京都府宇治市槇島町中川原２８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001038463",
+      "name": "星和電機株式会社",
+      "address": "京都府城陽市寺田新池３６番地",
+      "prefecture": "京都府城陽市寺田新池３６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001047349",
+      "name": "株式会社アドプランツコーポレーション",
+      "address": "京都府京都市中京区堺町通竹屋町上る橘町９２番地シンフォニー御所堺町御門前Ｂ－１",
+      "prefecture": "京都府京都市中京区堺町通竹屋町上る橘町９２番地シンフォニー御所堺町御門前Ｂ－１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001050823",
+      "name": "株式会社光影堂",
+      "address": "京都府京都市下京区河原町通五条下る本塩竈町５８３－５ＫＡＷＡＲＡＭＡＣＨＩＰＬＡＣＥ１００２",
+      "prefecture": "京都府京都市下京区河原町通五条下る本塩竈町５８３－５ＫＡＷＡＲＡＭＡＣＨＩＰＬＡＣＥ１００２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001055789",
+      "name": "株式会社Ｍｏｎｏｚｕｋｕｒｉ　Ｖｅｎｔｕｒｅｓ",
+      "address": "京都府京都市下京区大政所町６８０－１",
+      "prefecture": "京都府京都市下京区大政所町６８０－１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130001065623",
+      "name": "株式会社古川製茶",
+      "address": "京都府宇治市五ケ庄上村５９番地",
+      "prefecture": "京都府宇治市五ケ庄上村５９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130005002606",
+      "name": "一般社団法人京都市交通局協力会",
+      "address": "京都府京都市右京区太秦下刑部町１２番地",
+      "prefecture": "京都府京都市右京区太秦下刑部町１２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1130005015723",
+      "name": "医療法人蒼風会",
+      "address": "京都府亀岡市千代川町小林下戸９番地７",
+      "prefecture": "京都府亀岡市千代川町小林下戸９番地７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020260002",
+      "name": "京都府",
+      "address": "京都府京都市上京区下立売通新町西入藪之内町",
+      "prefecture": "京都府京都市上京区下立売通新町西入藪之内町",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001008366",
+      "name": "株式会社太鼓センター",
+      "address": "京都府京都市下京区大宮通高辻下る高辻大宮町１１３番地４",
+      "prefecture": "京都府京都市下京区大宮通高辻下る高辻大宮町１１３番地４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001010677",
+      "name": "ＳＧシステム株式会社",
+      "address": "京都府京都市南区上鳥羽角田町２５番地",
+      "prefecture": "京都府京都市南区上鳥羽角田町２５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001012236",
+      "name": "日本新薬株式会社",
+      "address": "京都府京都市南区吉祥院西ノ庄門口町１４番地",
+      "prefecture": "京都府京都市南区吉祥院西ノ庄門口町１４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001017235",
+      "name": "公成建設株式会社",
+      "address": "京都府京都市下京区五条通西洞院西入小柳町５１８番地",
+      "prefecture": "京都府京都市下京区五条通西洞院西入小柳町５１８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001017887",
+      "name": "株式会社ダイムワカイ",
+      "address": "京都府京都市下京区中堂寺前田町３４番地",
+      "prefecture": "京都府京都市下京区中堂寺前田町３４番地",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（厚生労働省人材開発統括官表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001018398",
+      "name": "株式会社日新システムズ",
+      "address": "京都府京都市下京区堀川通綾小路下る綾堀川町２９３番地の１",
+      "prefecture": "京都府京都市下京区堀川通綾小路下る綾堀川町２９３番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001019751",
+      "name": "株式会社アルファコーポレーション",
+      "address": "京都府京都市下京区四条烏丸東入長刀鉾町８番地",
+      "prefecture": "京都府京都市下京区四条烏丸東入長刀鉾町８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001026161",
+      "name": "湘南島津株式会社",
+      "address": "京都府京都市中京区西ノ京桑原町１番地",
+      "prefecture": "京都府京都市中京区西ノ京桑原町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001035641",
+      "name": "株式会社吹上工業",
+      "address": "京都府亀岡市大井町南金岐又ケ田１６番地の１",
+      "prefecture": "京都府亀岡市大井町南金岐又ケ田１６番地の１",
+      "certification": [
+        {
+          "certification_name": "令和４年度近畿農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001041813",
+      "name": "日東精工株式会社",
+      "address": "京都府綾部市井倉町梅ケ畑２０番地",
+      "prefecture": "京都府綾部市井倉町梅ケ畑２０番地",
+      "certification": [
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001042695",
+      "name": "株式会社日進製作所グループ",
+      "address": "京都府京丹後市峰山町千歳２２番地",
+      "prefecture": "京都府京丹後市峰山町千歳２２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001043231",
+      "name": "株式会社アート",
+      "address": "京都府舞鶴市字小倉６７番地の１",
+      "prefecture": "京都府舞鶴市字小倉６７番地の１",
+      "certification": [
+        {
+          "certification_name": "近畿中部防衛局　優秀工事顕彰・優秀工事技術者顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130001056175",
+      "name": "ＤＸＨＵＢ株式会社",
+      "address": "京都府京都市下京区中堂寺粟田町９３番地京都リサーチパーク６号館２階",
+      "prefecture": "京都府京都市下京区中堂寺粟田町９３番地京都リサーチパーク６号館２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130005004188",
+      "name": "医療法人社団洛和会",
+      "address": "京都府京都市中京区西ノ京車坂町９番地",
+      "prefecture": "京都府京都市中京区西ノ京車坂町９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130005005368",
+      "name": "税理士法人京都経営ネットワーク",
+      "address": "京都府京都市伏見区墨染町７４１番地梅本ビル１階",
+      "prefecture": "京都府京都市伏見区墨染町７４１番地梅本ビル１階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130005008809",
+      "name": "社会福祉法人城陽市社会福祉協議会",
+      "address": "京都府城陽市寺田東ノ口１７番地",
+      "prefecture": "京都府城陽市寺田東ノ口１７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2130005009410",
+      "name": "弁護士法人古家野法律事務所",
+      "address": "京都府京都市中京区三条通烏丸西入御倉町８５番地１ＫＤＸ烏丸ビル３階",
+      "prefecture": "京都府京都市中京区三条通烏丸西入御倉町８５番地１ＫＤＸ烏丸ビル３階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001000082",
+      "name": "アイフル株式会社",
+      "address": "京都府京都市下京区烏丸通五条上る高砂町３８１－１",
+      "prefecture": "京都府京都市下京区烏丸通五条上る高砂町３８１－１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001003894",
+      "name": "株式会社マルハン",
+      "address": "京都府京都市上京区出町今出川上る青龍町２３１番地",
+      "prefecture": "京都府京都市上京区出町今出川上る青龍町２３１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001004678",
+      "name": "株式会社クレオテック",
+      "address": "京都府京都市北区平野上八丁柳町２８番地",
+      "prefecture": "京都府京都市北区平野上八丁柳町２８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001007763",
+      "name": "日本電気化学株式会社",
+      "address": "京都府京都市左京区浄土寺真如町３２番地",
+      "prefecture": "京都府京都市左京区浄土寺真如町３２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001009314",
+      "name": "三洋化成工業株式会社",
+      "address": "京都府京都市東山区一橋野本町１１番地の１",
+      "prefecture": "京都府京都市東山区一橋野本町１１番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001009487",
+      "name": "株式会社陶葊",
+      "address": "京都府京都市東山区泉涌寺東林町３８番地",
+      "prefecture": "京都府京都市東山区泉涌寺東林町３８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001010115",
+      "name": "株式会社堀場エステック",
+      "address": "京都府京都市南区上鳥羽鉾立町１１番地５",
+      "prefecture": "京都府京都市南区上鳥羽鉾立町１１番地５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001014157",
+      "name": "環境計測株式会社",
+      "address": "京都府京都市伏見区竹田北三ツ杭町８４番地",
+      "prefecture": "京都府京都市伏見区竹田北三ツ杭町８４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001017143",
+      "name": "クロイ電機株式会社",
+      "address": "京都府京都市南区上鳥羽大物町７番地",
+      "prefecture": "京都府京都市南区上鳥羽大物町７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001020485",
+      "name": "株式会社京都メディカルクラブ",
+      "address": "京都府京都市中京区西ノ京下合町１１番地",
+      "prefecture": "京都府京都市中京区西ノ京下合町１１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001022300",
+      "name": "株式会社フェイス",
+      "address": "京都府京都市中京区烏丸通御池下る虎屋町５６６－１井門明治安田生命ビル",
+      "prefecture": "京都府京都市中京区烏丸通御池下る虎屋町５６６－１井門明治安田生命ビル",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001024445",
+      "name": "株式会社ブリッジコーポレーション",
+      "address": "京都府京都市中京区烏丸通三条下る饅頭屋町５９５番地３",
+      "prefecture": "京都府京都市中京区烏丸通三条下る饅頭屋町５９５番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001024866",
+      "name": "株式会社クラウディアコスチュームサービス",
+      "address": "京都府京都市右京区西院高田町３４番地",
+      "prefecture": "京都府京都市右京区西院高田町３４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001026854",
+      "name": "株式会社ゲートジャパン",
+      "address": "京都府京都市伏見区竹田向代町５１７番地",
+      "prefecture": "京都府京都市伏見区竹田向代町５１７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001030352",
+      "name": "三菱ロジスネクスト株式会社",
+      "address": "京都府長岡京市東神足２丁目１番１号",
+      "prefecture": "京都府長岡京市東神足２丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001039823",
+      "name": "日本ルナ株式会社",
+      "address": "京都府八幡市上津屋西久保１０６番地",
+      "prefecture": "京都府八幡市上津屋西久保１０６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130001061629",
+      "name": "株式会社Ｓｕｐｅｒ　Ｅｎｅｒｇｉｅ　Ｃｏｎｎｅｃｔｉｏｎ",
+      "address": "京都府京都市南区上鳥羽南鉾立町１４－１",
+      "prefecture": "京都府京都市南区上鳥羽南鉾立町１４－１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130005004922",
+      "name": "京都信用保証協会",
+      "address": "京都府京都市下京区四条通室町東入函谷鉾町７８番地",
+      "prefecture": "京都府京都市下京区四条通室町東入函谷鉾町７８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130005005532",
+      "name": "国立大学法人京都大学",
+      "address": "京都府京都市左京区吉田本町３６番地１",
+      "prefecture": "京都府京都市左京区吉田本町３６番地１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130005007834",
+      "name": "農事組合法人京丹波ほたるの里",
+      "address": "京都府船井郡京丹波町安井ブドウ４１番地",
+      "prefecture": "京都府船井郡京丹波町安井ブドウ４１番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度近畿地域未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2023-02-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3130005012578",
+      "name": "特定非営利活動法人障碍者芸術推進研究機構",
+      "address": "京都府京都市北区紫野西舟岡町２番地",
+      "prefecture": "京都府京都市北区紫野西舟岡町２番地",
+      "certification": [
+        {
+          "certification_name": "令和元年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2019-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020262013",
+      "name": "福知山市",
+      "address": "京都府福知山市字内記１３－１",
+      "prefecture": "京都府福知山市字内記１３－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020262129",
+      "name": "京丹後市",
+      "address": "京都府京丹後市峰山町杉谷８８９番地",
+      "prefecture": "京都府京丹後市峰山町杉谷８８９番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020262137",
+      "name": "南丹市",
+      "address": "京都府南丹市園部町小桜町４７",
+      "prefecture": "京都府南丹市園部町小桜町４７",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001000049",
+      "name": "京セラ株式会社",
+      "address": "京都府京都市伏見区竹田鳥羽殿町６番地",
+      "prefecture": "京都府京都市伏見区竹田鳥羽殿町６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001000899",
+      "name": "サンコール株式会社",
+      "address": "京都府京都市右京区梅津西浦町１４番地",
+      "prefecture": "京都府京都市右京区梅津西浦町１４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001004982",
+      "name": "株式会社ゼロ・コーポレーション",
+      "address": "京都府京都市北区紫野上野町１０８番地１",
+      "prefecture": "京都府京都市北区紫野上野町１０８番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001011418",
+      "name": "ニッセン・クレジットサービス株式会社",
+      "address": "京都府京都市南区西九条院町２６番地",
+      "prefecture": "京都府京都市南区西九条院町２６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001013777",
+      "name": "有明産業株式会社",
+      "address": "京都府京都市伏見区東菱屋町４２８番地の２",
+      "prefecture": "京都府京都市伏見区東菱屋町４２８番地の２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001019345",
+      "name": "関西ガスメータ株式会社",
+      "address": "京都府京都市下京区中堂寺鍵田町１０番地",
+      "prefecture": "京都府京都市下京区中堂寺鍵田町１０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001019931",
+      "name": "株式会社イセトー",
+      "address": "京都府京都市中京区室町御池下ル円福寺町３３８樋口・進和ビル５階",
+      "prefecture": "京都府京都市中京区室町御池下ル円福寺町３３８樋口・進和ビル５階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001019956",
+      "name": "上原成商事株式会社",
+      "address": "京都府京都市中京区車屋町通御池上る塗師屋町３４４番地",
+      "prefecture": "京都府京都市中京区車屋町通御池上る塗師屋町３４４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001022316",
+      "name": "福島鰹株式会社",
+      "address": "京都府京都市中京区堺町通御池上る扇屋町６６５番地",
+      "prefecture": "京都府京都市中京区堺町通御池上る扇屋町６６５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        },
+        {
+          "certification_name": "近畿農政局輸出に取り組む優良事業者表彰",
+          "certified_date": "2020-03-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001025120",
+      "name": "株式会社内藤建築事務所",
+      "address": "京都府京都市左京区田中大堰町１８２番地",
+      "prefecture": "京都府京都市左京区田中大堰町１８２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001030475",
+      "name": "株式会社村田製作所",
+      "address": "京都府長岡京市東神足１丁目１０番１号",
+      "prefecture": "京都府長岡京市東神足１丁目１０番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001032884",
+      "name": "株式会社中村藤吉本店",
+      "address": "京都府宇治市宇治壱番１０番地",
+      "prefecture": "京都府宇治市宇治壱番１０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001034369",
+      "name": "株式会社アクア",
+      "address": "京都府京田辺市大住池島４０番地５",
+      "prefecture": "京都府京田辺市大住池島４０番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001055274",
+      "name": "株式会社クリアビジョン",
+      "address": "京都府京都市南区東九条松田町１５番地十条産業ビル２階",
+      "prefecture": "京都府京都市南区東九条松田町１５番地十条産業ビル２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130001057130",
+      "name": "株式会社ＳＣＲＥＥＮアドバンストシステムソリューションズ",
+      "address": "京都府京都市上京区堀川通寺之内上る４丁目天神北町１番地の１",
+      "prefecture": "京都府京都市上京区堀川通寺之内上る４丁目天神北町１番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130005004277",
+      "name": "学校法人睦美学園",
+      "address": "京都府京都市伏見区桃山町立売４７番地",
+      "prefecture": "京都府京都市伏見区桃山町立売４７番地",
+      "certification": [
+        {
+          "certification_name": "食育活動表彰",
+          "certified_date": "2019-04-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130005008807",
+      "name": "社会福祉法人南山城学園",
+      "address": "京都府城陽市富野狼谷２番地１",
+      "prefecture": "京都府城陽市富野狼谷２番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130005009417",
+      "name": "京都北都信用金庫",
+      "address": "京都府宮津市字鶴賀２０５４番地の１",
+      "prefecture": "京都府宮津市字鶴賀２０５４番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4130005010886",
+      "name": "社会福祉法人みねやま福祉会",
+      "address": "京都府京丹後市峰山町呉服１０番地",
+      "prefecture": "京都府京丹後市峰山町呉服１０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001000139",
+      "name": "株式会社アラキ工務店",
+      "address": "京都府京都市右京区梅津高畝町５２番地の２",
+      "prefecture": "京都府京都市右京区梅津高畝町５２番地の２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001005385",
+      "name": "株式会社フジックス",
+      "address": "京都府京都市北区平野宮本町５番地",
+      "prefecture": "京都府京都市北区平野宮本町５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001007506",
+      "name": "ヤマナカアドバンスマテリアル株式会社",
+      "address": "京都府京都市左京区北白川上池田町２０番地２",
+      "prefecture": "京都府京都市左京区北白川上池田町２０番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001011565",
+      "name": "福田建設工業株式会社",
+      "address": "京都府京都市南区久世東土川町３５７番地",
+      "prefecture": "京都府京都市南区久世東土川町３５７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001012737",
+      "name": "三共精機株式会社",
+      "address": "京都府京都市南区吉祥院九条町４９番地",
+      "prefecture": "京都府京都市南区吉祥院九条町４９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001014766",
+      "name": "新日本理化株式会社",
+      "address": "京都府京都市伏見区葭島矢倉町１３番地",
+      "prefecture": "京都府京都市伏見区葭島矢倉町１３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001015970",
+      "name": "株式会社山村組",
+      "address": "京都府京都市伏見区羽束師志水町２番地１",
+      "prefecture": "京都府京都市伏見区羽束師志水町２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001017447",
+      "name": "サンスイコンサルタント株式会社",
+      "address": "京都府京都市下京区五条通新町西入西錺屋町２３番地",
+      "prefecture": "京都府京都市下京区五条通新町西入西錺屋町２３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2024-02-08"
+        },
+        {
+          "certification_name": "令和５年度中国四国農政局農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2024-01-11"
+        },
+        {
+          "certification_name": "令和５年度近畿農政局農業農村整備事業等優良工事等受注者の表彰",
+          "certified_date": "2023-12-18"
+        },
+        {
+          "certification_name": "令和４年度東海農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-24"
+        },
+        {
+          "certification_name": "令和４年度北陸農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2022-12-15"
+        },
+        {
+          "certification_name": "令和３年度中国四国農政局所管農業農村整備事業等優良工事等の受賞者の表彰",
+          "certified_date": "2022-01-31"
+        },
+        {
+          "certification_name": "令和３年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2022-01-28"
+        },
+        {
+          "certification_name": "令和３年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2022-01-11"
+        },
+        {
+          "certification_name": "令和３年度近畿農政局所管農業農村整備事業等優良工事等の受注者の表彰",
+          "certified_date": "2021-12-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001019872",
+      "name": "株式会社伊と幸",
+      "address": "京都府京都市中京区御池通室町東入竜池町４４８番地の２",
+      "prefecture": "京都府京都市中京区御池通室町東入竜池町４４８番地の２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001021770",
+      "name": "株式会社ＴＯＡＩ",
+      "address": "京都府京都市中京区三条通烏丸西入御倉町８５番地１烏丸ビル５階",
+      "prefecture": "京都府京都市中京区三条通烏丸西入御倉町８５番地１烏丸ビル５階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001024146",
+      "name": "宝酒造株式会社",
+      "address": "京都府京都市伏見区竹中町６０９番地",
+      "prefecture": "京都府京都市伏見区竹中町６０９番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001028411",
+      "name": "株式会社ＧＳユアサ",
+      "address": "京都府京都市南区吉祥院西ノ庄猪之馬場町１番地",
+      "prefecture": "京都府京都市南区吉祥院西ノ庄猪之馬場町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001032909",
+      "name": "株式会社ナンゴー",
+      "address": "京都府宇治市白川川上り谷８０番地３６",
+      "prefecture": "京都府宇治市白川川上り谷８０番地３６",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（厚生労働省人材開発統括官表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001032982",
+      "name": "株式会社微生物化学研究所",
+      "address": "京都府宇治市槇島町二十四１６番地",
+      "prefecture": "京都府宇治市槇島町二十四１６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001038914",
+      "name": "株式会社ラプラス・システム",
+      "address": "京都府京都市伏見区京町１丁目２４５番地",
+      "prefecture": "京都府京都市伏見区京町１丁目２４５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001046925",
+      "name": "株式会社ＦＬＯＳＦＩＡ",
+      "address": "京都府京都市西京区御陵大原１番２９号",
+      "prefecture": "京都府京都市西京区御陵大原１番２９号",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2019-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001048839",
+      "name": "株式会社ナールスコーポレーション",
+      "address": "京都府京都市左京区吉田河原町１４京都技術科学センター",
+      "prefecture": "京都府京都市左京区吉田河原町１４京都技術科学センター",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130001051561",
+      "name": "アヤベックス株式会社",
+      "address": "京都府綾部市幸通１１番地",
+      "prefecture": "京都府綾部市幸通１１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130002006622",
+      "name": "有限会社アドバンク",
+      "address": "京都府京都市南区吉祥院嶋野間詰町５２番地",
+      "prefecture": "京都府京都市南区吉祥院嶋野間詰町５２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130005004251",
+      "name": "学校法人大和学園",
+      "address": "京都府京都市中京区河原町二条下ル下丸屋町３９６番地の３",
+      "prefecture": "京都府京都市中京区河原町二条下ル下丸屋町３９６番地の３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130005004623",
+      "name": "京都府生活協同組合連合会",
+      "address": "京都府京都市中京区烏丸通二条上る蒔絵屋町２５８番地・２５９－３番地コープ御所南ビル４階",
+      "prefecture": "京都府京都市中京区烏丸通二条上る蒔絵屋町２５８番地・２５９－３番地コープ御所南ビル４階",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2012-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130005005539",
+      "name": "特定非営利活動法人京都消費生活有資格者の会",
+      "address": "京都府京都市下京区綾小路通堀川西入妙満寺町５８０番地４飯田ビル２０２",
+      "prefecture": "京都府京都市下京区綾小路通堀川西入妙満寺町５８０番地４飯田ビル２０２",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2012-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130005006017",
+      "name": "税理士法人キーストーン",
+      "address": "京都府京都市中京区烏丸通御池下る虎屋町５７７番地２井門烏丸姉小路ビル５階",
+      "prefecture": "京都府京都市中京区烏丸通御池下る虎屋町５７７番地２井門烏丸姉小路ビル５階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130005008748",
+      "name": "農事組合法人木喰の郷もろはた",
+      "address": "京都府南丹市八木町諸畑松本２１７番地１",
+      "prefecture": "京都府南丹市八木町諸畑松本２１７番地１",
+      "certification": [
+        {
+          "certification_name": "飼料用米多収日本一表彰",
+          "certified_date": "2020-02-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5130005008822",
+      "name": "社会福祉法人青谷学園",
+      "address": "京都府城陽市中芦原１４番地",
+      "prefecture": "京都府城陽市中芦原１４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001000253",
+      "name": "株式会社植音",
+      "address": "京都府京都市右京区鳴滝本町６番地の７",
+      "prefecture": "京都府京都市右京区鳴滝本町６番地の７",
+      "certification": [
+        {
+          "certification_name": "令和５年度外務大臣表彰",
+          "certified_date": "2023-08-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001000336",
+      "name": "株式会社エルハウジング",
+      "address": "京都府京都市右京区山ノ内荒木町７番地５８",
+      "prefecture": "京都府京都市右京区山ノ内荒木町７番地５８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001003272",
+      "name": "株式会社ＳＣＲＥＥＮホールディングス",
+      "address": "京都府京都市上京区堀川通寺之内上る４丁目天神北町１番地の１",
+      "prefecture": "京都府京都市上京区堀川通寺之内上る４丁目天神北町１番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2023-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001004576",
+      "name": "株式会社キクチコンサルタント",
+      "address": "京都府京都市北区平野八丁柳町６６番地の８",
+      "prefecture": "京都府京都市北区平野八丁柳町６６番地の８",
+      "certification": [
+        {
+          "certification_name": "優秀業務",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001006283",
+      "name": "株式会社銀閣寺大西",
+      "address": "京都府京都市左京区浄土寺東田町５３番地",
+      "prefecture": "京都府京都市左京区浄土寺東田町５３番地",
+      "certification": [
+        {
+          "certification_name": "令和３年度近畿農政局輸出に取り組む優良事業者表彰",
+          "certified_date": "2022-03-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001008107",
+      "name": "株式会社共和",
+      "address": "京都府京都市南区吉祥院池田町８番地",
+      "prefecture": "京都府京都市南区吉祥院池田町８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001010608",
+      "name": "株式会社堀場アドバンスドテクノ",
+      "address": "京都府京都市南区吉祥院宮ノ東町２番地",
+      "prefecture": "京都府京都市南区吉祥院宮ノ東町２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001010748",
+      "name": "株式会社三笑堂",
+      "address": "京都府京都市南区上鳥羽大物町６８番地",
+      "prefecture": "京都府京都市南区上鳥羽大物町６８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001010863",
+      "name": "鐘通株式会社",
+      "address": "京都府京都市南区西九条豊田町１番地",
+      "prefecture": "京都府京都市南区西九条豊田町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001011366",
+      "name": "二九精密機械工業株式会社",
+      "address": "京都府京都市南区唐橋経田町３３番地３",
+      "prefecture": "京都府京都市南区唐橋経田町３３番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001012562",
+      "name": "京セラコミュニケーションシステム株式会社",
+      "address": "京都府京都市伏見区竹田鳥羽殿町６番地",
+      "prefecture": "京都府京都市伏見区竹田鳥羽殿町６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001012835",
+      "name": "株式会社新学社",
+      "address": "京都府京都市山科区東野中井ノ上町１１番地の３９",
+      "prefecture": "京都府京都市山科区東野中井ノ上町１１番地の３９",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001012851",
+      "name": "菅原精機株式会社",
+      "address": "京都府京都市山科区椥辻西潰町１４番地",
+      "prefecture": "京都府京都市山科区椥辻西潰町１４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001013924",
+      "name": "英興株式会社",
+      "address": "京都府京都市伏見区下鳥羽六反長町１２３番地",
+      "prefecture": "京都府京都市伏見区下鳥羽六反長町１２３番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者雇用開発コンテスト",
+          "certified_date": "2020-10-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001015887",
+      "name": "株式会社モリタ製作所",
+      "address": "京都府京都市伏見区東浜南町６８０番地",
+      "prefecture": "京都府京都市伏見区東浜南町６８０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001021068",
+      "name": "株式会社島津製作所",
+      "address": "京都府京都市中京区西ノ京桑原町１番地",
+      "prefecture": "京都府京都市中京区西ノ京桑原町１番地",
+      "certification": [
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2021-04-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001025267",
+      "name": "株式会社修美",
+      "address": "京都府京都市中京区両替町通押小路下る金吹町４５９番地",
+      "prefecture": "京都府京都市中京区両替町通押小路下る金吹町４５９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001029573",
+      "name": "ＳＧリアルティ株式会社",
+      "address": "京都府京都市南区上鳥羽角田町６８番地",
+      "prefecture": "京都府京都市南区上鳥羽角田町６８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001033352",
+      "name": "株式会社京写",
+      "address": "京都府久世郡久御山町森村東３００番地",
+      "prefecture": "京都府久世郡久御山町森村東３００番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001034128",
+      "name": "株式会社ＳＨＯＴＥＣ",
+      "address": "京都府宇治市炭山滝ノ元４５－１",
+      "prefecture": "京都府宇治市炭山滝ノ元４５－１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001035381",
+      "name": "ボークス株式会社",
+      "address": "京都府南丹市園部町上木崎町年ノ森２２番地１",
+      "prefecture": "京都府南丹市園部町上木崎町年ノ森２２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130001038839",
+      "name": "株式会社ヒロミツ製作所",
+      "address": "京都府京田辺市大住池ノ端６番地の１",
+      "prefecture": "京都府京田辺市大住池ノ端６番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130005004481",
+      "name": "社会福祉法人京都社会福祉協会",
+      "address": "京都府京都市東山区三条通大橋東二町目７３番２号京都三条大橋ビル４階",
+      "prefecture": "京都府京都市東山区三条通大橋東二町目７３番２号京都三条大橋ビル４階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6130005007906",
+      "name": "社会福祉法人利生会",
+      "address": "京都府亀岡市河原林町河原尻中垣内３９番地の１",
+      "prefecture": "京都府亀岡市河原林町河原尻中垣内３９番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6700150081359",
+      "name": "亀岡市大井町南部土地区画整理組合",
+      "address": "京都府亀岡市大井町並河１丁目２１番１号",
+      "prefecture": "京都府亀岡市大井町並河１丁目２１番１号",
+      "certification": [
+        {
+          "certification_name": "まちづくりアワード",
+          "certified_date": "2023-06-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001000054",
+      "name": "村田機械株式会社",
+      "address": "京都府京都市南区吉祥院南落合町３番地",
+      "prefecture": "京都府京都市南区吉祥院南落合町３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001007479",
+      "name": "株式会社山岡製作所",
+      "address": "京都府京都市左京区聖護院蓮華蔵町８番地",
+      "prefecture": "京都府京都市左京区聖護院蓮華蔵町８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001011258",
+      "name": "ＴＯＷＡ株式会社",
+      "address": "京都府京都市南区上鳥羽上調子町５番地",
+      "prefecture": "京都府京都市南区上鳥羽上調子町５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001011514",
+      "name": "光伝導機株式会社",
+      "address": "京都府京都市南区吉祥院石原京道町１番地の１",
+      "prefecture": "京都府京都市南区吉祥院石原京道町１番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001012165",
+      "name": "京都電子工業株式会社",
+      "address": "京都府京都市南区吉祥院新田二の段町６８番地",
+      "prefecture": "京都府京都市南区吉祥院新田二の段町６８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001016182",
+      "name": "株式会社京都科学",
+      "address": "京都府京都市伏見区北寝小屋町１５番地",
+      "prefecture": "京都府京都市伏見区北寝小屋町１５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001017809",
+      "name": "第一工業製薬株式会社",
+      "address": "京都府京都市下京区西七条東久保町５５番地",
+      "prefecture": "京都府京都市下京区西七条東久保町５５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001018617",
+      "name": "福田金属箔粉工業株式会社",
+      "address": "京都府京都市下京区松原通室町西入中野之町１７６番地",
+      "prefecture": "京都府京都市下京区松原通室町西入中野之町１７６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001020168",
+      "name": "株式会社岡墨光堂",
+      "address": "京都府京都市中京区富小路通三条上る福長町１１３・１１５・１１７・１１８番合地",
+      "prefecture": "京都府京都市中京区富小路通三条上る福長町１１３・１１５・１１７・１１８番合地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001021158",
+      "name": "株式会社進々堂",
+      "address": "京都府京都市伏見区深草西川原町２１番地１",
+      "prefecture": "京都府京都市伏見区深草西川原町２１番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001022032",
+      "name": "ＮＩＳＳＨＡビジネスサービス株式会社",
+      "address": "京都府京都市中京区壬生花井町３番地",
+      "prefecture": "京都府京都市中京区壬生花井町３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001027634",
+      "name": "株式会社ゆうホールディングス",
+      "address": "京都府京都市左京区浄土寺下馬場町１０６番地",
+      "prefecture": "京都府京都市左京区浄土寺下馬場町１０６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001030118",
+      "name": "佐川印刷株式会社",
+      "address": "京都府向日市森本町戌亥５番地の３",
+      "prefecture": "京都府向日市森本町戌亥５番地の３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001033211",
+      "name": "株式会社環境総合リサーチ",
+      "address": "京都府相楽郡精華町光台２丁目３番９",
+      "prefecture": "京都府相楽郡精華町光台２丁目３番９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001033434",
+      "name": "株式会社阪村エンジニアリング",
+      "address": "京都府京都市伏見区淀木津町４１６番",
+      "prefecture": "京都府京都市伏見区淀木津町４１６番",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001037872",
+      "name": "ワタキューセイモア株式会社",
+      "address": "京都府綴喜郡井手町大字多賀小字茶臼塚１２番地の２",
+      "prefecture": "京都府綴喜郡井手町大字多賀小字茶臼塚１２番地の２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001040703",
+      "name": "株式会社シオノ鋳工",
+      "address": "京都府与謝郡与謝野町字金屋１９１７番地１",
+      "prefecture": "京都府与謝郡与謝野町字金屋１９１７番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130001041734",
+      "name": "グンゼ株式会社",
+      "address": "京都府綾部市青野町膳所１番地",
+      "prefecture": "京都府綾部市青野町膳所１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130002001241",
+      "name": "株式会社西田製作所",
+      "address": "京都府京都市伏見区久我西出町１番地１５",
+      "prefecture": "京都府京都市伏見区久我西出町１番地１５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130005004472",
+      "name": "社会福祉法人京都老人福祉協会",
+      "address": "京都府京都市伏見区深草大亀谷東古御香町５９番地・６０番地",
+      "prefecture": "京都府京都市伏見区深草大亀谷東古御香町５９番地・６０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130005004480",
+      "name": "社会福祉法人京都聴覚言語障害者福祉協会",
+      "address": "京都府城陽市寺田林ノ口１１番６４",
+      "prefecture": "京都府城陽市寺田林ノ口１１番６４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "第８回グッドライフアワード",
+          "certified_date": "2020-12-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130005005215",
+      "name": "特定非営利活動法人京都消費者契約ネットワーク",
+      "address": "京都府京都市中京区烏丸通二条下る秋野々町５２９番地",
+      "prefecture": "京都府京都市中京区烏丸通二条下る秋野々町５２９番地",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2019-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7130005012855",
+      "name": "一般財団法人京都工場保健会",
+      "address": "京都府京都市中京区西ノ京北壺井町６７番地",
+      "prefecture": "京都府京都市中京区西ノ京北壺井町６７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001000053",
+      "name": "佐川急便株式会社",
+      "address": "京都府京都市南区上鳥羽角田町６８番地",
+      "prefecture": "京都府京都市南区上鳥羽角田町６８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グリーン物流パートナーシップ優良事業者表彰",
+          "certified_date": "2019-12-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001000359",
+      "name": "オーシヤン貿易株式会社",
+      "address": "京都府京都市中京区六角通烏丸東入堂之前町２５４番地",
+      "prefecture": "京都府京都市中京区六角通烏丸東入堂之前町２５４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001001588",
+      "name": "日新電機株式会社",
+      "address": "京都府京都市右京区梅津高畝町４７番地",
+      "prefecture": "京都府京都市右京区梅津高畝町４７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001019457",
+      "name": "京阪ホテルズ＆リゾーツ株式会社",
+      "address": "京都府京都市下京区東洞院通七条下る東塩小路町６８０番地",
+      "prefecture": "京都府京都市下京区東洞院通七条下る東塩小路町６８０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001022007",
+      "name": "エア・ウォーター・リンク株式会社",
+      "address": "京都府京都市伏見区竹田向代町１３２番地１",
+      "prefecture": "京都府京都市伏見区竹田向代町１３２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001024110",
+      "name": "株式会社マーベリック",
+      "address": "京都府京都市中京区虎屋町５６６－１",
+      "prefecture": "京都府京都市中京区虎屋町５６６－１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001029266",
+      "name": "株式会社ニッセン",
+      "address": "京都府京都市南区西九条院町２６番地",
+      "prefecture": "京都府京都市南区西九条院町２６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001033598",
+      "name": "株式会社ユー・エム・アイ",
+      "address": "京都府久世郡久御山町林高黒１番地６",
+      "prefecture": "京都府久世郡久御山町林高黒１番地６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001033680",
+      "name": "プラスコート株式会社",
+      "address": "京都府久世郡久御山町森川端９１番地１",
+      "prefecture": "京都府久世郡久御山町森川端９１番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001033697",
+      "name": "アテック京都株式会社",
+      "address": "京都府宇治市槇島町十八５２番地２",
+      "prefecture": "京都府宇治市槇島町十八５２番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001044447",
+      "name": "株式会社マイファーム",
+      "address": "京都府京都市下京区東塩小路町６０７番地辰巳ビル１階",
+      "prefecture": "京都府京都市下京区東塩小路町６０７番地辰巳ビル１階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130001057985",
+      "name": "株式会社学生情報センター",
+      "address": "京都府京都市下京区烏丸通七条下る東塩小路町７３５番地",
+      "prefecture": "京都府京都市下京区烏丸通七条下る東塩小路町７３５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130005004513",
+      "name": "京都中央信用金庫",
+      "address": "京都府京都市下京区四条通室町東入函谷鉾町９１番地",
+      "prefecture": "京都府京都市下京区四条通室町東入函谷鉾町９１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130005005957",
+      "name": "社会福祉法人えのき会",
+      "address": "京都府京都市伏見区桃山町山ノ下４４番地８",
+      "prefecture": "京都府京都市伏見区桃山町山ノ下４４番地８",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130005008241",
+      "name": "農事組合法人ほづ",
+      "address": "京都府亀岡市保津町構ノ内５３",
+      "prefecture": "京都府亀岡市保津町構ノ内５３",
+      "certification": [
+        {
+          "certification_name": "令和４年度「飼料用米多収日本一」コンテスト",
+          "certified_date": "2023-03-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8130005012565",
+      "name": "一般財団法人和進会",
+      "address": "京都府京都市左京区聖護院川原町５４番地京都大学医学部附属病院内",
+      "prefecture": "京都府京都市左京区聖護院川原町５４番地京都大学医学部附属病院内",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8700150027401",
+      "name": "亀岡市亀岡駅北土地区画整理組合",
+      "address": "京都府亀岡市余部町清水７７－１",
+      "prefecture": "京都府亀岡市余部町清水７７－１",
+      "certification": [
+        {
+          "certification_name": "まちづくりアワード",
+          "certified_date": "2023-06-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9120901001761",
+      "name": "マクセル株式会社",
+      "address": "京都府乙訓郡大山崎町字大山崎小字小泉１番地",
+      "prefecture": "京都府乙訓郡大山崎町字大山崎小字小泉１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001000028",
+      "name": "株式会社京都銀行",
+      "address": "京都府京都市下京区烏丸通松原上る薬師前町７００番地",
+      "prefecture": "京都府京都市下京区烏丸通松原上る薬師前町７００番地",
+      "certification": [
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001000052",
+      "name": "ローム株式会社",
+      "address": "京都府京都市右京区西院溝崎町２１番地",
+      "prefecture": "京都府京都市右京区西院溝崎町２１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2016-06-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001002387",
+      "name": "ニデック株式会社",
+      "address": "京都府京都市南区久世殿城町３３８番地",
+      "prefecture": "京都府京都市南区久世殿城町３３８番地",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（厚生労働省人材開発統括官表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001005266",
+      "name": "株式会社俄",
+      "address": "京都府京都市中京区富小路通三条上る福長町１０５番地",
+      "prefecture": "京都府京都市中京区富小路通三条上る福長町１０５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001005893",
+      "name": "株式会社イシダ",
+      "address": "京都府京都市左京区聖護院山王町４４番地",
+      "prefecture": "京都府京都市左京区聖護院山王町４４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001008616",
+      "name": "株式会社吹上技研コンサルタント",
+      "address": "京都府京都市下京区四条通室町東入函谷鉾町１０１番地",
+      "prefecture": "京都府京都市下京区四条通室町東入函谷鉾町１０１番地",
+      "certification": [
+        {
+          "certification_name": "近畿中部防衛局　優秀業務顕彰・優秀業務技術者顕彰",
+          "certified_date": "2024-07-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001011677",
+      "name": "株式会社堀場テクノサービス",
+      "address": "京都府京都市南区吉祥院宮ノ東町２番地",
+      "prefecture": "京都府京都市南区吉祥院宮ノ東町２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001013260",
+      "name": "株式会社ＦＵＫＵＤＡ",
+      "address": "京都府京都市山科区大宅向山６番地",
+      "prefecture": "京都府京都市山科区大宅向山６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001017781",
+      "name": "株式会社ＤＴＳ　ＷＥＳＴ",
+      "address": "京都府京都市下京区四条通麩屋町西入立売東町２８番地２",
+      "prefecture": "京都府京都市下京区四条通麩屋町西入立売東町２８番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001022352",
+      "name": "不二電機工業株式会社",
+      "address": "京都府京都市中京区御池通富小路西入る東八幡町５８５番地",
+      "prefecture": "京都府京都市中京区御池通富小路西入る東八幡町５８５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001023400",
+      "name": "京都薬品工業株式会社",
+      "address": "京都府京都市中京区西ノ京月輪町３８番地",
+      "prefecture": "京都府京都市中京区西ノ京月輪町３８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001023441",
+      "name": "ＮＩＳＳＨＡ株式会社",
+      "address": "京都府京都市中京区壬生花井町３番地",
+      "prefecture": "京都府京都市中京区壬生花井町３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001026444",
+      "name": "株式会社ワコール",
+      "address": "京都府京都市南区吉祥院中島町２９番地",
+      "prefecture": "京都府京都市南区吉祥院中島町２９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2018-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001026717",
+      "name": "ＳＧホールディングス株式会社",
+      "address": "京都府京都市南区上鳥羽角田町６８番地",
+      "prefecture": "京都府京都市南区上鳥羽角田町６８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001027087",
+      "name": "コスメディ製薬株式会社",
+      "address": "京都府京都市南区西九条東比永城町７５ＧＲＡＮＤＫＹＯＴＯ３Ｆ",
+      "prefecture": "京都府京都市南区西九条東比永城町７５ＧＲＡＮＤＫＹＯＴＯ３Ｆ",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001027236",
+      "name": "株式会社ＳＣＲＥＥＮセミコンダクターソリューションズ",
+      "address": "京都府京都市上京区堀川通寺之内上る４丁目天神北町１番地の１",
+      "prefecture": "京都府京都市上京区堀川通寺之内上る４丁目天神北町１番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001027789",
+      "name": "株式会社ニッセンライフ",
+      "address": "京都府京都市南区西九条院町２６番地",
+      "prefecture": "京都府京都市南区西九条院町２６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001037334",
+      "name": "東英産業株式会社",
+      "address": "京都府相楽郡精華町精華台９丁目１番地１",
+      "prefecture": "京都府相楽郡精華町精華台９丁目１番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001040998",
+      "name": "株式会社柏原工務店",
+      "address": "京都府福知山市字観音寺３０４番地の１６",
+      "prefecture": "京都府福知山市字観音寺３０４番地の１６",
+      "certification": [
+        {
+          "certification_name": "近畿中部防衛局　優秀工事顕彰・優秀工事技術者顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130001059915",
+      "name": "株式会社バイオーム",
+      "address": "京都府京都市下京区中堂寺南町１３４番地",
+      "prefecture": "京都府京都市下京区中堂寺南町１３４番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度環境スタートアップ大賞",
+          "certified_date": "2023-03-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130003003268",
+      "name": "株式会社ＴＣＩ研究所",
+      "address": "京都府京都市上京区大宮通西裏芦山寺上る２丁目竪社北半町２０３番地",
+      "prefecture": "京都府京都市上京区大宮通西裏芦山寺上る２丁目竪社北半町２０３番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130005004512",
+      "name": "京都信用金庫",
+      "address": "京都府京都市下京区四条通柳馬場東入立売東町７番地",
+      "prefecture": "京都府京都市下京区四条通柳馬場東入立売東町７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130005005444",
+      "name": "特定非営利活動法人コンシューマーズ京都・京都消団連",
+      "address": "京都府京都市中京区烏丸通二条下る秋野々町５２９番地",
+      "prefecture": "京都府京都市中京区烏丸通二条下る秋野々町５２９番地",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2011-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130005010915",
+      "name": "社会福祉法人北丹後福祉会",
+      "address": "京都府京丹後市久美浜町１６９番地",
+      "prefecture": "京都府京丹後市久美浜町１６９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9130005012812",
+      "name": "公益財団法人京都市景観・まちづくりセンター",
+      "address": "京都府京都市下京区西木屋町通上ノ口上る梅湊町８３番地の１京都市景観・まちづくりセンター内",
+      "prefecture": "京都府京都市下京区西木屋町通上ノ口上る梅湊町８３番地の１京都市景観・まちづくりセンター内",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2013-06-14"
+        }
+      ]
+    }
+  ]
+}

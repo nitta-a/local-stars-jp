@@ -1,0 +1,1964 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020470007",
+      "name": "沖縄県",
+      "address": "沖縄県那覇市泉崎１丁目２－２",
+      "prefecture": "沖縄県那覇市泉崎１丁目２－２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001000771",
+      "name": "金城電気工事株式会社",
+      "address": "沖縄県那覇市曙２丁目２３番２３号",
+      "prefecture": "沖縄県那覇市曙２丁目２３番２３号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト",
+          "certified_date": "2024-10-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001001027",
+      "name": "株式会社佐平建設",
+      "address": "沖縄県那覇市小禄５丁目１３番１号",
+      "prefecture": "沖縄県那覇市小禄５丁目１３番１号",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001001076",
+      "name": "沖縄ＪＴＢ株式会社",
+      "address": "沖縄県那覇市旭町１１２番地１",
+      "prefecture": "沖縄県那覇市旭町１１２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001001365",
+      "name": "拓南本社株式会社",
+      "address": "沖縄県那覇市壺川３丁目２番地４",
+      "prefecture": "沖縄県那覇市壺川３丁目２番地４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001002099",
+      "name": "八重山興業株式会社",
+      "address": "沖縄県石垣市字大川５４７番地",
+      "prefecture": "沖縄県石垣市字大川５４７番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001009482",
+      "name": "株式会社明成建設",
+      "address": "沖縄県浦添市牧港１丁目６４番１７号",
+      "prefecture": "沖縄県浦添市牧港１丁目６４番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001009499",
+      "name": "株式会社沢建設",
+      "address": "沖縄県宜野湾市真志喜３丁目１４番９号",
+      "prefecture": "沖縄県宜野湾市真志喜３丁目１４番９号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001013105",
+      "name": "崎原建設株式会社",
+      "address": "沖縄県石垣市字新川３６３番地",
+      "prefecture": "沖縄県石垣市字新川３６３番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001013113",
+      "name": "株式会社紫電舎",
+      "address": "沖縄県石垣市字真栄里３７５番地の８",
+      "prefecture": "沖縄県石垣市字真栄里３７５番地の８",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "特別優秀工事等顕彰",
+          "certified_date": "2023-06-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001014342",
+      "name": "ソニービジネスオペレーションズ株式会社",
+      "address": "沖縄県南城市大里字仲間８０７番地",
+      "prefecture": "沖縄県南城市大里字仲間８０７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001023888",
+      "name": "株式会社ネクステムズ",
+      "address": "沖縄県浦添市前田４丁目５番３号",
+      "prefecture": "沖縄県浦添市前田４丁目５番３号",
+      "certification": [
+        {
+          "certification_name": "新エネ大賞",
+          "certified_date": "2020-01-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360001025876",
+      "name": "株式会社りゅうせきフロントライン",
+      "address": "沖縄県浦添市勢理客４丁目２０番１号",
+      "prefecture": "沖縄県浦添市勢理客４丁目２０番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360005000108",
+      "name": "一般社団法人沖縄県女性連合会",
+      "address": "沖縄県那覇市字大道１７２番地",
+      "prefecture": "沖縄県那覇市字大道１７２番地",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2022-05-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1360005005288",
+      "name": "一般社団法人座間味村ホエールウォッチング協会",
+      "address": "沖縄県島尻郡座間味村字座間味地先１",
+      "prefecture": "沖縄県島尻郡座間味村字座間味地先１",
+      "certification": [
+        {
+          "certification_name": "第１１回エコツーリズム大賞",
+          "certified_date": "2016-03-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360001001364",
+      "name": "拓南製鐵株式会社",
+      "address": "沖縄県沖縄市海邦町３番２６",
+      "prefecture": "沖縄県沖縄市海邦町３番２６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360001005191",
+      "name": "南島酒販株式会社",
+      "address": "沖縄県中頭郡西原町字兼久２７７番地",
+      "prefecture": "沖縄県中頭郡西原町字兼久２７７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360001005415",
+      "name": "株式会社碧",
+      "address": "沖縄県那覇市東町１９番２５号",
+      "prefecture": "沖縄県那覇市東町１９番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360001008632",
+      "name": "株式会社沖縄ホーメル",
+      "address": "沖縄県中頭郡中城村字当間７５８番地",
+      "prefecture": "沖縄県中頭郡中城村字当間７５８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360001008855",
+      "name": "株式会社島袋",
+      "address": "沖縄県浦添市牧港５丁目７番１号",
+      "prefecture": "沖縄県浦添市牧港５丁目７番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360001010191",
+      "name": "株式会社プロトソリューション",
+      "address": "沖縄県宜野湾市大山７丁目１０番２５号",
+      "prefecture": "沖縄県宜野湾市大山７丁目１０番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360001015083",
+      "name": "株式会社うちなーうぇぶ",
+      "address": "沖縄県那覇市泉崎１丁目２０番６号",
+      "prefecture": "沖縄県那覇市泉崎１丁目２０番６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360001023391",
+      "name": "株式会社イー・ステート・ラボ",
+      "address": "沖縄県名護市字豊原２２４番地３",
+      "prefecture": "沖縄県名護市字豊原２２４番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360002017161",
+      "name": "株式会社福地組",
+      "address": "沖縄県中頭郡嘉手納町字水釜１１２番地",
+      "prefecture": "沖縄県中頭郡嘉手納町字水釜１１２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360002020041",
+      "name": "有限会社富島建設",
+      "address": "沖縄県国頭郡金武町字金武４１１５番地１",
+      "prefecture": "沖縄県国頭郡金武町字金武４１１５番地１",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360002020495",
+      "name": "有限会社神中組",
+      "address": "沖縄県国頭郡金武町字金武２３６番地の２",
+      "prefecture": "沖縄県国頭郡金武町字金武２３６番地の２",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360002021618",
+      "name": "有限会社和電工業",
+      "address": "沖縄県石垣市字石垣９０７番地５",
+      "prefecture": "沖縄県石垣市字石垣９０７番地５",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360002021626",
+      "name": "有限会社黒島組",
+      "address": "沖縄県石垣市字真栄里４６９番地９",
+      "prefecture": "沖縄県石垣市字真栄里４６９番地９",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360005002004",
+      "name": "社会医療法人敬愛会",
+      "address": "沖縄県沖縄市字登川６１０番地",
+      "prefecture": "沖縄県沖縄市字登川６１０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2360005002656",
+      "name": "生活協同組合コープおきなわ",
+      "address": "沖縄県浦添市西原１丁目２番１号",
+      "prefecture": "沖縄県浦添市西原１丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2019-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001001512",
+      "name": "株式会社トリム",
+      "address": "沖縄県島尻郡八重瀬町字新城１７６３番１",
+      "prefecture": "沖縄県島尻郡八重瀬町字新城１７６３番１",
+      "certification": [
+        {
+          "certification_name": "産業標準化事業表彰",
+          "certified_date": "2021-10-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001001909",
+      "name": "ホシザキ沖縄株式会社",
+      "address": "沖縄県那覇市泊３丁目３番１３号",
+      "prefecture": "沖縄県那覇市泊３丁目３番１３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001002469",
+      "name": "沖縄日立ネットワークシステムズ株式会社",
+      "address": "沖縄県那覇市おもろまち１丁目３番３１号那覇新都心メディアビル",
+      "prefecture": "沖縄県那覇市おもろまち１丁目３番３１号那覇新都心メディアビル",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001005232",
+      "name": "金秀バイオ株式会社",
+      "address": "沖縄県糸満市西崎町５丁目２番地２",
+      "prefecture": "沖縄県糸満市西崎町５丁目２番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001005876",
+      "name": "株式会社大米建設",
+      "address": "沖縄県那覇市高良３丁目１番地１",
+      "prefecture": "沖縄県那覇市高良３丁目１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-11"
+        },
+        {
+          "certification_name": "特別優秀工事等顕彰",
+          "certified_date": "2023-06-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001007708",
+      "name": "株式会社電協エンジニアリング",
+      "address": "沖縄県うるま市石川東恩納１４２６番地１",
+      "prefecture": "沖縄県うるま市石川東恩納１４２６番地１",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001008565",
+      "name": "沖縄電力株式会社",
+      "address": "沖縄県浦添市牧港５丁目２番１号",
+      "prefecture": "沖縄県浦添市牧港５丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001012162",
+      "name": "株式会社屋部土建",
+      "address": "沖縄県名護市港２丁目６番５号",
+      "prefecture": "沖縄県名護市港２丁目６番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        },
+        {
+          "certification_name": "特別優秀工事等顕彰",
+          "certified_date": "2022-07-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001012220",
+      "name": "仲程土建株式会社",
+      "address": "沖縄県国頭郡宜野座村字惣慶１７７１番地の９",
+      "prefecture": "沖縄県国頭郡宜野座村字惣慶１７７１番地の９",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001013160",
+      "name": "株式会社日建興業",
+      "address": "沖縄県石垣市字新川２４６０番地の１６",
+      "prefecture": "沖縄県石垣市字新川２４６０番地の１６",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001013524",
+      "name": "株式会社一廣工業",
+      "address": "沖縄県石垣市字新川２３０４－１５",
+      "prefecture": "沖縄県石垣市字新川２３０４－１５",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360001013730",
+      "name": "株式会社朝日建設工業",
+      "address": "沖縄県宮古島市平良字東仲宗根８２１番地の１０",
+      "prefecture": "沖縄県宮古島市平良字東仲宗根８２１番地の１０",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360002012698",
+      "name": "有限会社クラウン工業",
+      "address": "沖縄県沖縄市宮里２丁目２２番２２号",
+      "prefecture": "沖縄県沖縄市宮里２丁目２２番２２号",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360002013762",
+      "name": "有限会社国吉組",
+      "address": "沖縄県うるま市石川２丁目２３番８号",
+      "prefecture": "沖縄県うるま市石川２丁目２３番８号",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360002019751",
+      "name": "有限会社マル井建設",
+      "address": "沖縄県名護市字屋部７０１番地の１",
+      "prefecture": "沖縄県名護市字屋部７０１番地の１",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360002020676",
+      "name": "株式会社山城重機",
+      "address": "沖縄県名護市字屋部１６８９番地",
+      "prefecture": "沖縄県名護市字屋部１６８９番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3360002020684",
+      "name": "有限会社やんばる自然塾",
+      "address": "沖縄県国頭郡東村字慶佐次８２番地",
+      "prefecture": "沖縄県国頭郡東村字慶佐次８２番地",
+      "certification": [
+        {
+          "certification_name": "第１回エコツーリズム大賞",
+          "certified_date": "2005-06-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4000020472140",
+      "name": "宮古島市",
+      "address": "沖縄県宮古島市平良字西里１１４０番地",
+      "prefecture": "沖縄県宮古島市平良字西里１１４０番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        },
+        {
+          "certification_name": "新エネ大賞",
+          "certified_date": "2020-01-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001000315",
+      "name": "沖縄水質改良株式会社",
+      "address": "沖縄県那覇市首里石嶺町３丁目８番地１",
+      "prefecture": "沖縄県那覇市首里石嶺町３丁目８番地１",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001000406",
+      "name": "株式会社沖縄銀行",
+      "address": "沖縄県那覇市久茂地３丁目１０番１号",
+      "prefecture": "沖縄県那覇市久茂地３丁目１０番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001000637",
+      "name": "株式会社オカノ",
+      "address": "沖縄県那覇市安謝１丁目２３番８号",
+      "prefecture": "沖縄県那覇市安謝１丁目２３番８号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001000934",
+      "name": "株式会社國場組",
+      "address": "沖縄県那覇市久茂地３丁目２１番１号",
+      "prefecture": "沖縄県那覇市久茂地３丁目２１番１号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        },
+        {
+          "certification_name": "特別優秀工事等顕彰",
+          "certified_date": "2022-07-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001001008",
+      "name": "三協電気工事株式会社",
+      "address": "沖縄県那覇市若狭３丁目４２番１号",
+      "prefecture": "沖縄県那覇市若狭３丁目４２番１号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001001263",
+      "name": "株式会社大寛組",
+      "address": "沖縄県那覇市東町１６番９号",
+      "prefecture": "沖縄県那覇市東町１６番９号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001002105",
+      "name": "安岡建設株式会社",
+      "address": "沖縄県那覇市字天久９１８番地６",
+      "prefecture": "沖縄県那覇市字天久９１８番地６",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001002749",
+      "name": "金秀興産株式会社",
+      "address": "沖縄県中頭郡西原町字小那覇４９４番地１金秀商事（株）３階",
+      "prefecture": "沖縄県中頭郡西原町字小那覇４９４番地１金秀商事（株）３階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001004349",
+      "name": "大成設備工業株式会社",
+      "address": "沖縄県那覇市首里石嶺町４丁目４４４番地６",
+      "prefecture": "沖縄県那覇市首里石嶺町４丁目４４４番地６",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001006502",
+      "name": "イオン琉球株式会社",
+      "address": "沖縄県島尻郡南風原町字兼城５１４番地の１",
+      "prefecture": "沖縄県島尻郡南風原町字兼城５１４番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001007681",
+      "name": "株式会社丸石建設",
+      "address": "沖縄県うるま市みどり町４丁目１番１０号",
+      "prefecture": "沖縄県うるま市みどり町４丁目１番１０号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001008787",
+      "name": "光南建設株式会社",
+      "address": "沖縄県宜野湾市宜野湾３丁目２番１６号",
+      "prefecture": "沖縄県宜野湾市宜野湾３丁目２番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001008952",
+      "name": "拓南製作所株式会社",
+      "address": "沖縄県中頭郡中城村字伊舎堂３５４番地",
+      "prefecture": "沖縄県中頭郡中城村字伊舎堂３５４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001009232",
+      "name": "株式会社山内組",
+      "address": "沖縄県宜野湾市新城１丁目６番１０号",
+      "prefecture": "沖縄県宜野湾市新城１丁目６番１０号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001009257",
+      "name": "株式会社りゅうせき建設",
+      "address": "沖縄県浦添市勢理客４丁目２０番１号",
+      "prefecture": "沖縄県浦添市勢理客４丁目２０番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001013151",
+      "name": "株式会社南西工業",
+      "address": "沖縄県石垣市字真栄里２４５番地７",
+      "prefecture": "沖縄県石垣市字真栄里２４５番地７",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360001020412",
+      "name": "大東ガスパートナー株式会社",
+      "address": "沖縄県浦添市字経塚６０８番地２",
+      "prefecture": "沖縄県浦添市字経塚６０８番地２",
+      "certification": [
+        {
+          "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
+          "certified_date": "2019-10-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360002013737",
+      "name": "株式会社大川工業",
+      "address": "沖縄県うるま市石川２２８７番地２",
+      "prefecture": "沖縄県うるま市石川２２８７番地２",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360002019874",
+      "name": "有限会社くくる",
+      "address": "沖縄県名護市字為又３６１番地２",
+      "prefecture": "沖縄県名護市字為又３６１番地２",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360002020452",
+      "name": "株式会社タマキ",
+      "address": "沖縄県国頭郡宜野座村字惣慶１６９６番地の１",
+      "prefecture": "沖縄県国頭郡宜野座村字惣慶１６９６番地の１",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360005000419",
+      "name": "社会医療法人友愛会",
+      "address": "沖縄県豊見城市字与根５０番地２１２",
+      "prefecture": "沖縄県豊見城市字与根５０番地２１２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360005001367",
+      "name": "特定非営利活動法人消費者センター沖縄",
+      "address": "沖縄県那覇市真嘉比３丁目３番１号",
+      "prefecture": "沖縄県那覇市真嘉比３丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2013-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360005002621",
+      "name": "沖縄県生活協同組合連合会",
+      "address": "沖縄県浦添市西原１丁目２番１号コープおきなわ内",
+      "prefecture": "沖縄県浦添市西原１丁目２番１号コープおきなわ内",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2015-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4360005003231",
+      "name": "社会福祉法人五和会",
+      "address": "沖縄県名護市字宇茂佐１７６５番地",
+      "prefecture": "沖縄県名護市字宇茂佐１７６５番地",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360001000446",
+      "name": "株式会社沖縄特電",
+      "address": "沖縄県那覇市久茂地３丁目２１番１号",
+      "prefecture": "沖縄県那覇市久茂地３丁目２１番１号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360001001007",
+      "name": "三栄工業株式会社",
+      "address": "沖縄県那覇市港町３丁目２番８号",
+      "prefecture": "沖縄県那覇市港町３丁目２番８号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360001007788",
+      "name": "株式会社仲本工業",
+      "address": "沖縄県沖縄市美里６丁目５番１号",
+      "prefecture": "沖縄県沖縄市美里６丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360001009256",
+      "name": "株式会社りゅうせき",
+      "address": "沖縄県浦添市西洲２丁目２番地３",
+      "prefecture": "沖縄県浦添市西洲２丁目２番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360001009272",
+      "name": "株式会社琉薬",
+      "address": "沖縄県浦添市牧港５丁目６番５号",
+      "prefecture": "沖縄県浦添市牧港５丁目６番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360001013101",
+      "name": "照屋建設株式会社",
+      "address": "沖縄県石垣市新栄町６番地の７",
+      "prefecture": "沖縄県石垣市新栄町６番地の７",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        },
+        {
+          "certification_name": "特別優秀工事等顕彰",
+          "certified_date": "2023-06-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360001013118",
+      "name": "株式会社新生",
+      "address": "沖縄県石垣市字平得９０番地７",
+      "prefecture": "沖縄県石垣市字平得９０番地７",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360001016599",
+      "name": "株式会社オリジン建設",
+      "address": "沖縄県那覇市樋川２丁目６番１０号",
+      "prefecture": "沖縄県那覇市樋川２丁目６番１０号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360002012829",
+      "name": "有限会社川上建設",
+      "address": "沖縄県沖縄市照屋１丁目２５番１号",
+      "prefecture": "沖縄県沖縄市照屋１丁目２５番１号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5360002015708",
+      "name": "有限会社向陽技建",
+      "address": "沖縄県中頭郡北中城村字島袋６０２番地の１",
+      "prefecture": "沖縄県中頭郡北中城村字島袋６０２番地の１",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001000404",
+      "name": "株式会社琉球銀行",
+      "address": "沖縄県那覇市久茂地１丁目１１番１号",
+      "prefecture": "沖縄県那覇市久茂地１丁目１１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001000602",
+      "name": "株式会社沖電工",
+      "address": "沖縄県那覇市壺川２丁目１１番地１１",
+      "prefecture": "沖縄県那覇市壺川２丁目１１番地１１",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001000759",
+      "name": "共和産業株式会社",
+      "address": "沖縄県那覇市前島１丁目９番７号",
+      "prefecture": "沖縄県那覇市前島１丁目９番７号",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事等顕彰",
+          "certified_date": "2023-06-29"
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001001022",
+      "name": "三和交通株式会社",
+      "address": "沖縄県島尻郡南風原町字新川４２０番地６",
+      "prefecture": "沖縄県島尻郡南風原町字新川４２０番地６",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001001146",
+      "name": "新光産業株式会社",
+      "address": "沖縄県那覇市西３丁目１３番５７号",
+      "prefecture": "沖縄県那覇市西３丁目１３番５７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001001526",
+      "name": "株式会社東洋設備",
+      "address": "沖縄県那覇市字天久１１２２番地",
+      "prefecture": "沖縄県那覇市字天久１１２２番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001002375",
+      "name": "株式会社ジャンボツアーズ",
+      "address": "沖縄県那覇市久茂地２丁目１５番１０号",
+      "prefecture": "沖縄県那覇市久茂地２丁目１５番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001004314",
+      "name": "金秀鋼材株式会社",
+      "address": "沖縄県中頭郡西原町字小那覇１２１２番地",
+      "prefecture": "沖縄県中頭郡西原町字小那覇１２１２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001007795",
+      "name": "株式会社沖縄環境保全研究所",
+      "address": "沖縄県うるま市字州崎７番地１１",
+      "prefecture": "沖縄県うるま市字州崎７番地１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀業務等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001008422",
+      "name": "旭建設株式会社",
+      "address": "沖縄県中頭郡北谷町字浜川４８番地",
+      "prefecture": "沖縄県中頭郡北谷町字浜川４８番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001009692",
+      "name": "株式会社大城組",
+      "address": "沖縄県浦添市勢理客４丁目１８番５号",
+      "prefecture": "沖縄県浦添市勢理客４丁目１８番５号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001012135",
+      "name": "株式会社東開発",
+      "address": "沖縄県名護市字宇茂佐１７０３番地３３",
+      "prefecture": "沖縄県名護市字宇茂佐１７０３番地３３",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001013595",
+      "name": "丸尾建設株式会社",
+      "address": "沖縄県石垣市新栄町５４番地の１２",
+      "prefecture": "沖縄県石垣市新栄町５４番地の１２",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001014841",
+      "name": "株式会社ホカマ",
+      "address": "沖縄県国頭郡金武町字金武８０３８番地６５",
+      "prefecture": "沖縄県国頭郡金武町字金武８０３８番地６５",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001022183",
+      "name": "株式会社ベストコンサルタント",
+      "address": "沖縄県豊見城市字根差部４３２番地１Ｆ",
+      "prefecture": "沖縄県豊見城市字根差部４３２番地１Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360001022720",
+      "name": "ＦＰＴニアショアジャパン株式会社",
+      "address": "沖縄県那覇市久米２丁目２番地１０号６階",
+      "prefecture": "沖縄県那覇市久米２丁目２番地１０号６階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360002016309",
+      "name": "有限会社大日土木",
+      "address": "沖縄県宜野湾市字佐真下８３番地",
+      "prefecture": "沖縄県宜野湾市字佐真下８３番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6360005001332",
+      "name": "国立大学法人琉球大学",
+      "address": "沖縄県中頭郡西原町字千原１番地",
+      "prefecture": "沖縄県中頭郡西原町字千原１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2023-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001001178",
+      "name": "株式会社スズケン沖縄薬品",
+      "address": "沖縄県島尻郡南風原町字新川４３６番地１",
+      "prefecture": "沖縄県島尻郡南風原町字新川４３６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001002291",
+      "name": "株式会社琉球新報社",
+      "address": "沖縄県那覇市泉崎１丁目１０番３号",
+      "prefecture": "沖縄県那覇市泉崎１丁目１０番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001004610",
+      "name": "株式会社琉球光和",
+      "address": "沖縄県那覇市西１丁目２番１６号",
+      "prefecture": "沖縄県那覇市西１丁目２番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001007662",
+      "name": "拓南商事株式会社",
+      "address": "沖縄県うるま市字州崎８番地２",
+      "prefecture": "沖縄県うるま市字州崎８番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001009064",
+      "name": "株式会社日本電設",
+      "address": "沖縄県宜野湾市嘉数２丁目１０番１４号",
+      "prefecture": "沖縄県宜野湾市嘉数２丁目１０番１４号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001009139",
+      "name": "不二宮工業株式会社",
+      "address": "沖縄県宜野湾市野嵩２丁目２番７号",
+      "prefecture": "沖縄県宜野湾市野嵩２丁目２番７号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001009196",
+      "name": "株式会社丸新建設",
+      "address": "沖縄県宜野湾市野嵩２丁目１２番６号",
+      "prefecture": "沖縄県宜野湾市野嵩２丁目１２番６号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001013223",
+      "name": "株式会社米盛建設工業",
+      "address": "沖縄県石垣市字真栄里５７１番地の７",
+      "prefecture": "沖縄県石垣市字真栄里５７１番地の７",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        },
+        {
+          "certification_name": "特別優秀工事等顕彰",
+          "certified_date": "2023-06-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001013231",
+      "name": "株式会社東部交通",
+      "address": "沖縄県八重山郡竹富町字南風見２０１番地の１０９",
+      "prefecture": "沖縄県八重山郡竹富町字南風見２０１番地の１０９",
+      "certification": [
+        {
+          "certification_name": "第１回エコツーリズム大賞",
+          "certified_date": "2005-06-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001013743",
+      "name": "株式会社川田電設産業",
+      "address": "沖縄県宮古島市平良字西里１３３２番地の７",
+      "prefecture": "沖縄県宮古島市平良字西里１３３２番地の７",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001016333",
+      "name": "株式会社ノイズ・バリュー社",
+      "address": "沖縄県那覇市泉崎２丁目２番７号",
+      "prefecture": "沖縄県那覇市泉崎２丁目２番７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001017819",
+      "name": "琉穂建設株式会社",
+      "address": "沖縄県石垣市字平得３４８番地",
+      "prefecture": "沖縄県石垣市字平得３４８番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001024253",
+      "name": "株式会社西原グリーンセンター",
+      "address": "沖縄県中頭郡西原町字内間５４６番地",
+      "prefecture": "沖縄県中頭郡西原町字内間５４６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360001025664",
+      "name": "アイペックスグローバルオペレーションズ株式会社",
+      "address": "沖縄県豊見城市字豊崎３番地５９－３０３",
+      "prefecture": "沖縄県豊見城市字豊崎３番地５９－３０３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360002015029",
+      "name": "有限会社真栄工業",
+      "address": "沖縄県中頭郡北谷町字吉原２７１番地１",
+      "prefecture": "沖縄県中頭郡北谷町字吉原２７１番地１",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360002019780",
+      "name": "有限会社宮松建設",
+      "address": "沖縄県名護市字田井等４３５番地",
+      "prefecture": "沖縄県名護市字田井等４３５番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7360005000440",
+      "name": "沖縄振興開発金融公庫",
+      "address": "沖縄県那覇市おもろまち１丁目２番２６号",
+      "prefecture": "沖縄県那覇市おもろまち１丁目２番２６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020473812",
+      "name": "竹富町",
+      "address": "沖縄県石垣市美崎町１１－１",
+      "prefecture": "沖縄県石垣市美崎町１１－１",
+      "certification": [
+        {
+          "certification_name": "国土交通大臣表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360001000575",
+      "name": "株式会社奥原電設",
+      "address": "沖縄県那覇市字与儀３８０番地の８",
+      "prefecture": "沖縄県那覇市字与儀３８０番地の８",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360001000740",
+      "name": "金秀建設株式会社",
+      "address": "沖縄県那覇市旭町１１２番地１",
+      "prefecture": "沖縄県那覇市旭町１１２番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360001005335",
+      "name": "株式会社玉新建設",
+      "address": "沖縄県那覇市字小禄６９６番地大栄住宅ビル１０５号",
+      "prefecture": "沖縄県那覇市字小禄６９６番地大栄住宅ビル１０５号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360001005343",
+      "name": "株式会社南成建設",
+      "address": "沖縄県那覇市山下町３１番５号コーポ波平１０２号",
+      "prefecture": "沖縄県那覇市山下町３１番５号コーポ波平１０２号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360001007232",
+      "name": "太田建設株式会社",
+      "address": "沖縄県沖縄市比屋根４丁目２９番１号",
+      "prefecture": "沖縄県沖縄市比屋根４丁目２９番１号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2022-07-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360001008627",
+      "name": "沖繩ヤクルト株式会社",
+      "address": "沖縄県宜野湾市大山７丁目１３番３号",
+      "prefecture": "沖縄県宜野湾市大山７丁目１３番３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360001012018",
+      "name": "久友設計株式会社",
+      "address": "沖縄県うるま市字赤道３５９番地１",
+      "prefecture": "沖縄県うるま市字赤道３５９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360001013098",
+      "name": "株式会社三光電設",
+      "address": "沖縄県石垣市字平得２１２番地",
+      "prefecture": "沖縄県石垣市字平得２１２番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360002002315",
+      "name": "有限会社スタプランニング",
+      "address": "沖縄県那覇市与儀１丁目８番７号赤嶺アパート１階",
+      "prefecture": "沖縄県那覇市与儀１丁目８番７号赤嶺アパート１階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360002013287",
+      "name": "有限会社クリエイト技研",
+      "address": "沖縄県うるま市字江洲２番地１",
+      "prefecture": "沖縄県うるま市字江洲２番地１",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360002020184",
+      "name": "株式会社北勝建設",
+      "address": "沖縄県国頭郡国頭村字辺土名２９４番地の１",
+      "prefecture": "沖縄県国頭郡国頭村字辺土名２９４番地の１",
+      "certification": [
+        {
+          "certification_name": "特別優秀工事顕彰",
+          "certified_date": "2024-07-18"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-11"
+        },
+        {
+          "certification_name": "特別優秀工事等顕彰",
+          "certified_date": "2022-07-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360002021348",
+      "name": "有限会社東洋工業",
+      "address": "沖縄県石垣市字大川１３６７番地の１",
+      "prefecture": "沖縄県石垣市字大川１３６７番地の１",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360003005390",
+      "name": "リヴプラス株式会社",
+      "address": "沖縄県宮古島市平良字下里７５１番地３",
+      "prefecture": "沖縄県宮古島市平良字下里７５１番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8360005000464",
+      "name": "沖縄県労働金庫",
+      "address": "沖縄県那覇市旭町１番地９",
+      "prefecture": "沖縄県那覇市旭町１番地９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8430005010290",
+      "name": "特定非営利活動法人自然体験学校",
+      "address": "沖縄県島尻郡八重瀬町字具志頭２９６番地",
+      "prefecture": "沖縄県島尻郡八重瀬町字具志頭２９６番地",
+      "certification": [
+        {
+          "certification_name": "第１６回エコツーリズム大賞",
+          "certified_date": "2021-03-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020473588",
+      "name": "北大東村",
+      "address": "沖縄県島尻郡北大東村字中野２１８",
+      "prefecture": "沖縄県島尻郡北大東村字中野２１８",
+      "certification": [
+        {
+          "certification_name": "国土交通大臣表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001001829",
+      "name": "光電気工事株式会社",
+      "address": "沖縄県那覇市字大道７８番地の７",
+      "prefecture": "沖縄県那覇市字大道７８番地の７",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001001944",
+      "name": "株式会社丸元建設",
+      "address": "沖縄県那覇市壺川２丁目１３番２６号",
+      "prefecture": "沖縄県那覇市壺川２丁目１３番２６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001002488",
+      "name": "オリックス・ビジネスセンター沖縄株式会社",
+      "address": "沖縄県那覇市おもろまち１丁目１番１２号那覇新都心センタービル",
+      "prefecture": "沖縄県那覇市おもろまち１丁目１番１２号那覇新都心センタービル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001008667",
+      "name": "株式会社太名嘉組",
+      "address": "沖縄県浦添市大平２丁目１番１号",
+      "prefecture": "沖縄県浦添市大平２丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001011423",
+      "name": "株式会社充総興",
+      "address": "沖縄県浦添市伊祖２丁目２４番９号",
+      "prefecture": "沖縄県浦添市伊祖２丁目２４番９号",
+      "certification": [
+        {
+          "certification_name": "優秀工事等顕彰",
+          "certified_date": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001011753",
+      "name": "南洋土建株式会社",
+      "address": "沖縄県那覇市与儀１丁目５番２号",
+      "prefecture": "沖縄県那覇市与儀１丁目５番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001012223",
+      "name": "クオリサイトテクノロジーズ株式会社",
+      "address": "沖縄県名護市字豊原１９５番地３",
+      "prefecture": "沖縄県名護市字豊原１９５番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001012231",
+      "name": "株式会社丸政工務店",
+      "address": "沖縄県国頭郡金武町字伊芸２０００番地２",
+      "prefecture": "沖縄県国頭郡金武町字伊芸２０００番地２",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001013064",
+      "name": "株式会社栄三建設",
+      "address": "沖縄県石垣市字新川２４４１番地の９",
+      "prefecture": "沖縄県石垣市字新川２４４１番地の９",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001013080",
+      "name": "株式会社海邦土木",
+      "address": "沖縄県石垣市字真栄里４８４番地１",
+      "prefecture": "沖縄県石垣市字真栄里４８４番地１",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001023889",
+      "name": "株式会社宮古島未来エネルギー",
+      "address": "沖縄県宮古島市城辺字比嘉８７７番地２７",
+      "prefecture": "沖縄県宮古島市城辺字比嘉８７７番地２７",
+      "certification": [
+        {
+          "certification_name": "新エネ大賞",
+          "certified_date": "2020-01-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360001027015",
+      "name": "ＥＦ　Ｐｏｌｙｍｅｒ株式会社",
+      "address": "沖縄県国頭郡恩納村字谷茶１９１９番地１",
+      "prefecture": "沖縄県国頭郡恩納村字谷茶１９１９番地１",
+      "certification": [
+        {
+          "certification_name": "令和３年度環境スタートアップ大賞",
+          "certified_date": "2022-03-09"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360005001544",
+      "name": "特定非営利活動法人ＨＩＶ人権ネットワーク沖縄",
+      "address": "沖縄県那覇市首里寒川町２丁目５３番地",
+      "prefecture": "沖縄県那覇市首里寒川町２丁目５３番地",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2020-12-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9360005001783",
+      "name": "社会福祉法人みつわ福祉会",
+      "address": "沖縄県島尻郡南風原町字喜屋武４１６番地の２",
+      "prefecture": "沖縄県島尻郡南風原町字喜屋武４１６番地の２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

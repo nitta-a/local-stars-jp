@@ -1,0 +1,720 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1490001000305",
+      "name": "株式会社小谷穀粉",
+      "address": "高知県高知市高須１丁目１４番８号",
+      "prefecture": "高知県高知市高須１丁目１４番８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1490001002318",
+      "name": "ワールドビジネスシスコム株式会社",
+      "address": "高知県高知市本町２丁目２番２７号",
+      "prefecture": "高知県高知市本町２丁目２番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1490001003324",
+      "name": "株式会社ウイル",
+      "address": "高知県高知市中久万２３８番地４",
+      "prefecture": "高知県高知市中久万２３８番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1490005002017",
+      "name": "特定非営利活動法人ＮＰＯ砂浜美術館",
+      "address": "高知県幡多郡黒潮町浮鞭３５７３番地５",
+      "prefecture": "高知県幡多郡黒潮町浮鞭３５７３番地５",
+      "certification": [
+        {
+          "certification_name": "第５回エコツーリズム大賞",
+          "certified_date": "2010-01-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1490005002264",
+      "name": "幡多信用金庫",
+      "address": "高知県四万十市中村大橋通６丁目９番２８号",
+      "prefecture": "高知県四万十市中村大橋通６丁目９番２８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020394122",
+      "name": "四万十町",
+      "address": "高知県高岡郡四万十町琴平町１６－１７",
+      "prefecture": "高知県高岡郡四万十町琴平町１６－１７",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2490001001483",
+      "name": "ツカサ重機株式会社",
+      "address": "高知県高知市長浜５０３３番地２１",
+      "prefecture": "高知県高知市長浜５０３３番地２１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2490001001665",
+      "name": "中勝建設株式会社",
+      "address": "高知県南国市篠原２０３番地１－２階",
+      "prefecture": "高知県南国市篠原２０３番地１－２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2490001006672",
+      "name": "株式会社フタガミ",
+      "address": "高知県南国市双葉台１番地",
+      "prefecture": "高知県南国市双葉台１番地",
+      "certification": [
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3490001000311",
+      "name": "和建設株式会社",
+      "address": "高知県高知市北本町４丁目３番２５号",
+      "prefecture": "高知県高知市北本町４丁目３番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3490001000360",
+      "name": "株式会社技研施工",
+      "address": "高知県高知市布師田３９４８番地１",
+      "prefecture": "高知県高知市布師田３９４８番地１",
+      "certification": [
+        {
+          "certification_name": "安全衛生優良企業公表制度－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3490001000435",
+      "name": "株式会社キタムラ",
+      "address": "高知県高知市本町４丁目１番１６号",
+      "prefecture": "高知県高知市本町４丁目１番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3490001002134",
+      "name": "明星産商株式会社",
+      "address": "高知県南国市岡豊町八幡４１１番地１",
+      "prefecture": "高知県南国市岡豊町八幡４１１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3490001003561",
+      "name": "株式会社ＹｅｌｌＰｈａｒｍａｃｙ",
+      "address": "高知県高知市桟橋通１丁目１０番４号",
+      "prefecture": "高知県高知市桟橋通１丁目１０番４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3490001010673",
+      "name": "株式会社カメラのキタムラ",
+      "address": "高知県高知市本町４丁目１番１６号",
+      "prefecture": "高知県高知市本町４丁目１番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3490002011720",
+      "name": "有限会社繁春鉄工所",
+      "address": "高知県南国市大埇乙２１０５番地の３",
+      "prefecture": "高知県南国市大埇乙２１０５番地の３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4490001000137",
+      "name": "株式会社インターナカツ",
+      "address": "高知県高知市南久保１５番３３号",
+      "prefecture": "高知県高知市南久保１５番３３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4490001000608",
+      "name": "株式会社高知銀行",
+      "address": "高知県高知市堺町２番２４号",
+      "prefecture": "高知県高知市堺町２番２４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4490001000657",
+      "name": "株式会社高知電子計算センター",
+      "address": "高知県高知市本町４丁目１番１６号",
+      "prefecture": "高知県高知市本町４丁目１番１６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4490001000780",
+      "name": "四国運輸株式会社",
+      "address": "高知県高知市布師田字金山３９３６番地１",
+      "prefecture": "高知県高知市布師田字金山３９３６番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4490001001085",
+      "name": "株式会社サンシャインチェーン本部",
+      "address": "高知県高知市稲荷町１１番４５号",
+      "prefecture": "高知県高知市稲荷町１１番４５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4490001002141",
+      "name": "株式会社ケアマックスコーポレーション",
+      "address": "高知県高知市上町２丁目６番９号",
+      "prefecture": "高知県高知市上町２丁目６番９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4490001007982",
+      "name": "株式会社ＳＨＩＦＴ　ＰＬＵＳ",
+      "address": "高知県高知市駅前町１番８号",
+      "prefecture": "高知県高知市駅前町１番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4490005000397",
+      "name": "高知信用金庫",
+      "address": "高知県高知市はりまや町２丁目４番４号",
+      "prefecture": "高知県高知市はりまや町２丁目４番４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020390003",
+      "name": "高知県",
+      "address": "高知県高知市丸ノ内１丁目２－２０",
+      "prefecture": "高知県高知市丸ノ内１丁目２－２０",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5490001000359",
+      "name": "株式会社技研製作所",
+      "address": "高知県高知市布師田３９４８番地１",
+      "prefecture": "高知県高知市布師田３９４８番地１",
+      "certification": [
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5490001002090",
+      "name": "株式会社山崎技研",
+      "address": "高知県高知市神田２０９８番地２",
+      "prefecture": "高知県高知市神田２０９８番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5490001004946",
+      "name": "福原建設株式会社",
+      "address": "高知県四万十市中村大橋通７丁目１３番３号",
+      "prefecture": "高知県四万十市中村大橋通７丁目１３番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5490001006141",
+      "name": "井上石灰工業株式会社",
+      "address": "高知県南国市稲生３１６３番地１",
+      "prefecture": "高知県南国市稲生３１６３番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5490002001661",
+      "name": "高陽開発株式会社",
+      "address": "高知県高知市布師田１８９６番地６",
+      "prefecture": "高知県高知市布師田１８９６番地６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5490002011446",
+      "name": "有限会社まつだ寝具店",
+      "address": "高知県香美市土佐山田町２４６８番地６",
+      "prefecture": "高知県香美市土佐山田町２４６８番地６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5490005000636",
+      "name": "医療法人恕泉会",
+      "address": "高知県高知市塚ノ原３７番地",
+      "prefecture": "高知県高知市塚ノ原３７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5490005002005",
+      "name": "社会福祉法人尽心会",
+      "address": "高知県土佐清水市以布利５５番地",
+      "prefecture": "高知県土佐清水市以布利５５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5490005003580",
+      "name": "特定非営利活動法人日高わのわ会",
+      "address": "高知県高岡郡日高村沖名３－２",
+      "prefecture": "高知県高岡郡日高村沖名３－２",
+      "certification": [
+        {
+          "certification_name": "地域づくり表彰",
+          "certified_date": "2019-11-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6490001003204",
+      "name": "株式会社ダイセイ",
+      "address": "高知県高知市春野町弘岡下４５０１番地７",
+      "prefecture": "高知県高知市春野町弘岡下４５０１番地７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6490001003781",
+      "name": "大旺新洋株式会社",
+      "address": "高知県高知市仁井田１６２５番地２",
+      "prefecture": "高知県高知市仁井田１６２５番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6490001006165",
+      "name": "高知空港ビル株式会社",
+      "address": "高知県南国市久枝乙５８番地",
+      "prefecture": "高知県南国市久枝乙５８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6490002008152",
+      "name": "株式会社アッシェ",
+      "address": "高知県高知市土佐山高川３３４番地３",
+      "prefecture": "高知県高知市土佐山高川３３４番地３",
+      "certification": [
+        {
+          "certification_name": "令和６年度食品ロス削減推進表彰",
+          "certified_date": "2024-09-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6490005006723",
+      "name": "一般社団法人黒潮町観光ネットワーク",
+      "address": "高知県幡多郡黒潮町浮鞭３５７３番地５",
+      "prefecture": "高知県幡多郡黒潮町浮鞭３５７３番地５",
+      "certification": [
+        {
+          "certification_name": "第１９回エコツーリズム大賞",
+          "certified_date": "2024-02-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020392022",
+      "name": "室戸市",
+      "address": "高知県室戸市浮津２５－１",
+      "prefecture": "高知県室戸市浮津２５－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020398713",
+      "name": "嶺北広域行政事務組合",
+      "address": "高知県長岡郡本山町本山９９５",
+      "prefecture": "高知県長岡郡本山町本山９９５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7490001000786",
+      "name": "株式会社四国銀行",
+      "address": "高知県高知市南はりまや町１丁目１番１号",
+      "prefecture": "高知県高知市南はりまや町１丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7490001001306",
+      "name": "新進建設株式会社",
+      "address": "高知県高知市九反田５番８号",
+      "prefecture": "高知県高知市九反田５番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7490001001636",
+      "name": "株式会社轟組",
+      "address": "高知県高知市萩町１丁目５番１３号",
+      "prefecture": "高知県高知市萩町１丁目５番１３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7490005000626",
+      "name": "社会医療法人仁生会",
+      "address": "高知県高知市越前町１丁目１０番１７号",
+      "prefecture": "高知県高知市越前町１丁目１０番１７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7490005000840",
+      "name": "こうち生活協同組合",
+      "address": "高知県高知市薊野中町１６番８号",
+      "prefecture": "高知県高知市薊野中町１６番８号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2015-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8490001001131",
+      "name": "大容基功工業株式会社",
+      "address": "高知県高知市高須新町２丁目１５番７号",
+      "prefecture": "高知県高知市高須新町２丁目１５番７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8490001001461",
+      "name": "株式会社地研",
+      "address": "高知県高知市鴨部上町４番２５号",
+      "prefecture": "高知県高知市鴨部上町４番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8490001002179",
+      "name": "ミタニ建設工業株式会社",
+      "address": "高知県高知市針木東町２７番２８号",
+      "prefecture": "高知県高知市針木東町２７番２８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8490001004373",
+      "name": "株式会社幸",
+      "address": "高知県高知市大津乙１２１２番地７号",
+      "prefecture": "高知県高知市大津乙１２１２番地７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8490001006089",
+      "name": "株式会社テラムラ",
+      "address": "高知県香美市土佐山田町西本町２丁目２番２０号",
+      "prefecture": "高知県香美市土佐山田町西本町２丁目２番２０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8490001006221",
+      "name": "田中石灰工業株式会社",
+      "address": "高知県南国市稲生３１８５番地",
+      "prefecture": "高知県南国市稲生３１８５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8490005000633",
+      "name": "医療法人治久会",
+      "address": "高知県高知市塚ノ原６番地１",
+      "prefecture": "高知県高知市塚ノ原６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9490001000140",
+      "name": "株式会社エースワン",
+      "address": "高知県高知市薊野南町２８番１２号",
+      "prefecture": "高知県高知市薊野南町２８番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9490001006055",
+      "name": "株式会社あさの",
+      "address": "高知県香美市土佐山田町旭町１丁目５番２５号",
+      "prefecture": "高知県香美市土佐山田町旭町１丁目５番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9490005001969",
+      "name": "高知県公立大学法人",
+      "address": "高知県高知市永国寺町２番２２号",
+      "prefecture": "高知県高知市永国寺町２番２２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9490005004633",
+      "name": "学校法人平成学園",
+      "address": "高知県南国市岡豊町中島１２１９番地１",
+      "prefecture": "高知県南国市岡豊町中島１２１９番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

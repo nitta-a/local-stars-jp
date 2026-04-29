@@ -1,0 +1,1472 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020252140",
+      "name": "米原市",
+      "address": "滋賀県米原市米原１０１６番地",
+      "prefecture": "滋賀県米原市米原１０１６番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1160001002490",
+      "name": "タカラバイオ株式会社",
+      "address": "滋賀県草津市野路東７丁目４番３８号",
+      "prefecture": "滋賀県草津市野路東７丁目４番３８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1160001013406",
+      "name": "滋賀ダイハツ販売株式会社",
+      "address": "滋賀県栗東市大橋４丁目１番５号",
+      "prefecture": "滋賀県栗東市大橋４丁目１番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1160001016292",
+      "name": "株式会社アイテス",
+      "address": "滋賀県大津市栗林町１番６０号",
+      "prefecture": "滋賀県大津市栗林町１番６０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "新エネ大賞",
+          "certified_date": "2022-01-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1160001017043",
+      "name": "株式会社うさぎメディケア",
+      "address": "滋賀県大津市粟津町１７番２１－２号",
+      "prefecture": "滋賀県大津市粟津町１７番２１－２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1160002010402",
+      "name": "有限会社魚庄",
+      "address": "滋賀県近江八幡市馬淵町１７２９番地",
+      "prefecture": "滋賀県近江八幡市馬淵町１７２９番地",
+      "certification": [
+        {
+          "certification_name": "令和元年度優良ふるさと食品中央コンクール表彰",
+          "certified_date": "2020-03-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1160005000474",
+      "name": "滋賀県生活協同組合連合会",
+      "address": "滋賀県野洲市冨波甲９７２番地",
+      "prefecture": "滋賀県野洲市冨波甲９７２番地",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2012-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1160005001002",
+      "name": "更生保護法人滋賀県更生保護亊業協会",
+      "address": "滋賀県大津市京町３丁目１番３号",
+      "prefecture": "滋賀県大津市京町３丁目１番３号",
+      "certification": [
+        {
+          "certification_name": "安全安心なまちづくり関係功労者表彰",
+          "certified_date": "2021-10-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1160005002479",
+      "name": "医療法人社団仁生会",
+      "address": "滋賀県甲賀市甲南町葛木９５８番地",
+      "prefecture": "滋賀県甲賀市甲南町葛木９５８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1160005004946",
+      "name": "社会福祉法人青い鳥会",
+      "address": "滋賀県彦根市高宮町２６７１番地",
+      "prefecture": "滋賀県彦根市高宮町２６７１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001000205",
+      "name": "株式会社内田組",
+      "address": "滋賀県大津市大江２丁目３３番３号",
+      "prefecture": "滋賀県大津市大江２丁目３３番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001000535",
+      "name": "株式会社近畿予防医学研究所",
+      "address": "滋賀県大津市湖城が丘１９番９号",
+      "prefecture": "滋賀県大津市湖城が丘１９番９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001000964",
+      "name": "島津産機システムズ株式会社",
+      "address": "滋賀県大津市月輪１丁目８番１号",
+      "prefecture": "滋賀県大津市月輪１丁目８番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001004800",
+      "name": "住友電工プリントサーキット株式会社",
+      "address": "滋賀県甲賀市水口町ひのきが丘３０番地",
+      "prefecture": "滋賀県甲賀市水口町ひのきが丘３０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001005360",
+      "name": "甲陽興産株式会社",
+      "address": "滋賀県甲賀市甲賀町相模３１９番地",
+      "prefecture": "滋賀県甲賀市甲賀町相模３１９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001005501",
+      "name": "株式会社金田工業",
+      "address": "滋賀県甲賀市信楽町長野１４７番地５",
+      "prefecture": "滋賀県甲賀市信楽町長野１４７番地５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001005526",
+      "name": "株式会社滋賀松風",
+      "address": "滋賀県甲賀市信楽町黄瀬２２９６番地",
+      "prefecture": "滋賀県甲賀市信楽町黄瀬２２９６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001006193",
+      "name": "住友電工ウインテック株式会社",
+      "address": "滋賀県甲賀市信楽町江田１０７４番地",
+      "prefecture": "滋賀県甲賀市信楽町江田１０７４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001010229",
+      "name": "株式会社マスイ",
+      "address": "滋賀県東近江市小田苅町字内林１５番地",
+      "prefecture": "滋賀県東近江市小田苅町字内林１５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001010600",
+      "name": "キタイ設計株式会社",
+      "address": "滋賀県近江八幡市安土町上豊浦１０３０番地",
+      "prefecture": "滋賀県近江八幡市安土町上豊浦１０３０番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-27"
+        },
+        {
+          "certification_name": "令和４年度中国四国農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-12"
+        },
+        {
+          "certification_name": "令和３年度中国四国農政局所管農業農村整備事業等優良工事等の受賞者の表彰",
+          "certified_date": "2022-01-31"
+        },
+        {
+          "certification_name": "令和３年度近畿農政局所管農業農村整備事業等優良工事等の受注者の表彰",
+          "certified_date": "2021-12-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001010914",
+      "name": "太陽舗道株式会社",
+      "address": "滋賀県近江八幡市馬淵町字落合４５１番地１",
+      "prefecture": "滋賀県近江八幡市馬淵町字落合４５１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001013132",
+      "name": "株式会社藤尾設備工業所",
+      "address": "滋賀県草津市追分２丁目１６番１６号",
+      "prefecture": "滋賀県草津市追分２丁目１６番１６号",
+      "certification": [
+        {
+          "certification_name": "近畿中部防衛局　優秀工事顕彰・優秀工事技術者顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001015707",
+      "name": "株式会社ジェリフ",
+      "address": "滋賀県野洲市市三宅１０１３番地",
+      "prefecture": "滋賀県野洲市市三宅１０１３番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160001019922",
+      "name": "吉田農園株式会社",
+      "address": "滋賀県長浜市三川町８８３番地",
+      "prefecture": "滋賀県長浜市三川町８８３番地",
+      "certification": [
+        {
+          "certification_name": "飼料用米多収日本一表彰",
+          "certified_date": "2019-02-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160005002478",
+      "name": "社会福祉法人あいの土山福祉会",
+      "address": "滋賀県甲賀市土山町北土山２０５７番地",
+      "prefecture": "滋賀県甲賀市土山町北土山２０５７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160005004747",
+      "name": "農事組合法人アグリファーム国友",
+      "address": "滋賀県長浜市小沢町３５番地１",
+      "prefecture": "滋賀県長浜市小沢町３５番地１",
+      "certification": [
+        {
+          "certification_name": "飼料用米多収日本一表彰",
+          "certified_date": "2020-02-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160005008822",
+      "name": "特定非営利活動法人ゆうらいふ",
+      "address": "滋賀県守山市立田町１２３１番地４",
+      "prefecture": "滋賀県守山市立田町１２３１番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2160005009333",
+      "name": "生活協同組合コープしが",
+      "address": "滋賀県野洲市冨波甲９７２番地",
+      "prefecture": "滋賀県野洲市冨波甲９７２番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160001000105",
+      "name": "株式会社アヤハディオ",
+      "address": "滋賀県大津市におの浜１丁目１番３号",
+      "prefecture": "滋賀県大津市におの浜１丁目１番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160001007034",
+      "name": "豊栄建設株式会社",
+      "address": "滋賀県長浜市細江町４２７番地",
+      "prefecture": "滋賀県長浜市細江町４２７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160001008726",
+      "name": "株式会社平和堂",
+      "address": "滋賀県彦根市西今町１番地",
+      "prefecture": "滋賀県彦根市西今町１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和３年度地産地消等優良活動表彰",
+          "certified_date": "2022-01-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160001010657",
+      "name": "株式会社尾賀亀",
+      "address": "滋賀県近江八幡市出町２９３番地",
+      "prefecture": "滋賀県近江八幡市出町２９３番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト",
+          "certified_date": "2023-10-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160001012050",
+      "name": "ホリゾン・インターナショナル株式会社",
+      "address": "滋賀県高島市新旭町旭１６０１",
+      "prefecture": "滋賀県高島市新旭町旭１６０１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160001012942",
+      "name": "ダイキンレクザムエレクトロニクス株式会社",
+      "address": "滋賀県草津市青地町６７５番地",
+      "prefecture": "滋賀県草津市青地町６７５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160001013354",
+      "name": "甲共舗道株式会社",
+      "address": "滋賀県栗東市高野６３０番地１",
+      "prefecture": "滋賀県栗東市高野６３０番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160001014988",
+      "name": "株式会社横江ファーム",
+      "address": "滋賀県草津市北山田町２２５４番地－４",
+      "prefecture": "滋賀県草津市北山田町２２５４番地－４",
+      "certification": [
+        {
+          "certification_name": "近畿地域未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2020-03-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160001020846",
+      "name": "株式会社眞名井",
+      "address": "滋賀県米原市宇賀野５５７番地",
+      "prefecture": "滋賀県米原市宇賀野５５７番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度「飼料用米多収日本一」コンテスト",
+          "certified_date": "2023-03-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160002012520",
+      "name": "有限会社竜王興産",
+      "address": "滋賀県草津市矢橋町６４９番地の１１",
+      "prefecture": "滋賀県草津市矢橋町６４９番地の１１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160005000134",
+      "name": "一般財団法人近畿健康管理センター",
+      "address": "滋賀県大津市木下町１０番１０号",
+      "prefecture": "滋賀県大津市木下町１０番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3160005005678",
+      "name": "公立大学法人滋賀県立大学",
+      "address": "滋賀県彦根市八坂町２５００番地",
+      "prefecture": "滋賀県彦根市八坂町２５００番地",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160001000500",
+      "name": "株式会社勝村建設工業",
+      "address": "滋賀県大津市大江３丁目１６番７号",
+      "prefecture": "滋賀県大津市大江３丁目１６番７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160001001498",
+      "name": "日本電気硝子株式会社",
+      "address": "滋賀県大津市晴嵐２丁目７番１号",
+      "prefecture": "滋賀県大津市晴嵐２丁目７番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160001004988",
+      "name": "株式会社ナカサク",
+      "address": "滋賀県湖南市高松町１番地",
+      "prefecture": "滋賀県湖南市高松町１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160001008106",
+      "name": "古河ＡＳ株式会社",
+      "address": "滋賀県犬上郡甲良町大字尼子１０００番地",
+      "prefecture": "滋賀県犬上郡甲良町大字尼子１０００番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160001010053",
+      "name": "辻プラスチック株式会社",
+      "address": "滋賀県東近江市五個荘奥町１６０番地",
+      "prefecture": "滋賀県東近江市五個荘奥町１６０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160001010945",
+      "name": "株式会社日吉",
+      "address": "滋賀県近江八幡市北之庄町９０８番地",
+      "prefecture": "滋賀県近江八幡市北之庄町９０８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160001011365",
+      "name": "株式会社クスケン",
+      "address": "滋賀県蒲生郡竜王町大字薬師１１７３番地１３",
+      "prefecture": "滋賀県蒲生郡竜王町大字薬師１１７３番地１３",
+      "certification": [
+        {
+          "certification_name": "令和４年度近畿農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-01-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160001012347",
+      "name": "株式会社桑原組",
+      "address": "滋賀県高島市安曇川町西万木９２６番地",
+      "prefecture": "滋賀県高島市安曇川町西万木９２６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "近畿中部防衛局　優秀工事顕彰・優秀工事技術者顕彰",
+          "certified_date": "2023-07-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160001013089",
+      "name": "株式会社ピーダブルビー",
+      "address": "滋賀県草津市橋岡町２０３番地３９",
+      "prefecture": "滋賀県草津市橋岡町２０３番地３９",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160001014054",
+      "name": "株式会社テクナート",
+      "address": "滋賀県草津市西大路町２番２１号",
+      "prefecture": "滋賀県草津市西大路町２番２１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4160002007742",
+      "name": "株式会社エム・ジェイホーム",
+      "address": "滋賀県長浜市八幡東町９６番地１",
+      "prefecture": "滋賀県長浜市八幡東町９６番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001000458",
+      "name": "株式会社叶匠寿庵",
+      "address": "滋賀県大津市大石龍門４丁目２番１号",
+      "prefecture": "滋賀県大津市大石龍門４丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001000895",
+      "name": "株式会社昭建",
+      "address": "滋賀県大津市浜大津２丁目５番９号",
+      "prefecture": "滋賀県大津市浜大津２丁目５番９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001003931",
+      "name": "株式会社滋賀レイクスターズ",
+      "address": "滋賀県大津市におの浜４丁目７番５号",
+      "prefecture": "滋賀県大津市におの浜４丁目７番５号",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2020-12-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001006521",
+      "name": "大塚産業マテリアル株式会社",
+      "address": "滋賀県長浜市八幡中山町１番地",
+      "prefecture": "滋賀県長浜市八幡中山町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001007123",
+      "name": "株式会社山久",
+      "address": "滋賀県長浜市八幡中山町１２０２番地の５",
+      "prefecture": "滋賀県長浜市八幡中山町１２０２番地の５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001009094",
+      "name": "ドリームフーズ株式会社",
+      "address": "滋賀県彦根市幸町７４番地１",
+      "prefecture": "滋賀県彦根市幸町７４番地１",
+      "certification": [
+        {
+          "certification_name": "優良外食産業表彰",
+          "certified_date": "2020-03-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001009813",
+      "name": "株式会社オーケーエム",
+      "address": "滋賀県蒲生郡日野町大字大谷４４６番地の１",
+      "prefecture": "滋賀県蒲生郡日野町大字大谷４４６番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001009904",
+      "name": "株式会社紅葉建設",
+      "address": "滋賀県東近江市永源寺相谷町６３４番地",
+      "prefecture": "滋賀県東近江市永源寺相谷町６３４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001010036",
+      "name": "株式会社大兼工務店",
+      "address": "滋賀県東近江市佐生町１５０番地",
+      "prefecture": "滋賀県東近江市佐生町１５０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001011158",
+      "name": "大栄土木株式会社",
+      "address": "滋賀県近江八幡市安土町石寺１２９７番地",
+      "prefecture": "滋賀県近江八幡市安土町石寺１２９７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001011975",
+      "name": "株式会社ＴＡＤコーポレーション",
+      "address": "滋賀県高島市野田１６７８番地",
+      "prefecture": "滋賀県高島市野田１６７８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001012783",
+      "name": "草津電機株式会社",
+      "address": "滋賀県草津市東草津２丁目３番３８号",
+      "prefecture": "滋賀県草津市東草津２丁目３番３８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001013476",
+      "name": "たち建設株式会社",
+      "address": "滋賀県栗東市六地蔵１１０３番地２",
+      "prefecture": "滋賀県栗東市六地蔵１１０３番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160001022584",
+      "name": "株式会社総合近江牛商社",
+      "address": "滋賀県守山市守山１丁目４番１４号",
+      "prefecture": "滋賀県守山市守山１丁目４番１４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160005002475",
+      "name": "社会福祉法人八起会",
+      "address": "滋賀県湖南市丸山４丁目５番１号",
+      "prefecture": "滋賀県湖南市丸山４丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160005004835",
+      "name": "医療法人友仁会",
+      "address": "滋賀県彦根市竹ケ鼻町８０番地",
+      "prefecture": "滋賀県彦根市竹ケ鼻町８０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5160005010172",
+      "name": "税理士法人Ｇｒｏｗ　Ｕｐ",
+      "address": "滋賀県草津市西大路町６－２",
+      "prefecture": "滋賀県草津市西大路町６－２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001000993",
+      "name": "株式会社滋賀銀行",
+      "address": "滋賀県大津市浜町１番３８号",
+      "prefecture": "滋賀県大津市浜町１番３８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001001018",
+      "name": "滋賀特機株式会社",
+      "address": "滋賀県大津市におの浜４丁目１番２５号",
+      "prefecture": "滋賀県大津市におの浜４丁目１番２５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001004771",
+      "name": "石部運輸倉庫株式会社",
+      "address": "滋賀県湖南市石部北１丁目４番３６号",
+      "prefecture": "滋賀県湖南市石部北１丁目４番３６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001004813",
+      "name": "株式会社アサヒテックコーポレーション",
+      "address": "滋賀県湖南市岩根１６５６番地６",
+      "prefecture": "滋賀県湖南市岩根１６５６番地６",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001005290",
+      "name": "甲賀バラス株式会社",
+      "address": "滋賀県甲賀市土山町大野２８５０番地",
+      "prefecture": "滋賀県甲賀市土山町大野２８５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001007089",
+      "name": "株式会社宮本組",
+      "address": "滋賀県長浜市平方町８３７番地",
+      "prefecture": "滋賀県長浜市平方町８３７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001007188",
+      "name": "アコース株式会社",
+      "address": "滋賀県米原市夫馬１１３番地",
+      "prefecture": "滋賀県米原市夫馬１１３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001008319",
+      "name": "サンテクノス株式会社",
+      "address": "滋賀県彦根市甲田町１１番地",
+      "prefecture": "滋賀県彦根市甲田町１１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001010258",
+      "name": "株式会社向茂組",
+      "address": "滋賀県東近江市今崎町５１４番地４",
+      "prefecture": "滋賀県東近江市今崎町５１４番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001011124",
+      "name": "株式会社ヤマタケ創建",
+      "address": "滋賀県蒲生郡竜王町大字山之上３２７６番地",
+      "prefecture": "滋賀県蒲生郡竜王町大字山之上３２７６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160001015777",
+      "name": "株式会社吉野組",
+      "address": "滋賀県野洲市八夫６４６番地２",
+      "prefecture": "滋賀県野洲市八夫６４６番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160002011809",
+      "name": "有限会社エコ農業ニシサカ",
+      "address": "滋賀県高島市安曇川町西万木８３２番地６",
+      "prefecture": "滋賀県高島市安曇川町西万木８３２番地６",
+      "certification": [
+        {
+          "certification_name": "近畿地域未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2019-02-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160005006384",
+      "name": "社会福祉法人真寿会",
+      "address": "滋賀県東近江市新宮町５４７番地",
+      "prefecture": "滋賀県東近江市新宮町５４７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6160005008819",
+      "name": "社会福祉法人びわこ学園",
+      "address": "滋賀県野洲市北桜９７８番地の２",
+      "prefecture": "滋賀県野洲市北桜９７８番地の２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7120001068266",
+      "name": "中西輸送機株式会社",
+      "address": "滋賀県湖南市日枝町４番地",
+      "prefecture": "滋賀県湖南市日枝町４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7160001005521",
+      "name": "株式会社三東工業社",
+      "address": "滋賀県甲賀市信楽町江田６１０番地",
+      "prefecture": "滋賀県甲賀市信楽町江田６１０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7160001008549",
+      "name": "夏原工業株式会社",
+      "address": "滋賀県彦根市高宮町２６８８番地１",
+      "prefecture": "滋賀県彦根市高宮町２６８８番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7160001008945",
+      "name": "株式会社イチダ",
+      "address": "滋賀県彦根市東沼波町９６３番地１",
+      "prefecture": "滋賀県彦根市東沼波町９６３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7160001009200",
+      "name": "鈴木ヘルスケアサービス株式会社",
+      "address": "滋賀県彦根市後三条町３５０番地の３",
+      "prefecture": "滋賀県彦根市後三条町３５０番地の３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7160001010678",
+      "name": "株式会社近江兄弟社",
+      "address": "滋賀県近江八幡市魚屋町元２９番地",
+      "prefecture": "滋賀県近江八幡市魚屋町元２９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7160001011940",
+      "name": "杉橋建設株式会社",
+      "address": "滋賀県高島市今津町今津１７５６番地１",
+      "prefecture": "滋賀県高島市今津町今津１７５６番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7160005000436",
+      "name": "社会福祉法人大津せんだん会",
+      "address": "滋賀県大津市仰木の里１丁目２８番１号",
+      "prefecture": "滋賀県大津市仰木の里１丁目２８番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7160005006697",
+      "name": "ＮＰＯ法人愛のまちエコ倶楽部",
+      "address": "滋賀県東近江市梅林町９０番地",
+      "prefecture": "滋賀県東近江市梅林町９０番地",
+      "certification": [
+        {
+          "certification_name": "第１１回グッドライフアワード",
+          "certified_date": "2023-12-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001006700",
+      "name": "新江州株式会社",
+      "address": "滋賀県長浜市川道町７５９番地の３",
+      "prefecture": "滋賀県長浜市川道町７５９番地の３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001007839",
+      "name": "長浜まちづくり株式会社",
+      "address": "滋賀県長浜市元浜町７番５号",
+      "prefecture": "滋賀県長浜市元浜町７番５号",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2014-06-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001008580",
+      "name": "株式会社日昇テクニカ",
+      "address": "滋賀県彦根市野田山町７１８番地１４",
+      "prefecture": "滋賀県彦根市野田山町７１８番地１４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001008762",
+      "name": "丸山建設株式会社",
+      "address": "滋賀県彦根市三津町３７１番地の５",
+      "prefecture": "滋賀県彦根市三津町３７１番地の５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001011915",
+      "name": "株式会社澤村",
+      "address": "滋賀県高島市勝野１１０８番地３",
+      "prefecture": "滋賀県高島市勝野１１０８番地３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001012640",
+      "name": "株式会社井上工業",
+      "address": "滋賀県草津市芦浦町３１３番地の１",
+      "prefecture": "滋賀県草津市芦浦町３１３番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001013044",
+      "name": "株式会社西日本技術コンサルタント",
+      "address": "滋賀県草津市矢橋町字御種子池６４９番地",
+      "prefecture": "滋賀県草津市矢橋町字御種子池６４９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001013382",
+      "name": "サガワ産業株式会社",
+      "address": "滋賀県栗東市下鈎６７９番地",
+      "prefecture": "滋賀県栗東市下鈎６７９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001016583",
+      "name": "グラッソ株式会社",
+      "address": "滋賀県近江八幡市鷹飼町５６０番地１－１階",
+      "prefecture": "滋賀県近江八幡市鷹飼町５６０番地１－１階",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001017350",
+      "name": "株式会社メディカルフロント",
+      "address": "滋賀県草津市野路東１丁目１番１号立命館大学ＢＫＣインキュベータ",
+      "prefecture": "滋賀県草津市野路東１丁目１番１号立命館大学ＢＫＣインキュベータ",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8160001018010",
+      "name": "株式会社松居土木",
+      "address": "滋賀県米原市顔戸２０３４番地",
+      "prefecture": "滋賀県米原市顔戸２０３４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020252018",
+      "name": "大津市",
+      "address": "滋賀県大津市御陵町３－１",
+      "prefecture": "滋賀県大津市御陵町３－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020252042",
+      "name": "近江八幡市",
+      "address": "滋賀県近江八幡市桜宮町２３６",
+      "prefecture": "滋賀県近江八幡市桜宮町２３６",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9160001004793",
+      "name": "甲賀高分子株式会社",
+      "address": "滋賀県湖南市石部北１丁目４番２６号",
+      "prefecture": "滋賀県湖南市石部北１丁目４番２６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9160001006872",
+      "name": "長浜キヤノン株式会社",
+      "address": "滋賀県長浜市国友町１２８０番地",
+      "prefecture": "滋賀県長浜市国友町１２８０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9160001015262",
+      "name": "株式会社あいむ",
+      "address": "滋賀県守山市守山４丁目６番１１号",
+      "prefecture": "滋賀県守山市守山４丁目６番１１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9160001015304",
+      "name": "サンメディカル株式会社",
+      "address": "滋賀県守山市古高町５７１番地の２",
+      "prefecture": "滋賀県守山市古高町５７１番地の２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9160001015717",
+      "name": "ライトケミカル工業株式会社",
+      "address": "滋賀県野洲市三上字前田川原２２５１番地",
+      "prefecture": "滋賀県野洲市三上字前田川原２２５１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9160002009750",
+      "name": "有限会社中村ホームガス",
+      "address": "滋賀県蒲生郡日野町大字大窪９９２番地",
+      "prefecture": "滋賀県蒲生郡日野町大字大窪９９２番地",
+      "certification": [
+        {
+          "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
+          "certified_date": "2019-10-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9160002011871",
+      "name": "株式会社アグリケーション",
+      "address": "滋賀県草津市北山田町２２２９番地１",
+      "prefecture": "滋賀県草津市北山田町２２２９番地１",
+      "certification": [
+        {
+          "certification_name": "近畿地域未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2019-02-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9160005004732",
+      "name": "特定非営利活動法人花と観音の里",
+      "address": "滋賀県長浜市高月町落川３５番地２",
+      "prefecture": "滋賀県長浜市高月町落川３５番地２",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2018-05-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9160005009310",
+      "name": "特定非営利活動法人ＹＡＳＵほほえみクラブ",
+      "address": "滋賀県野洲市三上２２２４番地",
+      "prefecture": "滋賀県野洲市三上２２２４番地",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2023-12-12"
+        }
+      ]
+    }
+  ]
+}

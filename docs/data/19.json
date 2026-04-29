@@ -1,0 +1,580 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1020001107171",
+      "name": "株式会社クリエイティブリゾート",
+      "address": "山梨県富士吉田市松山１６０３",
+      "prefecture": "山梨県富士吉田市松山１６０３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1090001001062",
+      "name": "株式会社クロスフォー",
+      "address": "山梨県甲府市国母７丁目１１番４号",
+      "prefecture": "山梨県甲府市国母７丁目１１番４号",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2020-04-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1090001002250",
+      "name": "株式会社ＹＳＫｅ－ｃｏｍ",
+      "address": "山梨県甲府市湯田１丁目１３番２号",
+      "prefecture": "山梨県甲府市湯田１丁目１３番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1090001004387",
+      "name": "ＹＩＴＯＡマイクロテクノロジー株式会社",
+      "address": "山梨県甲府市大里町４６５番地",
+      "prefecture": "山梨県甲府市大里町４６５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2090001002349",
+      "name": "八雲製菓株式会社",
+      "address": "山梨県甲府市池田２丁目４番２３号",
+      "prefecture": "山梨県甲府市池田２丁目４番２３号",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2090001004642",
+      "name": "株式会社山梨福祉総研",
+      "address": "山梨県甲斐市西八幡３８２２番地１",
+      "prefecture": "山梨県甲斐市西八幡３８２２番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2090001006473",
+      "name": "飯田鉄工株式会社",
+      "address": "山梨県笛吹市境川町石橋１３１４番地",
+      "prefecture": "山梨県笛吹市境川町石橋１３１４番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度北陸農政局農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2024-01-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2090001011894",
+      "name": "株式会社アスクテクニカ",
+      "address": "山梨県西八代郡市川三郷町市川大門１４８８番地",
+      "prefecture": "山梨県西八代郡市川三郷町市川大門１４８８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2090005000035",
+      "name": "医療法人社団篠原会",
+      "address": "山梨県甲府市酒折１丁目１６番１８号",
+      "prefecture": "山梨県甲府市酒折１丁目１６番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2090005000638",
+      "name": "生活協同組合パルシステム山梨長野",
+      "address": "山梨県甲府市古上条町２２５番地の１",
+      "prefecture": "山梨県甲府市古上条町２２５番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2021-06-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3090001000806",
+      "name": "株式会社コンピュータマインド",
+      "address": "山梨県甲府市下飯田１丁目１０番８号",
+      "prefecture": "山梨県甲府市下飯田１丁目１０番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3090001002315",
+      "name": "株式会社山梨中央銀行",
+      "address": "山梨県甲府市丸の内１丁目２０番８号",
+      "prefecture": "山梨県甲府市丸の内１丁目２０番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3090001010053",
+      "name": "ファナック株式会社",
+      "address": "山梨県南都留郡忍野村忍草字古馬場３５８０番地",
+      "prefecture": "山梨県南都留郡忍野村忍草字古馬場３５８０番地",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2019-04-18"
+        },
+        {
+          "certification_name": "緑化推進運動功労者内閣総理大臣表彰",
+          "certified_date": "1993-07-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3090001010870",
+      "name": "株式会社合力",
+      "address": "山梨県富士吉田市旭４丁目１番７号",
+      "prefecture": "山梨県富士吉田市旭４丁目１番７号",
+      "certification": [
+        {
+          "certification_name": "第２回エコツーリズム大賞",
+          "certified_date": "2007-01-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4090001003048",
+      "name": "株式会社アダストサービス",
+      "address": "山梨県中巨摩郡昭和町築地新居１８８５番地の３",
+      "prefecture": "山梨県中巨摩郡昭和町築地新居１８８５番地の３",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": "2020-09-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4090001004657",
+      "name": "株式会社フレアス",
+      "address": "山梨県中巨摩郡昭和町西条１５１４番地",
+      "prefecture": "山梨県中巨摩郡昭和町西条１５１４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4090001006240",
+      "name": "株式会社ルミエール",
+      "address": "山梨県笛吹市一宮町南野呂６２４番地",
+      "prefecture": "山梨県笛吹市一宮町南野呂６２４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4090001009986",
+      "name": "富士急行株式会社",
+      "address": "山梨県富士吉田市上吉田２丁目５番１号",
+      "prefecture": "山梨県富士吉田市上吉田２丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4090005004364",
+      "name": "社会福祉法人明清会",
+      "address": "山梨県富士吉田市上吉田字熊穴４５８４番地",
+      "prefecture": "山梨県富士吉田市上吉田字熊穴４５８４番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5090001008079",
+      "name": "株式会社エノモト",
+      "address": "山梨県上野原市上野原８１５４番地１９",
+      "prefecture": "山梨県上野原市上野原８１５４番地１９",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5090001009713",
+      "name": "コミヤマエレクトロン株式会社",
+      "address": "山梨県南都留郡鳴沢村２２７８番地",
+      "prefecture": "山梨県南都留郡鳴沢村２２７８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5090001011207",
+      "name": "株式会社ミラプロ",
+      "address": "山梨県北杜市須玉町穴平１１００番地",
+      "prefecture": "山梨県北杜市須玉町穴平１１００番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5090001013087",
+      "name": "株式会社ワンアンドオンリー",
+      "address": "山梨県中巨摩郡昭和町押越１１２５番地３",
+      "prefecture": "山梨県中巨摩郡昭和町押越１１２５番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5090005000065",
+      "name": "医療法人山角会",
+      "address": "山梨県甲府市美咲１丁目６番１０号",
+      "prefecture": "山梨県甲府市美咲１丁目６番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6090001011305",
+      "name": "株式会社清水製作所",
+      "address": "山梨県北杜市長坂町大八田４６５４番地",
+      "prefecture": "山梨県北杜市長坂町大八田４６５４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        },
+        {
+          "certification_name": "高年齢者雇用開発コンテスト",
+          "certified_date": "2020-10-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6090001011577",
+      "name": "株式会社韮崎電子",
+      "address": "山梨県韮崎市大草町若尾３５９番地１",
+      "prefecture": "山梨県韮崎市大草町若尾３５９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6090002008432",
+      "name": "有限会社タナカ設備",
+      "address": "山梨県笛吹市御坂町尾山３２３番地１",
+      "prefecture": "山梨県笛吹市御坂町尾山３２３番地１",
+      "certification": [
+        {
+          "certification_name": "令和３年度関東農政局所管農業農村整備事業優良工事等の表彰",
+          "certified_date": "2022-01-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6090002014083",
+      "name": "株式会社木次商事",
+      "address": "山梨県北杜市高根町箕輪新町９番地の３",
+      "prefecture": "山梨県北杜市高根町箕輪新町９番地の３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7090001001528",
+      "name": "株式会社土橋製作所",
+      "address": "山梨県甲府市住吉４丁目１９番２９号",
+      "prefecture": "山梨県甲府市住吉４丁目１９番２９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7090001002930",
+      "name": "山梨貨物自動車株式会社",
+      "address": "山梨県中央市山之神流通団地３２１１番地１１",
+      "prefecture": "山梨県中央市山之神流通団地３２１１番地１１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7090001003053",
+      "name": "株式会社アルプス",
+      "address": "山梨県中巨摩郡昭和町西条２７９９番地",
+      "prefecture": "山梨県中巨摩郡昭和町西条２７９９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7100001007746",
+      "name": "シチズンファインデバイス株式会社",
+      "address": "山梨県南都留郡富士河口湖町船津６６６３番地の２",
+      "prefecture": "山梨県南都留郡富士河口湖町船津６６６３番地の２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020192082",
+      "name": "南アルプス市",
+      "address": "山梨県南アルプス市小笠原３７６",
+      "prefecture": "山梨県南アルプス市小笠原３７６",
+      "certification": [
+        {
+          "certification_name": "まちづくりアワード",
+          "certified_date": "2023-06-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8090001001477",
+      "name": "株式会社テレビ山梨",
+      "address": "山梨県甲府市湯田２丁目１３番１号",
+      "prefecture": "山梨県甲府市湯田２丁目１３番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8090001001618",
+      "name": "日本電子サービス株式会社",
+      "address": "山梨県甲府市東光寺３丁目１２番３４号",
+      "prefecture": "山梨県甲府市東光寺３丁目１２番３４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8090001003135",
+      "name": "テクノクリーン株式会社",
+      "address": "山梨県韮崎市藤井町駒井１４３８番地１",
+      "prefecture": "山梨県韮崎市藤井町駒井１４３８番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8090001006864",
+      "name": "株式会社フォーチュン",
+      "address": "山梨県甲府市丸の内２丁目８番３号丸和ビル",
+      "prefecture": "山梨県甲府市丸の内２丁目８番３号丸和ビル",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8090001010874",
+      "name": "富士山ＧＸホールディングス株式会社",
+      "address": "山梨県富士吉田市上吉田４９６１番地１",
+      "prefecture": "山梨県富士吉田市上吉田４９６１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8090001011377",
+      "name": "株式会社アルソア慧央グループ",
+      "address": "山梨県北杜市小淵沢町２９６１番地",
+      "prefecture": "山梨県北杜市小淵沢町２９６１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020193666",
+      "name": "南部町",
+      "address": "山梨県南巨摩郡南部町福士２８５０５－２",
+      "prefecture": "山梨県南巨摩郡南部町福士２８５０５－２",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9090001002334",
+      "name": "山梨ヤクルト販賣株式会社",
+      "address": "山梨県甲府市下飯田１丁目３番２号",
+      "prefecture": "山梨県甲府市下飯田１丁目３番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9090001003373",
+      "name": "株式会社ゼロ",
+      "address": "山梨県甲府市住吉４丁目６番２４号",
+      "prefecture": "山梨県甲府市住吉４丁目６番２４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9090001006327",
+      "name": "エルテックサービス株式会社",
+      "address": "山梨県笛吹市一宮町国分１０１４番地１",
+      "prefecture": "山梨県笛吹市一宮町国分１０１４番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9090001011104",
+      "name": "株式会社ササキ",
+      "address": "山梨県韮崎市穂坂町宮久保１１５５番地１",
+      "prefecture": "山梨県韮崎市穂坂町宮久保１１５５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者活躍企業コンテスト",
+          "certified_date": "2021-10-06"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,828 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1270001002579",
+      "name": "株式会社ＨＡＮＡＦＵＳＡ",
+      "address": "鳥取県鳥取市湖山町東３丁目６０番地",
+      "prefecture": "鳥取県鳥取市湖山町東３丁目６０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1270001003387",
+      "name": "ダックス株式会社",
+      "address": "鳥取県米子市両三柳３０９番地",
+      "prefecture": "鳥取県米子市両三柳３０９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1270001003395",
+      "name": "株式会社中海テレビ放送",
+      "address": "鳥取県米子市河崎６１０番地",
+      "prefecture": "鳥取県米子市河崎６１０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1270001006737",
+      "name": "ヤマタホールディングス株式会社",
+      "address": "鳥取県鳥取市千代水２丁目１３０番地",
+      "prefecture": "鳥取県鳥取市千代水２丁目１３０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1270002007643",
+      "name": "有限会社岡田商店",
+      "address": "鳥取県境港市幸神町３５３番地",
+      "prefecture": "鳥取県境港市幸神町３５３番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1270005003862",
+      "name": "社会福祉法人日南福祉会",
+      "address": "鳥取県日野郡日南町下石見２３１５番地",
+      "prefecture": "鳥取県日野郡日南町下石見２３１５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2270001000268",
+      "name": "サンユー技研工業株式会社",
+      "address": "鳥取県鳥取市商栄町４０９番地１３",
+      "prefecture": "鳥取県鳥取市商栄町４０９番地１３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2270001000409",
+      "name": "田中工業株式会社",
+      "address": "鳥取県鳥取市秋里１２４７番地",
+      "prefecture": "鳥取県鳥取市秋里１２４７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2270001000870",
+      "name": "株式会社鳥取銀行",
+      "address": "鳥取県鳥取市永楽温泉町１７１番地",
+      "prefecture": "鳥取県鳥取市永楽温泉町１７１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2270001003659",
+      "name": "株式会社エスジーズ",
+      "address": "鳥取県米子市東山町８番地１",
+      "prefecture": "鳥取県米子市東山町８番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2270001008162",
+      "name": "株式会社美染",
+      "address": "鳥取県鳥取市丸山町２６５番地１１",
+      "prefecture": "鳥取県鳥取市丸山町２６５番地１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2270002005621",
+      "name": "有限会社河島農具製作所",
+      "address": "鳥取県米子市道笑町２丁目６１番地",
+      "prefecture": "鳥取県米子市道笑町２丁目６１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2270002007436",
+      "name": "株式会社山陰クリエート",
+      "address": "鳥取県米子市和田町２１６２番地１",
+      "prefecture": "鳥取県米子市和田町２１６２番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2270005002905",
+      "name": "学校法人柳心学園",
+      "address": "鳥取県米子市旗ヶ崎２丁目１５番１号",
+      "prefecture": "鳥取県米子市旗ヶ崎２丁目１５番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3000020313254",
+      "name": "若桜町",
+      "address": "鳥取県八頭郡若桜町大字若桜８０１－５",
+      "prefecture": "鳥取県八頭郡若桜町大字若桜８０１－５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3270001003807",
+      "name": "株式会社大昇食品",
+      "address": "鳥取県境港市昭和町１２番地２２",
+      "prefecture": "鳥取県境港市昭和町１２番地２２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3270001006371",
+      "name": "株式会社アークス",
+      "address": "鳥取県東伯郡北栄町東園３１６番地３",
+      "prefecture": "鳥取県東伯郡北栄町東園３１６番地３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3270002004746",
+      "name": "有限会社ＷＥＳＴ",
+      "address": "鳥取県鳥取市用瀬町別府１０１番地７",
+      "prefecture": "鳥取県鳥取市用瀬町別府１０１番地７",
+      "certification": [
+        {
+          "certification_name": "民間部門農林水産研究開発功績者表彰",
+          "certified_date": "2023-11-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3270005004223",
+      "name": "社会福祉法人みのり福祉会",
+      "address": "鳥取県倉吉市福守町４４８番地１",
+      "prefecture": "鳥取県倉吉市福守町４４８番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3270005005056",
+      "name": "一般社団法人鳥取県再犯抑止更生協会",
+      "address": "鳥取県鳥取市栗谷町１０番地",
+      "prefecture": "鳥取県鳥取市栗谷町１０番地",
+      "certification": [
+        {
+          "certification_name": "安全安心なまちづくり関係功労者表彰",
+          "certified_date": "2018-10-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4270001000002",
+      "name": "アイエム電子株式会社",
+      "address": "鳥取県鳥取市山城町６番４０号",
+      "prefecture": "鳥取県鳥取市山城町６番４０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4270001003715",
+      "name": "株式会社米子青果",
+      "address": "鳥取県米子市両三柳１９３番地１",
+      "prefecture": "鳥取県米子市両三柳１９３番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4270001003830",
+      "name": "日本海冷凍魚株式会社",
+      "address": "鳥取県境港市昭和町１２番地２６",
+      "prefecture": "鳥取県境港市昭和町１２番地２６",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4270001005538",
+      "name": "株式会社丸合",
+      "address": "鳥取県米子市東福原２丁目１９番４８号",
+      "prefecture": "鳥取県米子市東福原２丁目１９番４８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4270005002614",
+      "name": "国立大学法人鳥取大学",
+      "address": "鳥取県鳥取市湖山町南４丁目１０１番地",
+      "prefecture": "鳥取県鳥取市湖山町南４丁目１０１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270001000257",
+      "name": "株式会社三協商会",
+      "address": "鳥取県鳥取市南吉方１丁目４７番地",
+      "prefecture": "鳥取県鳥取市南吉方１丁目４７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270001000307",
+      "name": "株式会社新日本海新聞社",
+      "address": "鳥取県鳥取市富安２丁目１３７番地",
+      "prefecture": "鳥取県鳥取市富安２丁目１３７番地",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2022-12-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270001001107",
+      "name": "アイコンヤマト株式会社",
+      "address": "鳥取県鳥取市国府町分上３丁目３１３番地",
+      "prefecture": "鳥取県鳥取市国府町分上３丁目３１３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270001002170",
+      "name": "こおげ建設株式会社",
+      "address": "鳥取県八頭郡八頭町宮谷２００番地２",
+      "prefecture": "鳥取県八頭郡八頭町宮谷２００番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270001004968",
+      "name": "いないホールディングス株式会社",
+      "address": "鳥取県倉吉市河原町１７７０番地",
+      "prefecture": "鳥取県倉吉市河原町１７７０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270002009132",
+      "name": "株式会社みたこ土建",
+      "address": "鳥取県米子市八幡４８６番地１",
+      "prefecture": "鳥取県米子市八幡４８６番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270005000039",
+      "name": "社会福祉法人あすなろ会",
+      "address": "鳥取県鳥取市川端４丁目１１５番地",
+      "prefecture": "鳥取県鳥取市川端４丁目１１５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270005000047",
+      "name": "社会福祉法人ウイズユー",
+      "address": "鳥取県鳥取市晩稲３０６番地",
+      "prefecture": "鳥取県鳥取市晩稲３０６番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270005000138",
+      "name": "鳥取信用金庫",
+      "address": "鳥取県鳥取市栄町６４５番地",
+      "prefecture": "鳥取県鳥取市栄町６４５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270005002068",
+      "name": "社会福祉法人青谷福祉会",
+      "address": "鳥取県鳥取市青谷町善田２７番地１",
+      "prefecture": "鳥取県鳥取市青谷町善田２７番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270005002893",
+      "name": "医療法人養和会",
+      "address": "鳥取県米子市上後藤３丁目５番１号",
+      "prefecture": "鳥取県米子市上後藤３丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5270005003454",
+      "name": "社会福祉法人こうほうえん",
+      "address": "鳥取県境港市誠道町２０８３番地",
+      "prefecture": "鳥取県境港市誠道町２０８３番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6270001002657",
+      "name": "株式会社ナレッジサポート",
+      "address": "鳥取県鳥取市湖山町東５丁目２０６番地花木ビル３Ｆ",
+      "prefecture": "鳥取県鳥取市湖山町東５丁目２０６番地花木ビル３Ｆ",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6270001003119",
+      "name": "株式会社石田コーポレーション",
+      "address": "鳥取県米子市米原８丁目１番３２号",
+      "prefecture": "鳥取県米子市米原８丁目１番３２号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6270001004265",
+      "name": "株式会社オーク",
+      "address": "鳥取県境港市竹内団地２０８番地３",
+      "prefecture": "鳥取県境港市竹内団地２０８番地３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6270001005197",
+      "name": "株式会社エナテクス",
+      "address": "鳥取県倉吉市清谷町２丁目７３番地",
+      "prefecture": "鳥取県倉吉市清谷町２丁目７３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6270002005733",
+      "name": "有限会社共榮部品",
+      "address": "鳥取県米子市両三柳２９０２番地６",
+      "prefecture": "鳥取県米子市両三柳２９０２番地６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020310000",
+      "name": "鳥取県",
+      "address": "鳥取県鳥取市東町１丁目２２０",
+      "prefecture": "鳥取県鳥取市東町１丁目２２０",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7270001000172",
+      "name": "株式会社勝原製作所",
+      "address": "鳥取県鳥取市南栄町２番地",
+      "prefecture": "鳥取県鳥取市南栄町２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7270001000420",
+      "name": "株式会社タブチ",
+      "address": "鳥取県鳥取市南栄町３３番地６",
+      "prefecture": "鳥取県鳥取市南栄町３３番地６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7270001000478",
+      "name": "東洋交通施設株式会社",
+      "address": "鳥取県鳥取市安長７８番地７",
+      "prefecture": "鳥取県鳥取市安長７８番地７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7270001004082",
+      "name": "株式会社ミトクハーネス",
+      "address": "鳥取県西伯郡南部町原２５１番地２５",
+      "prefecture": "鳥取県西伯郡南部町原２５１番地２５",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7270001006847",
+      "name": "ローカルエナジー株式会社",
+      "address": "鳥取県米子市角盤町１丁目５５番地２",
+      "prefecture": "鳥取県米子市角盤町１丁目５５番地２",
+      "certification": [
+        {
+          "certification_name": "第６回グッドライフアワード",
+          "certified_date": "2018-11-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7270005000037",
+      "name": "社会福祉法人鳥取福祉会",
+      "address": "鳥取県鳥取市的場２丁目１番地",
+      "prefecture": "鳥取県鳥取市的場２丁目１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7270005000375",
+      "name": "鳥取県生活協同組合",
+      "address": "鳥取県鳥取市河原町布袋５９７番地１",
+      "prefecture": "鳥取県鳥取市河原町布袋５９７番地１",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2021-06-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020312029",
+      "name": "米子市",
+      "address": "鳥取県米子市加茂町１丁目１",
+      "prefecture": "鳥取県米子市加茂町１丁目１",
+      "certification": [
+        {
+          "certification_name": "第６回グッドライフアワード",
+          "certified_date": "2018-11-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8270001000650",
+      "name": "日ノ丸産業株式会社",
+      "address": "鳥取県鳥取市富安２丁目１１番地",
+      "prefecture": "鳥取県鳥取市富安２丁目１１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8270001004255",
+      "name": "シャープ米子株式会社",
+      "address": "鳥取県米子市石州府字大塚ノ弐６５０番",
+      "prefecture": "鳥取県米子市石州府字大塚ノ弐６５０番",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8270001004866",
+      "name": "株式会社スーパー・フェイズ",
+      "address": "鳥取県西伯郡伯耆町丸山１８００番地２６",
+      "prefecture": "鳥取県西伯郡伯耆町丸山１８００番地２６",
+      "certification": [
+        {
+          "certification_name": "平成３０年度循環型社会形成推進功労者環境大臣賞",
+          "certified_date": "2018-10-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8270002002522",
+      "name": "有限会社山本精機",
+      "address": "鳥取県岩美郡岩美町大字浦富６１０番地７",
+      "prefecture": "鳥取県岩美郡岩美町大字浦富６１０番地７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8270005000044",
+      "name": "社会福祉法人さとに会",
+      "address": "鳥取県鳥取市里仁２８番地",
+      "prefecture": "鳥取県鳥取市里仁２８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020312011",
+      "name": "鳥取市",
+      "address": "鳥取県鳥取市幸町７１番地",
+      "prefecture": "鳥取県鳥取市幸町７１番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9270001000749",
+      "name": "水野商事株式会社",
+      "address": "鳥取県鳥取市吉方町２丁目４５１番地",
+      "prefecture": "鳥取県鳥取市吉方町２丁目４５１番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9270001003173",
+      "name": "岡田電工株式会社",
+      "address": "鳥取県米子市西福原６丁目６番１０号",
+      "prefecture": "鳥取県米子市西福原６丁目６番１０号",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2023-07-03"
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9270001003561",
+      "name": "株式会社ホクサン",
+      "address": "鳥取県米子市河崎１２１５番地４",
+      "prefecture": "鳥取県米子市河崎１２１５番地４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9270001003751",
+      "name": "株式会社門永水産",
+      "address": "鳥取県境港市昭和町１２番地２７",
+      "prefecture": "鳥取県境港市昭和町１２番地２７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9270001006762",
+      "name": "株式会社モア・コンフォート",
+      "address": "鳥取県鳥取市千代水２丁目１３０番地",
+      "prefecture": "鳥取県鳥取市千代水２丁目１３０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9270002008576",
+      "name": "有限会社森の国",
+      "address": "鳥取県西伯郡大山町赤松６３４番地",
+      "prefecture": "鳥取県西伯郡大山町赤松６３４番地",
+      "certification": [
+        {
+          "certification_name": "第１０回エコツーリズム大賞",
+          "certified_date": "2015-01-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9270005000043",
+      "name": "社会福祉法人鳥取県厚生事業団",
+      "address": "鳥取県鳥取市伏野２２５９番地４３",
+      "prefecture": "鳥取県鳥取市伏野２２５９番地４３",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9270005000051",
+      "name": "社会医療法人明和会医療福祉センター",
+      "address": "鳥取県鳥取市東町３丁目３０７番地",
+      "prefecture": "鳥取県鳥取市東町３丁目３０７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9270005000332",
+      "name": "鳥取いなば農業協同組合",
+      "address": "鳥取県鳥取市湖山町東５丁目２６１番地",
+      "prefecture": "鳥取県鳥取市湖山町東５丁目２６１番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

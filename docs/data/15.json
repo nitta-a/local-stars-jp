@@ -1,0 +1,2816 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1010001185037",
+      "name": "ユキグニファクトリー株式会社",
+      "address": "新潟県南魚沼市余川８９番地",
+      "prefecture": "新潟県南魚沼市余川８９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001001051",
+      "name": "株式会社加賀田組",
+      "address": "新潟県新潟市中央区万代４丁目５番１５号",
+      "prefecture": "新潟県新潟市中央区万代４丁目５番１５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001004293",
+      "name": "株式会社日本フードリンク",
+      "address": "新潟県新潟市東区津島屋６丁目９９番地１",
+      "prefecture": "新潟県新潟市東区津島屋６丁目９９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001005135",
+      "name": "株式会社ホンダ北越販売",
+      "address": "新潟県新潟市江南区東早通１丁目２番４４号",
+      "prefecture": "新潟県新潟市江南区東早通１丁目２番４４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001008344",
+      "name": "株式会社三ツ葉パーツ",
+      "address": "新潟県新潟市西蒲区潟頭４４７番地３",
+      "prefecture": "新潟県新潟市西蒲区潟頭４４７番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001012362",
+      "name": "共栄エンジニアリング株式会社",
+      "address": "新潟県阿賀野市山倉１９１２番地２",
+      "prefecture": "新潟県阿賀野市山倉１９１２番地２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001012858",
+      "name": "株式会社林鉄工所",
+      "address": "新潟県新発田市上館４６番地１",
+      "prefecture": "新潟県新発田市上館４６番地１",
+      "certification": [
+        {
+          "certification_name": "令和３年度北陸農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-02-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001014350",
+      "name": "第一コンピュータ印刷株式会社",
+      "address": "新潟県三条市塚野目３丁目２０番２４号",
+      "prefecture": "新潟県三条市塚野目３丁目２０番２４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001015373",
+      "name": "株式会社五十嵐樹脂工業所",
+      "address": "新潟県南蒲原郡田上町大字川船河６６０番地",
+      "prefecture": "新潟県南蒲原郡田上町大字川船河６６０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001015794",
+      "name": "株式会社ハセテック",
+      "address": "新潟県燕市八王寺２６２８番地",
+      "prefecture": "新潟県燕市八王寺２６２８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001017147",
+      "name": "株式会社飯塚鉄工所",
+      "address": "新潟県柏崎市半田３丁目１５番１６号",
+      "prefecture": "新潟県柏崎市半田３丁目１５番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001017444",
+      "name": "株式会社テック長沢",
+      "address": "新潟県柏崎市大字藤井１４０９番地１",
+      "prefecture": "新潟県柏崎市大字藤井１４０９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001021215",
+      "name": "株式会社ハピネス",
+      "address": "新潟県十日町市明石町１６番地",
+      "prefecture": "新潟県十日町市明石町１６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001022733",
+      "name": "株式会社ソリマチ技研",
+      "address": "新潟県長岡市中島６丁目２番２１号",
+      "prefecture": "新潟県長岡市中島６丁目２番２１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001024399",
+      "name": "坂井建設株式会社",
+      "address": "新潟県長岡市上塩１４００番地３",
+      "prefecture": "新潟県長岡市上塩１４００番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110001024597",
+      "name": "株式会社クレアメディコ",
+      "address": "新潟県長岡市緑町１丁目３８番地２８３",
+      "prefecture": "新潟県長岡市緑町１丁目３８番地２８３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110002013376",
+      "name": "有限会社ヤスダヨーグルト",
+      "address": "新潟県阿賀野市保田字義京免９４０番地",
+      "prefecture": "新潟県阿賀野市保田字義京免９４０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110005000801",
+      "name": "社会福祉法人愛宕福祉会",
+      "address": "新潟県新潟市東区大山２丁目１３番３４号",
+      "prefecture": "新潟県新潟市東区大山２丁目１３番３４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110005005957",
+      "name": "社会福祉法人加茂福祉会",
+      "address": "新潟県加茂市石川２丁目２４７３番地１",
+      "prefecture": "新潟県加茂市石川２丁目２４７３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1110005016723",
+      "name": "特定非営利活動法人フードバンクつばめ",
+      "address": "新潟県燕市小池４８５２番地５",
+      "prefecture": "新潟県燕市小池４８５２番地５",
+      "certification": [
+        {
+          "certification_name": "令和６年度食品ロス削減推進表彰",
+          "certified_date": "2024-09-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001000044",
+      "name": "株式会社国土",
+      "address": "新潟県新潟市西区善久１０６８番地１",
+      "prefecture": "新潟県新潟市西区善久１０６８番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001001637",
+      "name": "株式会社キタック",
+      "address": "新潟県新潟市中央区新光町１０番地２",
+      "prefecture": "新潟県新潟市中央区新光町１０番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001003113",
+      "name": "株式会社高助",
+      "address": "新潟県新潟市中央区礎町通４ノ町２１００番地",
+      "prefecture": "新潟県新潟市中央区礎町通４ノ町２１００番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001003220",
+      "name": "株式会社田中組",
+      "address": "新潟県新潟市中央区上大川前通３番町２５番地７",
+      "prefecture": "新潟県新潟市中央区上大川前通３番町２５番地７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001003807",
+      "name": "キヤノンイメージングシステムズ株式会社",
+      "address": "新潟県新潟市中央区笹口１丁目２番地プラーカ２　４階",
+      "prefecture": "新潟県新潟市中央区笹口１丁目２番地プラーカ２　４階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001004821",
+      "name": "藤田金屬株式会社",
+      "address": "新潟県新潟市中央区八千代１丁目７番２０号",
+      "prefecture": "新潟県新潟市中央区八千代１丁目７番２０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001008698",
+      "name": "株式会社インプレッシヴ",
+      "address": "新潟県新潟市中央区米山４丁目１番３１号",
+      "prefecture": "新潟県新潟市中央区米山４丁目１番３１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001011462",
+      "name": "株式会社帆苅組",
+      "address": "新潟県阿賀野市保田１１１１番地",
+      "prefecture": "新潟県阿賀野市保田１１１１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001012576",
+      "name": "株式会社弘新機工",
+      "address": "新潟県新発田市曽根２７８番地",
+      "prefecture": "新潟県新発田市曽根２７８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001013203",
+      "name": "株式会社小野組",
+      "address": "新潟県胎内市西栄町２番２３号",
+      "prefecture": "新潟県胎内市西栄町２番２３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001014713",
+      "name": "株式会社マルサ",
+      "address": "新潟県三条市三貫地新田９７２番地１",
+      "prefecture": "新潟県三条市三貫地新田９７２番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001015942",
+      "name": "株式会社ＳＵＳ",
+      "address": "新潟県燕市花見３００番地",
+      "prefecture": "新潟県燕市花見３００番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001016676",
+      "name": "日本ハム惣菜株式会社",
+      "address": "新潟県三条市篭場１番２７号",
+      "prefecture": "新潟県三条市篭場１番２７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001017212",
+      "name": "刈共株式会社",
+      "address": "新潟県刈羽郡刈羽村大字下高町５６６番地",
+      "prefecture": "新潟県刈羽郡刈羽村大字下高町５６６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001019266",
+      "name": "飛田テック株式会社",
+      "address": "新潟県上越市大字中箱井４７番地１",
+      "prefecture": "新潟県上越市大字中箱井４７番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001019670",
+      "name": "大陽開発株式会社",
+      "address": "新潟県上越市浦川原区横川４０６番地",
+      "prefecture": "新潟県上越市浦川原区横川４０６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001020281",
+      "name": "株式会社保坂組",
+      "address": "新潟県妙高市大字上四ツ屋２７４番地",
+      "prefecture": "新潟県妙高市大字上四ツ屋２７４番地",
+      "certification": [
+        {
+          "certification_name": "令和４年度北陸農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2022-12-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001020959",
+      "name": "株式会社きものブレイン",
+      "address": "新潟県十日町市高田町６丁目５９７番地１",
+      "prefecture": "新潟県十日町市高田町６丁目５９７番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001025454",
+      "name": "株式会社新潟セイキ",
+      "address": "新潟県小千谷市鴻巣町１５９３番地１",
+      "prefecture": "新潟県小千谷市鴻巣町１５９３番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001025850",
+      "name": "原田通商株式会社",
+      "address": "新潟県長岡市蓮潟５丁目１番１４号",
+      "prefecture": "新潟県長岡市蓮潟５丁目１番１４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110001027079",
+      "name": "株式会社ソフト・ドゥ",
+      "address": "新潟県魚沼市小出島８５番地１１",
+      "prefecture": "新潟県魚沼市小出島８５番地１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110005000420",
+      "name": "新潟県信用農業協同組合連合会",
+      "address": "新潟県新潟市中央区東中通１番町１８９番地３",
+      "prefecture": "新潟県新潟市中央区東中通１番町１８９番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110005000825",
+      "name": "社会福祉法人エンブレイス",
+      "address": "新潟県新潟市東区本所２５２番地１",
+      "prefecture": "新潟県新潟市東区本所２５２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110005000957",
+      "name": "新潟縣信用組合",
+      "address": "新潟県新潟市中央区営所通１番町３０２番地１",
+      "prefecture": "新潟県新潟市中央区営所通１番町３０２番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110005009461",
+      "name": "国立大学法人上越教育大学",
+      "address": "新潟県上越市山屋敷町１番地",
+      "prefecture": "新潟県上越市山屋敷町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2110005013109",
+      "name": "医療法人俊榮会",
+      "address": "新潟県南魚沼市欠之上４７８番地２",
+      "prefecture": "新潟県南魚沼市欠之上４７８番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001001256",
+      "name": "石本商事株式会社",
+      "address": "新潟県新潟市中央区上近江３丁目１９番２２号",
+      "prefecture": "新潟県新潟市中央区上近江３丁目１９番２２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001001999",
+      "name": "株式会社近藤組",
+      "address": "新潟県新潟市中央区稲荷町３５３５番地１",
+      "prefecture": "新潟県新潟市中央区稲荷町３５３５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001004390",
+      "name": "株式会社ナビック",
+      "address": "新潟県新潟市東区松島１丁目２番８号",
+      "prefecture": "新潟県新潟市東区松島１丁目２番８号",
+      "certification": [
+        {
+          "certification_name": "令和３年度北陸農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-02-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001005307",
+      "name": "株式会社マルス",
+      "address": "新潟県新潟市中央区蒲原町３番３１号",
+      "prefecture": "新潟県新潟市中央区蒲原町３番３１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001007055",
+      "name": "株式会社ウオロク",
+      "address": "新潟県新潟市中央区鐙２丁目１４番１３号",
+      "prefecture": "新潟県新潟市中央区鐙２丁目１４番１３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001008210",
+      "name": "株式会社アクアデザインアマノ",
+      "address": "新潟県新潟市西蒲区漆山８５５４番地１",
+      "prefecture": "新潟県新潟市西蒲区漆山８５５４番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001013350",
+      "name": "株式会社三幸",
+      "address": "新潟県北蒲原郡聖籠町位守町１６０番地２４",
+      "prefecture": "新潟県北蒲原郡聖籠町位守町１６０番地２４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001013813",
+      "name": "相場産業株式会社",
+      "address": "新潟県三条市金子新田乙１６９１番地５",
+      "prefecture": "新潟県三条市金子新田乙１６９１番地５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001014316",
+      "name": "株式会社スノーピーク",
+      "address": "新潟県三条市中野原４５６番地",
+      "prefecture": "新潟県三条市中野原４５６番地",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2019-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001014415",
+      "name": "株式会社プラスパッケージ",
+      "address": "新潟県三条市下大浦５１８番地",
+      "prefecture": "新潟県三条市下大浦５１８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001014935",
+      "name": "株式会社三條機械製作所",
+      "address": "新潟県三条市猪子場新田１３００番地",
+      "prefecture": "新潟県三条市猪子場新田１３００番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001015909",
+      "name": "下村企販株式会社",
+      "address": "新潟県燕市小池４８０３番地４",
+      "prefecture": "新潟県燕市小池４８０３番地４",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001017269",
+      "name": "北日本羽黒食品株式会社",
+      "address": "新潟県柏崎市駅前１丁目３番１号",
+      "prefecture": "新潟県柏崎市駅前１丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001020198",
+      "name": "株式会社アルゴス",
+      "address": "新潟県妙高市東陽町１番１号",
+      "prefecture": "新潟県妙高市東陽町１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001021758",
+      "name": "株式会社笠原建設",
+      "address": "新潟県糸魚川市大字能生１１５５番地６",
+      "prefecture": "新潟県糸魚川市大字能生１１５５番地６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001023135",
+      "name": "日本精機株式会社",
+      "address": "新潟県長岡市東蔵王２丁目２番３４号",
+      "prefecture": "新潟県長岡市東蔵王２丁目２番３４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001023572",
+      "name": "株式会社メビウス",
+      "address": "新潟県新潟市中央区天神１丁目１２番地３",
+      "prefecture": "新潟県新潟市中央区天神１丁目１２番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001023853",
+      "name": "株式会社ナンバ",
+      "address": "新潟県長岡市三島新保６３３番地１",
+      "prefecture": "新潟県長岡市三島新保６３３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001027648",
+      "name": "中野建設工業株式会社",
+      "address": "新潟県佐渡市小木木野浦１７６番地３",
+      "prefecture": "新潟県佐渡市小木木野浦１７６番地３",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001029405",
+      "name": "株式会社アイオス",
+      "address": "新潟県新潟市中央区南笹口１丁目１番１２号",
+      "prefecture": "新潟県新潟市中央区南笹口１丁目１番１２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001036236",
+      "name": "株式会社ノートス",
+      "address": "新潟県新潟市秋葉区あおば通１丁目６番１９号",
+      "prefecture": "新潟県新潟市秋葉区あおば通１丁目６番１９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110001038406",
+      "name": "株式会社きくや",
+      "address": "新潟県新潟市北区新崎６９９番地１１",
+      "prefecture": "新潟県新潟市北区新崎６９９番地１１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": "2020-09-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3110005000964",
+      "name": "新潟信用金庫",
+      "address": "新潟県新潟市中央区西堀通５番町８５５番地１",
+      "prefecture": "新潟県新潟市中央区西堀通５番町８５５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001003318",
+      "name": "株式会社千代田設備",
+      "address": "新潟県新潟市中央区下所島２丁目１７番３号",
+      "prefecture": "新潟県新潟市中央区下所島２丁目１７番３号",
+      "certification": [
+        {
+          "certification_name": "キャリア支援企業表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001003978",
+      "name": "三井ホーム北新越株式会社",
+      "address": "新潟県新潟市中央区南笹口２丁目６番３１号",
+      "prefecture": "新潟県新潟市中央区南笹口２丁目６番３１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001004737",
+      "name": "株式会社コミュニケーションゲート",
+      "address": "新潟県新潟市西区坂井砂山３丁目１３番１０号",
+      "prefecture": "新潟県新潟市西区坂井砂山３丁目１３番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001006378",
+      "name": "亀田製菓株式会社",
+      "address": "新潟県新潟市江南区亀田工業団地３丁目１番１号",
+      "prefecture": "新潟県新潟市江南区亀田工業団地３丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001012459",
+      "name": "株式会社イシイコーポレーション",
+      "address": "新潟県北蒲原郡聖籠町東港６丁目３１０３番地３",
+      "prefecture": "新潟県北蒲原郡聖籠町東港６丁目３１０３番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001014918",
+      "name": "株式会社共栄鍛工所",
+      "address": "新潟県三条市尾崎２７８１番地",
+      "prefecture": "新潟県三条市尾崎２７８１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001015858",
+      "name": "サーモス株式会社",
+      "address": "新潟県燕市吉田下中野１４３５番地",
+      "prefecture": "新潟県燕市吉田下中野１４３５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001017441",
+      "name": "株式会社ＩＮＰＥＸパイプライン",
+      "address": "新潟県柏崎市大久保１丁目６番２号",
+      "prefecture": "新潟県柏崎市大久保１丁目６番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001018019",
+      "name": "株式会社会津屋",
+      "address": "新潟県村上市上助渕１７７７番地４",
+      "prefecture": "新潟県村上市上助渕１７７７番地４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001019223",
+      "name": "田中産業株式会社",
+      "address": "新潟県上越市大字土橋１９２８番地",
+      "prefecture": "新潟県上越市大字土橋１９２８番地",
+      "certification": [
+        {
+          "certification_name": "第６回グッドライフアワード",
+          "certified_date": "2018-11-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001023373",
+      "name": "株式会社古川広吉鉄工所",
+      "address": "新潟県長岡市鉄工町１丁目２番５７号",
+      "prefecture": "新潟県長岡市鉄工町１丁目２番５７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001023456",
+      "name": "マコー株式会社",
+      "address": "新潟県長岡市石動町字金輪５２５番地",
+      "prefecture": "新潟県長岡市石動町字金輪５２５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001024470",
+      "name": "株式会社サカタ製作所",
+      "address": "新潟県長岡市与板町本与板４５番地",
+      "prefecture": "新潟県長岡市与板町本与板４５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001024561",
+      "name": "株式会社原信",
+      "address": "新潟県長岡市中之島１９９３番地１７",
+      "prefecture": "新潟県長岡市中之島１９９３番地１７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001025089",
+      "name": "株式会社三本テキスタイル",
+      "address": "新潟県見附市本町４丁目４番２９号",
+      "prefecture": "新潟県見附市本町４丁目４番２９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001030130",
+      "name": "株式会社アイウィル",
+      "address": "新潟県加茂市旭町１番１３号",
+      "prefecture": "新潟県加茂市旭町１番１３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110001034379",
+      "name": "ちいきてらす株式会社",
+      "address": "新潟県新潟市中央区西堀通５番町８５５番地５",
+      "prefecture": "新潟県新潟市中央区西堀通５番町８５５番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110005000443",
+      "name": "新潟県生活協同組合連合会",
+      "address": "新潟県新潟市中央区新光町６番地６",
+      "prefecture": "新潟県新潟市中央区新光町６番地６",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2014-05-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110005001482",
+      "name": "特定非営利活動法人新潟県高度情報社会生活支援センター",
+      "address": "新潟県新潟市中央区堀之内南３丁目１番２１号北陽ビル",
+      "prefecture": "新潟県新潟市中央区堀之内南３丁目１番２１号北陽ビル",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110005005905",
+      "name": "社会福祉法人しただ",
+      "address": "新潟県三条市庭月６３０番地４",
+      "prefecture": "新潟県三条市庭月６３０番地４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110005006606",
+      "name": "公益財団法人新潟市開発公社",
+      "address": "新潟県新潟市中央区白山浦１丁目６１３番地６９",
+      "prefecture": "新潟県新潟市中央区白山浦１丁目６１３番地６９",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110005012777",
+      "name": "社会福祉法人小千谷北魚沼福祉会",
+      "address": "新潟県小千谷市大字小粟田２７３２番地７",
+      "prefecture": "新潟県小千谷市大字小粟田２７３２番地７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4110005014996",
+      "name": "社会福祉法人新潟さくら会",
+      "address": "新潟県新潟市西区寺尾前通２丁目３番地６",
+      "prefecture": "新潟県新潟市西区寺尾前通２丁目３番地６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001000157",
+      "name": "青木環境事業株式会社",
+      "address": "新潟県新潟市北区島見町３２６８番地１５",
+      "prefecture": "新潟県新潟市北区島見町３２６８番地１５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001001304",
+      "name": "一正蒲鉾株式会社",
+      "address": "新潟県新潟市東区津島屋７丁目７７番地",
+      "prefecture": "新潟県新潟市東区津島屋７丁目７７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001003127",
+      "name": "株式会社タケショー",
+      "address": "新潟県新潟市北区西名目所５５０３番地１",
+      "prefecture": "新潟県新潟市北区西名目所５５０３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001004348",
+      "name": "株式会社ナカノアイシステム",
+      "address": "新潟県新潟市中央区鳥屋野４３２番地",
+      "prefecture": "新潟県新潟市中央区鳥屋野４３２番地",
+      "certification": [
+        {
+          "certification_name": "国土地理院長表彰（優良業務）",
+          "certified_date": "2023-07-19"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001004397",
+      "name": "株式会社ナルサワコンサルタント",
+      "address": "新潟県新潟市中央区網川原１丁目２１番１１号",
+      "prefecture": "新潟県新潟市中央区網川原１丁目２１番１１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和３年度北陸農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-02-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001004884",
+      "name": "福田道路株式会社",
+      "address": "新潟県新潟市中央区川岸町１丁目５３番地１",
+      "prefecture": "新潟県新潟市中央区川岸町１丁目５３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "特別優秀工事・特別優秀工事技術者顕彰者",
+          "certified_date": "2023-06-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001007490",
+      "name": "新潟電子工業株式会社",
+      "address": "新潟県新潟市南区上八枚１３１０番地",
+      "prefecture": "新潟県新潟市南区上八枚１３１０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001007854",
+      "name": "株式会社ピーアールシー",
+      "address": "新潟県新潟市北区木崎７７８番地４３",
+      "prefecture": "新潟県新潟市北区木崎７７８番地４３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001008200",
+      "name": "株式会社吉田建設",
+      "address": "新潟県新潟市西蒲区赤鏥１３０７番地１",
+      "prefecture": "新潟県新潟市西蒲区赤鏥１３０７番地１",
+      "certification": [
+        {
+          "certification_name": "令和４年度北陸農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2022-12-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001013984",
+      "name": "アネックスツール株式会社",
+      "address": "新潟県三条市塚野目２２０１番地",
+      "prefecture": "新潟県三条市塚野目２２０１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001014116",
+      "name": "株式会社コロナ",
+      "address": "新潟県三条市東新保７番７号",
+      "prefecture": "新潟県三条市東新保７番７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001014396",
+      "name": "株式会社タツミ",
+      "address": "新潟県見附市今町８丁目２番２号",
+      "prefecture": "新潟県見附市今町８丁目２番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001014561",
+      "name": "株式会社野崎忠五郎商店",
+      "address": "新潟県三条市塚野目２１４９番地",
+      "prefecture": "新潟県三条市塚野目２１４９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001014966",
+      "name": "株式会社諏訪田製作所",
+      "address": "新潟県三条市高安寺１３３２番地",
+      "prefecture": "新潟県三条市高安寺１３３２番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001015519",
+      "name": "株式会社曙産業",
+      "address": "新潟県燕市南１丁目２番１１号",
+      "prefecture": "新潟県燕市南１丁目２番１１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001015816",
+      "name": "原田乳業株式会社",
+      "address": "新潟県燕市道金３０４０番地",
+      "prefecture": "新潟県燕市道金３０４０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001022754",
+      "name": "株式会社大光銀行",
+      "address": "新潟県長岡市大手通１丁目５番地６",
+      "prefecture": "新潟県長岡市大手通１丁目５番地６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001022911",
+      "name": "テラノ精工株式会社",
+      "address": "新潟県長岡市三島新保４２０番地",
+      "prefecture": "新潟県長岡市三島新保４２０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001025286",
+      "name": "阿部幸製菓株式会社",
+      "address": "新潟県小千谷市上ノ山４丁目８番１６号",
+      "prefecture": "新潟県小千谷市上ノ山４丁目８番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110001035112",
+      "name": "グローカルマーケティング株式会社",
+      "address": "新潟県長岡市城内町３丁目２番地１山嘉ビル３Ｆ",
+      "prefecture": "新潟県長岡市城内町３丁目２番地１山嘉ビル３Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110005013171",
+      "name": "社会福祉法人南魚沼福祉会",
+      "address": "新潟県南魚沼市五郎丸５番地１",
+      "prefecture": "新潟県南魚沼市五郎丸５番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5110005016777",
+      "name": "社会保険労務士法人あおぞら社労士事務所",
+      "address": "新潟県新潟市西蒲区巻甲４１６２番地３第２星武ビル２Ｆ",
+      "prefecture": "新潟県新潟市西蒲区巻甲４１６２番地３第２星武ビル２Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6000020152170",
+      "name": "妙高市",
+      "address": "新潟県妙高市栄町５－１",
+      "prefecture": "新潟県妙高市栄町５－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001000239",
+      "name": "株式会社アクアシガータ",
+      "address": "新潟県新潟市西区寺尾１０番２号",
+      "prefecture": "新潟県新潟市西区寺尾１０番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001001105",
+      "name": "愛宕商事株式会社",
+      "address": "新潟県新潟市中央区東堀通１番町４９４番地３",
+      "prefecture": "新潟県新潟市中央区東堀通１番町４９４番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001002383",
+      "name": "株式会社シアンス",
+      "address": "新潟県新潟市中央区万代２丁目３番１６号",
+      "prefecture": "新潟県新潟市中央区万代２丁目３番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001003902",
+      "name": "株式会社新潟食品運輸",
+      "address": "新潟県新潟市江南区茗荷谷６７９番地５",
+      "prefecture": "新潟県新潟市江南区茗荷谷６７９番地５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001007944",
+      "name": "株式会社イエスト",
+      "address": "新潟県新潟市西蒲区津雲田７１１番地",
+      "prefecture": "新潟県新潟市西蒲区津雲田７１１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001008158",
+      "name": "株式会社北越ケーズ",
+      "address": "新潟県新潟市中央区美咲町１丁目９番２５号",
+      "prefecture": "新潟県新潟市中央区美咲町１丁目９番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001011888",
+      "name": "株式会社ミツヒデ",
+      "address": "新潟県五泉市青橋甲５４８番",
+      "prefecture": "新潟県五泉市青橋甲５４８番",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001014271",
+      "name": "下村工業株式会社",
+      "address": "新潟県三条市西大崎１丁目１６番２号",
+      "prefecture": "新潟県三条市西大崎１丁目１６番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001015393",
+      "name": "株式会社羽生田製作所",
+      "address": "新潟県南蒲原郡田上町大字羽生田１３０番地",
+      "prefecture": "新潟県南蒲原郡田上町大字羽生田１３０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001015609",
+      "name": "川崎自動車株式会社",
+      "address": "新潟県燕市大曲字居付２４４３番地",
+      "prefecture": "新潟県燕市大曲字居付２４４３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001017563",
+      "name": "株式会社ブルボン",
+      "address": "新潟県柏崎市駅前１丁目３番１号",
+      "prefecture": "新潟県柏崎市駅前１丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001020047",
+      "name": "株式会社トクサス",
+      "address": "新潟県上越市平成町６０７番地２",
+      "prefecture": "新潟県上越市平成町６０７番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001023082",
+      "name": "株式会社新潟県厚生事業協同公社",
+      "address": "新潟県長岡市北陽３丁目１番地１",
+      "prefecture": "新潟県長岡市北陽３丁目１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001023982",
+      "name": "株式会社エム・エスオフィス",
+      "address": "新潟県長岡市坂之上町２丁目５番地１",
+      "prefecture": "新潟県長岡市坂之上町２丁目５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110001026911",
+      "name": "シンコー株式会社",
+      "address": "新潟県魚沼市田戸６１番地１",
+      "prefecture": "新潟県魚沼市田戸６１番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110005004566",
+      "name": "社会福祉法人二王子会",
+      "address": "新潟県新発田市上館５２０番地１",
+      "prefecture": "新潟県新発田市上館５２０番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110005011133",
+      "name": "長岡信用金庫",
+      "address": "新潟県長岡市大手通２丁目４番地７",
+      "prefecture": "新潟県長岡市大手通２丁目４番地７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6110005012560",
+      "name": "社会福祉法人見附福祉会",
+      "address": "新潟県見附市学校町２丁目１３番３１号",
+      "prefecture": "新潟県見附市学校町２丁目１３番３１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020152129",
+      "name": "村上市",
+      "address": "新潟県村上市三之町１－１",
+      "prefecture": "新潟県村上市三之町１－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020152269",
+      "name": "南魚沼市",
+      "address": "新潟県南魚沼市六日町１８０－１",
+      "prefecture": "新潟県南魚沼市六日町１８０－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001000007",
+      "name": "株式会社第四北越銀行",
+      "address": "新潟県新潟市中央区東堀前通７番町１０７１番地１",
+      "prefecture": "新潟県新潟市中央区東堀前通７番町１０７１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001001806",
+      "name": "株式会社栗山米菓",
+      "address": "新潟県新潟市北区新崎２６６１番地",
+      "prefecture": "新潟県新潟市北区新崎２６６１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001004998",
+      "name": "北陸電々株式会社",
+      "address": "新潟県新潟市中央区大島３番地１",
+      "prefecture": "新潟県新潟市中央区大島３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001005113",
+      "name": "星野電気株式会社",
+      "address": "新潟県新潟市中央区紫竹山３丁目２番７号",
+      "prefecture": "新潟県新潟市中央区紫竹山３丁目２番７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001007027",
+      "name": "三幸製菓株式会社",
+      "address": "新潟県新潟市北区新崎１丁目１３番３４号",
+      "prefecture": "新潟県新潟市北区新崎１丁目１３番３４号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001007118",
+      "name": "北本建設株式会社",
+      "address": "新潟県新潟市秋葉区中沢町１０番４２号",
+      "prefecture": "新潟県新潟市秋葉区中沢町１０番４２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001010055",
+      "name": "万代にぎわい創造株式会社",
+      "address": "新潟県新潟市中央区竜が島１丁目４番４号",
+      "prefecture": "新潟県新潟市中央区竜が島１丁目４番４号",
+      "certification": [
+        {
+          "certification_name": "令和３年度地産地消等優良活動表彰",
+          "certified_date": "2022-03-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001012670",
+      "name": "昭栄印刷株式会社",
+      "address": "新潟県新発田市住田９７番地",
+      "prefecture": "新潟県新発田市住田９７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001013792",
+      "name": "オフィスＨａｎａｋｏ株式会社",
+      "address": "新潟県新潟市中央区姥ケ山１６３７番地",
+      "prefecture": "新潟県新潟市中央区姥ケ山１６３７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001014568",
+      "name": "株式会社ハイサーブウエノ",
+      "address": "新潟県三条市福島新田丙２４０６番地",
+      "prefecture": "新潟県三条市福島新田丙２４０６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001016151",
+      "name": "株式会社中野科学",
+      "address": "新潟県燕市小池５１８１番地３",
+      "prefecture": "新潟県燕市小池５１８１番地３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001019286",
+      "name": "株式会社ナルス",
+      "address": "新潟県上越市大字石沢字外新田１４２３番地１",
+      "prefecture": "新潟県上越市大字石沢字外新田１４２３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001020137",
+      "name": "新潟太陽誘電株式会社",
+      "address": "新潟県上越市頸城区上吉１９７番地８",
+      "prefecture": "新潟県上越市頸城区上吉１９７番地８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001020285",
+      "name": "妙高測量株式会社",
+      "address": "新潟県妙高市東陽町２番８号",
+      "prefecture": "新潟県妙高市東陽町２番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001021572",
+      "name": "株式会社カネタ建設",
+      "address": "新潟県糸魚川市中央２丁目４番２号",
+      "prefecture": "新潟県糸魚川市中央２丁目４番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001022249",
+      "name": "株式会社大菱計器製作所",
+      "address": "新潟県長岡市南陽１丁目１２１６番地１",
+      "prefecture": "新潟県長岡市南陽１丁目１２１６番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001023899",
+      "name": "株式会社安全給食サービス",
+      "address": "新潟県長岡市花園南１丁目６９番地",
+      "prefecture": "新潟県長岡市花園南１丁目６９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001026605",
+      "name": "株式会社いせん",
+      "address": "新潟県南魚沼郡湯沢町大字湯沢２４５５番地",
+      "prefecture": "新潟県南魚沼郡湯沢町大字湯沢２４５５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001027479",
+      "name": "伊藤建設株式会社",
+      "address": "新潟県佐渡市長木６７５番地",
+      "prefecture": "新潟県佐渡市長木６７５番地",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110001030895",
+      "name": "株式会社Ｊ－ＣＯＬＯＲ",
+      "address": "新潟県長岡市千秋１丁目１７０７番地８",
+      "prefecture": "新潟県長岡市千秋１丁目１７０７番地８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110005000845",
+      "name": "社会福祉法人常陽会",
+      "address": "新潟県新潟市江南区三百地２３１２番地３",
+      "prefecture": "新潟県新潟市江南区三百地２３１２番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110005006165",
+      "name": "社会福祉法人桜井の里福祉会",
+      "address": "新潟県西蒲原郡弥彦村大字麓３０３６番地",
+      "prefecture": "新潟県西蒲原郡弥彦村大字麓３０３６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110005006322",
+      "name": "社会福祉法人吉田福祉会",
+      "address": "新潟県燕市吉田大保町２５番１５号",
+      "prefecture": "新潟県燕市吉田大保町２５番１５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7110005012080",
+      "name": "国立大学法人長岡技術科学大学",
+      "address": "新潟県長岡市上富岡町１６０３番地１",
+      "prefecture": "新潟県長岡市上富岡町１６０３番地１",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020159123",
+      "name": "新発田地域広域事務組合",
+      "address": "新潟県新発田市中央町５丁目４番７号",
+      "prefecture": "新潟県新発田市中央町５丁目４番７号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001002968",
+      "name": "株式会社大建建設",
+      "address": "新潟県新潟市東区浜谷町１丁目２番６号",
+      "prefecture": "新潟県新潟市東区浜谷町１丁目２番６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001004394",
+      "name": "ナミックス株式会社",
+      "address": "新潟県新潟市北区濁川３９９３番地",
+      "prefecture": "新潟県新潟市北区濁川３９９３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001004584",
+      "name": "株式会社博進堂",
+      "address": "新潟県新潟市東区木工新町３７８番地２",
+      "prefecture": "新潟県新潟市東区木工新町３７８番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001007521",
+      "name": "ダイニチ工業株式会社",
+      "address": "新潟県新潟市南区北田中７８０番地６",
+      "prefecture": "新潟県新潟市南区北田中７８０番地６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001008197",
+      "name": "株式会社水倉組",
+      "address": "新潟県新潟市西蒲区巻甲５４８０番地",
+      "prefecture": "新潟県新潟市西蒲区巻甲５４８０番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度北陸農政局農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2024-01-25"
+        },
+        {
+          "certification_name": "令和３年度北陸農政局所管農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2022-02-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001014212",
+      "name": "サンキープ株式会社",
+      "address": "新潟県三条市東光寺３６８９番地１",
+      "prefecture": "新潟県三条市東光寺３６８９番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001015160",
+      "name": "小柳建設株式会社",
+      "address": "新潟県三条市荒町２丁目２４番２号",
+      "prefecture": "新潟県三条市荒町２丁目２４番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "令和５年度北陸農政局農業農村整備事業等優良工事等の表彰",
+          "certified_date": "2024-01-25"
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001016621",
+      "name": "株式会社大倉製作所",
+      "address": "新潟県燕市大川津３４３０番地３２１",
+      "prefecture": "新潟県燕市大川津３４３０番地３２１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001016638",
+      "name": "株式会社悠心",
+      "address": "新潟県三条市柳川新田９６４番地",
+      "prefecture": "新潟県三条市柳川新田９６４番地",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2021-04-16"
+        },
+        {
+          "certification_name": "工業標準化事業表彰",
+          "certified_date": "2017-10-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001017149",
+      "name": "株式会社植木組",
+      "address": "新潟県柏崎市駅前１丁目５番４５号",
+      "prefecture": "新潟県柏崎市駅前１丁目５番４５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001019021",
+      "name": "株式会社サトウ産業",
+      "address": "新潟県上越市大字上名柄３４０番地１",
+      "prefecture": "新潟県上越市大字上名柄３４０番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001020292",
+      "name": "株式会社丸尚",
+      "address": "新潟県妙高市東陽町４番７号",
+      "prefecture": "新潟県妙高市東陽町４番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001022181",
+      "name": "株式会社越後交通鉄工所",
+      "address": "新潟県長岡市千秋２丁目２７８８番地１",
+      "prefecture": "新潟県長岡市千秋２丁目２７８８番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001022198",
+      "name": "株式会社ＮＳ・コンピュータサービス",
+      "address": "新潟県長岡市金房３丁目３番２号",
+      "prefecture": "新潟県長岡市金房３丁目３番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001022388",
+      "name": "株式会社北澤工業",
+      "address": "新潟県長岡市北陽２丁目１４番地３１",
+      "prefecture": "新潟県長岡市北陽２丁目１４番地３１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001023535",
+      "name": "三越タクシー株式会社",
+      "address": "新潟県長岡市柏町１丁目１番７号",
+      "prefecture": "新潟県長岡市柏町１丁目１番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001023915",
+      "name": "株式会社マイステルジャパン",
+      "address": "新潟県長岡市南七日町２番地６",
+      "prefecture": "新潟県長岡市南七日町２番地６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001024517",
+      "name": "寺泊産業株式会社",
+      "address": "新潟県長岡市寺泊上田町９７６９番地６１",
+      "prefecture": "新潟県長岡市寺泊上田町９７６９番地６１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001025226",
+      "name": "株式会社トラス・テック",
+      "address": "新潟県見附市本所１丁目１９番６号",
+      "prefecture": "新潟県見附市本所１丁目１９番６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110001026827",
+      "name": "株式会社ゆのたに荘",
+      "address": "新潟県魚沼市下折立２４５番地",
+      "prefecture": "新潟県魚沼市下折立２４５番地",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110005000423",
+      "name": "新潟県農業協同組合中央会",
+      "address": "新潟県新潟市中央区東中通１番町１８９番地３",
+      "prefecture": "新潟県新潟市中央区東中通１番町１８９番地３",
+      "certification": [
+        {
+          "certification_name": "第３回北陸農政局食育活動表彰",
+          "certified_date": "2024-05-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110005000621",
+      "name": "医療法人恵生会",
+      "address": "新潟県新潟市北区島見町４５４０番地",
+      "prefecture": "新潟県新潟市北区島見町４５４０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110005001512",
+      "name": "特定非営利活動法人まちづくり学校",
+      "address": "新潟県新潟市西区青山５丁目８番２２号",
+      "prefecture": "新潟県新潟市西区青山５丁目８番２２号",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2013-06-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110005002287",
+      "name": "医療法人愛広会",
+      "address": "新潟県新潟市北区木崎７６１番地",
+      "prefecture": "新潟県新潟市北区木崎７６１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110005002980",
+      "name": "特定非営利活動法人新潟県消費者協会",
+      "address": "新潟県新潟市中央区上所２丁目２番２号",
+      "prefecture": "新潟県新潟市中央区上所２丁目２番２号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2019-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110005005455",
+      "name": "社会福祉法人　真心福祉会",
+      "address": "新潟県北蒲原郡聖籠町大字次第浜５３１０番地",
+      "prefecture": "新潟県北蒲原郡聖籠町大字次第浜５３１０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110005006742",
+      "name": "柏崎信用金庫",
+      "address": "新潟県柏崎市東本町１丁目２番１６号",
+      "prefecture": "新潟県柏崎市東本町１丁目２番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8110005012278",
+      "name": "社会福祉法人刈谷田福祉会",
+      "address": "新潟県長岡市栃尾泉４１９番地２",
+      "prefecture": "新潟県長岡市栃尾泉４１９番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020152226",
+      "name": "上越市",
+      "address": "新潟県上越市木田１丁目１番３号",
+      "prefecture": "新潟県上越市木田１丁目１番３号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9000020153851",
+      "name": "阿賀町",
+      "address": "新潟県東蒲原郡阿賀町津川５８０",
+      "prefecture": "新潟県東蒲原郡阿賀町津川５８０",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001000260",
+      "name": "昱工業株式会社",
+      "address": "新潟県新潟市西区流通センター２丁目２番地３",
+      "prefecture": "新潟県新潟市西区流通センター２丁目２番地３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001000293",
+      "name": "旭カーボン株式会社",
+      "address": "新潟県新潟市東区鴎島町２番地",
+      "prefecture": "新潟県新潟市東区鴎島町２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001001366",
+      "name": "株式会社ウイング",
+      "address": "新潟県新潟市中央区米山２丁目４－１",
+      "prefecture": "新潟県新潟市中央区米山２丁目４－１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001001977",
+      "name": "コスモ建設株式会社",
+      "address": "新潟県新潟市中央区神道寺２丁目２番２５号",
+      "prefecture": "新潟県新潟市中央区神道寺２丁目２番２５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001002050",
+      "name": "株式会社コメリ",
+      "address": "新潟県新潟市南区清水４５０１番地１",
+      "prefecture": "新潟県新潟市南区清水４５０１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001004880",
+      "name": "株式会社福田組",
+      "address": "新潟県新潟市中央区一番堀通町３番地１０",
+      "prefecture": "新潟県新潟市中央区一番堀通町３番地１０",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "東北防衛局優秀工事顕彰",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001006761",
+      "name": "株式会社ニイガタマシンテクノ",
+      "address": "新潟県新潟市東区岡山１３００番地",
+      "prefecture": "新潟県新潟市東区岡山１３００番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001009491",
+      "name": "株式会社ネクスコ・エンジニアリング新潟",
+      "address": "新潟県新潟市中央区米山５丁目１番３５号",
+      "prefecture": "新潟県新潟市中央区米山５丁目１番３５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001012818",
+      "name": "グローバルウェーハズ・ジャパン株式会社",
+      "address": "新潟県北蒲原郡聖籠町東港６丁目８６１番地５",
+      "prefecture": "新潟県北蒲原郡聖籠町東港６丁目８６１番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001013510",
+      "name": "株式会社松浦製作所",
+      "address": "新潟県新発田市荒川２４６５番地",
+      "prefecture": "新潟県新発田市荒川２４６５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001014401",
+      "name": "株式会社田中衡機工業所",
+      "address": "新潟県三条市福島新田丙２３１８番地１",
+      "prefecture": "新潟県三条市福島新田丙２３１８番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001014483",
+      "name": "中村精工株式会社",
+      "address": "新潟県三条市中新３２番２６号",
+      "prefecture": "新潟県三条市中新３２番２６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001016109",
+      "name": "株式会社東陽理化学研究所",
+      "address": "新潟県燕市杣木１９６１番地",
+      "prefecture": "新潟県燕市杣木１９６１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001016174",
+      "name": "吉田金属工業株式会社",
+      "address": "新潟県燕市吉田西太田２０７８番地３",
+      "prefecture": "新潟県燕市吉田西太田２０７８番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001017230",
+      "name": "株式会社カシックス",
+      "address": "新潟県柏崎市駅前１丁目５番４８号",
+      "prefecture": "新潟県柏崎市駅前１丁目５番４８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001019318",
+      "name": "日鉄工材株式会社",
+      "address": "新潟県上越市川原町１０番２９号",
+      "prefecture": "新潟県上越市川原町１０番２９号",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "安全衛生優良企業公表制度－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001019540",
+      "name": "直江津電子工業株式会社",
+      "address": "新潟県上越市頸城区城野腰５９６番地の２",
+      "prefecture": "新潟県上越市頸城区城野腰５９６番地の２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001022461",
+      "name": "株式会社小林",
+      "address": "新潟県長岡市宮下町４２０番地５",
+      "prefecture": "新潟県長岡市宮下町４２０番地５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001023039",
+      "name": "長岡タクシー株式会社",
+      "address": "新潟県長岡市西千手１丁目１番７号",
+      "prefecture": "新潟県長岡市西千手１丁目１番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001024953",
+      "name": "三行合成樹脂株式会社",
+      "address": "新潟県見附市坂井町１丁目６番５号",
+      "prefecture": "新潟県見附市坂井町１丁目６番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001025415",
+      "name": "株式会社たかの",
+      "address": "新潟県小千谷市大字千谷甲２８３７番地１",
+      "prefecture": "新潟県小千谷市大字千谷甲２８３７番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110001034746",
+      "name": "株式会社ＴＲＥＥ",
+      "address": "新潟県三条市仲之町２番１５号",
+      "prefecture": "新潟県三条市仲之町２番１５号",
+      "certification": [
+        {
+          "certification_name": "地域づくり表彰",
+          "certified_date": "2023-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110002023244",
+      "name": "株式会社新潟アパタイト",
+      "address": "新潟県上越市大字上千原３１７番地",
+      "prefecture": "新潟県上越市大字上千原３１７番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者雇用開発コンテスト",
+          "certified_date": "2020-10-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110005000785",
+      "name": "学校法人新潟総合学院",
+      "address": "新潟県新潟市中央区紫竹山６丁目３番５号",
+      "prefecture": "新潟県新潟市中央区紫竹山６丁目３番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110005002022",
+      "name": "医療法人社団晴和会",
+      "address": "新潟県新潟市西区黒鳥２３３９番地１",
+      "prefecture": "新潟県新潟市西区黒鳥２３３９番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110005006155",
+      "name": "協栄信用組合",
+      "address": "新潟県燕市東太田６９８４番地",
+      "prefecture": "新潟県燕市東太田６９８４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9110005015949",
+      "name": "一般社団法人高根コミュニティラボわぁら",
+      "address": "新潟県村上市高根６７９番地１",
+      "prefecture": "新潟県村上市高根６７９番地１",
+      "certification": [
+        {
+          "certification_name": "地域づくり表彰",
+          "certified_date": "2020-11-19"
+        }
+      ]
+    }
+  ]
+}

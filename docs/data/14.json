@@ -1,0 +1,4260 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020140007",
+      "name": "神奈川県",
+      "address": "神奈川県横浜市中区日本大通１",
+      "prefecture": "神奈川県横浜市中区日本大通１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1010001004477",
+      "name": "大建不動産株式会社",
+      "address": "神奈川県横浜市中区南仲通３丁目３２番地１",
+      "prefecture": "神奈川県横浜市中区南仲通３丁目３２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1010401006049",
+      "name": "オイレス工業株式会社",
+      "address": "神奈川県藤沢市桐原町８番地",
+      "prefecture": "神奈川県藤沢市桐原町８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1010701014775",
+      "name": "株式会社アート",
+      "address": "神奈川県川崎市中原区市ノ坪３２２番地７",
+      "prefecture": "神奈川県川崎市中原区市ノ坪３２２番地７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1012401024856",
+      "name": "株式会社グリーンメッセージ",
+      "address": "神奈川県大和市下鶴間２４１５",
+      "prefecture": "神奈川県大和市下鶴間２４１５",
+      "certification": [
+        {
+          "certification_name": "第６回食品産業もったいない大賞",
+          "certified_date": "2019-01-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001002083",
+      "name": "株式会社ＤＮＰファインケミカル",
+      "address": "神奈川県横浜市緑区青砥町４５０番地",
+      "prefecture": "神奈川県横浜市緑区青砥町４５０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001005862",
+      "name": "株式会社アルファ",
+      "address": "神奈川県横浜市金沢区福浦１丁目６番８号",
+      "prefecture": "神奈川県横浜市金沢区福浦１丁目６番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001010441",
+      "name": "ハーベスト株式会社",
+      "address": "神奈川県横浜市保土ケ谷区岩間町２丁目１２０番地",
+      "prefecture": "神奈川県横浜市保土ケ谷区岩間町２丁目１２０番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001015606",
+      "name": "株式会社ＣＩＪ",
+      "address": "神奈川県横浜市西区高島１丁目２番５号",
+      "prefecture": "神奈川県横浜市西区高島１丁目２番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001015795",
+      "name": "株式会社浜銀総合研究所",
+      "address": "神奈川県横浜市西区みなとみらい３丁目１番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい３丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001022841",
+      "name": "株式会社キャッツ",
+      "address": "神奈川県横浜市中区相生町６丁目１０４番地",
+      "prefecture": "神奈川県横浜市中区相生町６丁目１０４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001034622",
+      "name": "ＳＧＳジャパン株式会社",
+      "address": "神奈川県横浜市保土ケ谷区神戸町１３４番地横浜ビジネスパークノーススクエアⅠ",
+      "prefecture": "神奈川県横浜市保土ケ谷区神戸町１３４番地横浜ビジネスパークノーススクエアⅠ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001037724",
+      "name": "エヌ・ティ・ティ・データ・フォース株式会社",
+      "address": "神奈川県横浜市港北区新横浜３丁目７番８号",
+      "prefecture": "神奈川県横浜市港北区新横浜３丁目７番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001049133",
+      "name": "株式会社キッズフォレ",
+      "address": "神奈川県横浜市都筑区中川中央１丁目２１番７号",
+      "prefecture": "神奈川県横浜市都筑区中川中央１丁目２１番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001058167",
+      "name": "キオクシアシステムズ株式会社",
+      "address": "神奈川県横浜市栄区笠間２丁目５－１ＳＴＥビル",
+      "prefecture": "神奈川県横浜市栄区笠間２丁目５－１ＳＴＥビル",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001071491",
+      "name": "富士通株式会社",
+      "address": "神奈川県川崎市中原区上小田中４丁目１番１号",
+      "prefecture": "神奈川県川崎市中原区上小田中４丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "テレワーク推進企業等厚生労働大臣表彰－表彰（優秀賞）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（厚生労働省人材開発統括官表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "テレワーク推進企業等厚生労働大臣表彰（輝くテレワーク賞）",
+          "certified_date": "2021-11-30"
+        },
+        {
+          "certification_name": "産業標準化事業表彰",
+          "certified_date": "2019-10-08"
+        },
+        {
+          "certification_name": "環境人づくり企業大賞２０１８",
+          "certified_date": "2019-05-27"
+        },
+        {
+          "certification_name": "攻めのＩＴ経営銘柄",
+          "certified_date": "2019-04-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001076805",
+      "name": "株式会社落合マネジメント・オフィス",
+      "address": "神奈川県川崎市中原区新丸子東２丁目９２５番地東横小杉ビルディング３０５号室",
+      "prefecture": "神奈川県川崎市中原区新丸子東２丁目９２５番地東横小杉ビルディング３０５号室",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020001136162",
+      "name": "株式会社ツクイ",
+      "address": "神奈川県横浜市港南区上大岡西１丁目６番１号",
+      "prefecture": "神奈川県横浜市港南区上大岡西１丁目６番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020003015629",
+      "name": "アライン・テクノロジー・ジャパン・トリート合同会社",
+      "address": "神奈川県横浜市西区みなとみらい３丁目７番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい３丁目７番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020005001593",
+      "name": "医療法人新光会（社団）",
+      "address": "神奈川県川崎市麻生区万福寺１丁目１番１号新百合ヶ丘シティビルディング４階４０２号",
+      "prefecture": "神奈川県川崎市麻生区万福寺１丁目１番１号新百合ヶ丘シティビルディング４階４０２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020005003409",
+      "name": "生活クラブ生活協同組合",
+      "address": "神奈川県横浜市港北区新横浜２丁目８番４",
+      "prefecture": "神奈川県横浜市港北区新横浜２丁目８番４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020005004051",
+      "name": "国立研究開発法人水産研究・教育機構",
+      "address": "神奈川県横浜市神奈川区新浦島町１丁目１番地２５",
+      "prefecture": "神奈川県横浜市神奈川区新浦島町１丁目１番地２５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020005005090",
+      "name": "独立行政法人都市再生機構",
+      "address": "神奈川県横浜市中区本町６丁目５０番地１",
+      "prefecture": "神奈川県横浜市中区本町６丁目５０番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020005006460",
+      "name": "特定非営利活動法人ＪＵＮＫＯ　Ａｓｓｏｃｉａｔｉｏｎ",
+      "address": "神奈川県横浜市西区北幸１丁目１１－１水信ビル７階",
+      "prefecture": "神奈川県横浜市西区北幸１丁目１１－１水信ビル７階",
+      "certification": [
+        {
+          "certification_name": "外務大臣表彰",
+          "certified_date": "2020-12-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1020005008003",
+      "name": "セレサ川崎農業協同組合",
+      "address": "神奈川県川崎市宮前区宮崎２丁目１３番地３８",
+      "prefecture": "神奈川県川崎市宮前区宮崎２丁目１３番地３８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1021001013970",
+      "name": "株式会社松尾商行",
+      "address": "神奈川県相模原市中央区千代田２丁目１０番１７号",
+      "prefecture": "神奈川県相模原市中央区千代田２丁目１０番１７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1021001014498",
+      "name": "株式会社エフ・トレード",
+      "address": "神奈川県横浜市港北区新横浜３丁目１３番６号新横浜葉山第３ビル６階",
+      "prefecture": "神奈川県横浜市港北区新横浜３丁目１３番６号新横浜葉山第３ビル６階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1021001019662",
+      "name": "株式会社クエリー",
+      "address": "神奈川県横浜市西区みなとみらい４丁目６番２号みなとみらいグランドセントラルタワー４階",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目６番２号みなとみらいグランドセントラルタワー４階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1021001022880",
+      "name": "株式会社ＹＤＫテクノロジーズ",
+      "address": "神奈川県秦野市曽屋５００番地",
+      "prefecture": "神奈川県秦野市曽屋５００番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1021001027351",
+      "name": "斎藤樹脂工業株式会社",
+      "address": "神奈川県綾瀬市吉岡５０７番地３",
+      "prefecture": "神奈川県綾瀬市吉岡５０７番地３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1021001061185",
+      "name": "ｉｎａｈｏ株式会社",
+      "address": "神奈川県藤沢市鵠沼海岸５丁目８番２３号",
+      "prefecture": "神奈川県藤沢市鵠沼海岸５丁目８番２３号",
+      "certification": [
+        {
+          "certification_name": "第９回ロボット大賞",
+          "certified_date": "2020-03-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1021005011806",
+      "name": "特定非営利活動法人報徳食品支援センター",
+      "address": "神奈川県小田原市西大友１３６番地の１",
+      "prefecture": "神奈川県小田原市西大友１３６番地の１",
+      "certification": [
+        {
+          "certification_name": "令和４年度食品ロス削減推進表彰",
+          "certified_date": "2022-10-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2000020142051",
+      "name": "藤沢市",
+      "address": "神奈川県藤沢市朝日町１－１",
+      "prefecture": "神奈川県藤沢市朝日町１－１",
+      "certification": [
+        {
+          "certification_name": "第一回「Ｓｐｏｒｔ　ｉｎ　Ｌｉｆｅアワード」",
+          "certified_date": "2022-03-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2010001246985",
+      "name": "富士ソフト株式会社",
+      "address": "神奈川県横浜市中区桜木町１丁目１番地",
+      "prefecture": "神奈川県横浜市中区桜木町１丁目１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2010401019256",
+      "name": "東芝インフォメーションシステムズ株式会社",
+      "address": "神奈川県川崎市幸区堀川町７２番地３４",
+      "prefecture": "神奈川県川崎市幸区堀川町７２番地３４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2010401044997",
+      "name": "株式会社東芝",
+      "address": "神奈川県川崎市幸区堀川町７２番地３４",
+      "prefecture": "神奈川県川崎市幸区堀川町７２番地３４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "環境人づくり企業大賞２０１８",
+          "certified_date": "2019-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2010901005953",
+      "name": "キャタピラージャパン合同会社",
+      "address": "神奈川県横浜市西区みなとみらい３丁目７番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい３丁目７番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2013201005401",
+      "name": "ミネベアソフトウェアソリューションズ株式会社",
+      "address": "神奈川県川崎市川崎区東田町８番地",
+      "prefecture": "神奈川県川崎市川崎区東田町８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001006323",
+      "name": "株式会社春峰園",
+      "address": "神奈川県横浜市金沢区釜利谷東８丁目３番２０号",
+      "prefecture": "神奈川県横浜市金沢区釜利谷東８丁目３番２０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001016041",
+      "name": "株式会社マブチ",
+      "address": "神奈川県横浜市中区日本大通１７番地",
+      "prefecture": "神奈川県横浜市中区日本大通１７番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001016727",
+      "name": "ＪＦＥテクノス株式会社",
+      "address": "神奈川県横浜市鶴見区末広町２丁目１番地",
+      "prefecture": "神奈川県横浜市鶴見区末広町２丁目１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001021033",
+      "name": "株式会社トーエル",
+      "address": "神奈川県横浜市港北区高田西１丁目５番２１号",
+      "prefecture": "神奈川県横浜市港北区高田西１丁目５番２１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001021339",
+      "name": "ニッパ株式会社",
+      "address": "神奈川県横浜市港北区新羽町１５０８番地",
+      "prefecture": "神奈川県横浜市港北区新羽町１５０８番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001028235",
+      "name": "株式会社日新アセットマネジメント",
+      "address": "神奈川県横浜市中区尾上町６丁目８１番地",
+      "prefecture": "神奈川県横浜市中区尾上町６丁目８１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001029076",
+      "name": "三本珈琲株式会社",
+      "address": "神奈川県横浜市神奈川区山内町１５番地４",
+      "prefecture": "神奈川県横浜市神奈川区山内町１５番地４",
+      "certification": [
+        {
+          "certification_name": "令和３年度食品ロス削減推進大賞",
+          "certified_date": "2021-02-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001044579",
+      "name": "株式会社ダッドウェイ",
+      "address": "神奈川県横浜市港北区新横浜２丁目１５番地１２",
+      "prefecture": "神奈川県横浜市港北区新横浜２丁目１５番地１２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001046022",
+      "name": "ライオンブリッジジャパン株式会社",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号横浜ランドマークタワー４２階",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号横浜ランドマークタワー４２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001047904",
+      "name": "株式会社ＷＯＷＯＷコミュニケーションズ",
+      "address": "神奈川県横浜市西区みなとみらい４丁目４番５号",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目４番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001056442",
+      "name": "株式会社ＡＱＵＡ",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001057820",
+      "name": "株式会社エスビーティー",
+      "address": "神奈川県横浜市神奈川区金港町２番地６",
+      "prefecture": "神奈川県横浜市神奈川区金港町２番地６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001067118",
+      "name": "みぞのくち新都市株式会社",
+      "address": "神奈川県川崎市高津区溝口１丁目３番１号",
+      "prefecture": "神奈川県川崎市高津区溝口１丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "第１０回グッドライフアワード",
+          "certified_date": "2022-12-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001075021",
+      "name": "株式会社サニクリーン東京",
+      "address": "神奈川県川崎市高津区坂戸３丁目２番１号Ｒ＆ＤビジネスパークビルＤ棟１１階１１４２号室",
+      "prefecture": "神奈川県川崎市高津区坂戸３丁目２番１号Ｒ＆ＤビジネスパークビルＤ棟１１階１１４２号室",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001077174",
+      "name": "株式会社ファルテック",
+      "address": "神奈川県川崎市幸区堀川町５８０番地",
+      "prefecture": "神奈川県川崎市幸区堀川町５８０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001086365",
+      "name": "富士通東邦ネットワークテクノロジー株式会社",
+      "address": "神奈川県横浜市神奈川区金港町３－１",
+      "prefecture": "神奈川県横浜市神奈川区金港町３－１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001086464",
+      "name": "東芝プラントシステム株式会社",
+      "address": "神奈川県川崎市幸区堀川町７２番地３４",
+      "prefecture": "神奈川県川崎市幸区堀川町７２番地３４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001093163",
+      "name": "株式会社総合車両製作所",
+      "address": "神奈川県横浜市金沢区大川３番１号",
+      "prefecture": "神奈川県横浜市金沢区大川３番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020001137936",
+      "name": "ＴＩＳ千代田システムズ株式会社",
+      "address": "神奈川県横浜市西区みなとみらい４丁目４番５号横浜アイマークプレイス",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目４番５号横浜アイマークプレイス",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020003005109",
+      "name": "株式会社ひとはな",
+      "address": "神奈川県横浜市瀬谷区阿久和西３丁目３番４号神谷ビル１階",
+      "prefecture": "神奈川県横浜市瀬谷区阿久和西３丁目３番４号神谷ビル１階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020005001766",
+      "name": "医療法人社団厚済会",
+      "address": "神奈川県横浜市港南区上大岡西１丁目１０番１号",
+      "prefecture": "神奈川県横浜市港南区上大岡西１丁目１０番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020005002203",
+      "name": "社会福祉法人横浜市社会福祉協議会",
+      "address": "神奈川県横浜市中区桜木町１丁目１番地",
+      "prefecture": "神奈川県横浜市中区桜木町１丁目１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020005003622",
+      "name": "横浜信用金庫",
+      "address": "神奈川県横浜市中区尾上町２丁目１６番地１",
+      "prefecture": "神奈川県横浜市中区尾上町２丁目１６番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020005005932",
+      "name": "特定非営利活動法人ユースポート横濱",
+      "address": "神奈川県横浜市中区相生町３丁目６１泰生ビル２階",
+      "prefecture": "神奈川県横浜市中区相生町３丁目６１泰生ビル２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020005006492",
+      "name": "税理士法人横浜総合事務所",
+      "address": "神奈川県横浜市中区山下町２０９番地",
+      "prefecture": "神奈川県横浜市中区山下町２０９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020005008480",
+      "name": "国立研究開発法人新エネルギー・産業技術総合開発機構",
+      "address": "神奈川県川崎市幸区大宮町１３１０番",
+      "prefecture": "神奈川県川崎市幸区大宮町１３１０番",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2020005010255",
+      "name": "公益財団法人横浜市緑の協会",
+      "address": "神奈川県横浜市中区日本大通５８番地",
+      "prefecture": "神奈川県横浜市中区日本大通５８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2021001021865",
+      "name": "アンリツ株式会社",
+      "address": "神奈川県厚木市恩名５丁目１番１号",
+      "prefecture": "神奈川県厚木市恩名５丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2021001036104",
+      "name": "株式会社神奈中商事",
+      "address": "神奈川県平塚市東八幡３丁目１５番３号",
+      "prefecture": "神奈川県平塚市東八幡３丁目１５番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2021005008933",
+      "name": "特定非営利活動法人萩桜会",
+      "address": "神奈川県茅ヶ崎市萩園６７７番地",
+      "prefecture": "神奈川県茅ヶ崎市萩園６７７番地",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2022-05-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3000020142018",
+      "name": "横須賀市",
+      "address": "神奈川県横須賀市小川町１１",
+      "prefecture": "神奈川県横須賀市小川町１１",
+      "certification": [
+        {
+          "certification_name": "体力つくり優秀組織表彰",
+          "certified_date": "2022-02-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3000020142034",
+      "name": "平塚市",
+      "address": "神奈川県平塚市浅間町９－１",
+      "prefecture": "神奈川県平塚市浅間町９－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3010001008732",
+      "name": "日揮ホールディングス株式会社",
+      "address": "神奈川県横浜市西区みなとみらい２丁目３番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3010001244022",
+      "name": "日本ケンタッキー・フライド・チキン株式会社",
+      "address": "神奈川県横浜市西区みなとみらい４丁目４番５号",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目４番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3010401057619",
+      "name": "株式会社富士通パーソナルズ",
+      "address": "神奈川県川崎市中原区上小田中４丁目１番１号",
+      "prefecture": "神奈川県川崎市中原区上小田中４丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3010701010715",
+      "name": "パーソルコミュニケーションサービス株式会社",
+      "address": "神奈川県横浜市西区みなとみらい４丁目４番５号",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目４番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001000366",
+      "name": "株式会社ファンケル",
+      "address": "神奈川県横浜市中区山下町８９番地１",
+      "prefecture": "神奈川県横浜市中区山下町８９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "無期転換制度（Ａ：無期労働契約への転換、Ｂ：限定正社員（多様な正社員）への転換、Ｃ：正社員（無限定正社員）への転換）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者志向経営優良事例表彰",
+          "certified_date": "2023-02-28"
+        },
+        {
+          "certification_name": "環境人づくり企業大賞２０１８",
+          "certified_date": "2019-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001007428",
+      "name": "三宝精機工業株式会社",
+      "address": "神奈川県横浜市戸塚区舞岡町３５３番地",
+      "prefecture": "神奈川県横浜市戸塚区舞岡町３５３番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001007527",
+      "name": "株式会社横浜リテラ",
+      "address": "神奈川県横浜市戸塚区上矢部町２０３９番地の２",
+      "prefecture": "神奈川県横浜市戸塚区上矢部町２０３９番地の２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001018029",
+      "name": "千代田化工建設株式会社",
+      "address": "神奈川県横浜市西区みなとみらい４丁目６番２号",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目６番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001025108",
+      "name": "株式会社アクトエンジニアリング",
+      "address": "神奈川県横浜市中区本牧間門１９番１号",
+      "prefecture": "神奈川県横浜市中区本牧間門１９番１号",
+      "certification": [
+        {
+          "certification_name": "ガス保安功労者経済産業大臣表彰",
+          "certified_date": "2019-11-14"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001026576",
+      "name": "株式会社三協",
+      "address": "神奈川県横浜市中区北仲通２丁目１４番地",
+      "prefecture": "神奈川県横浜市中区北仲通２丁目１４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001030157",
+      "name": "株式会社オカムラ",
+      "address": "神奈川県横浜市西区北幸２丁目７番１８号",
+      "prefecture": "神奈川県横浜市西区北幸２丁目７番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001032599",
+      "name": "株式会社日立ハイシステム２１",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001034959",
+      "name": "ニイガタ株式会社",
+      "address": "神奈川県横浜市鶴見区駒岡２丁目１２番５号",
+      "prefecture": "神奈川県横浜市鶴見区駒岡２丁目１２番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001043522",
+      "name": "アネスト岩田株式会社",
+      "address": "神奈川県横浜市港北区新吉田町３１７６番地",
+      "prefecture": "神奈川県横浜市港北区新吉田町３１７６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001046095",
+      "name": "株式会社アイ・パートナーズフィナンシャル",
+      "address": "神奈川県横浜市西区南幸２丁目２０番５号",
+      "prefecture": "神奈川県横浜市西区南幸２丁目２０番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001061862",
+      "name": "ＮＴＴイノベーティブデバイス株式会社",
+      "address": "神奈川県横浜市神奈川区新浦島町１丁目１番地３２",
+      "prefecture": "神奈川県横浜市神奈川区新浦島町１丁目１番地３２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001069823",
+      "name": "東京応化工業株式会社",
+      "address": "神奈川県川崎市中原区中丸子１５０番地",
+      "prefecture": "神奈川県川崎市中原区中丸子１５０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020001074567",
+      "name": "株式会社ＰＩＡゲーミング",
+      "address": "神奈川県川崎市幸区堀川町５８０番地１６",
+      "prefecture": "神奈川県川崎市幸区堀川町５８０番地１６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "安全衛生優良企業公表制度－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020005007028",
+      "name": "公益財団法人横浜市芸術文化振興財団",
+      "address": "神奈川県横浜市中区山下町２番地",
+      "prefecture": "神奈川県横浜市中区山下町２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3020005007515",
+      "name": "社会福祉法人宿河原会",
+      "address": "神奈川県川崎市多摩区宿河原６丁目４６番６号",
+      "prefecture": "神奈川県川崎市多摩区宿河原６丁目４６番６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3021001000752",
+      "name": "株式会社サイマコーポレーション",
+      "address": "神奈川県藤沢市辻堂２丁目９番１７号",
+      "prefecture": "神奈川県藤沢市辻堂２丁目９番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3021001037076",
+      "name": "日産車体株式会社",
+      "address": "神奈川県平塚市堤町２番１号",
+      "prefecture": "神奈川県平塚市堤町２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3021005001425",
+      "name": "公益財団法人茅ヶ崎市文化・スポーツ振興財団",
+      "address": "神奈川県茅ヶ崎市茅ヶ崎１丁目１１番１号",
+      "prefecture": "神奈川県茅ヶ崎市茅ヶ崎１丁目１１番１号",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3021005005632",
+      "name": "さがみ信用金庫",
+      "address": "神奈川県小田原市本町２丁目９番２５号",
+      "prefecture": "神奈川県小田原市本町２丁目９番２５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3021005005748",
+      "name": "社会福祉法人宝安寺社会事業部",
+      "address": "神奈川県小田原市浜町１丁目４番３８号",
+      "prefecture": "神奈川県小田原市浜町１丁目４番３８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3120001087658",
+      "name": "ＰＦＵ　ＩＴサービス株式会社",
+      "address": "神奈川県横浜市西区みなとみらい４丁目４番５号",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目４番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001014412",
+      "name": "株式会社メトセラ",
+      "address": "神奈川県川崎市川崎区殿町３丁目２５番２２号",
+      "prefecture": "神奈川県川崎市川崎区殿町３丁目２５番２２号",
+      "certification": [
+        {
+          "certification_name": "Ｊ－Ｓｔａｒｔｕｐ２０１９",
+          "certified_date": "2019-06-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010001098954",
+      "name": "株式会社高島テクノロジーセンター",
+      "address": "神奈川県横浜市西区みなとみらい２丁目３番５号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目３番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010401030574",
+      "name": "横浜ゴム株式会社",
+      "address": "神奈川県平塚市追分２番１号",
+      "prefecture": "神奈川県平塚市追分２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010401043667",
+      "name": "ＮＥＣビジネスインテリジェンス株式会社",
+      "address": "神奈川県川崎市中原区下沼部１７５３番地",
+      "prefecture": "神奈川県川崎市中原区下沼部１７５３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010401049607",
+      "name": "薬糧開発株式会社",
+      "address": "神奈川県横浜市西区みなとみらい２丁目３番５号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目３番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010401069737",
+      "name": "ＮＥＣフィールディングシステムテクノロジー株式会社",
+      "address": "神奈川県川崎市中原区下沼部１７５３番地",
+      "prefecture": "神奈川県川崎市中原区下沼部１７５３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020001007344",
+      "name": "株式会社コナカ",
+      "address": "神奈川県横浜市戸塚区品濃町５１７番地２",
+      "prefecture": "神奈川県横浜市戸塚区品濃町５１７番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020001007518",
+      "name": "株式会社日立ＩＣＴビジネスサービス",
+      "address": "神奈川県横浜市西区高島１丁目１番２号横浜三井ビルディング",
+      "prefecture": "神奈川県横浜市西区高島１丁目１番２号横浜三井ビルディング",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020001016064",
+      "name": "株式会社三好商会",
+      "address": "神奈川県横浜市西区北幸２丁目８番４号",
+      "prefecture": "神奈川県横浜市西区北幸２丁目８番４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020001020990",
+      "name": "株式会社テレコム",
+      "address": "神奈川県横浜市都筑区富士見が丘１５番６号",
+      "prefecture": "神奈川県横浜市都筑区富士見が丘１５番６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020001070103",
+      "name": "株式会社富士通ソーシアルサイエンスラボラトリ",
+      "address": "神奈川県川崎市中原区小杉町１丁目４０３番地",
+      "prefecture": "神奈川県川崎市中原区小杉町１丁目４０３番地",
+      "certification": [
+        {
+          "certification_name": "キャリア支援企業表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020001088161",
+      "name": "株式会社ＰｒｏＶｉｓｉｏｎ",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020003010049",
+      "name": "ＳＧビジネス株式会社",
+      "address": "神奈川県横浜市都筑区中川中央１丁目３７番２３号",
+      "prefecture": "神奈川県横浜市都筑区中川中央１丁目３７番２３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020005004767",
+      "name": "独立行政法人鉄道建設・運輸施設整備支援機構",
+      "address": "神奈川県横浜市中区本町６丁目５０番地１",
+      "prefecture": "神奈川県横浜市中区本町６丁目５０番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020005008462",
+      "name": "特定非営利活動法人かわさき自然調査団",
+      "address": "神奈川県川崎市宮前区東有馬１丁目１番２６－７０２号",
+      "prefecture": "神奈川県川崎市宮前区東有馬１丁目１番２６－７０２号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2018-05-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020005009452",
+      "name": "公益財団法人日本盲導犬協会",
+      "address": "神奈川県横浜市港北区新吉田町６００１番９",
+      "prefecture": "神奈川県横浜市港北区新吉田町６００１番９",
+      "certification": [
+        {
+          "certification_name": "安全安心なまちづくり関係功労者表彰",
+          "certified_date": "2020-10-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020005010583",
+      "name": "特定非営利活動法人セカンドリーグ神奈川",
+      "address": "神奈川県横浜市港北区新横浜３丁目１８番１６号新横浜交通ビル",
+      "prefecture": "神奈川県横浜市港北区新横浜３丁目１８番１６号新横浜交通ビル",
+      "certification": [
+        {
+          "certification_name": "令和５年度食品ロス削減推進表彰",
+          "certified_date": "2023-09-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4020005014304",
+      "name": "朝日弁護士法人",
+      "address": "神奈川県横浜市中区住吉町２丁目２７番地",
+      "prefecture": "神奈川県横浜市中区住吉町２丁目２７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4021001021797",
+      "name": "フレアーナガオ株式会社",
+      "address": "神奈川県厚木市上依知１２７５番地",
+      "prefecture": "神奈川県厚木市上依知１２７５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4021001032092",
+      "name": "富士屋ホテル株式会社",
+      "address": "神奈川県足柄下郡箱根町宮ノ下３５９番地",
+      "prefecture": "神奈川県足柄下郡箱根町宮ノ下３５９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4021001032431",
+      "name": "株式会社小田原百貨店",
+      "address": "神奈川県小田原市栄町２丁目７番８号",
+      "prefecture": "神奈川県小田原市栄町２丁目７番８号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4021002024064",
+      "name": "有限会社防長土建",
+      "address": "神奈川県相模原市緑区大島１２２９番地５３",
+      "prefecture": "神奈川県相模原市緑区大島１２２９番地５３",
+      "certification": [
+        {
+          "certification_name": "優秀工事",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4021005006828",
+      "name": "医療法人社団清風会",
+      "address": "神奈川県平塚市土屋１６４５番地",
+      "prefecture": "神奈川県平塚市土屋１６４５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4021005009087",
+      "name": "ＮＰＯ法人三浦半島生物多様性保全",
+      "address": "神奈川県横須賀市阿部倉９番３号",
+      "prefecture": "神奈川県横須賀市阿部倉９番３号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2021-09-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5000020142123",
+      "name": "厚木市",
+      "address": "神奈川県厚木市中町３丁目１７－１７",
+      "prefecture": "神奈川県厚木市中町３丁目１７－１７",
+      "certification": [
+        {
+          "certification_name": "第一回「Ｓｐｏｒｔ　ｉｎ　Ｌｉｆｅアワード」",
+          "certified_date": "2022-03-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5010001006767",
+      "name": "富士通Ｊａｐａｎ株式会社",
+      "address": "神奈川県川崎市幸区大宮町１番地５",
+      "prefecture": "神奈川県川崎市幸区大宮町１番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5010401056247",
+      "name": "ＢＳＩグループジャパン株式会社",
+      "address": "神奈川県横浜市西区みなとみらい３丁目７番１号ＯＣＥＡＮＧＡＴＥＭＩＮＡＴＯＭＩＲＡＩ３階",
+      "prefecture": "神奈川県横浜市西区みなとみらい３丁目７番１号ＯＣＥＡＮＧＡＴＥＭＩＮＡＴＯＭＩＲＡＩ３階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5010401117412",
+      "name": "株式会社いかす",
+      "address": "神奈川県平塚市桃浜町２６－４－２",
+      "prefecture": "神奈川県平塚市桃浜町２６－４－２",
+      "certification": [
+        {
+          "certification_name": "令和３年度未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2022-03-31"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5010701006785",
+      "name": "東芝エレベータ株式会社",
+      "address": "神奈川県川崎市幸区堀川町７２番地３４",
+      "prefecture": "神奈川県川崎市幸区堀川町７２番地３４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5013201015694",
+      "name": "ペプチドリーム株式会社",
+      "address": "神奈川県川崎市川崎区殿町３丁目２５番２３号",
+      "prefecture": "神奈川県川崎市川崎区殿町３丁目２５番２３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2019-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5013401004555",
+      "name": "株式会社ルートレック・ネットワークス",
+      "address": "神奈川県川崎市高津区久本３丁目５番７号",
+      "prefecture": "神奈川県川崎市高津区久本３丁目５番７号",
+      "certification": [
+        {
+          "certification_name": "第４回日本ベンチャー大賞",
+          "certified_date": "2018-02-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001007302",
+      "name": "グラフテック株式会社",
+      "address": "神奈川県横浜市戸塚区品濃町５０３番１０号",
+      "prefecture": "神奈川県横浜市戸塚区品濃町５０３番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001007855",
+      "name": "株式会社ニフコ",
+      "address": "神奈川県横須賀市光の丘５番３号",
+      "prefecture": "神奈川県横須賀市光の丘５番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001009050",
+      "name": "東京濾器株式会社",
+      "address": "神奈川県横浜市都筑区仲町台３丁目１２番３号",
+      "prefecture": "神奈川県横浜市都筑区仲町台３丁目１２番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001014810",
+      "name": "株式会社日立システムズエンジニアリングサービス",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001022136",
+      "name": "テュフ・ラインランド・ジャパン株式会社",
+      "address": "神奈川県横浜市港北区新横浜３丁目１９番５号",
+      "prefecture": "神奈川県横浜市港北区新横浜３丁目１９番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001022870",
+      "name": "エバラ食品工業株式会社",
+      "address": "神奈川県横浜市西区みなとみらい４丁目４番５号横浜アイマークプレイス",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目４番５号横浜アイマークプレイス",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001026302",
+      "name": "株式会社ケイ・エム・ディ・エス",
+      "address": "神奈川県横浜市中区本町１丁目３番地",
+      "prefecture": "神奈川県横浜市中区本町１丁目３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001035757",
+      "name": "古河電工パワーシステムズ株式会社",
+      "address": "神奈川県横浜市青葉区あざみ野南２丁目１１番１６号",
+      "prefecture": "神奈川県横浜市青葉区あざみ野南２丁目１１番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001040360",
+      "name": "株式会社アローズ・システムズ",
+      "address": "神奈川県横浜市西区みなとみらい２丁目３番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001045632",
+      "name": "株式会社テクノステート",
+      "address": "神奈川県藤沢市葛原１７１６番地",
+      "prefecture": "神奈川県藤沢市葛原１７１６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001057082",
+      "name": "株式会社アイエー",
+      "address": "神奈川県横浜市戸塚区品濃町５４５番地３",
+      "prefecture": "神奈川県横浜市戸塚区品濃町５４５番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001074177",
+      "name": "株式会社ソフテム",
+      "address": "神奈川県川崎市川崎区駅前本町１１番２号",
+      "prefecture": "神奈川県川崎市川崎区駅前本町１１番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001082080",
+      "name": "株式会社ディーアンドエムホールディングス",
+      "address": "神奈川県川崎市川崎区日進町２番地１",
+      "prefecture": "神奈川県川崎市川崎区日進町２番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001088425",
+      "name": "日本ミクニヤ株式会社",
+      "address": "神奈川県川崎市中原区小杉町１丁目４０３番地３５武蔵小杉タワープレイス内",
+      "prefecture": "神奈川県川崎市中原区小杉町１丁目４０３番地３５武蔵小杉タワープレイス内",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001090389",
+      "name": "株式会社アルプス技研",
+      "address": "神奈川県横浜市西区みなとみらい２丁目３番５号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目３番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001091635",
+      "name": "株式会社ＡＯＫＩホールディングス",
+      "address": "神奈川県横浜市都筑区葛が谷６番５６号",
+      "prefecture": "神奈川県横浜市都筑区葛が谷６番５６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020001163731",
+      "name": "１ＦＩＮＩＴＹ株式会社",
+      "address": "神奈川県川崎市中原区上小田中４丁目１番１号",
+      "prefecture": "神奈川県川崎市中原区上小田中４丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020002002293",
+      "name": "有限会社飯田製作所",
+      "address": "神奈川県横浜市泉区上飯田町８２３番地",
+      "prefecture": "神奈川県横浜市泉区上飯田町８２３番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020005003405",
+      "name": "生活協同組合ユーコープ",
+      "address": "神奈川県横浜市中区桜木町１丁目１番地８",
+      "prefecture": "神奈川県横浜市中区桜木町１丁目１番地８",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2018-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5020005012819",
+      "name": "一般社団法人里海イニシアティブ",
+      "address": "神奈川県横浜市中区根岸旭台１１レガティス横濱山手２０１",
+      "prefecture": "神奈川県横浜市中区根岸旭台１１レガティス横濱山手２０１",
+      "certification": [
+        {
+          "certification_name": "第８回グッドライフアワード",
+          "certified_date": "2020-12-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5021001025707",
+      "name": "日本モレックス合同会社",
+      "address": "神奈川県大和市深見東１丁目５番４号",
+      "prefecture": "神奈川県大和市深見東１丁目５番４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5021001028445",
+      "name": "株式会社シゲン",
+      "address": "神奈川県横浜市中区桜木町１丁目１０１－１",
+      "prefecture": "神奈川県横浜市中区桜木町１丁目１０１－１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5021001036332",
+      "name": "関東冶金工業株式会社",
+      "address": "神奈川県平塚市四之宮３丁目２０番４８号",
+      "prefecture": "神奈川県平塚市四之宮３丁目２０番４８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5021001036506",
+      "name": "株式会社ＫＥＬＫ",
+      "address": "神奈川県平塚市四之宮３丁目２５番１号",
+      "prefecture": "神奈川県平塚市四之宮３丁目２５番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5021001038824",
+      "name": "株式会社玄",
+      "address": "神奈川県平塚市見附町５番７－４０４号藤和平塚コープ",
+      "prefecture": "神奈川県平塚市見附町５番７－４０４号藤和平塚コープ",
+      "certification": [
+        {
+          "certification_name": "キャリア支援企業表彰（大賞（厚生労働大臣表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5021001049697",
+      "name": "リコーインダストリー株式会社",
+      "address": "神奈川県厚木市下荻野１００５",
+      "prefecture": "神奈川県厚木市下荻野１００５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5021001069670",
+      "name": "株式会社スタッフサービス・クラウドワーク",
+      "address": "神奈川県相模原市中央区鹿沼台１丁目７番７号",
+      "prefecture": "神奈川県相模原市中央区鹿沼台１丁目７番７号",
+      "certification": [
+        {
+          "certification_name": "テレワーク推進企業等厚生労働大臣表彰－表彰（特別奨励賞）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "テレワーク推進企業等厚生労働大臣表彰（輝くテレワーク賞）",
+          "certified_date": "2022-11-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5021005001340",
+      "name": "特定非営利活動法人藤沢グリーンスタッフの会",
+      "address": "神奈川県藤沢市村岡東３丁目１７番２１号",
+      "prefecture": "神奈川県藤沢市村岡東３丁目１７番２１号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2021-09-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5021005007338",
+      "name": "特定非営利活動法人大磯町内の松並木敷地を大切にする会",
+      "address": "神奈川県中郡大磯町大磯４０４番地",
+      "prefecture": "神奈川県中郡大磯町大磯４０４番地",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2017-06-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6010001060433",
+      "name": "リコーＩＴソリューションズ株式会社",
+      "address": "神奈川県横浜市都筑区新栄町１６番１号",
+      "prefecture": "神奈川県横浜市都筑区新栄町１６番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "テレワーク推進企業等厚生労働大臣表彰－表彰（特別奨励賞）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "テレワーク推進企業等厚生労働大臣表彰",
+          "certified_date": "2019-11-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6010401078439",
+      "name": "東芝ＩＴサービス株式会社",
+      "address": "神奈川県川崎市川崎区日進町１番地５３",
+      "prefecture": "神奈川県川崎市川崎区日進町１番地５３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6011301018427",
+      "name": "株式会社ＣｏｓｍｏＢｒｉｄｇｅ",
+      "address": "神奈川県横浜市中区太田町６丁目７５番関内北原不動産ビル２階",
+      "prefecture": "神奈川県横浜市中区太田町６丁目７５番関内北原不動産ビル２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001003779",
+      "name": "株式会社キクシマ",
+      "address": "神奈川県横浜市港南区港南台４丁目３９番７号",
+      "prefecture": "神奈川県横浜市港南区港南台４丁目３９番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001008662",
+      "name": "株式会社サカタのタネ",
+      "address": "神奈川県横浜市都筑区仲町台２丁目７番１号",
+      "prefecture": "神奈川県横浜市都筑区仲町台２丁目７番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001009165",
+      "name": "株式会社ネオジャパン",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号横浜ランドマークタワー１０階",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号横浜ランドマークタワー１０階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001013745",
+      "name": "ホシザキ湘南株式会社",
+      "address": "神奈川県横浜市中区桜木町２丁目２番地５",
+      "prefecture": "神奈川県横浜市中区桜木町２丁目２番地５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001015634",
+      "name": "株式会社ＮＢＥ",
+      "address": "神奈川県横浜市西区高島２丁目１３番２号",
+      "prefecture": "神奈川県横浜市西区高島２丁目１３番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001021847",
+      "name": "ヒューマンスターチャイルド株式会社",
+      "address": "神奈川県横浜市神奈川区鶴屋町３丁目２９番地１",
+      "prefecture": "神奈川県横浜市神奈川区鶴屋町３丁目２９番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001024214",
+      "name": "株式会社ハリマビステム",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号横浜ランドマークタワー",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号横浜ランドマークタワー",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001025914",
+      "name": "株式会社科学情報システムズ",
+      "address": "神奈川県横浜市神奈川区金港町２番地６横浜プラザビル６階",
+      "prefecture": "神奈川県横浜市神奈川区金港町２番地６横浜プラザビル６階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001027605",
+      "name": "株式会社近澤レース店",
+      "address": "神奈川県横浜市中区元町３丁目１１９番地",
+      "prefecture": "神奈川県横浜市中区元町３丁目１１９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001028371",
+      "name": "株式会社ハイマックス",
+      "address": "神奈川県横浜市西区みなとみらい２丁目３番５号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目３番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001035046",
+      "name": "株式会社パイオラックスメディカルデバイス",
+      "address": "神奈川県横浜市戸塚区上矢部町２２６５番地３",
+      "prefecture": "神奈川県横浜市戸塚区上矢部町２２６５番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001049203",
+      "name": "株式会社アイツーアイ・コミュニケーション",
+      "address": "神奈川県横浜市青葉区市ケ尾町１１５４－２市ヶ尾プラーザビル９１２号室",
+      "prefecture": "神奈川県横浜市青葉区市ケ尾町１１５４－２市ヶ尾プラーザビル９１２号室",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001066941",
+      "name": "株式会社ゼネラル",
+      "address": "神奈川県川崎市高津区末長３丁目３番１７号",
+      "prefecture": "神奈川県川崎市高津区末長３丁目３番１７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001071256",
+      "name": "株式会社東邦プラン",
+      "address": "神奈川県川崎市幸区新塚越２０１番地",
+      "prefecture": "神奈川県川崎市幸区新塚越２０１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001071355",
+      "name": "日本トイザらス株式会社",
+      "address": "神奈川県川崎市幸区大宮町１３１０番地",
+      "prefecture": "神奈川県川崎市幸区大宮町１３１０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001077096",
+      "name": "富士電機Ｅ＆Ｃ株式会社",
+      "address": "神奈川県川崎市幸区堀川町５８０番地",
+      "prefecture": "神奈川県川崎市幸区堀川町５８０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001110039",
+      "name": "株式会社ステラコンサルティング",
+      "address": "神奈川県川崎市川崎区渡田山王町２５－４",
+      "prefecture": "神奈川県川崎市川崎区渡田山王町２５－４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020001130689",
+      "name": "日揮グローバル株式会社",
+      "address": "神奈川県横浜市西区みなとみらい２丁目３番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020005002216",
+      "name": "社会福祉法人横浜大陽会",
+      "address": "神奈川県横浜市南区大岡５丁目１３番１５号",
+      "prefecture": "神奈川県横浜市南区大岡５丁目１３番１５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020005004179",
+      "name": "特定非営利活動法人国際連合世界食糧計画ＷＦＰ協会",
+      "address": "神奈川県横浜市西区北幸２丁目８番４号横浜西口ＫＮビル１７階",
+      "prefecture": "神奈川県横浜市西区北幸２丁目８番４号横浜西口ＫＮビル１７階",
+      "certification": [
+        {
+          "certification_name": "令和６年度外務大臣表彰",
+          "certified_date": "2024-08-08"
+        },
+        {
+          "certification_name": "令和３年度食品ロス削減推進大賞",
+          "certified_date": "2021-02-22"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020005004864",
+      "name": "医療法人社団ゆうあい会",
+      "address": "神奈川県横浜市港北区北新横浜１丁目６番地２",
+      "prefecture": "神奈川県横浜市港北区北新横浜１丁目６番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6020005008717",
+      "name": "特定非営利活動法人かわさきコンシューマーネット",
+      "address": "神奈川県川崎市幸区中幸町３丁目２６番地２４－２００７号",
+      "prefecture": "神奈川県川崎市幸区中幸町３丁目２６番地２４－２００７号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2016-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6021001014411",
+      "name": "株式会社リガルジョイント",
+      "address": "神奈川県相模原市南区大野台１丁目９番４９号",
+      "prefecture": "神奈川県相模原市南区大野台１丁目９番４９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6021001016250",
+      "name": "株式会社オギノパン",
+      "address": "神奈川県相模原市緑区長竹２８４１番地",
+      "prefecture": "神奈川県相模原市緑区長竹２８４１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6021001037073",
+      "name": "日産車体コンピュータサービス株式会社",
+      "address": "神奈川県平塚市明石町２番２０号",
+      "prefecture": "神奈川県平塚市明石町２番２０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6021001041934",
+      "name": "株式会社明和美装",
+      "address": "神奈川県横浜市港北区新横浜２丁目３番８号ＫＤＸ新横浜ビル３階",
+      "prefecture": "神奈川県横浜市港北区新横浜２丁目３番８号ＫＤＸ新横浜ビル３階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6021001049696",
+      "name": "エトリア株式会社",
+      "address": "神奈川県横浜市西区高島１丁目２番５号横濱ゲートタワー",
+      "prefecture": "神奈川県横浜市西区高島１丁目２番５号横濱ゲートタワー",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6021001052568",
+      "name": "株式会社井出トマト農園",
+      "address": "神奈川県藤沢市宮原２４２０番地",
+      "prefecture": "神奈川県藤沢市宮原２４２０番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度「未来につながる持続可能な農業推進コンクール」",
+          "certified_date": "2024-06-21"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6021005003253",
+      "name": "特定非営利活動法人相模原こもれび",
+      "address": "神奈川県相模原市中央区上矢部４丁目１１番７号",
+      "prefecture": "神奈川県相模原市中央区上矢部４丁目１１番７号",
+      "certification": [
+        {
+          "certification_name": "緑化推進運動功労者内閣総理大臣表彰",
+          "certified_date": "2018-04-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6021005004318",
+      "name": "医療法人丹沢病院",
+      "address": "神奈川県秦野市堀山下５５７番地",
+      "prefecture": "神奈川県秦野市堀山下５５７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6021005007460",
+      "name": "湘南信用金庫",
+      "address": "神奈川県横須賀市大滝町２丁目２番地",
+      "prefecture": "神奈川県横須賀市大滝町２丁目２番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6120001086483",
+      "name": "キヤノンメドテックサプライ株式会社",
+      "address": "神奈川県川崎市中原区今井上町９番１号",
+      "prefecture": "神奈川県川崎市中原区今井上町９番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6320001000886",
+      "name": "東芝デジタルエンジニアリング株式会社",
+      "address": "神奈川県川崎市川崎区日進町１番地５３",
+      "prefecture": "神奈川県川崎市川崎区日進町１番地５３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7010001179405",
+      "name": "株式会社フレッシュネス",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号ランドマークタワー１２階",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号ランドマークタワー１２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7010401009277",
+      "name": "京浜急行電鉄株式会社",
+      "address": "神奈川県横浜市西区高島１丁目２番８号",
+      "prefecture": "神奈川県横浜市西区高島１丁目２番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7010401052137",
+      "name": "東芝デジタルソリューションズ株式会社",
+      "address": "神奈川県川崎市幸区堀川町７２番地３４",
+      "prefecture": "神奈川県川崎市幸区堀川町７２番地３４",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7011001001789",
+      "name": "株式会社アルファシステムズ",
+      "address": "神奈川県川崎市中原区上小田中６丁目６番１号",
+      "prefecture": "神奈川県川崎市中原区上小田中６丁目６番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7011001012340",
+      "name": "ボッシュ株式会社",
+      "address": "神奈川県横浜市都筑区中川中央１丁目９番３２号",
+      "prefecture": "神奈川県横浜市都筑区中川中央１丁目９番３２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001006616",
+      "name": "日本発條株式会社",
+      "address": "神奈川県横浜市金沢区福浦３丁目１０番地",
+      "prefecture": "神奈川県横浜市金沢区福浦３丁目１０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001008645",
+      "name": "株式会社横浜銀行",
+      "address": "神奈川県横浜市西区みなとみらい３丁目１番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい３丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001010527",
+      "name": "古河電池株式会社",
+      "address": "神奈川県横浜市保土ケ谷区星川２丁目４番１号",
+      "prefecture": "神奈川県横浜市保土ケ谷区星川２丁目４番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001011062",
+      "name": "株式会社神奈川銀行",
+      "address": "神奈川県横浜市中区長者町９丁目１６６番地",
+      "prefecture": "神奈川県横浜市中区長者町９丁目１６６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001030145",
+      "name": "株式会社アイネット",
+      "address": "神奈川県横浜市西区みなとみらい５丁目１番２号",
+      "prefecture": "神奈川県横浜市西区みなとみらい５丁目１番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001030260",
+      "name": "株式会社パイオラックス",
+      "address": "神奈川県横浜市保土ケ谷区岩井町５１番地",
+      "prefecture": "神奈川県横浜市保土ケ谷区岩井町５１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001030517",
+      "name": "株式会社ヨロズ",
+      "address": "神奈川県横浜市港北区樽町３丁目７番６０号",
+      "prefecture": "神奈川県横浜市港北区樽町３丁目７番６０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001037883",
+      "name": "相鉄ビジネスサービス株式会社",
+      "address": "神奈川県横浜市西区北幸２丁目９番１４号",
+      "prefecture": "神奈川県横浜市西区北幸２丁目９番１４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001043675",
+      "name": "株式会社アイシマ",
+      "address": "神奈川県横浜市瀬谷区卸本町９２７９番地４３",
+      "prefecture": "神奈川県横浜市瀬谷区卸本町９２７９番地４３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001045218",
+      "name": "ユニプレス株式会社",
+      "address": "神奈川県横浜市港北区新横浜２丁目４番地１３",
+      "prefecture": "神奈川県横浜市港北区新横浜２丁目４番地１３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001045894",
+      "name": "岡谷エレクトロニクス株式会社",
+      "address": "神奈川県横浜市港北区新横浜２丁目３番１９号",
+      "prefecture": "神奈川県横浜市港北区新横浜２丁目３番１９号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001052684",
+      "name": "メディカルフードサービス株式会社",
+      "address": "神奈川県横浜市港北区新横浜３丁目６番地１２日総第１２ビル２階",
+      "prefecture": "神奈川県横浜市港北区新横浜３丁目６番地１２日総第１２ビル２階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001063293",
+      "name": "株式会社太陽住建",
+      "address": "神奈川県横浜市磯子区中原４丁目１番３０号",
+      "prefecture": "神奈川県横浜市磯子区中原４丁目１番３０号",
+      "certification": [
+        {
+          "certification_name": "第８回グッドライフアワード",
+          "certified_date": "2020-12-05"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001070810",
+      "name": "黒田精工株式会社",
+      "address": "神奈川県川崎市幸区堀川町５８０番地１６",
+      "prefecture": "神奈川県川崎市幸区堀川町５８０番地１６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001073375",
+      "name": "杉本電機産業株式会社",
+      "address": "神奈川県川崎市川崎区渡田向町６番５号",
+      "prefecture": "神奈川県川崎市川崎区渡田向町６番５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001073920",
+      "name": "東芝情報システム株式会社",
+      "address": "神奈川県川崎市川崎区日進町１番地５３",
+      "prefecture": "神奈川県川崎市川崎区日進町１番地５３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001074662",
+      "name": "三菱化工機株式会社",
+      "address": "神奈川県川崎市川崎区大川町２番１号",
+      "prefecture": "神奈川県川崎市川崎区大川町２番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001077145",
+      "name": "富士通ネットワークソリューションズ株式会社",
+      "address": "神奈川県川崎市幸区大宮町１番地５",
+      "prefecture": "神奈川県川崎市幸区大宮町１番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "熊本防衛支局優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        },
+        {
+          "certification_name": "東北防衛局優秀技術者顕彰",
+          "certified_date": "2020-07-01"
+        },
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        },
+        {
+          "certification_name": "東北防衛局優秀工事顕彰",
+          "certified_date": "2020-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001106267",
+      "name": "株式会社教育ネット",
+      "address": "神奈川県横浜市都筑区川和町１２３６－１ガーデンプラザ川和ＷＥＳＴ２階",
+      "prefecture": "神奈川県横浜市都筑区川和町１２３６－１ガーデンプラザ川和ＷＥＳＴ２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020001107810",
+      "name": "フィード・ワン株式会社",
+      "address": "神奈川県横浜市西区みなとみらい５丁目１番２号",
+      "prefecture": "神奈川県横浜市西区みなとみらい５丁目１番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020002063631",
+      "name": "有限会社太陽",
+      "address": "神奈川県横浜市鶴見区市場西中町１番２１号",
+      "prefecture": "神奈川県横浜市鶴見区市場西中町１番２１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020005001225",
+      "name": "公益社団法人神奈川県宅地建物取引業協会",
+      "address": "神奈川県横浜市中区住吉町６丁目７６番地３",
+      "prefecture": "神奈川県横浜市中区住吉町６丁目７６番地３",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2018-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020005003551",
+      "name": "神奈川県信用保証協会",
+      "address": "神奈川県横浜市中区山下町２０９番地",
+      "prefecture": "神奈川県横浜市中区山下町２０９番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020005003898",
+      "name": "社会福祉法人すみなす会",
+      "address": "神奈川県横浜市金沢区釜利谷南２丁目８番１号",
+      "prefecture": "神奈川県横浜市金沢区釜利谷南２丁目８番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020005008014",
+      "name": "川崎信用金庫",
+      "address": "神奈川県川崎市川崎区砂子２丁目１１番地１",
+      "prefecture": "神奈川県川崎市川崎区砂子２丁目１１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7020005010283",
+      "name": "公益財団法人横浜勤労者福祉協会",
+      "address": "神奈川県横浜市鶴見区矢向１丁目６番２０号",
+      "prefecture": "神奈川県横浜市鶴見区矢向１丁目６番２０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021001001169",
+      "name": "株式会社ステップ",
+      "address": "神奈川県藤沢市藤沢６０２番地",
+      "prefecture": "神奈川県藤沢市藤沢６０２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021001002043",
+      "name": "デノラ・ペルメレック株式会社",
+      "address": "神奈川県藤沢市遠藤２０２３番地の１５",
+      "prefecture": "神奈川県藤沢市遠藤２０２３番地の１５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021001013313",
+      "name": "株式会社東洋アクアテック",
+      "address": "神奈川県相模原市中央区清新８丁目９番１７号",
+      "prefecture": "神奈川県相模原市中央区清新８丁目９番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021001020417",
+      "name": "株式会社富士テクノソリューションズ",
+      "address": "神奈川県厚木市中町４丁目１０番８号",
+      "prefecture": "神奈川県厚木市中町４丁目１０番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021001020895",
+      "name": "株式会社アマダ",
+      "address": "神奈川県伊勢原市石田２００番地",
+      "prefecture": "神奈川県伊勢原市石田２００番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021001022743",
+      "name": "秦野瓦斯株式会社",
+      "address": "神奈川県秦野市室町２番１１号",
+      "prefecture": "神奈川県秦野市室町２番１１号",
+      "certification": [
+        {
+          "certification_name": "ガス保安功労者経済産業大臣表彰",
+          "certified_date": "2018-11-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021001028468",
+      "name": "油研工業株式会社",
+      "address": "神奈川県綾瀬市上土棚中４丁目４番３４号",
+      "prefecture": "神奈川県綾瀬市上土棚中４丁目４番３４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021001034474",
+      "name": "株式会社ムラタ",
+      "address": "神奈川県高座郡寒川町一之宮４丁目１９番１６号",
+      "prefecture": "神奈川県高座郡寒川町一之宮４丁目１９番１６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021001052666",
+      "name": "グリーンフォレスト株式会社",
+      "address": "神奈川県相模原市緑区橋本４丁目１４番１６号",
+      "prefecture": "神奈川県相模原市緑区橋本４丁目１４番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021001058366",
+      "name": "株式会社保育のデザイン研究所",
+      "address": "神奈川県藤沢市藤沢１０９番地の６湘南ＮＤビルディング７階",
+      "prefecture": "神奈川県藤沢市藤沢１０９番地の６湘南ＮＤビルディング７階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021005006858",
+      "name": "平塚信用金庫",
+      "address": "神奈川県平塚市紅谷町１１番１９号",
+      "prefecture": "神奈川県平塚市紅谷町１１番１９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7021005008268",
+      "name": "国立研究開発法人海洋研究開発機構",
+      "address": "神奈川県横須賀市夏島町２番地１５",
+      "prefecture": "神奈川県横須賀市夏島町２番地１５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2019-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010401056384",
+      "name": "エフサステクノロジーズ株式会社",
+      "address": "神奈川県川崎市中原区中丸子１３番地２",
+      "prefecture": "神奈川県川崎市中原区中丸子１３番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010401078156",
+      "name": "株式会社富士通ラーニングメディア",
+      "address": "神奈川県川崎市幸区大宮町１番５号",
+      "prefecture": "神奈川県川崎市幸区大宮町１番５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010401103995",
+      "name": "富士通ＩＳサービス株式会社",
+      "address": "神奈川県川崎市幸区大宮町１番地５",
+      "prefecture": "神奈川県川崎市幸区大宮町１番地５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8010401131278",
+      "name": "東芝デバイス＆ストレージ株式会社",
+      "address": "神奈川県川崎市幸区小向東芝町１番地",
+      "prefecture": "神奈川県川崎市幸区小向東芝町１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8012401013588",
+      "name": "ＮＴＴ－ＡＴアイピーエス株式会社",
+      "address": "神奈川県川崎市幸区大宮町１３１０番地",
+      "prefecture": "神奈川県川崎市幸区大宮町１３１０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001008776",
+      "name": "株式会社ジャストオートリーシング",
+      "address": "神奈川県横浜市都筑区早渕１丁目１番１１号",
+      "prefecture": "神奈川県横浜市都筑区早渕１丁目１番１１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001016738",
+      "name": "Ｊ＆Ｔ環境株式会社",
+      "address": "神奈川県横浜市鶴見区弁天町３番地１",
+      "prefecture": "神奈川県横浜市鶴見区弁天町３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001022109",
+      "name": "株式会社わかば",
+      "address": "神奈川県横浜市港北区新横浜２丁目１２番１０号",
+      "prefecture": "神奈川県横浜市港北区新横浜２丁目１２番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001022959",
+      "name": "京浜精密工業株式会社",
+      "address": "神奈川県横浜市神奈川区入江２丁目１２番４号",
+      "prefecture": "神奈川県横浜市神奈川区入江２丁目１２番４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001024633",
+      "name": "メルビック電工株式会社",
+      "address": "神奈川県横浜市神奈川区新子安１丁目３４番地の３",
+      "prefecture": "神奈川県横浜市神奈川区新子安１丁目３４番地の３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001025466",
+      "name": "上野トランステック株式会社",
+      "address": "神奈川県横浜市中区山下町７０番地３",
+      "prefecture": "神奈川県横浜市中区山下町７０番地３",
+      "certification": [
+        {
+          "certification_name": "船員安全・労働環境取組大賞",
+          "certified_date": "2022-09-15"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001032660",
+      "name": "芝浦メカトロニクス株式会社",
+      "address": "神奈川県横浜市栄区笠間２丁目５番１号",
+      "prefecture": "神奈川県横浜市栄区笠間２丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001033089",
+      "name": "株式会社ハクブン",
+      "address": "神奈川県横浜市青葉区新石川３丁目１５番地１１",
+      "prefecture": "神奈川県横浜市青葉区新石川３丁目１５番地１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001040291",
+      "name": "株式会社コロワイド",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号ランドマークタワー１２階",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号ランドマークタワー１２階",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001055777",
+      "name": "アイフォーコム株式会社",
+      "address": "神奈川県横浜市神奈川区鶴屋町３丁目２９番地１１",
+      "prefecture": "神奈川県横浜市神奈川区鶴屋町３丁目２９番地１１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001059159",
+      "name": "株式会社ＪＶＣケンウッド",
+      "address": "神奈川県横浜市神奈川区守屋町３丁目１２番地",
+      "prefecture": "神奈川県横浜市神奈川区守屋町３丁目１２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001076641",
+      "name": "ジャパンマリンユナイテッド株式会社",
+      "address": "神奈川県横浜市西区みなとみらい４丁目４番２号",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目４番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001076740",
+      "name": "東京海上日動ファシリティーズ株式会社",
+      "address": "神奈川県川崎市幸区大宮町１３１０番地",
+      "prefecture": "神奈川県川崎市幸区大宮町１３１０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001085428",
+      "name": "株式会社ＱＤレーザ",
+      "address": "神奈川県川崎市川崎区南渡田町１番１号",
+      "prefecture": "神奈川県川崎市川崎区南渡田町１番１号",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2023-04-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020001140141",
+      "name": "パナソニックオートモーティブシステムズ株式会社",
+      "address": "神奈川県横浜市都筑区池辺町４２６１番地",
+      "prefecture": "神奈川県横浜市都筑区池辺町４２６１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020002056353",
+      "name": "有限会社オービタルエンジニアリング",
+      "address": "神奈川県横浜市神奈川区西神奈川１丁目１８番１９号",
+      "prefecture": "神奈川県横浜市神奈川区西神奈川１丁目１８番１９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020003016505",
+      "name": "合同会社Ｗｏｒｌｄ　Ａｒｃ　Ｌａｂ",
+      "address": "神奈川県横浜市泉区緑園４丁目２番地１サンステージ緑園都市４番館１３０５号",
+      "prefecture": "神奈川県横浜市泉区緑園４丁目２番地１サンステージ緑園都市４番館１３０５号",
+      "certification": [
+        {
+          "certification_name": "Ｇｅｏアクティビティコンテスト表彰",
+          "certified_date": "2022-12-07"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020005003402",
+      "name": "生活協同組合パルシステム神奈川",
+      "address": "神奈川県横浜市港北区新横浜３丁目１８番地１６",
+      "prefecture": "神奈川県横浜市港北区新横浜３丁目１８番地１６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020005007510",
+      "name": "社会福祉法人大慈会",
+      "address": "神奈川県川崎市多摩区堰３丁目１１番１３号",
+      "prefecture": "神奈川県川崎市多摩区堰３丁目１１番１３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8020005008491",
+      "name": "独立行政法人環境再生保全機構",
+      "address": "神奈川県川崎市幸区大宮町１３１０番",
+      "prefecture": "神奈川県川崎市幸区大宮町１３１０番",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021001000921",
+      "name": "湘南送電工事株式会社",
+      "address": "神奈川県藤沢市西俣野４５３番地の１",
+      "prefecture": "神奈川県藤沢市西俣野４５３番地の１",
+      "certification": [
+        {
+          "certification_name": "優秀工事顕彰",
+          "certified_date": "2024-07-05"
+        },
+        {
+          "certification_name": "北関東防衛局優秀工事等顕彰式",
+          "certified_date": "2019-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021001019458",
+      "name": "エス・エム・シー株式会社",
+      "address": "神奈川県厚木市上古沢１８１６番地",
+      "prefecture": "神奈川県厚木市上古沢１８１６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021001021182",
+      "name": "株式会社丹野設備工業所",
+      "address": "神奈川県伊勢原市上粕屋４４８番地の１９",
+      "prefecture": "神奈川県伊勢原市上粕屋４４８番地の１９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021001027254",
+      "name": "株式会社栄和産業",
+      "address": "神奈川県綾瀬市吉岡東４丁目１５番５号",
+      "prefecture": "神奈川県綾瀬市吉岡東４丁目１５番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021001036610",
+      "name": "株式会社サンユー",
+      "address": "神奈川県平塚市夕陽ケ丘３番２３号",
+      "prefecture": "神奈川県平塚市夕陽ケ丘３番２３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021002069106",
+      "name": "株式会社建新",
+      "address": "神奈川県横須賀市小川町２６番地９",
+      "prefecture": "神奈川県横須賀市小川町２６番地９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021005000323",
+      "name": "社会福祉法人光友会",
+      "address": "神奈川県藤沢市獺郷字大向１００８番地の１",
+      "prefecture": "神奈川県藤沢市獺郷字大向１００８番地の１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021005005207",
+      "name": "社会医療法人ジャパンメディカルアライアンス",
+      "address": "神奈川県海老名市中央４丁目１６番１号",
+      "prefecture": "神奈川県海老名市中央４丁目１６番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021005007459",
+      "name": "かながわ信用金庫",
+      "address": "神奈川県横須賀市大滝町１丁目２８番地",
+      "prefecture": "神奈川県横須賀市大滝町１丁目２８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021005009182",
+      "name": "公益財団法人地球環境戦略研究機関",
+      "address": "神奈川県三浦郡葉山町上山口２１０８番地１１",
+      "prefecture": "神奈川県三浦郡葉山町上山口２１０８番地１１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021005010289",
+      "name": "ＮＰＯ法人鎌倉みどりのレンジャー",
+      "address": "神奈川県鎌倉市梶原２丁目２６番１－６０９号",
+      "prefecture": "神奈川県鎌倉市梶原２丁目２６番１－６０９号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者表彰",
+          "certified_date": "2017-06-10"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8021005010611",
+      "name": "特定非営利活動法人海老名里山づくり山仕事の会",
+      "address": "神奈川県海老名市大谷北２丁目２７番７号",
+      "prefecture": "神奈川県海老名市大谷北２丁目２７番７号",
+      "certification": [
+        {
+          "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
+          "certified_date": "2021-09-25"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8120001082605",
+      "name": "株式会社ココカラファインヘルスケア",
+      "address": "神奈川県横浜市港北区新横浜３丁目１７番６号",
+      "prefecture": "神奈川県横浜市港北区新横浜３丁目１７番６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8700150089788",
+      "name": "川和町駅周辺西地区土地区画整理組合",
+      "address": "神奈川県横浜市都筑区川和町３０５０",
+      "prefecture": "神奈川県横浜市都筑区川和町３０５０",
+      "certification": [
+        {
+          "certification_name": "まちづくりアワード",
+          "certified_date": "2023-06-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9010401053868",
+      "name": "株式会社ジー・サーチ",
+      "address": "神奈川県川崎市幸区大宮町１番地５",
+      "prefecture": "神奈川県川崎市幸区大宮町１番地５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9010701012532",
+      "name": "ソニーデジタルネットワークアプリケーションズ株式会社",
+      "address": "神奈川県横浜市西区みなとみらい５丁目１番１号",
+      "prefecture": "神奈川県横浜市西区みなとみらい５丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9013101003878",
+      "name": "東芝ユニファイドテクノロジーズ株式会社",
+      "address": "神奈川県川崎市幸区堀川町７２番地３４",
+      "prefecture": "神奈川県川崎市幸区堀川町７２番地３４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001003727",
+      "name": "株式会社ＫＮコーポレーション",
+      "address": "神奈川県横浜市都筑区荏田東１丁目２番１",
+      "prefecture": "神奈川県横浜市都筑区荏田東１丁目２番１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001004403",
+      "name": "富士シティオ株式会社",
+      "address": "神奈川県横浜市中区日本大通１７番地",
+      "prefecture": "神奈川県横浜市中区日本大通１７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001006606",
+      "name": "株式会社ニットー",
+      "address": "神奈川県横浜市金沢区鳥浜町１４番１６",
+      "prefecture": "神奈川県横浜市金沢区鳥浜町１４番１６",
+      "certification": [
+        {
+          "certification_name": "産業標準化事業表彰",
+          "certified_date": "2021-10-20"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001008486",
+      "name": "株式会社錦光園",
+      "address": "神奈川県横浜市都筑区早渕１丁目２５番３８号",
+      "prefecture": "神奈川県横浜市都筑区早渕１丁目２５番３８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001014179",
+      "name": "株式会社旭商工社",
+      "address": "神奈川県横浜市西区平沼１丁目７番１０号",
+      "prefecture": "神奈川県横浜市西区平沼１丁目７番１０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001014716",
+      "name": "京急サービス株式会社",
+      "address": "神奈川県横浜市西区高島１丁目２番８号",
+      "prefecture": "神奈川県横浜市西区高島１丁目２番８号",
+      "certification": [
+        {
+          "certification_name": "安全衛生優良企業公表制度－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001021753",
+      "name": "株式会社ＮＴＴデータＭＳＥ",
+      "address": "神奈川県横浜市港北区新横浜３丁目１番地９",
+      "prefecture": "神奈川県横浜市港北区新横浜３丁目１番地９",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001022933",
+      "name": "京浜電設株式会社",
+      "address": "神奈川県横浜市神奈川区松見町４丁目１０２０番地",
+      "prefecture": "神奈川県横浜市神奈川区松見町４丁目１０２０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001024285",
+      "name": "株式会社ビット",
+      "address": "神奈川県横浜市西区みなとみらい４丁目４番２号",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目４番２号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001027874",
+      "name": "ＴＴピーエム株式会社",
+      "address": "神奈川県横浜市港北区新横浜２丁目８番地１２",
+      "prefecture": "神奈川県横浜市港北区新横浜２丁目８番地１２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001031109",
+      "name": "日産自動車株式会社",
+      "address": "神奈川県横浜市神奈川区宝町２番地",
+      "prefecture": "神奈川県横浜市神奈川区宝町２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "キャリア支援企業表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001035943",
+      "name": "日興システムソリューションズ株式会社",
+      "address": "神奈川県横浜市鶴見区大東町１２番地１",
+      "prefecture": "神奈川県横浜市鶴見区大東町１２番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001039184",
+      "name": "株式会社創建設計",
+      "address": "神奈川県横浜市港北区新横浜２丁目５番地１０",
+      "prefecture": "神奈川県横浜市港北区新横浜２丁目５番地１０",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001039928",
+      "name": "スチールプランテック株式会社",
+      "address": "神奈川県横浜市西区みなとみらい３丁目３番３号",
+      "prefecture": "神奈川県横浜市西区みなとみらい３丁目３番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001044366",
+      "name": "オモビオ株式会社",
+      "address": "神奈川県横浜市神奈川区新浦島町１丁目１番地３２",
+      "prefecture": "神奈川県横浜市神奈川区新浦島町１丁目１番地３２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001046288",
+      "name": "東京海上ミレア少額短期保険株式会社",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号１",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001055504",
+      "name": "神奈川トヨタ自動車株式会社",
+      "address": "神奈川県横浜市神奈川区栄町７番地１",
+      "prefecture": "神奈川県横浜市神奈川区栄町７番地１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001066798",
+      "name": "ＮＥＣプラットフォームズ株式会社",
+      "address": "神奈川県川崎市高津区北見方２丁目６番１号",
+      "prefecture": "神奈川県川崎市高津区北見方２丁目６番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001070313",
+      "name": "１ＦＩＮＩＴＹモバイルテクノ株式会社",
+      "address": "神奈川県川崎市中原区上小田中４丁目１番１号",
+      "prefecture": "神奈川県川崎市中原区上小田中４丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001070619",
+      "name": "株式会社エクサ",
+      "address": "神奈川県横浜市西区みなとみらい４丁目４番５号横浜アイマークプレイス",
+      "prefecture": "神奈川県横浜市西区みなとみらい４丁目４番５号横浜アイマークプレイス",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001071492",
+      "name": "富士電機株式会社",
+      "address": "神奈川県川崎市川崎区田辺新田１番１号",
+      "prefecture": "神奈川県川崎市川崎区田辺新田１番１号",
+      "certification": [
+        {
+          "certification_name": "なでしこ銘柄－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2021-04-16"
+        },
+        {
+          "certification_name": "北関東防衛局優秀工事等顕彰式",
+          "certified_date": "2019-07-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001076236",
+      "name": "株式会社夢ぽけっと",
+      "address": "神奈川県川崎市宮前区菅生２丁目１７番１６号",
+      "prefecture": "神奈川県川崎市宮前区菅生２丁目１７番１６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001087638",
+      "name": "株式会社メタテクノ",
+      "address": "神奈川県川崎市中原区小杉町１丁目４０３番地３５",
+      "prefecture": "神奈川県川崎市中原区小杉町１丁目４０３番地３５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020001091994",
+      "name": "Ｕ－Ｌａｎｄｓｃａｐｅ　Ｄｅｓｉｇｎ株式会社",
+      "address": "神奈川県横浜市金沢区釜利谷東３丁目１１番４１号",
+      "prefecture": "神奈川県横浜市金沢区釜利谷東３丁目１１番４１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020005002667",
+      "name": "特定非営利活動法人神奈川県消費者の会連絡会",
+      "address": "神奈川県横浜市中区桜木町３丁目９平和と労働会館３階",
+      "prefecture": "神奈川県横浜市中区桜木町３丁目９平和と労働会館３階",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2011-05-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020005003632",
+      "name": "神奈川県生活協同組合連合会",
+      "address": "神奈川県横浜市港北区新横浜２丁目６番１３号",
+      "prefecture": "神奈川県横浜市港北区新横浜２丁目６番１３号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2012-05-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020005004572",
+      "name": "特定非営利活動法人市民セクターよこはま",
+      "address": "神奈川県横浜市中区弁天通６丁目８１番コーケンキャピタルビル２階Ｃ号室",
+      "prefecture": "神奈川県横浜市中区弁天通６丁目８１番コーケンキャピタルビル２階Ｃ号室",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9020005005455",
+      "name": "特定非営利活動法人でっかいそら",
+      "address": "神奈川県横浜市瀬谷区瀬谷５丁目３番２４号",
+      "prefecture": "神奈川県横浜市瀬谷区瀬谷５丁目３番２４号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9021001015943",
+      "name": "株式会社オープンアップウィズ",
+      "address": "神奈川県相模原市中央区南橋本２丁目９番１０号",
+      "prefecture": "神奈川県相模原市中央区南橋本２丁目９番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9021001022915",
+      "name": "株式会社共栄製作所",
+      "address": "神奈川県秦野市曽屋字曽屋原１１４番地",
+      "prefecture": "神奈川県秦野市曽屋字曽屋原１１４番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9021001027559",
+      "name": "野口工業株式会社",
+      "address": "神奈川県綾瀬市小園９０７番地１",
+      "prefecture": "神奈川県綾瀬市小園９０７番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9021001035545",
+      "name": "株式会社ディスペンパックジャパン",
+      "address": "神奈川県南足柄市和田河原１２５５",
+      "prefecture": "神奈川県南足柄市和田河原１２５５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9021001036634",
+      "name": "株式会社湘南合成樹脂製作所",
+      "address": "神奈川県平塚市代官町３１番２７号",
+      "prefecture": "神奈川県平塚市代官町３１番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9021001043465",
+      "name": "南洋水産株式会社",
+      "address": "神奈川県三浦市三崎３丁目８番７号",
+      "prefecture": "神奈川県三浦市三崎３丁目８番７号",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9021001043721",
+      "name": "東京ガスライフバル飯田株式会社",
+      "address": "神奈川県横須賀市三春町３丁目９番地の１１",
+      "prefecture": "神奈川県横須賀市三春町３丁目９番地の１１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9030001094542",
+      "name": "株式会社ジャパンフレッシュ",
+      "address": "神奈川県横浜市西区みなとみらい２丁目２番１号ランドマークタワー１２階",
+      "prefecture": "神奈川県横浜市西区みなとみらい２丁目２番１号ランドマークタワー１２階",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9080101007696",
+      "name": "株式会社中外医科学研究所",
+      "address": "神奈川県横浜市戸塚区戸塚町２１６番地",
+      "prefecture": "神奈川県横浜市戸塚区戸塚町２１６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}
