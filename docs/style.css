@@ -236,32 +236,41 @@ select:focus {
   color: var(--primary-color);
 }
 
+/* --- 都道府県SVGマップ --- */
 #pref-grid {
-  display: grid;
-  gap: 8px;
+  display: flex;
+  justify-content: center;
 }
 
-.pref-btn {
-  padding: 0.5rem 0.3rem;
-  border: 2px solid #dfe6e9;
-  border-radius: 8px;
-  background: white;
+#pref-svg {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+}
+
+.pref-cell {
   cursor: pointer;
-  font-size: 0.85rem;
-  text-align: center;
-  transition: background 0.15s, border-color 0.15s, color 0.15s;
-  min-height: 44px;
 }
 
-.pref-btn:hover {
-  background: var(--tag-bg);
-  border-color: var(--tag-text);
+.pref-cell rect {
+  transition: filter 0.15s;
 }
 
-.pref-btn.selected {
-  background: var(--primary-color);
-  color: white;
-  border-color: var(--primary-color);
+.pref-cell:hover rect,
+.pref-cell:focus rect {
+  filter: brightness(0.82);
+  outline: none;
+}
+
+.pref-cell:active rect {
+  filter: brightness(0.7);
+}
+
+.pref-cell text {
+  font-size: 13px;
+  font-weight: 500;
+  pointer-events: none;
+  user-select: none;
 }
 
 /* --- フッター --- */

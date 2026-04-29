@@ -117,7 +117,19 @@ const REGION_GROUPS: Array<{ label: string; codes: string[] }> = [
   { label: "九州・沖縄地方", codes: ["40", "41", "42", "43", "44", "45", "46", "47"] },
 ];
 
-// 4. 地方内の都道府県グリッドレイアウト（REGION_GROUPSと対応）
+// 4. 地方ごとの色定義（地方SVGと対応）
+const REGION_COLORS: string[] = [
+  "#a8d8ea", // 北海道
+  "#c5b3e6", // 東北
+  "#fcbad3", // 関東
+  "#fff3a3", // 中部
+  "#a8e6cf", // 近畿
+  "#ffd3b6", // 中国
+  "#dcedc1", // 四国
+  "#ffaaa5", // 九州・沖縄
+];
+
+// 5. 地方内の都道府県グリッドレイアウト（REGION_GROUPSと対応）
 type PrefCell = { code: string; col: number; row: number };
 const REGION_GRID_LAYOUT: Array<{ cols: number; prefs: PrefCell[] }> = [
   // 0: 北海道地方
@@ -282,33 +294,83 @@ class LocalStarsApp {
   private showPrefGrid(regionIdx: number) {
     const region = REGION_GROUPS[regionIdx];
     const layout = REGION_GRID_LAYOUT[regionIdx];
+    const color = REGION_COLORS[regionIdx] ?? "#d0e8ff";
     (document.getElementById("region-view") as HTMLElement).hidden = true;
     const prefGridView = document.getElementById("pref-grid-view") as HTMLElement;
     prefGridView.hidden = false;
     const label = document.getElementById("selected-region-name") as HTMLElement;
     label.textContent = region.label;
-    const grid = document.getElementById("pref-grid") as HTMLElement;
-    grid.style.gridTemplateColumns = `repeat(${layout.cols}, 1fr)`;
-    grid.innerHTML = "";
+
+    const CELL_W = 80;
+    const CELL_H = 52;
+    const GAP = 6;
+    const PAD = 10;
+    const maxRow = Math.max(...layout.prefs.map((p) => p.row));
+    const svgW = layout.cols * (CELL_W + GAP) - GAP + PAD * 2;
+    const svgH = maxRow * (CELL_H + GAP) - GAP + PAD * 2;
+
+    const NS = "http://www.w3.org/2000/svg";
+    const svgEl = document.createElementNS(NS, "svg");
+    svgEl.setAttribute("id", "pref-svg");
+    svgEl.setAttribute("viewBox", `0 0 ${svgW} ${svgH}`);
+    svgEl.setAttribute("role", "group");
+    svgEl.setAttribute("aria-label", region.label);
+
     for (const cell of layout.prefs) {
-      const btn = document.createElement("button");
-      btn.type = "button";
-      btn.className = "pref-btn";
-      btn.dataset.code = cell.code;
-      btn.style.gridColumn = String(cell.col);
-      btn.style.gridRow = String(cell.row);
-      // 都道府県の末尾（都・道・府・県）を省略して短く表示
-      btn.textContent = (PREF_MAP[cell.code] ?? cell.code).replace(/[都道府県]$/, "");
-      if (cell.code === this.selector.value) btn.classList.add("selected");
-      btn.addEventListener("click", () => this.selectPrefecture(cell.code));
-      grid.appendChild(btn);
+      const x = PAD + (cell.col - 1) * (CELL_W + GAP);
+      const y = PAD + (cell.row - 1) * (CELL_H + GAP);
+      const name = (PREF_MAP[cell.code] ?? cell.code).replace(/[都道府県]$/, "");
+      const isSelected = cell.code === this.selector.value;
+
+      const g = document.createElementNS(NS, "g");
+      g.setAttribute("class", `pref-cell${isSelected ? " selected" : ""}`);
+      g.setAttribute("data-code", cell.code);
+      g.setAttribute("role", "button");
+      g.setAttribute("tabindex", "0");
+      g.setAttribute("aria-label", PREF_MAP[cell.code] ?? cell.code);
+      g.setAttribute("aria-pressed", String(isSelected));
+
+      const rect = document.createElementNS(NS, "rect");
+      rect.setAttribute("x", String(x));
+      rect.setAttribute("y", String(y));
+      rect.setAttribute("width", String(CELL_W));
+      rect.setAttribute("height", String(CELL_H));
+      rect.setAttribute("rx", "8");
+      rect.setAttribute("fill", isSelected ? "var(--primary-color)" : color);
+      rect.dataset.baseColor = color;
+
+      const text = document.createElementNS(NS, "text");
+      text.setAttribute("x", String(x + CELL_W / 2));
+      text.setAttribute("y", String(y + CELL_H / 2 + 5));
+      text.setAttribute("text-anchor", "middle");
+      text.setAttribute("fill", isSelected ? "white" : "#333");
+      text.textContent = name;
+
+      g.appendChild(rect);
+      g.appendChild(text);
+      g.addEventListener("click", () => this.selectPrefecture(cell.code));
+      g.addEventListener("keydown", (e: KeyboardEvent) => {
+        if (e.key === "Enter" || e.key === " ") this.selectPrefecture(cell.code);
+      });
+      svgEl.appendChild(g);
     }
+
+    const grid = document.getElementById("pref-grid") as HTMLElement;
+    grid.innerHTML = "";
+    grid.appendChild(svgEl);
   }
 
   private selectPrefecture(code: string) {
     this.selector.value = code;
-    document.querySelectorAll<HTMLButtonElement>(".pref-btn").forEach((btn) => {
-      btn.classList.toggle("selected", btn.dataset.code === code);
+    // SVGの pref-cell の選択状態を更新
+    document.querySelectorAll<SVGGElement>(".pref-cell").forEach((g) => {
+      const selected = g.dataset.code === code;
+      g.classList.toggle("selected", selected);
+      g.setAttribute("aria-pressed", String(selected));
+      const rect = g.querySelector("rect");
+      const text = g.querySelector("text");
+      if (rect) rect.setAttribute("fill", selected ? "var(--primary-color)" : (rect.dataset.baseColor ?? "#d0e8ff"));
+      if (text) text.setAttribute("fill", selected ? "white" : "#333");
     });
     this.showMap(code);
     this.fetchData(code);
