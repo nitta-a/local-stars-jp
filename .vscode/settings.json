@@ -26,8 +26,13 @@
     // Turn off tsc task auto detection since we have the necessary tasks as npm scripts
     "typescript.tsc.autoDetect": "off",
     "cSpell.words": [
+        "addrs",
+        "bunx",
         "gbiz",
-        "nitta"
+        "geolonia",
+        "hojin",
+        "nitta",
+        "PREFS"
     ],
     "editor.formatOnSave": true,
     "chat.autopilot.enabled": true,

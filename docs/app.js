@@ -1,4 +1,4 @@
-// src/web/app.ts
+// src/web/constants.ts
 var PREF_MAP = {
   "01": "北海道",
   "02": "青森県",
@@ -202,11 +202,117 @@ var REGION_GRID_LAYOUT = [
   }
 ];
 
+// src/web/map.ts
+var TILE_URL = "https://tile.openstreetmap.org/{z}/{x}/{y}.png";
+var TILE_ATTRIBUTION = '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+
+class MapController {
+  map = null;
+  markerLayer = null;
+  showMap(code) {
+    const coords = PREF_COORDS[code];
+    if (!coords)
+      return;
+    const mapEl = document.getElementById("map");
+    mapEl.hidden = false;
+    if (this.map === null) {
+      this.map = L.map("map").setView(coords, 10);
+      L.tileLayer(TILE_URL, { maxZoom: 18, attribution: TILE_ATTRIBUTION }).addTo(this.map);
+    } else {
+      this.map.flyTo(coords, 10);
+    }
+  }
+  updateMarkers(companies) {
+    if (this.map === null)
+      return;
+    if (this.markerLayer === null) {
+      this.markerLayer = L.layerGroup().addTo(this.map);
+    }
+    this.markerLayer.clearLayers();
+    for (const c of companies) {
+      if (c.lat !== undefined && c.lng !== undefined) {
+        L.marker([c.lat, c.lng]).bindPopup(`<strong>${c.name}</strong><br><small>${c.address}</small>`).addTo(this.markerLayer);
+      }
+    }
+  }
+}
+
+// src/web/renderer.ts
+function buildCompanyCardHtml(c) {
+  return `
+      <div class="company-card">
+        <h3 class="company-name">${c.name}</h3>
+        <p class="address">\uD83D\uDCCD <a href="https://maps.google.com/maps?q=${encodeURIComponent(c.address)}" target="_blank" rel="noopener noreferrer">${c.address}</a></p>
+        <div class="certification-tags">
+          ${c.certification.map((cert) => `<span class="tag">${cert.certification_name}</span>`).join("")}
+        </div>
+      </div>
+    `;
+}
+var SVG_NS = "http://www.w3.org/2000/svg";
+var CELL_W = 80;
+var CELL_H = 52;
+var GAP = 6;
+var PAD = 10;
+function buildPrefSvg(regionIdx, selectedCode, onSelect) {
+  const region = REGION_GROUPS[regionIdx];
+  const layout = REGION_GRID_LAYOUT[regionIdx];
+  const color = REGION_COLORS[regionIdx] ?? "#d0e8ff";
+  const maxRow = Math.max(...layout.prefs.map((p) => p.row));
+  const svgW = layout.cols * (CELL_W + GAP) - GAP + PAD * 2;
+  const svgH = maxRow * (CELL_H + GAP) - GAP + PAD * 2;
+  const svgEl = document.createElementNS(SVG_NS, "svg");
+  svgEl.setAttribute("id", "pref-svg");
+  svgEl.setAttribute("viewBox", `0 0 ${svgW} ${svgH}`);
+  svgEl.setAttribute("role", "group");
+  svgEl.setAttribute("aria-label", region.label);
+  for (const cell of layout.prefs) {
+    const x = PAD + (cell.col - 1) * (CELL_W + GAP);
+    const y = PAD + (cell.row - 1) * (CELL_H + GAP);
+    const name = PREF_MAP[cell.code] ?? cell.code;
+    const isSelected = cell.code === selectedCode;
+    const g = document.createElementNS(SVG_NS, "g");
+    g.setAttribute("class", `pref-cell${isSelected ? " selected" : ""}`);
+    g.setAttribute("data-code", cell.code);
+    g.setAttribute("role", "button");
+    g.setAttribute("tabindex", "0");
+    g.setAttribute("aria-label", name);
+    g.setAttribute("aria-pressed", String(isSelected));
+    const rect = document.createElementNS(SVG_NS, "rect");
+    rect.setAttribute("x", String(x));
+    rect.setAttribute("y", String(y));
+    rect.setAttribute("width", String(CELL_W));
+    rect.setAttribute("height", String(CELL_H));
+    rect.setAttribute("rx", "8");
+    rect.setAttribute("fill", isSelected ? "var(--primary-color)" : color);
+    rect.dataset.baseColor = color;
+    const text = document.createElementNS(SVG_NS, "text");
+    text.setAttribute("x", String(x + CELL_W / 2));
+    text.setAttribute("y", String(y + CELL_H / 2 + 5));
+    text.setAttribute("text-anchor", "middle");
+    text.setAttribute("fill", isSelected ? "white" : "#333");
+    text.textContent = name;
+    g.appendChild(rect);
+    g.appendChild(text);
+    g.addEventListener("click", () => onSelect(cell.code));
+    g.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ")
+        onSelect(cell.code);
+    });
+    svgEl.appendChild(g);
+  }
+  return svgEl;
+}
+
+// src/web/app.ts
+var LOADING_MSG = "読み込み中...";
+var ERR_NO_DATA = "データの取得に失敗しました。まだデータが準備されていない可能性があります。";
+var ERR_NO_COMPANIES = "該当する企業はありません。";
+
 class LocalStarsApp {
   selector;
   container;
-  map = null;
-  markers = [];
+  mapCtrl = new MapController;
   constructor() {
     this.selector = document.getElementById("pref-selector");
     this.container = document.getElementById("list-container");
@@ -230,27 +336,6 @@ class LocalStarsApp {
       this.selector.appendChild(group);
     }
   }
-  showMap(code) {
-    const coords = PREF_COORDS[code];
-    if (!coords)
-      return;
-    const mapEl = document.getElementById("map");
-    mapEl.hidden = false;
-    if (this.map === null) {
-      this.map = L.map("map").setView(coords, 10);
-      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        maxZoom: 18,
-        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-      }).addTo(this.map);
-    } else {
-      this.map.flyTo(coords, 10);
-    }
-  }
-  clearMarkers() {
-    for (const marker of this.markers)
-      marker.remove();
-    this.markers = [];
-  }
   initVisualMap() {
     document.querySelectorAll(".region-btn").forEach((btn) => {
       btn.addEventListener("click", () => {
@@ -265,61 +350,15 @@ class LocalStarsApp {
   }
   showPrefGrid(regionIdx) {
     const region = REGION_GROUPS[regionIdx];
-    const layout = REGION_GRID_LAYOUT[regionIdx];
-    const color = REGION_COLORS[regionIdx] ?? "#d0e8ff";
+    if (region.codes.length === 1) {
+      this.selectPrefecture(region.codes[0]);
+      return;
+    }
     document.getElementById("region-view").hidden = true;
     const prefGridView = document.getElementById("pref-grid-view");
     prefGridView.hidden = false;
-    const label = document.getElementById("selected-region-name");
-    label.textContent = region.label;
-    const CELL_W = 80;
-    const CELL_H = 52;
-    const GAP = 6;
-    const PAD = 10;
-    const maxRow = Math.max(...layout.prefs.map((p) => p.row));
-    const svgW = layout.cols * (CELL_W + GAP) - GAP + PAD * 2;
-    const svgH = maxRow * (CELL_H + GAP) - GAP + PAD * 2;
-    const NS = "http://www.w3.org/2000/svg";
-    const svgEl = document.createElementNS(NS, "svg");
-    svgEl.setAttribute("id", "pref-svg");
-    svgEl.setAttribute("viewBox", `0 0 ${svgW} ${svgH}`);
-    svgEl.setAttribute("role", "group");
-    svgEl.setAttribute("aria-label", region.label);
-    for (const cell of layout.prefs) {
-      const x = PAD + (cell.col - 1) * (CELL_W + GAP);
-      const y = PAD + (cell.row - 1) * (CELL_H + GAP);
-      const name = (PREF_MAP[cell.code] ?? cell.code).replace(/[都道府県]$/, "");
-      const isSelected = cell.code === this.selector.value;
-      const g = document.createElementNS(NS, "g");
-      g.setAttribute("class", `pref-cell${isSelected ? " selected" : ""}`);
-      g.setAttribute("data-code", cell.code);
-      g.setAttribute("role", "button");
-      g.setAttribute("tabindex", "0");
-      g.setAttribute("aria-label", PREF_MAP[cell.code] ?? cell.code);
-      g.setAttribute("aria-pressed", String(isSelected));
-      const rect = document.createElementNS(NS, "rect");
-      rect.setAttribute("x", String(x));
-      rect.setAttribute("y", String(y));
-      rect.setAttribute("width", String(CELL_W));
-      rect.setAttribute("height", String(CELL_H));
-      rect.setAttribute("rx", "8");
-      rect.setAttribute("fill", isSelected ? "var(--primary-color)" : color);
-      rect.dataset.baseColor = color;
-      const text = document.createElementNS(NS, "text");
-      text.setAttribute("x", String(x + CELL_W / 2));
-      text.setAttribute("y", String(y + CELL_H / 2 + 5));
-      text.setAttribute("text-anchor", "middle");
-      text.setAttribute("fill", isSelected ? "white" : "#333");
-      text.textContent = name;
-      g.appendChild(rect);
-      g.appendChild(text);
-      g.addEventListener("click", () => this.selectPrefecture(cell.code));
-      g.addEventListener("keydown", (e) => {
-        if (e.key === "Enter" || e.key === " ")
-          this.selectPrefecture(cell.code);
-      });
-      svgEl.appendChild(g);
-    }
+    document.getElementById("selected-region-name").textContent = region.label;
+    const svgEl = buildPrefSvg(regionIdx, this.selector.value, (code) => this.selectPrefecture(code));
     const grid = document.getElementById("pref-grid");
     grid.innerHTML = "";
     grid.appendChild(svgEl);
@@ -337,7 +376,7 @@ class LocalStarsApp {
       if (text)
         text.setAttribute("fill", selected ? "white" : "#333");
     });
-    this.showMap(code);
+    this.mapCtrl.showMap(code);
     this.fetchData(code);
   }
   bindEvents() {
@@ -345,48 +384,31 @@ class LocalStarsApp {
       const code = this.selector.value;
       if (!code)
         return;
-      this.showMap(code);
+      this.mapCtrl.showMap(code);
       this.fetchData(code);
     });
   }
   async fetchData(code) {
-    this.container.innerHTML = '<p class="loading">読み込み中...</p>';
+    this.container.innerHTML = `<p class="loading">${LOADING_MSG}</p>`;
     try {
       const res = await fetch(`./data/${code}.json`);
-      if (!res.ok) {
+      if (!res.ok)
         throw new Error(`HTTP Error: ${res.status}`);
-      }
       const data = await res.json();
       this.render(data["hojin-infos"]);
     } catch (e) {
       console.error(e);
-      this.container.innerHTML = '<p class="error">データの取得に失敗しました。まだデータが準備されていない可能性があります。</p>';
+      this.container.innerHTML = `<p class="error">${ERR_NO_DATA}</p>`;
     }
   }
   render(companies) {
-    this.clearMarkers();
     if (companies.length === 0) {
-      this.container.innerHTML = "<p>該当する企業はありません。</p>";
+      this.container.innerHTML = `<p class="error">${ERR_NO_COMPANIES}</p>`;
+      this.mapCtrl.updateMarkers([]);
       return;
     }
-    this.container.innerHTML = companies.map((c) => `
-      <div class="company-card">
-        <h3 class="company-name">${c.name}</h3>
-        <p class="address">\uD83D\uDCCD <a href="https://maps.google.com/maps?q=${encodeURIComponent(c.address)}" target="_blank" rel="noopener noreferrer">${c.address}</a></p>
-        <div class="certification-tags">
-          ${c.certification.map((cert) => `<span class="tag">${cert.certification_name}</span>`).join("")}
-        </div>
-      </div>
-    `).join("");
-    if (this.map !== null) {
-      for (const c of companies) {
-        if (c.lat !== undefined && c.lng !== undefined) {
-          const jitter = () => (Math.random() - 0.5) * 0.02;
-          const marker = L.marker([c.lat + jitter(), c.lng + jitter()]).addTo(this.map).bindPopup(`<strong>${c.name}</strong><br><small>${c.address}</small>`);
-          this.markers.push(marker);
-        }
-      }
-    }
+    this.container.innerHTML = companies.map(buildCompanyCardHtml).join("");
+    this.mapCtrl.updateMarkers(companies);
   }
 }
 window.addEventListener("DOMContentLoaded", () => new LocalStarsApp);

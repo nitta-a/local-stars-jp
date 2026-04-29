@@ -11,7 +11,7 @@
 - Data Processing: `csv-parse/sync`
 
 ## Architecture & Data Flow
-1. **データソース**: gBizINFOからダウンロードしたCSVを `data/gbiz_certifications.csv` に配置。
+1. **データソース**: gBizINFOからダウンロードしたCSVを `data/Hyoshojoho_UTF-8.csv` に配置。
 2. **バッチ処理**: `src/scraper/convert_csv.ts` を Bun で実行。東北6県を判別・名寄せし、JSONファイル（`02.json` 〜 `07.json`）を `docs/data/` に出力。
 3. **フロントエンド**: `src/web/app.ts` でJSONをFetchし、DOMとLeafletマップをレンダリング。`bun build` により `docs/app.js` を生成。
 
@@ -21,7 +21,7 @@
 ├── .github/
 │   └── copilot-instructions.md
 ├── data/
-│   └── gbiz_certifications.csv  # 手動更新するマスターデータ
+│   └── Hyoshojoho_UTF-8.csv  # 手動更新するマスターデータ
 ├── docs/                        # GitHub Pages公開ディレクトリ
 │   ├── data/                    # 自動生成されるJSON
 │   ├── index.html

@@ -10,7 +10,9 @@
           "certification_name": "気象庁長官表彰",
           "certified_date": "2021-06-01"
         }
-      ]
+      ],
+      "lat": 37.214606617,
+      "lng": 140.994529693
     },
     {
       "corporate_number": "1380001004696",
@@ -26,7 +28,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.400455,
+      "lng": 140.35965
     },
     {
       "corporate_number": "1380001006486",
@@ -38,7 +42,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.406927769,
+      "lng": 140.353276594
     },
     {
       "corporate_number": "1380001013904",
@@ -50,7 +56,9 @@
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 36.891377428,
+      "lng": 140.769557873
     },
     {
       "corporate_number": "1380001016064",
@@ -66,7 +74,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.7503729,
+      "lng": 140.96147143
     },
     {
       "corporate_number": "1380002021245",
@@ -78,7 +88,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.076946165,
+      "lng": 140.406471028
     },
     {
       "corporate_number": "1380005000460",
@@ -90,7 +102,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.752391833,
+      "lng": 140.464815997
     },
     {
       "corporate_number": "1380005005443",
@@ -102,7 +116,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.290835,
+      "lng": 140.36621
     },
     {
       "corporate_number": "1380005006887",
@@ -114,7 +130,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.638506745,
+      "lng": 140.962978644
     },
     {
       "corporate_number": "1380005007051",
@@ -126,7 +144,9 @@
           "certification_name": "第３８回全国豊かな海づくり大会功績団体表彰",
           "certified_date": "2018-10-28"
         }
-      ]
+      ],
+      "lat": 37.828093739,
+      "lng": 140.972176716
     },
     {
       "corporate_number": "2380001005041",
@@ -142,7 +162,9 @@
           "certification_name": "高年齢者雇用開発コンテスト",
           "certified_date": "2019-10-03"
         }
-      ]
+      ],
+      "lat": 37.41068,
+      "lng": 140.358721
     },
     {
       "corporate_number": "2380001006502",
@@ -154,7 +176,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.393051503,
+      "lng": 140.373264047
     },
     {
       "corporate_number": "2380001010248",
@@ -166,7 +190,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.117387281,
+      "lng": 140.170703418
     },
     {
       "corporate_number": "2380001017219",
@@ -178,7 +204,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.562397156,
+      "lng": 140.114561247
     },
     {
       "corporate_number": "2380001027597",
@@ -190,7 +218,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.475987637,
+      "lng": 140.381706085
     },
     {
       "corporate_number": "2380002017754",
@@ -202,7 +232,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.126119,
+      "lng": 140.222967
     },
     {
       "corporate_number": "2380005002489",
@@ -214,7 +246,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.396023672,
+      "lng": 140.3853425
     },
     {
       "corporate_number": "2380005005715",
@@ -230,7 +264,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.094950258,
+      "lng": 140.888706103
     },
     {
       "corporate_number": "3380001000371",
@@ -242,7 +278,9 @@
           "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.760759,
+      "lng": 140.473269
     },
     {
       "corporate_number": "3380001003060",
@@ -262,7 +300,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.741405864,
+      "lng": 140.404029915
     },
     {
       "corporate_number": "3380001006170",
@@ -286,7 +326,9 @@
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.39241500000001,
+      "lng": 140.388529342
     },
     {
       "corporate_number": "3380001008877",
@@ -302,7 +344,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.431587655,
+      "lng": 140.527435081
     },
     {
       "corporate_number": "3380001009842",
@@ -318,7 +362,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.499033849,
+      "lng": 140.441866695
     },
     {
       "corporate_number": "3380001013415",
@@ -330,7 +376,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.050456,
+      "lng": 140.887687
     },
     {
       "corporate_number": "3380001015766",
@@ -342,7 +390,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.807782491,
+      "lng": 140.917861435
     },
     {
       "corporate_number": "3380001017390",
@@ -354,7 +404,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.508085,
+      "lng": 139.941666
     },
     {
       "corporate_number": "3380001017705",
@@ -366,7 +418,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.490597894,
+      "lng": 139.924234375
     },
     {
       "corporate_number": "3380001019255",
@@ -378,7 +432,9 @@
           "certification_name": "気象庁長官表彰",
           "certified_date": "2022-06-01"
         }
-      ]
+      ],
+      "lat": 37.200389,
+      "lng": 139.773215
     },
     {
       "corporate_number": "3380001025006",
@@ -390,7 +446,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.752926506,
+      "lng": 140.466829369
     },
     {
       "corporate_number": "3380001025352",
@@ -402,7 +460,9 @@
           "certification_name": "Ｊ－Ｓｔａｒｔｕｐ２０１９",
           "certified_date": "2019-06-24"
         }
-      ]
+      ],
+      "lat": 37.68317,
+      "lng": 140.45566
     },
     {
       "corporate_number": "3380002033338",
@@ -414,7 +474,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.498372919,
+      "lng": 139.925568983
     },
     {
       "corporate_number": "3380005000459",
@@ -426,7 +488,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.799931054,
+      "lng": 140.471059573
     },
     {
       "corporate_number": "3380005000467",
@@ -438,7 +502,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.752363677,
+      "lng": 140.42812811
     },
     {
       "corporate_number": "3380005001515",
@@ -450,7 +516,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.846700693,
+      "lng": 140.593086511
     },
     {
       "corporate_number": "3380005002455",
@@ -462,7 +530,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.407196381,
+      "lng": 140.36723775
     },
     {
       "corporate_number": "3380005005045",
@@ -474,7 +544,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.133669248,
+      "lng": 140.120601499
     },
     {
       "corporate_number": "3380005005680",
@@ -486,7 +558,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.050456,
+      "lng": 140.887687
     },
     {
       "corporate_number": "3380005005763",
@@ -498,7 +572,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.050456,
+      "lng": 140.887687
     },
     {
       "corporate_number": "3380005012520",
@@ -510,7 +586,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.744498044,
+      "lng": 140.452447317
     },
     {
       "corporate_number": "4380001001146",
@@ -526,7 +604,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.736196607,
+      "lng": 140.462496609
     },
     {
       "corporate_number": "4380001001393",
@@ -538,7 +618,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.757788817000005,
+      "lng": 140.464153828
     },
     {
       "corporate_number": "4380001003332",
@@ -550,7 +632,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.760759,
+      "lng": 140.473269
     },
     {
       "corporate_number": "4380001003877",
@@ -562,7 +646,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.681735926,
+      "lng": 140.549812472
     },
     {
       "corporate_number": "4380001005337",
@@ -574,7 +660,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.36234600000001,
+      "lng": 140.373233
     },
     {
       "corporate_number": "4380001010452",
@@ -586,7 +674,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.153797,
+      "lng": 140.303441
     },
     {
       "corporate_number": "4380001013307",
@@ -598,7 +688,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 36.93236726000001,
+      "lng": 140.839287315
     },
     {
       "corporate_number": "4380001014271",
@@ -610,7 +702,9 @@
           "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
           "certified_date": "2021-04-16"
         }
-      ]
+      ],
+      "lat": 36.909130435,
+      "lng": 140.78009428800002
     },
     {
       "corporate_number": "4380001017976",
@@ -622,7 +716,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.49566,
+      "lng": 139.94179
     },
     {
       "corporate_number": "4380005000144",
@@ -634,7 +730,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.753291278,
+      "lng": 140.468233717
     },
     {
       "corporate_number": "4380005002529",
@@ -654,7 +752,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.434775707,
+      "lng": 140.317585253
     },
     {
       "corporate_number": "5030001018240",
@@ -666,7 +766,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.256545221,
+      "lng": 140.288062109
     },
     {
       "corporate_number": "5380001001129",
@@ -678,7 +780,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.746466799,
+      "lng": 140.391404019
     },
     {
       "corporate_number": "5380001006094",
@@ -690,7 +794,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.400455,
+      "lng": 140.35965
     },
     {
       "corporate_number": "5380001006136",
@@ -702,7 +808,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.397814303,
+      "lng": 140.347802497
     },
     {
       "corporate_number": "5380001006508",
@@ -718,7 +826,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.374572769,
+      "lng": 140.372730987
     },
     {
       "corporate_number": "5380001013644",
@@ -730,7 +840,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 36.993643585,
+      "lng": 140.909479698
     },
     {
       "corporate_number": "5380001014997",
@@ -742,7 +854,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 36.939535103,
+      "lng": 140.800380921
     },
     {
       "corporate_number": "5380001015896",
@@ -754,7 +868,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.802054505,
+      "lng": 140.92096584
     },
     {
       "corporate_number": "5380001017959",
@@ -766,7 +882,9 @@
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.495956656,
+      "lng": 139.928447142
     },
     {
       "corporate_number": "5380001018230",
@@ -778,7 +896,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.492846831,
+      "lng": 139.944520417
     },
     {
       "corporate_number": "5380005000028",
@@ -790,7 +910,9 @@
           "certification_name": "消費者支援功労者表彰",
           "certified_date": "2013-05-27"
         }
-      ]
+      ],
+      "lat": 37.757289106,
+      "lng": 140.470161661
     },
     {
       "corporate_number": "5380005000498",
@@ -802,7 +924,9 @@
           "certification_name": "消費者支援功労者表彰",
           "certified_date": "2017-05-23"
         }
-      ]
+      ],
+      "lat": 37.772142396,
+      "lng": 140.441416121
     },
     {
       "corporate_number": "5380005011917",
@@ -814,7 +938,9 @@
           "certification_name": "第３回エコツーリズム大賞",
           "certified_date": "2007-11-18"
         }
-      ]
+      ],
+      "lat": 37.655673,
+      "lng": 139.937383
     },
     {
       "corporate_number": "5380005012485",
@@ -826,7 +952,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.761797464,
+      "lng": 140.476648961
     },
     {
       "corporate_number": "6290005013797",
@@ -838,7 +966,9 @@
           "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
           "certified_date": "2022-12-06"
         }
-      ]
+      ],
+      "lat": 36.997763718,
+      "lng": 140.826698984
     },
     {
       "corporate_number": "6380001000443",
@@ -850,7 +980,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.760759,
+      "lng": 140.473269
     },
     {
       "corporate_number": "6380001001549",
@@ -862,7 +994,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.747067981,
+      "lng": 140.464595556
     },
     {
       "corporate_number": "6380001006424",
@@ -874,7 +1008,9 @@
           "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
           "certified_date": "2020-04-17"
         }
-      ]
+      ],
+      "lat": 37.381267708,
+      "lng": 140.365737569
     },
     {
       "corporate_number": "6380001014253",
@@ -886,7 +1022,9 @@
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.03263228,
+      "lng": 140.848282986
     },
     {
       "corporate_number": "6380005011825",
@@ -898,7 +1036,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.775279473,
+      "lng": 140.460654599
     },
     {
       "corporate_number": "7000020070009",
@@ -910,7 +1050,9 @@
           "certification_name": "気象庁長官表彰",
           "certified_date": "2020-06-01"
         }
-      ]
+      ],
+      "lat": 37.750911131,
+      "lng": 140.467868258
     },
     {
       "corporate_number": "7380001000302",
@@ -922,7 +1064,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.769395808,
+      "lng": 140.383833082
     },
     {
       "corporate_number": "7380001003271",
@@ -934,7 +1078,9 @@
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.819095,
+      "lng": 140.562894
     },
     {
       "corporate_number": "7380001006893",
@@ -946,7 +1092,9 @@
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.400455,
+      "lng": 140.35965
     },
     {
       "corporate_number": "7380001009450",
@@ -958,7 +1106,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.60428958300001,
+      "lng": 140.46970423900004
     },
     {
       "corporate_number": "7380001010202",
@@ -970,7 +1120,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.128108,
+      "lng": 140.211393
     },
     {
       "corporate_number": "7380002011281",
@@ -982,7 +1134,9 @@
           "certification_name": "令和３年度未来につながる持続可能な農業推進コンクール",
           "certified_date": "2022-05-02"
         }
-      ]
+      ],
+      "lat": 37.342847767,
+      "lng": 140.439188896
     },
     {
       "corporate_number": "7380005002526",
@@ -998,7 +1152,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.400455,
+      "lng": 140.35965
     },
     {
       "corporate_number": "7380005003953",
@@ -1010,7 +1166,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.593199,
+      "lng": 140.436332
     },
     {
       "corporate_number": "7380005005768",
@@ -1022,7 +1180,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 36.993023676,
+      "lng": 140.910759133
     },
     {
       "corporate_number": "7380005007888",
@@ -1034,7 +1194,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.484889364,
+      "lng": 139.925430631
     },
     {
       "corporate_number": "7380005009281",
@@ -1046,7 +1208,9 @@
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.682722993,
+      "lng": 139.869446582
     },
     {
       "corporate_number": "7380005011626",
@@ -1058,7 +1222,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.403146217,
+      "lng": 140.363567403
     },
     {
       "corporate_number": "8000020078760",
@@ -1070,7 +1236,9 @@
           "certification_name": "気象庁長官表彰",
           "certified_date": "2023-06-01"
         }
-      ]
+      ],
+      "lat": 37.395941111,
+      "lng": 140.382023353
     },
     {
       "corporate_number": "8380001000334",
@@ -1082,7 +1250,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.760759,
+      "lng": 140.473269
     },
     {
       "corporate_number": "8380001005705",
@@ -1098,7 +1268,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.372444,
+      "lng": 140.371541
     },
     {
       "corporate_number": "8380001010432",
@@ -1110,7 +1282,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.126379,
+      "lng": 140.210923
     },
     {
       "corporate_number": "8380001011488",
@@ -1122,7 +1296,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.228079952,
+      "lng": 140.332711488
     },
     {
       "corporate_number": "8380001012247",
@@ -1134,7 +1310,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.075963705,
+      "lng": 140.846194767
     },
     {
       "corporate_number": "8380001012981",
@@ -1146,7 +1324,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.032467,
+      "lng": 140.848724
     },
     {
       "corporate_number": "8380001018038",
@@ -1162,7 +1342,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.479505,
+      "lng": 139.903627
     },
     {
       "corporate_number": "8380001018657",
@@ -1174,7 +1356,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.653346,
+      "lng": 139.878708
     },
     {
       "corporate_number": "8380001022452",
@@ -1190,7 +1374,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.779236582,
+      "lng": 140.457574924
     },
     {
       "corporate_number": "8380002011280",
@@ -1202,7 +1388,9 @@
           "certification_name": "令和３年度未来につながる持続可能な農業推進コンクール",
           "certified_date": "2022-05-02"
         }
-      ]
+      ],
+      "lat": 37.342847767,
+      "lng": 140.439188896
     },
     {
       "corporate_number": "8380002018771",
@@ -1214,7 +1402,9 @@
           "certification_name": "令和５年度「未来につながる持続可能な農業推進コンクール」",
           "certified_date": "2024-03-27"
         }
-      ]
+      ],
+      "lat": 36.871334,
+      "lng": 140.424755
     },
     {
       "corporate_number": "8380005002525",
@@ -1226,7 +1416,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.400455,
+      "lng": 140.35965
     },
     {
       "corporate_number": "8380005004744",
@@ -1238,7 +1430,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.141767,
+      "lng": 140.155299
     },
     {
       "corporate_number": "8380005007961",
@@ -1250,7 +1444,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.494842,
+      "lng": 139.929707
     },
     {
       "corporate_number": "9380001000572",
@@ -1266,7 +1462,9 @@
           "certification_name": "東北防衛局優秀工事顕彰",
           "certified_date": "2022-07-01"
         }
-      ]
+      ],
+      "lat": 37.760759,
+      "lng": 140.473269
     },
     {
       "corporate_number": "9380001001018",
@@ -1294,7 +1492,9 @@
           "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.753536661,
+      "lng": 140.466647983
     },
     {
       "corporate_number": "9380001001892",
@@ -1306,7 +1506,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.748847885,
+      "lng": 140.389938122
     },
     {
       "corporate_number": "9380001006768",
@@ -1318,7 +1520,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.405498553,
+      "lng": 140.382761444
     },
     {
       "corporate_number": "9380001006792",
@@ -1330,7 +1534,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.415114592,
+      "lng": 140.367074651
     },
     {
       "corporate_number": "9380001008673",
@@ -1342,7 +1548,9 @@
           "certification_name": "第７回グッドライフアワード",
           "certified_date": "2019-11-30"
         }
-      ]
+      ],
+      "lat": 37.361615,
+      "lng": 140.361273
     },
     {
       "corporate_number": "9380001009465",
@@ -1358,7 +1566,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 37.575417966,
+      "lng": 140.439216873
     },
     {
       "corporate_number": "9380001016676",
@@ -1370,7 +1580,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 37.345496000000004,
+      "lng": 141.008652
     },
     {
       "corporate_number": "9380001022030",
@@ -1382,7 +1594,9 @@
           "certification_name": "地域づくり表彰",
           "certified_date": "2021-10-27"
         }
-      ]
+      ],
+      "lat": 37.760759,
+      "lng": 140.473269
     },
     {
       "corporate_number": "9380001027161",
@@ -1394,7 +1608,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 36.993643585,
+      "lng": 140.909479698
     }
   ]
 }

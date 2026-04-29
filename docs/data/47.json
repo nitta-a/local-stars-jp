@@ -10,7 +10,9 @@
           "certification_name": "気象庁長官表彰",
           "certified_date": "2022-06-01"
         }
-      ]
+      ],
+      "lat": 26.213302338,
+      "lng": 127.67963134499999
     },
     {
       "corporate_number": "1360001000771",
@@ -26,7 +28,9 @@
           "certification_name": "高年齢者活躍企業コンテスト",
           "certified_date": "2024-10-04"
         }
-      ]
+      ],
+      "lat": 26.240450004,
+      "lng": 127.682079055
     },
     {
       "corporate_number": "1360001001027",
@@ -38,7 +42,9 @@
           "certification_name": "特別優秀工事顕彰",
           "certified_date": "2024-07-18"
         }
-      ]
+      ],
+      "lat": 26.191872,
+      "lng": 127.67409
     },
     {
       "corporate_number": "1360001001076",
@@ -50,7 +56,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.209783032,
+      "lng": 127.67813301899999
     },
     {
       "corporate_number": "1360001001365",
@@ -66,7 +74,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.206590000000002,
+      "lng": 127.678612
     },
     {
       "corporate_number": "1360001002099",
@@ -78,7 +88,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.347572985,
+      "lng": 124.16215037700002
     },
     {
       "corporate_number": "1360001009482",
@@ -90,7 +102,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.263105635,
+      "lng": 127.72030590299998
     },
     {
       "corporate_number": "1360001009499",
@@ -102,7 +116,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.273766691,
+      "lng": 127.734159066
     },
     {
       "corporate_number": "1360001013105",
@@ -114,7 +130,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.364752,
+      "lng": 124.128604
     },
     {
       "corporate_number": "1360001013113",
@@ -130,7 +148,9 @@
           "certification_name": "特別優秀工事等顕彰",
           "certified_date": "2023-06-29"
         }
-      ]
+      ],
+      "lat": 24.337124342,
+      "lng": 124.189131819
     },
     {
       "corporate_number": "1360001014342",
@@ -146,7 +166,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.176073724,
+      "lng": 127.744467352
     },
     {
       "corporate_number": "1360001023888",
@@ -158,7 +180,9 @@
           "certification_name": "新エネ大賞",
           "certified_date": "2020-01-29"
         }
-      ]
+      ],
+      "lat": 26.237250527,
+      "lng": 127.73571435600002
     },
     {
       "corporate_number": "1360001025876",
@@ -170,7 +194,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.243173439,
+      "lng": 127.689376512
     },
     {
       "corporate_number": "1360005000108",
@@ -182,7 +208,9 @@
           "certification_name": "消費者支援功労者表彰",
           "certified_date": "2022-05-26"
         }
-      ]
+      ],
+      "lat": 26.216596418,
+      "lng": 127.69784858200002
     },
     {
       "corporate_number": "1360005005288",
@@ -194,7 +222,9 @@
           "certification_name": "第１１回エコツーリズム大賞",
           "certified_date": "2016-03-10"
         }
-      ]
+      ],
+      "lat": 26.230562,
+      "lng": 127.306165
     },
     {
       "corporate_number": "2360001001364",
@@ -206,7 +236,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.329067,
+      "lng": 127.84547100000002
     },
     {
       "corporate_number": "2360001005191",
@@ -218,7 +250,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 26.215238669000005,
+      "lng": 127.768503502
     },
     {
       "corporate_number": "2360001005415",
@@ -230,7 +264,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.211870601,
+      "lng": 127.673622723
     },
     {
       "corporate_number": "2360001008632",
@@ -242,7 +278,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 26.262657461,
+      "lng": 127.7956131
     },
     {
       "corporate_number": "2360001008855",
@@ -254,7 +292,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.267683941,
+      "lng": 127.72475133
     },
     {
       "corporate_number": "2360001010191",
@@ -270,7 +310,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.283630528000003,
+      "lng": 127.743217235
     },
     {
       "corporate_number": "2360001015083",
@@ -282,7 +324,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.211847964,
+      "lng": 127.676849281
     },
     {
       "corporate_number": "2360001023391",
@@ -294,7 +338,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.522403586,
+      "lng": 128.020985941
     },
     {
       "corporate_number": "2360002017161",
@@ -310,7 +356,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 26.359190927,
+      "lng": 127.750649678
     },
     {
       "corporate_number": "2360002020041",
@@ -322,7 +370,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-12"
         }
-      ]
+      ],
+      "lat": 26.450859565,
+      "lng": 127.917299002
     },
     {
       "corporate_number": "2360002020495",
@@ -334,7 +384,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-12"
         }
-      ]
+      ],
+      "lat": 26.454487968,
+      "lng": 127.921859639
     },
     {
       "corporate_number": "2360002021618",
@@ -346,7 +398,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.364777913,
+      "lng": 124.16142547500002
     },
     {
       "corporate_number": "2360002021626",
@@ -358,7 +412,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.339120504,
+      "lng": 124.18538425599999
     },
     {
       "corporate_number": "2360005002004",
@@ -370,7 +426,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.366237077,
+      "lng": 127.825643444
     },
     {
       "corporate_number": "2360005002656",
@@ -382,7 +440,9 @@
           "certification_name": "消費者支援功労者表彰",
           "certified_date": "2019-05-28"
         }
-      ]
+      ],
+      "lat": 26.252047593,
+      "lng": 127.73853821800002
     },
     {
       "corporate_number": "3360001001512",
@@ -394,7 +454,9 @@
           "certification_name": "産業標準化事業表彰",
           "certified_date": "2021-10-20"
         }
-      ]
+      ],
+      "lat": 26.135806002,
+      "lng": 127.75030890800001
     },
     {
       "corporate_number": "3360001001909",
@@ -406,7 +468,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.226959,
+      "lng": 127.68324699999998
     },
     {
       "corporate_number": "3360001002469",
@@ -422,7 +486,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.224158616,
+      "lng": 127.693952382
     },
     {
       "corporate_number": "3360001005232",
@@ -434,7 +500,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.141853799000003,
+      "lng": 127.65043368200001
     },
     {
       "corporate_number": "3360001005876",
@@ -454,7 +522,9 @@
           "certification_name": "特別優秀工事等顕彰",
           "certified_date": "2023-06-29"
         }
-      ]
+      ],
+      "lat": 26.192791381,
+      "lng": 127.659790028
     },
     {
       "corporate_number": "3360001007708",
@@ -466,7 +536,9 @@
           "certification_name": "特別優秀工事顕彰",
           "certified_date": "2024-07-18"
         }
-      ]
+      ],
+      "lat": 26.404393521,
+      "lng": 127.83549993100002
     },
     {
       "corporate_number": "3360001008565",
@@ -478,7 +550,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.270612,
+      "lng": 127.717664
     },
     {
       "corporate_number": "3360001012162",
@@ -502,7 +576,9 @@
           "certification_name": "特別優秀工事等顕彰",
           "certified_date": "2022-07-06"
         }
-      ]
+      ],
+      "lat": 26.590194492,
+      "lng": 127.97852694300002
     },
     {
       "corporate_number": "3360001012220",
@@ -522,7 +598,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-11"
         }
-      ]
+      ],
+      "lat": 26.480728742000004,
+      "lng": 127.97125690999998
     },
     {
       "corporate_number": "3360001013160",
@@ -534,7 +612,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.355706585,
+      "lng": 124.1352195
     },
     {
       "corporate_number": "3360001013524",
@@ -546,7 +626,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.353909731,
+      "lng": 124.143543436
     },
     {
       "corporate_number": "3360001013730",
@@ -558,7 +640,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.804237766,
+      "lng": 125.290370436
     },
     {
       "corporate_number": "3360002012698",
@@ -570,7 +654,9 @@
           "certification_name": "特別優秀工事顕彰",
           "certified_date": "2024-07-18"
         }
-      ]
+      ],
+      "lat": 26.341436365,
+      "lng": 127.822032652
     },
     {
       "corporate_number": "3360002013762",
@@ -582,7 +668,9 @@
           "certification_name": "特別優秀工事顕彰",
           "certified_date": "2024-07-18"
         }
-      ]
+      ],
+      "lat": 26.426055519,
+      "lng": 127.825807791
     },
     {
       "corporate_number": "3360002019751",
@@ -594,7 +682,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-11"
         }
-      ]
+      ],
+      "lat": 26.604566861000002,
+      "lng": 127.944888334
     },
     {
       "corporate_number": "3360002020676",
@@ -606,7 +696,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.604254811,
+      "lng": 127.956528925
     },
     {
       "corporate_number": "3360002020684",
@@ -618,7 +710,9 @@
           "certification_name": "第１回エコツーリズム大賞",
           "certified_date": "2005-06-05"
         }
-      ]
+      ],
+      "lat": 26.602447078,
+      "lng": 128.143808608
     },
     {
       "corporate_number": "4000020472140",
@@ -634,7 +728,9 @@
           "certification_name": "新エネ大賞",
           "certified_date": "2020-01-29"
         }
-      ]
+      ],
+      "lat": 24.789968044,
+      "lng": 125.294700473
     },
     {
       "corporate_number": "4360001000315",
@@ -646,7 +742,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.231054,
+      "lng": 127.72600100000001
     },
     {
       "corporate_number": "4360001000406",
@@ -658,7 +756,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.21412147,
+      "lng": 127.680377054
     },
     {
       "corporate_number": "4360001000637",
@@ -674,7 +774,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.238240392,
+      "lng": 127.694757178
     },
     {
       "corporate_number": "4360001000934",
@@ -698,7 +800,9 @@
           "certification_name": "特別優秀工事等顕彰",
           "certified_date": "2022-07-06"
         }
-      ]
+      ],
+      "lat": 26.215011288,
+      "lng": 127.68037654500002
     },
     {
       "corporate_number": "4360001001008",
@@ -710,7 +814,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.223622839,
+      "lng": 127.68090894600002
     },
     {
       "corporate_number": "4360001001263",
@@ -726,7 +832,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-12"
         }
-      ]
+      ],
+      "lat": 26.211345887,
+      "lng": 127.672968132
     },
     {
       "corporate_number": "4360001002105",
@@ -738,7 +846,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.233888532,
+      "lng": 127.685149742
     },
     {
       "corporate_number": "4360001002749",
@@ -750,7 +860,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.228123088000004,
+      "lng": 127.774927889
     },
     {
       "corporate_number": "4360001004349",
@@ -762,7 +874,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 26.234151293,
+      "lng": 127.737323398
     },
     {
       "corporate_number": "4360001006502",
@@ -778,7 +892,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.196307909,
+      "lng": 127.719215548
     },
     {
       "corporate_number": "4360001007681",
@@ -794,7 +910,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.377958645,
+      "lng": 127.85609604
     },
     {
       "corporate_number": "4360001008787",
@@ -806,7 +924,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.26128776,
+      "lng": 127.760089884
     },
     {
       "corporate_number": "4360001008952",
@@ -818,7 +938,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.273320743,
+      "lng": 127.805975643
     },
     {
       "corporate_number": "4360001009232",
@@ -830,7 +952,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-11"
         }
-      ]
+      ],
+      "lat": 26.287991368,
+      "lng": 127.77454721700002
     },
     {
       "corporate_number": "4360001009257",
@@ -846,7 +970,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.243173439,
+      "lng": 127.689376512
     },
     {
       "corporate_number": "4360001013151",
@@ -858,7 +984,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.334497544,
+      "lng": 124.178936508
     },
     {
       "corporate_number": "4360001020412",
@@ -870,7 +998,9 @@
           "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
           "certified_date": "2019-10-24"
         }
-      ]
+      ],
+      "lat": 26.233886089,
+      "lng": 127.722519908
     },
     {
       "corporate_number": "4360002013737",
@@ -882,7 +1012,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.43548383,
+      "lng": 127.82474014800002
     },
     {
       "corporate_number": "4360002019874",
@@ -894,7 +1026,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-12"
         }
-      ]
+      ],
+      "lat": 26.608486573,
+      "lng": 127.97646356599999
     },
     {
       "corporate_number": "4360002020452",
@@ -906,7 +1040,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-12"
         }
-      ]
+      ],
+      "lat": 26.479185926,
+      "lng": 127.97383051
     },
     {
       "corporate_number": "4360005000419",
@@ -918,7 +1054,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.16731,
+      "lng": 127.658747
     },
     {
       "corporate_number": "4360005001367",
@@ -930,7 +1068,9 @@
           "certification_name": "消費者支援功労者表彰",
           "certified_date": "2013-05-27"
         }
-      ]
+      ],
+      "lat": 26.224261434,
+      "lng": 127.70671071
     },
     {
       "corporate_number": "4360005002621",
@@ -942,7 +1082,9 @@
           "certification_name": "消費者支援功労者表彰",
           "certified_date": "2015-05-30"
         }
-      ]
+      ],
+      "lat": 26.252047593,
+      "lng": 127.73853821800002
     },
     {
       "corporate_number": "4360005003231",
@@ -954,7 +1096,9 @@
           "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
           "certified_date": "2020-12-08"
         }
-      ]
+      ],
+      "lat": 26.609574,
+      "lng": 127.965295
     },
     {
       "corporate_number": "5360001000446",
@@ -966,7 +1110,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.215011288,
+      "lng": 127.68037654500002
     },
     {
       "corporate_number": "5360001001007",
@@ -982,7 +1128,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-11"
         }
-      ]
+      ],
+      "lat": 26.243597628,
+      "lng": 127.67873285800002
     },
     {
       "corporate_number": "5360001007788",
@@ -1002,7 +1150,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 26.352717,
+      "lng": 127.80655000000002
     },
     {
       "corporate_number": "5360001009256",
@@ -1014,7 +1164,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.24973732,
+      "lng": 127.686226553
     },
     {
       "corporate_number": "5360001009272",
@@ -1026,7 +1178,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.266556396,
+      "lng": 127.72382194799998
     },
     {
       "corporate_number": "5360001013101",
@@ -1046,7 +1200,9 @@
           "certification_name": "特別優秀工事等顕彰",
           "certified_date": "2023-06-29"
         }
-      ]
+      ],
+      "lat": 24.342545441,
+      "lng": 124.152072946
     },
     {
       "corporate_number": "5360001013118",
@@ -1058,7 +1214,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.342153774,
+      "lng": 124.172338349
     },
     {
       "corporate_number": "5360001016599",
@@ -1070,7 +1228,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 26.210927506,
+      "lng": 127.69218511500002
     },
     {
       "corporate_number": "5360002012829",
@@ -1082,7 +1242,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.337352142,
+      "lng": 127.815164214
     },
     {
       "corporate_number": "5360002015708",
@@ -1094,7 +1256,9 @@
           "certification_name": "特別優秀工事顕彰",
           "certified_date": "2024-07-18"
         }
-      ]
+      ],
+      "lat": 26.320809238,
+      "lng": 127.801502754
     },
     {
       "corporate_number": "6360001000404",
@@ -1110,7 +1274,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.214731646000004,
+      "lng": 127.67903541700001
     },
     {
       "corporate_number": "6360001000602",
@@ -1126,7 +1292,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 26.203614,
+      "lng": 127.680599
     },
     {
       "corporate_number": "6360001000759",
@@ -1142,7 +1310,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 26.220483884000004,
+      "lng": 127.687692908
     },
     {
       "corporate_number": "6360001001022",
@@ -1154,7 +1324,9 @@
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.210566701,
+      "lng": 127.724612288
     },
     {
       "corporate_number": "6360001001146",
@@ -1166,7 +1338,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.218180186,
+      "lng": 127.668158784
     },
     {
       "corporate_number": "6360001001526",
@@ -1178,7 +1352,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.231752962,
+      "lng": 127.68431514899999
     },
     {
       "corporate_number": "6360001002375",
@@ -1190,7 +1366,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.219123513,
+      "lng": 127.68177883100002
     },
     {
       "corporate_number": "6360001004314",
@@ -1202,7 +1380,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.228818992,
+      "lng": 127.776152373
     },
     {
       "corporate_number": "6360001007795",
@@ -1218,7 +1398,9 @@
           "certification_name": "優秀業務等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.333870217,
+      "lng": 127.84876960899999
     },
     {
       "corporate_number": "6360001008422",
@@ -1230,7 +1412,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.327316316,
+      "lng": 127.752919078
     },
     {
       "corporate_number": "6360001009692",
@@ -1246,7 +1430,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-11"
         }
-      ]
+      ],
+      "lat": 26.243766322,
+      "lng": 127.69006108100001
     },
     {
       "corporate_number": "6360001012135",
@@ -1258,7 +1444,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-11"
         }
-      ]
+      ],
+      "lat": 26.608537907,
+      "lng": 127.96860291
     },
     {
       "corporate_number": "6360001013595",
@@ -1274,7 +1462,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.344811651,
+      "lng": 124.148989719
     },
     {
       "corporate_number": "6360001014841",
@@ -1290,7 +1480,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-12"
         }
-      ]
+      ],
+      "lat": 26.450892754,
+      "lng": 127.90656928500002
     },
     {
       "corporate_number": "6360001022183",
@@ -1302,7 +1494,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.18694,
+      "lng": 127.693159
     },
     {
       "corporate_number": "6360001022720",
@@ -1314,7 +1508,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.215113934,
+      "lng": 127.67699946200001
     },
     {
       "corporate_number": "6360002016309",
@@ -1326,7 +1522,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.262608451,
+      "lng": 127.74977915499998
     },
     {
       "corporate_number": "6360005001332",
@@ -1342,7 +1540,9 @@
           "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
           "certified_date": "2023-04-18"
         }
-      ]
+      ],
+      "lat": 26.250893,
+      "lng": 127.76265799999999
     },
     {
       "corporate_number": "7360001001178",
@@ -1354,7 +1554,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.210458293,
+      "lng": 127.726908062
     },
     {
       "corporate_number": "7360001002291",
@@ -1366,7 +1568,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.213069908,
+      "lng": 127.678195079
     },
     {
       "corporate_number": "7360001004610",
@@ -1378,7 +1582,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.211651693,
+      "lng": 127.67235961200001
     },
     {
       "corporate_number": "7360001007662",
@@ -1394,7 +1600,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 26.331274684,
+      "lng": 127.85176258300001
     },
     {
       "corporate_number": "7360001009064",
@@ -1406,7 +1614,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.254438432,
+      "lng": 127.73636929000001
     },
     {
       "corporate_number": "7360001009139",
@@ -1418,7 +1628,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.282390805,
+      "lng": 127.77893900299999
     },
     {
       "corporate_number": "7360001009196",
@@ -1430,7 +1642,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.284087954,
+      "lng": 127.77956169700002
     },
     {
       "corporate_number": "7360001013223",
@@ -1446,7 +1660,9 @@
           "certification_name": "特別優秀工事等顕彰",
           "certified_date": "2023-06-29"
         }
-      ]
+      ],
+      "lat": 24.340895117,
+      "lng": 124.180832096
     },
     {
       "corporate_number": "7360001013231",
@@ -1458,7 +1674,9 @@
           "certification_name": "第１回エコツーリズム大賞",
           "certified_date": "2005-06-05"
         }
-      ]
+      ],
+      "lat": 24.273548743,
+      "lng": 123.88172636699998
     },
     {
       "corporate_number": "7360001013743",
@@ -1470,7 +1688,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 24.789342426,
+      "lng": 125.30472935600001
     },
     {
       "corporate_number": "7360001016333",
@@ -1482,7 +1702,9 @@
           "certification_name": "地域未来牽引企業",
           "certified_date": "2020-10-13"
         }
-      ]
+      ],
+      "lat": 26.209001,
+      "lng": 127.68047200000001
     },
     {
       "corporate_number": "7360001017819",
@@ -1494,7 +1716,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.381549,
+      "lng": 124.186131
     },
     {
       "corporate_number": "7360001024253",
@@ -1510,7 +1734,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.236816253,
+      "lng": 127.769671581
     },
     {
       "corporate_number": "7360001025664",
@@ -1522,7 +1748,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.156532,
+      "lng": 127.657786
     },
     {
       "corporate_number": "7360002015029",
@@ -1534,7 +1762,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.316891438,
+      "lng": 127.777351571
     },
     {
       "corporate_number": "7360002019780",
@@ -1546,7 +1776,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-12"
         }
-      ]
+      ],
+      "lat": 26.619382078000005,
+      "lng": 128.01581355
     },
     {
       "corporate_number": "7360005000440",
@@ -1558,7 +1790,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.225472656,
+      "lng": 127.693737532
     },
     {
       "corporate_number": "8000020473812",
@@ -1570,7 +1804,9 @@
           "certification_name": "国土交通大臣表彰",
           "certified_date": "2019-06-01"
         }
-      ]
+      ],
+      "lat": 24.339594248,
+      "lng": 124.15437108
     },
     {
       "corporate_number": "8360001000575",
@@ -1582,7 +1818,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.199394795,
+      "lng": 127.69496497800002
     },
     {
       "corporate_number": "8360001000740",
@@ -1594,7 +1832,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.209783032,
+      "lng": 127.67813301899999
     },
     {
       "corporate_number": "8360001005335",
@@ -1606,7 +1846,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.193998948,
+      "lng": 127.67266590000001
     },
     {
       "corporate_number": "8360001005343",
@@ -1618,7 +1860,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-12"
         }
-      ]
+      ],
+      "lat": 26.199839902,
+      "lng": 127.672679334
     },
     {
       "corporate_number": "8360001007232",
@@ -1630,7 +1874,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2022-07-14"
         }
-      ]
+      ],
+      "lat": 26.315182000000004,
+      "lng": 127.820415
     },
     {
       "corporate_number": "8360001008627",
@@ -1642,7 +1888,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.280348583,
+      "lng": 127.74015040700002
     },
     {
       "corporate_number": "8360001012018",
@@ -1654,7 +1902,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.356653741,
+      "lng": 127.83023636400002
     },
     {
       "corporate_number": "8360001013098",
@@ -1666,7 +1916,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.341773985,
+      "lng": 124.175392021
     },
     {
       "corporate_number": "8360002002315",
@@ -1678,7 +1930,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.204046709,
+      "lng": 127.691389539
     },
     {
       "corporate_number": "8360002013287",
@@ -1690,7 +1944,9 @@
           "certification_name": "特別優秀工事顕彰",
           "certified_date": "2024-07-18"
         }
-      ]
+      ],
+      "lat": 26.345952534,
+      "lng": 127.834824762
     },
     {
       "corporate_number": "8360002020184",
@@ -1710,7 +1966,9 @@
           "certification_name": "特別優秀工事等顕彰",
           "certified_date": "2022-07-06"
         }
-      ]
+      ],
+      "lat": 26.746465792,
+      "lng": 128.18067567
     },
     {
       "corporate_number": "8360002021348",
@@ -1722,7 +1980,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.363245343000003,
+      "lng": 124.164195067
     },
     {
       "corporate_number": "8360003005390",
@@ -1734,7 +1994,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 24.799721353,
+      "lng": 125.282253308
     },
     {
       "corporate_number": "8360005000464",
@@ -1750,7 +2012,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.210608088,
+      "lng": 127.67593070100001
     },
     {
       "corporate_number": "8430005010290",
@@ -1762,7 +2026,9 @@
           "certification_name": "第１６回エコツーリズム大賞",
           "certified_date": "2021-03-08"
         }
-      ]
+      ],
+      "lat": 26.122849552000005,
+      "lng": 127.744294162
     },
     {
       "corporate_number": "9000020473588",
@@ -1774,7 +2040,9 @@
           "certification_name": "国土交通大臣表彰",
           "certified_date": "2021-06-01"
         }
-      ]
+      ],
+      "lat": 25.945730692,
+      "lng": 131.298876565
     },
     {
       "corporate_number": "9360001001829",
@@ -1786,7 +2054,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.221154567,
+      "lng": 127.698935251
     },
     {
       "corporate_number": "9360001001944",
@@ -1798,7 +2068,9 @@
           "certification_name": "えるぼし－認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.20201854,
+      "lng": 127.68390070199999
     },
     {
       "corporate_number": "9360001002488",
@@ -1818,7 +2090,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.223384323,
+      "lng": 127.69558779100001
     },
     {
       "corporate_number": "9360001008667",
@@ -1830,7 +2104,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.245502667,
+      "lng": 127.711471762
     },
     {
       "corporate_number": "9360001011423",
@@ -1842,7 +2118,9 @@
           "certification_name": "優秀工事等顕彰",
           "certified_date": "2024-07-30"
         }
-      ]
+      ],
+      "lat": 26.25549039,
+      "lng": 127.71878364900002
     },
     {
       "corporate_number": "9360001011753",
@@ -1858,7 +2136,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 26.206175569,
+      "lng": 127.69232108399999
     },
     {
       "corporate_number": "9360001012223",
@@ -1874,7 +2154,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.517580297,
+      "lng": 128.019848529
     },
     {
       "corporate_number": "9360001012231",
@@ -1886,7 +2168,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-12"
         }
-      ]
+      ],
+      "lat": 26.452962157,
+      "lng": 127.89692993600002
     },
     {
       "corporate_number": "9360001013064",
@@ -1898,7 +2182,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.351019018,
+      "lng": 124.14799186799999
     },
     {
       "corporate_number": "9360001013080",
@@ -1910,7 +2196,9 @@
           "certification_name": "優秀工事顕彰",
           "certified_date": "2023-07-13"
         }
-      ]
+      ],
+      "lat": 24.33946021,
+      "lng": 124.18407963500002
     },
     {
       "corporate_number": "9360001023889",
@@ -1922,7 +2210,9 @@
           "certification_name": "新エネ大賞",
           "certified_date": "2020-01-29"
         }
-      ]
+      ],
+      "lat": 24.761218891,
+      "lng": 125.380499044
     },
     {
       "corporate_number": "9360001027015",
@@ -1934,7 +2224,9 @@
           "certification_name": "令和３年度環境スタートアップ大賞",
           "certified_date": "2022-03-09"
         }
-      ]
+      ],
+      "lat": 26.458881502,
+      "lng": 127.832427535
     },
     {
       "corporate_number": "9360005001544",
@@ -1946,7 +2238,9 @@
           "certification_name": "人権擁護功労賞",
           "certified_date": "2020-12-04"
         }
-      ]
+      ],
+      "lat": 26.218089,
+      "lng": 127.708823
     },
     {
       "corporate_number": "9360005001783",
@@ -1958,7 +2252,9 @@
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
           "certified_date": ""
         }
-      ]
+      ],
+      "lat": 26.182775473,
+      "lng": 127.731860754
     }
   ]
 }
