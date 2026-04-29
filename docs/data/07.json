@@ -1,0 +1,1400 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020075418",
+      "name": "広野町",
+      "address": "福島県双葉郡広野町大字下北迫字苗代替３５",
+      "prefecture": "福島県双葉郡広野町大字下北迫字苗代替３５",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1380001004696",
+      "name": "株式会社エフコム",
+      "address": "福島県郡山市堤下町１３番８号",
+      "prefecture": "福島県郡山市堤下町１３番８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1380001006486",
+      "name": "株式会社福島情報処理センター",
+      "address": "福島県郡山市桑野３丁目１８番２４号",
+      "prefecture": "福島県郡山市桑野３丁目１８番２４号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1380001013904",
+      "name": "株式会社マルト",
+      "address": "福島県いわき市勿来町窪田十条３番１",
+      "prefecture": "福島県いわき市勿来町窪田十条３番１",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1380001016064",
+      "name": "ニダック精密株式会社",
+      "address": "福島県相馬市柚木字一ノ坪１０５番地８",
+      "prefecture": "福島県相馬市柚木字一ノ坪１０５番地８",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1380002021245",
+      "name": "有限会社塚原製作所",
+      "address": "福島県石川郡浅川町大字簑輪字大代１番地４７",
+      "prefecture": "福島県石川郡浅川町大字簑輪字大代１番地４７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1380005000460",
+      "name": "社会福祉法人多宝会",
+      "address": "福島県福島市本町４番２３号",
+      "prefecture": "福島県福島市本町４番２３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1380005005443",
+      "name": "医療法人平心会",
+      "address": "福島県須賀川市丸田町５１番地",
+      "prefecture": "福島県須賀川市丸田町５１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1380005006887",
+      "name": "あぶくま信用金庫",
+      "address": "福島県南相馬市原町区栄町２丁目１５番地",
+      "prefecture": "福島県南相馬市原町区栄町２丁目１５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1380005007051",
+      "name": "相馬双葉漁業協同組合",
+      "address": "福島県相馬市尾浜字追川１９６番地",
+      "prefecture": "福島県相馬市尾浜字追川１９６番地",
+      "certification": [
+        {
+          "certification_name": "第３８回全国豊かな海づくり大会功績団体表彰",
+          "certified_date": "2018-10-28"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2380001005041",
+      "name": "株式会社建設相互測地社",
+      "address": "福島県郡山市並木４丁目１２番地１８",
+      "prefecture": "福島県郡山市並木４丁目１２番地１８",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "高年齢者雇用開発コンテスト",
+          "certified_date": "2019-10-03"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2380001006502",
+      "name": "株式会社福島中央テレビ",
+      "address": "福島県郡山市池ノ台１３番２３号",
+      "prefecture": "福島県郡山市池ノ台１３番２３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2380001010248",
+      "name": "白河オリンパス株式会社",
+      "address": "福島県西白河郡西郷村大字小田倉字狼山３番地１",
+      "prefecture": "福島県西白河郡西郷村大字小田倉字狼山３番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2380001017219",
+      "name": "株式会社アセラ",
+      "address": "福島県耶麻郡猪苗代町字出雲壇３５番地１",
+      "prefecture": "福島県耶麻郡猪苗代町字出雲壇３５番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2380001027597",
+      "name": "株式会社東北村田製作所",
+      "address": "福島県郡山市日和田町高倉字下杉下１番地の１",
+      "prefecture": "福島県郡山市日和田町高倉字下杉下１番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2380002017754",
+      "name": "有限会社幸栄",
+      "address": "福島県白河市明戸８１番地",
+      "prefecture": "福島県白河市明戸８１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2380005002489",
+      "name": "公益財団法人湯浅報恩会",
+      "address": "福島県郡山市駅前１丁目１番１７号",
+      "prefecture": "福島県郡山市駅前１丁目１番１７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2380005005715",
+      "name": "社会福祉法人いわき福音協会",
+      "address": "福島県いわき市平上平窪字羽黒４０番地の４４",
+      "prefecture": "福島県いわき市平上平窪字羽黒４０番地の４４",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001000371",
+      "name": "北芝電機株式会社",
+      "address": "福島県福島市松川町字天王原９番地",
+      "prefecture": "福島県福島市松川町字天王原９番地",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001003060",
+      "name": "福島キヤノン株式会社",
+      "address": "福島県福島市佐倉下字二本榎２番地",
+      "prefecture": "福島県福島市佐倉下字二本榎２番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001006170",
+      "name": "株式会社ニラク",
+      "address": "福島県郡山市方八町１丁目１番３９号",
+      "prefecture": "福島県郡山市方八町１丁目１番３９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001008877",
+      "name": "株式会社デンソー福島",
+      "address": "福島県田村市船引町光陽台２６番地",
+      "prefecture": "福島県田村市船引町光陽台２６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001009842",
+      "name": "株式会社ヨシハラ",
+      "address": "福島県本宮市糠沢字二斗内２９６番地",
+      "prefecture": "福島県本宮市糠沢字二斗内２９６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001013415",
+      "name": "東北ネヂ製造株式会社",
+      "address": "福島県いわき市泉町黒須野字砂利５９番地",
+      "prefecture": "福島県いわき市泉町黒須野字砂利５９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001015766",
+      "name": "株式会社小野中村",
+      "address": "福島県相馬市小泉字高池８８番地の１",
+      "prefecture": "福島県相馬市小泉字高池８８番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001017390",
+      "name": "株式会社共和測量設計",
+      "address": "福島県会津若松市山見町３１３番地",
+      "prefecture": "福島県会津若松市山見町３１３番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001017705",
+      "name": "日本精測株式会社",
+      "address": "福島県会津若松市山鹿町１番１０号",
+      "prefecture": "福島県会津若松市山鹿町１番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001019255",
+      "name": "株式会社みなみあいづ",
+      "address": "福島県南会津郡南会津町田島字西番場甲３６１番地９",
+      "prefecture": "福島県南会津郡南会津町田島字西番場甲３６１番地９",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001025006",
+      "name": "株式会社ｚｅｒｏ　ｏｎｅ",
+      "address": "福島県福島市大町７番２５号アクティ大町ビル",
+      "prefecture": "福島県福島市大町７番２５号アクティ大町ビル",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380001025352",
+      "name": "株式会社ミューラボ",
+      "address": "福島県福島市金谷川１番地",
+      "prefecture": "福島県福島市金谷川１番地",
+      "certification": [
+        {
+          "certification_name": "Ｊ－Ｓｔａｒｔｕｐ２０１９",
+          "certified_date": "2019-06-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380002033338",
+      "name": "株式会社薬樹",
+      "address": "福島県会津若松市大町１丁目１番１６号",
+      "prefecture": "福島県会津若松市大町１丁目１番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380005000459",
+      "name": "社会福祉法人すこやか福祉会",
+      "address": "福島県福島市沖高字中島１４番地の１",
+      "prefecture": "福島県福島市沖高字中島１４番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380005000467",
+      "name": "社会福祉法人福島福祉施設協会",
+      "address": "福島県福島市仁井田字龍神前２番地の１",
+      "prefecture": "福島県福島市仁井田字龍神前２番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380005001515",
+      "name": "社会福祉法人信達福祉会",
+      "address": "福島県伊達市梁川町字東土橋６５番地１",
+      "prefecture": "福島県伊達市梁川町字東土橋６５番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380005002455",
+      "name": "一般財団法人太田綜合病院",
+      "address": "福島県郡山市西ノ内２丁目６番１８号",
+      "prefecture": "福島県郡山市西ノ内２丁目６番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380005005045",
+      "name": "社会福祉法人福島県社会福祉事業団",
+      "address": "福島県西白河郡西郷村大字小田倉字上上野原５番地３",
+      "prefecture": "福島県西白河郡西郷村大字小田倉字上上野原５番地３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380005005680",
+      "name": "公益財団法人磐城済世会",
+      "address": "福島県いわき市平字小太郎町１番地の１",
+      "prefecture": "福島県いわき市平字小太郎町１番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380005005763",
+      "name": "医療法人松尾会",
+      "address": "福島県いわき市平字新田前２番地の５",
+      "prefecture": "福島県いわき市平字新田前２番地の５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3380005012520",
+      "name": "行政書士法人近藤事務所",
+      "address": "福島県福島市方木田字前白家５番地の１",
+      "prefecture": "福島県福島市方木田字前白家５番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380001001146",
+      "name": "日東紡績株式会社",
+      "address": "福島県福島市郷野目字東１番地",
+      "prefecture": "福島県福島市郷野目字東１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380001001393",
+      "name": "株式会社福島銀行",
+      "address": "福島県福島市万世町２番５号",
+      "prefecture": "福島県福島市万世町２番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380001003332",
+      "name": "株式会社ＮＡＫＡＮＯ",
+      "address": "福島県福島市岡島字作田入５番地７",
+      "prefecture": "福島県福島市岡島字作田入５番地７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380001003877",
+      "name": "株式会社渡工テクノサイト",
+      "address": "福島県伊達郡川俣町大字羽田字向１番地の１",
+      "prefecture": "福島県伊達郡川俣町大字羽田字向１番地の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380001005337",
+      "name": "笹の川酒造株式会社",
+      "address": "福島県郡山市笹川１丁目１７８番地",
+      "prefecture": "福島県郡山市笹川１丁目１７８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380001010452",
+      "name": "株式会社ミヤタ",
+      "address": "福島県西白河郡泉崎村大字泉崎字山神山８番地１",
+      "prefecture": "福島県西白河郡泉崎村大字泉崎字山神山８番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380001013307",
+      "name": "竹内精工株式会社",
+      "address": "福島県いわき市泉町黒須野字江越２４６番地の１６",
+      "prefecture": "福島県いわき市泉町黒須野字江越２４６番地の１６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380001014271",
+      "name": "株式会社シンテック",
+      "address": "福島県いわき市錦町江栗前２５番地",
+      "prefecture": "福島県いわき市錦町江栗前２５番地",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2021-04-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380001017976",
+      "name": "株式会社アクーズ会津",
+      "address": "福島県会津若松市千石町４番５０号",
+      "prefecture": "福島県会津若松市千石町４番５０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380005000144",
+      "name": "一般財団法人大原記念財団",
+      "address": "福島県福島市上町６番１号",
+      "prefecture": "福島県福島市上町６番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4380005002529",
+      "name": "社会福祉法人郡山福祉会",
+      "address": "福島県郡山市片平町字妙見舘１番地２",
+      "prefecture": "福島県郡山市片平町字妙見舘１番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5030001018240",
+      "name": "武蔵野精機株式会社",
+      "address": "福島県須賀川市矢田野字四十壇１番地８",
+      "prefecture": "福島県須賀川市矢田野字四十壇１番地８",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380001001129",
+      "name": "株式会社日進堂印刷所",
+      "address": "福島県福島市庄野字柿場１番地の１",
+      "prefecture": "福島県福島市庄野字柿場１番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380001006094",
+      "name": "株式会社二嘉組",
+      "address": "福島県郡山市湖南町福良字家老９３９０番地６",
+      "prefecture": "福島県郡山市湖南町福良字家老９３９０番地６",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380001006136",
+      "name": "株式会社ニノテック",
+      "address": "福島県郡山市島２丁目４４番２号",
+      "prefecture": "福島県郡山市島２丁目４４番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380001006508",
+      "name": "福島トヨペット株式会社",
+      "address": "福島県郡山市字川向１番地１",
+      "prefecture": "福島県郡山市字川向１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380001013644",
+      "name": "株式会社ハニーズホールディングス",
+      "address": "福島県いわき市鹿島町走熊字七本松２７番地の１",
+      "prefecture": "福島県いわき市鹿島町走熊字七本松２７番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380001014997",
+      "name": "株式会社福島インフォメーションリサーチ＆マネジメント",
+      "address": "福島県いわき市添野町清水７番地",
+      "prefecture": "福島県いわき市添野町清水７番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380001015896",
+      "name": "株式会社スター精機",
+      "address": "福島県相馬市中村字荒井町４６番地",
+      "prefecture": "福島県相馬市中村字荒井町４６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380001017959",
+      "name": "株式会社リオン・ドールコーポレーション",
+      "address": "福島県会津若松市栄町２番１４号",
+      "prefecture": "福島県会津若松市栄町２番１４号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380001018230",
+      "name": "若松ガス株式会社",
+      "address": "福島県会津若松市千石町４番１６号",
+      "prefecture": "福島県会津若松市千石町４番１６号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380005000028",
+      "name": "福島県生活協同組合連合会",
+      "address": "福島県福島市仲間町４番８号ラコパふくしま４Ｆ",
+      "prefecture": "福島県福島市仲間町４番８号ラコパふくしま４Ｆ",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2013-05-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380005000498",
+      "name": "生活協同組合コープふくしま",
+      "address": "福島県福島市森合字清水７番地",
+      "prefecture": "福島県福島市森合字清水７番地",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2017-05-23"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380005011917",
+      "name": "ＮＰＯ法人裏磐梯エコツーリズム協会",
+      "address": "福島県耶麻郡北塩原村大字桧原字剣ケ峯１０９３番地",
+      "prefecture": "福島県耶麻郡北塩原村大字桧原字剣ケ峯１０９３番地",
+      "certification": [
+        {
+          "certification_name": "第３回エコツーリズム大賞",
+          "certified_date": "2007-11-18"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5380005012485",
+      "name": "ファーリア社会保険労務士法人",
+      "address": "福島県福島市北五老内町８番９号",
+      "prefecture": "福島県福島市北五老内町８番９号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6290005013797",
+      "name": "一般社団法人日本パラサイクリング連盟",
+      "address": "福島県いわき市常磐上湯長谷町釜ノ前１番地の１",
+      "prefecture": "福島県いわき市常磐上湯長谷町釜ノ前１番地の１",
+      "certification": [
+        {
+          "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2022-12-06"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6380001000443",
+      "name": "株式会社クラロン",
+      "address": "福島県福島市八木田字並柳５８番地",
+      "prefecture": "福島県福島市八木田字並柳５８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6380001001549",
+      "name": "福島民友新聞株式会社",
+      "address": "福島県福島市柳町４番２９号",
+      "prefecture": "福島県福島市柳町４番２９号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6380001006424",
+      "name": "フロンティア・ラボ株式会社",
+      "address": "福島県郡山市菜根４丁目１６番２０号",
+      "prefecture": "福島県郡山市菜根４丁目１６番２０号",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2020-04-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6380001014253",
+      "name": "常磐パッケージ株式会社",
+      "address": "福島県いわき市内郷白水町浜井場２３番１号",
+      "prefecture": "福島県いわき市内郷白水町浜井場２３番１号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6380005011825",
+      "name": "社会保険労務士法人ニア・コンサルティング",
+      "address": "福島県福島市御山字田中２２番地の７",
+      "prefecture": "福島県福島市御山字田中２２番地の７",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7000020070009",
+      "name": "福島県",
+      "address": "福島県福島市杉妻町２－１６",
+      "prefecture": "福島県福島市杉妻町２－１６",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2020-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380001000302",
+      "name": "株式会社小野工業所",
+      "address": "福島県福島市町庭坂字堀ノ内３番地１",
+      "prefecture": "福島県福島市町庭坂字堀ノ内３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380001003271",
+      "name": "伊達物産株式会社",
+      "address": "福島県伊達市梁川町字南町谷川１３番地",
+      "prefecture": "福島県伊達市梁川町字南町谷川１３番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380001006893",
+      "name": "株式会社ヨークベニマル",
+      "address": "福島県郡山市谷島町５番４２号",
+      "prefecture": "福島県郡山市谷島町５番４２号",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380001009450",
+      "name": "株式会社野地組",
+      "address": "福島県二本松市油井字赤坂山２７番地",
+      "prefecture": "福島県二本松市油井字赤坂山２７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380001010202",
+      "name": "株式会社サクラテック",
+      "address": "福島県白河市中町８番地",
+      "prefecture": "福島県白河市中町８番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380002011281",
+      "name": "有限会社仁井田本家あぐり",
+      "address": "福島県郡山市田村町金沢字高屋敷１３９番地",
+      "prefecture": "福島県郡山市田村町金沢字高屋敷１３９番地",
+      "certification": [
+        {
+          "certification_name": "令和３年度未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2022-05-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380005002526",
+      "name": "社会福祉法人太田福祉記念会",
+      "address": "福島県郡山市熱海町玉川字阿曽沢１１番地１",
+      "prefecture": "福島県郡山市熱海町玉川字阿曽沢１１番地１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380005003953",
+      "name": "医療法人辰星会",
+      "address": "福島県二本松市本町１丁目３５番地",
+      "prefecture": "福島県二本松市本町１丁目３５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380005005768",
+      "name": "社団医療法人養生会",
+      "address": "福島県いわき市鹿島町下蔵持字中沢目２２番地の１",
+      "prefecture": "福島県いわき市鹿島町下蔵持字中沢目２２番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380005007888",
+      "name": "社会福祉法人南町保育会",
+      "address": "福島県会津若松市南花畑２番７号",
+      "prefecture": "福島県会津若松市南花畑２番７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380005009281",
+      "name": "社会福祉法人天心会",
+      "address": "福島県喜多方市松山町村松字北原３６５６の１１番地",
+      "prefecture": "福島県喜多方市松山町村松字北原３６５６の１１番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7380005011626",
+      "name": "社会保険労務士法人みどり人事サポート",
+      "address": "福島県郡山市緑町１５番１０号",
+      "prefecture": "福島県郡山市緑町１５番１０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8000020078760",
+      "name": "郡山地方広域消防組合",
+      "address": "福島県郡山市堂前町５－１６",
+      "prefecture": "福島県郡山市堂前町５－１６",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2023-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380001000334",
+      "name": "加藤鉄工株式会社",
+      "address": "福島県福島市岡島字作田入１番地の２",
+      "prefecture": "福島県福島市岡島字作田入１番地の２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380001005705",
+      "name": "ダイハツ福島株式会社",
+      "address": "福島県郡山市字川向１７５番地",
+      "prefecture": "福島県郡山市字川向１７５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380001010432",
+      "name": "株式会社松本工務店",
+      "address": "福島県白河市白坂愛宕山７３番地２",
+      "prefecture": "福島県白河市白坂愛宕山７３番地２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380001011488",
+      "name": "東北旭紙業株式会社",
+      "address": "福島県岩瀬郡鏡石町南町３８９番地",
+      "prefecture": "福島県岩瀬郡鏡石町南町３８９番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380001012247",
+      "name": "アルパインマニュファクチャリング株式会社",
+      "address": "福島県いわき市好間工業団地３番地の１０",
+      "prefecture": "福島県いわき市好間工業団地３番地の１０",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380001012981",
+      "name": "株式会社常磐エンジニアリング",
+      "address": "福島県いわき市内郷白水町浜井場１番地",
+      "prefecture": "福島県いわき市内郷白水町浜井場１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380001018038",
+      "name": "会津オリンパス株式会社",
+      "address": "福島県会津若松市飯寺北３丁目１番１号",
+      "prefecture": "福島県会津若松市飯寺北３丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380001018657",
+      "name": "株式会社大善",
+      "address": "福島県喜多方市字西町２８４０番地",
+      "prefecture": "福島県喜多方市字西町２８４０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380001022452",
+      "name": "株式会社キスキ",
+      "address": "福島県福島市御山字沢田８番５",
+      "prefecture": "福島県福島市御山字沢田８番５",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380002011280",
+      "name": "有限会社仁井田本家",
+      "address": "福島県郡山市田村町金沢字高屋敷１３９番地",
+      "prefecture": "福島県郡山市田村町金沢字高屋敷１３９番地",
+      "certification": [
+        {
+          "certification_name": "令和３年度未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2022-05-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380002018771",
+      "name": "有限会社でんぱた",
+      "address": "福島県東白川郡矢祭町大字東舘字蔵屋敷１２番地１",
+      "prefecture": "福島県東白川郡矢祭町大字東舘字蔵屋敷１２番地１",
+      "certification": [
+        {
+          "certification_name": "令和５年度「未来につながる持続可能な農業推進コンクール」",
+          "certified_date": "2024-03-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380005002525",
+      "name": "社会福祉法人安積福祉会",
+      "address": "福島県郡山市安積町笹川字西宿７７番地",
+      "prefecture": "福島県郡山市安積町笹川字西宿７７番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380005004744",
+      "name": "独立行政法人家畜改良センター",
+      "address": "福島県西白河郡西郷村大字小田倉字小田倉原１番地",
+      "prefecture": "福島県西白河郡西郷村大字小田倉字小田倉原１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8380005007961",
+      "name": "学校法人白梅",
+      "address": "福島県会津若松市一箕町大字亀賀字北柳原４２番地の１",
+      "prefecture": "福島県会津若松市一箕町大字亀賀字北柳原４２番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9380001000572",
+      "name": "佐藤工業株式会社",
+      "address": "福島県福島市泉字清水内１番地",
+      "prefecture": "福島県福島市泉字清水内１番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "東北防衛局優秀工事顕彰",
+          "certified_date": "2022-07-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9380001001018",
+      "name": "株式会社東邦銀行",
+      "address": "福島県福島市大町３番２５号",
+      "prefecture": "福島県福島市大町３番２５号",
+      "certification": [
+        {
+          "certification_name": "グッドキャリア企業アワード（イノベーション賞（厚生労働省人材開発統括官表彰））",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "グッドキャリア企業アワード－表彰（イノベーション賞（人材開発統括官表彰））",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9380001001892",
+      "name": "東芝プレシジョン株式会社",
+      "address": "福島県福島市土船字町田１番地１",
+      "prefecture": "福島県福島市土船字町田１番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9380001006768",
+      "name": "陸奥テックコンサルタント株式会社",
+      "address": "福島県郡山市若葉町１７番１８号",
+      "prefecture": "福島県郡山市若葉町１７番１８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9380001006792",
+      "name": "株式会社メディカ",
+      "address": "福島県郡山市備前舘１丁目１４８番地",
+      "prefecture": "福島県郡山市備前舘１丁目１４８番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9380001008673",
+      "name": "株式会社孫の手",
+      "address": "福島県郡山市安積町長久保１丁目２番地の７",
+      "prefecture": "福島県郡山市安積町長久保１丁目２番地の７",
+      "certification": [
+        {
+          "certification_name": "第７回グッドライフアワード",
+          "certified_date": "2019-11-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9380001009465",
+      "name": "福島サンケン株式会社",
+      "address": "福島県二本松市宮戸１５番地",
+      "prefecture": "福島県二本松市宮戸１５番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9380001016676",
+      "name": "株式会社ふたば",
+      "address": "福島県双葉郡富岡町曲田５５番地",
+      "prefecture": "福島県双葉郡富岡町曲田５５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9380001022030",
+      "name": "株式会社元気アップつちゆ",
+      "address": "福島県福島市土湯温泉町字下ノ町１７番地",
+      "prefecture": "福島県福島市土湯温泉町字下ノ町１７番地",
+      "certification": [
+        {
+          "certification_name": "地域づくり表彰",
+          "certified_date": "2021-10-27"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9380001027161",
+      "name": "株式会社ハニーズ",
+      "address": "福島県いわき市鹿島町走熊字七本松２７番地の１",
+      "prefecture": "福島県いわき市鹿島町走熊字七本松２７番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1708 @@
+{
+  "hojin-infos": [
+    {
+      "corporate_number": "1000020063240",
+      "name": "大江町",
+      "address": "山形県西村山郡大江町大字左沢８８２－１",
+      "prefecture": "山形県西村山郡大江町大字左沢８８２－１",
+      "certification": [
+        {
+          "certification_name": "気象庁長官表彰",
+          "certified_date": "2022-06-01"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390001000505",
+      "name": "黒澤建設工業株式会社",
+      "address": "山形県山形市花楯２丁目９番２１号",
+      "prefecture": "山形県山形市花楯２丁目９番２１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390001001288",
+      "name": "株式会社トヨタレンタリース山形",
+      "address": "山形県山形市鉄砲町２丁目１４番２７号",
+      "prefecture": "山形県山形市鉄砲町２丁目１４番２７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390001001841",
+      "name": "ミクロン精密株式会社",
+      "address": "山形県山形市蔵王上野５７８番地の２",
+      "prefecture": "山形県山形市蔵王上野５７８番地の２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390001002550",
+      "name": "東ソー・クォーツ株式会社",
+      "address": "山形県山形市立谷川３丁目１４３５番地",
+      "prefecture": "山形県山形市立谷川３丁目１４３５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390001007186",
+      "name": "株式会社ホリ・コーポレーション",
+      "address": "山形県酒田市京田４丁目２番地の３",
+      "prefecture": "山形県酒田市京田４丁目２番地の３",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390001008787",
+      "name": "金山コネクタ株式会社",
+      "address": "山形県最上郡金山町大字金山８４９番地",
+      "prefecture": "山形県最上郡金山町大字金山８４９番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": "2024-09-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390001009463",
+      "name": "ベーリンガーインゲルハイム製薬株式会社",
+      "address": "山形県東根市大字東根甲５３５３番地１",
+      "prefecture": "山形県東根市大字東根甲５３５３番地１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390001010990",
+      "name": "朝日金属工業株式会社",
+      "address": "山形県長井市平山６４７番地３",
+      "prefecture": "山形県長井市平山６４７番地３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390005002489",
+      "name": "社会福祉法人みゆき福祉会",
+      "address": "山形県上山市牧野字清水２１番１",
+      "prefecture": "山形県上山市牧野字清水２１番１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390005004031",
+      "name": "生活協同組合共立社",
+      "address": "山形県鶴岡市宝田１丁目３番２３号",
+      "prefecture": "山形県鶴岡市宝田１丁目３番２３号",
+      "certification": [
+        {
+          "certification_name": "消費者支援功労者表彰",
+          "certified_date": "2014-05-26"
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390005005896",
+      "name": "社会福祉法人慈敬会",
+      "address": "山形県村山市楯岡笛田２丁目１９番５７号",
+      "prefecture": "山形県村山市楯岡笛田２丁目１９番５７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "1390005006944",
+      "name": "社会福祉法人白鷹福祉会",
+      "address": "山形県西置賜郡白鷹町大字鮎貝１０８番地",
+      "prefecture": "山形県西置賜郡白鷹町大字鮎貝１０８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2150001001526",
+      "name": "株式会社ナカノアパレル",
+      "address": "山形県南陽市郡山１－５８",
+      "prefecture": "山形県南陽市郡山１－５８",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2390001000677",
+      "name": "三條物産株式会社",
+      "address": "山形県山形市千歳１丁目１６番４８号",
+      "prefecture": "山形県山形市千歳１丁目１６番４８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2390001001246",
+      "name": "株式会社でん六",
+      "address": "山形県山形市清住町３丁目２番４５号",
+      "prefecture": "山形県山形市清住町３丁目２番４５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "緑化推進運動功労者内閣総理大臣表彰",
+          "certified_date": "2000-08-30"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2390001001709",
+      "name": "ミドリオートレザー株式会社",
+      "address": "山形県山形市三社５７番地の１",
+      "prefecture": "山形県山形市三社５７番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2390001007367",
+      "name": "株式会社荘内銀行",
+      "address": "山形県山形市本町１丁目４番２１号",
+      "prefecture": "山形県山形市本町１丁目４番２１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2390001011807",
+      "name": "株式会社寒河江測量設計事務所",
+      "address": "山形県寒河江市大字西根字長面１５３番地の１",
+      "prefecture": "山形県寒河江市大字西根字長面１５３番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2390002005691",
+      "name": "株式会社半澤鷄卵",
+      "address": "山形県天童市大字高擶北２０５０番地",
+      "prefecture": "山形県天童市大字高擶北２０５０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "2390005000962",
+      "name": "山形県信用保証協会",
+      "address": "山形県山形市城南町１丁目１番１号",
+      "prefecture": "山形県山形市城南町１丁目１番１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2390005003899",
+      "name": "鶴岡信用金庫",
+      "address": "山形県鶴岡市馬場町１番１４号",
+      "prefecture": "山形県鶴岡市馬場町１番１４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2390005005672",
+      "name": "医療法人敬愛会",
+      "address": "山形県尾花沢市大字朧気６９５番地の３",
+      "prefecture": "山形県尾花沢市大字朧気６９５番地の３",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "2390005007660",
+      "name": "社会福祉法人西川保健福祉会",
+      "address": "山形県西村山郡西川町大字海味５４８番地",
+      "prefecture": "山形県西村山郡西川町大字海味５４８番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001000131",
+      "name": "コーアイセイ株式会社",
+      "address": "山形県山形市若葉町１３番４５号",
+      "prefecture": "山形県山形市若葉町１３番４５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001000164",
+      "name": "株式会社いそのボデー",
+      "address": "山形県山形市西越２５番地",
+      "prefecture": "山形県山形市西越２５番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001001732",
+      "name": "北洋加工株式会社",
+      "address": "山形県山形市三社５７番地の１",
+      "prefecture": "山形県山形市三社５７番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001004594",
+      "name": "丸和熱処理株式会社",
+      "address": "山形県天童市清池東２丁目８番２０号",
+      "prefecture": "山形県天童市清池東２丁目８番２０号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001004917",
+      "name": "株式会社ジェイ・サポート",
+      "address": "山形県天童市大字矢野目１４６６番地２",
+      "prefecture": "山形県天童市大字矢野目１４６６番地２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001004925",
+      "name": "株式会社高橋型精",
+      "address": "山形県山形市蔵王松ケ丘１丁目１番３５号",
+      "prefecture": "山形県山形市蔵王松ケ丘１丁目１番３５号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001005056",
+      "name": "株式会社アイエス",
+      "address": "山形県山形市宮町１丁目７番１８号",
+      "prefecture": "山形県山形市宮町１丁目７番１８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001006789",
+      "name": "松岡株式会社",
+      "address": "山形県酒田市字仲町２０番地",
+      "prefecture": "山形県酒田市字仲町２０番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001006896",
+      "name": "株式会社大丸不動産",
+      "address": "山形県酒田市相生町１丁目３番２８号",
+      "prefecture": "山形県酒田市相生町１丁目３番２８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001007374",
+      "name": "株式会社荘内日報社",
+      "address": "山形県鶴岡市馬場町８番２９号",
+      "prefecture": "山形県鶴岡市馬場町８番２９号",
+      "certification": [
+        {
+          "certification_name": "人権擁護功労賞",
+          "certified_date": "2020-12-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001008884",
+      "name": "株式会社森環境技術研究所",
+      "address": "山形県新庄市小田島町７番３６号",
+      "prefecture": "山形県新庄市小田島町７番３６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390001009619",
+      "name": "プレファクト株式会社",
+      "address": "山形県東根市大字野川２５５２番地",
+      "prefecture": "山形県東根市大字野川２５５２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390002006177",
+      "name": "有限会社蔵王マウンテンファーム",
+      "address": "山形県上山市永野２１９１番地の２３",
+      "prefecture": "山形県上山市永野２１９１番地の２３",
+      "certification": [
+        {
+          "certification_name": "第３回食育活動表彰",
+          "certified_date": "2019-06-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390005000937",
+      "name": "山形市農業協同組合",
+      "address": "山形県山形市幸町１８番２０号",
+      "prefecture": "山形県山形市幸町１８番２０号",
+      "certification": [
+        {
+          "certification_name": "令和３年度未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2022-05-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390005000945",
+      "name": "山形信用金庫",
+      "address": "山形県山形市白山１丁目１０番３号",
+      "prefecture": "山形県山形市白山１丁目１０番３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "3390005003956",
+      "name": "社会福祉法人恵泉会",
+      "address": "山形県鶴岡市茅原町２８番１０号",
+      "prefecture": "山形県鶴岡市茅原町２８番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4010401094652",
+      "name": "メイコーエレクディベロップ株式会社",
+      "address": "山形県米沢市アルカディア１丁目８０８番３３",
+      "prefecture": "山形県米沢市アルカディア１丁目８０８番３３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4390001002399",
+      "name": "株式会社菊池技建",
+      "address": "山形県山形市あかねケ丘１丁目１１番２４号",
+      "prefecture": "山形県山形市あかねケ丘１丁目１１番２４号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4390001004783",
+      "name": "株式会社ユニバーサル山形",
+      "address": "山形県山形市青田南６番１３号西田ビル２階",
+      "prefecture": "山形県山形市青田南６番１３号西田ビル２階",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4390001006623",
+      "name": "株式会社メカニック",
+      "address": "山形県酒田市砂越字中台７０番地",
+      "prefecture": "山形県酒田市砂越字中台７０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4390001008784",
+      "name": "株式会社山形メタル",
+      "address": "山形県新庄市大字福田字福田山７１１番地１７",
+      "prefecture": "山形県新庄市大字福田字福田山７１１番地１７",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4390001009485",
+      "name": "山形サンケン株式会社",
+      "address": "山形県東根市大字東根甲５６００番地の２",
+      "prefecture": "山形県東根市大字東根甲５６００番地の２",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4390001009907",
+      "name": "新和設計株式会社",
+      "address": "山形県米沢市大字花沢８８０番地",
+      "prefecture": "山形県米沢市大字花沢８８０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4390001010047",
+      "name": "株式会社ニューメディア",
+      "address": "山形県米沢市春日４丁目２番７５号",
+      "prefecture": "山形県米沢市春日４丁目２番７５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "4390002003116",
+      "name": "有限会社渡辺鋳造所",
+      "address": "山形県山形市鋳物町２１番地",
+      "prefecture": "山形県山形市鋳物町２１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "4390005002305",
+      "name": "医療法人社団斗南会",
+      "address": "山形県天童市大字久野本３６２番地の１",
+      "prefecture": "山形県天童市大字久野本３６２番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001000889",
+      "name": "株式会社きらやか銀行",
+      "address": "山形県山形市旅篭町３丁目２番３号",
+      "prefecture": "山形県山形市旅篭町３丁目２番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001002010",
+      "name": "株式会社山形銀行",
+      "address": "山形県山形市七日町３丁目１番２号",
+      "prefecture": "山形県山形市七日町３丁目１番２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001002423",
+      "name": "サンフウ精密株式会社",
+      "address": "山形県山形市くぬぎざわ西１番５",
+      "prefecture": "山形県山形市くぬぎざわ西１番５",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001002456",
+      "name": "米富繊維株式会社",
+      "address": "山形県東村山郡山辺町大字山辺１１３６番地",
+      "prefecture": "山形県東村山郡山辺町大字山辺１１３６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001004626",
+      "name": "株式会社山本製作所",
+      "address": "山形県天童市本町１丁目５番３２号",
+      "prefecture": "山形県天童市本町１丁目５番３２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001004733",
+      "name": "株式会社カネト製作所",
+      "address": "山形県上山市中山５６３３番地",
+      "prefecture": "山形県上山市中山５６３３番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001008354",
+      "name": "構造タンパク質事業資産管理株式会社",
+      "address": "山形県鶴岡市覚岸寺字水上２３４番地１",
+      "prefecture": "山形県鶴岡市覚岸寺字水上２３４番地１",
+      "certification": [
+        {
+          "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
+          "certified_date": "2020-04-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001009708",
+      "name": "株式会社青葉堂印刷",
+      "address": "山形県米沢市アルカディア１丁目８０８番地２２",
+      "prefecture": "山形県米沢市アルカディア１丁目８０８番地２２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001010194",
+      "name": "株式会社米沢牛黄木",
+      "address": "山形県米沢市桜木町３番４１号",
+      "prefecture": "山形県米沢市桜木町３番４１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001010698",
+      "name": "山形食品株式会社",
+      "address": "山形県南陽市漆山１１７６番地１",
+      "prefecture": "山形県南陽市漆山１１７６番地１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        },
+        {
+          "certification_name": "第４１回食品産業優良企業等表彰",
+          "certified_date": "2020-03-04"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001011085",
+      "name": "株式会社四釜製作所",
+      "address": "山形県長井市成田開一８５３番地の４",
+      "prefecture": "山形県長井市成田開一８５３番地の４",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001011531",
+      "name": "株式会社マイセルフ",
+      "address": "山形県東根市中央２丁目１２番７号",
+      "prefecture": "山形県東根市中央２丁目１２番７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001012513",
+      "name": "ユニオンソーシャルシステム株式会社",
+      "address": "山形県新庄市五日町字清水川１３０３番地の３ユニオン五日町ビル３Ｆ",
+      "prefecture": "山形県新庄市五日町字清水川１３０３番地の３ユニオン五日町ビル３Ｆ",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390001012595",
+      "name": "株式会社ひまわり",
+      "address": "山形県鶴岡市稲生１丁目３番５号",
+      "prefecture": "山形県鶴岡市稲生１丁目３番５号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390005000530",
+      "name": "社会福祉法人山形市社会福祉協議会",
+      "address": "山形県山形市城西町２丁目２番２２号",
+      "prefecture": "山形県山形市城西町２丁目２番２２号",
+      "certification": [
+        {
+          "certification_name": "安全安心なまちづくり関係功労者表彰",
+          "certified_date": "2020-10-16"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390005000547",
+      "name": "社会福祉法人輝きの会",
+      "address": "山形県山形市大字成安４２５番地２",
+      "prefecture": "山形県山形市大字成安４２５番地２",
+      "certification": [
+        {
+          "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
+          "certified_date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390005006478",
+      "name": "社会福祉法人松風会",
+      "address": "山形県東置賜郡高畠町大字高畠３０３番地の１",
+      "prefecture": "山形県東置賜郡高畠町大字高畠３０３番地の１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "5390005007311",
+      "name": "特定非営利活動法人食育ママ",
+      "address": "山形県米沢市万世町片子５７４０番地",
+      "prefecture": "山形県米沢市万世町片子５７４０番地",
+      "certification": [
+        {
+          "certification_name": "第３回食育活動表彰",
+          "certified_date": "2019-06-29"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001000137",
+      "name": "株式会社伊藤熱処理",
+      "address": "山形県山形市銅町１丁目８番３８号",
+      "prefecture": "山形県山形市銅町１丁目８番３８号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001000244",
+      "name": "株式会社エイアンドシー",
+      "address": "山形県山形市西田５丁目２６番１号",
+      "prefecture": "山形県山形市西田５丁目２６番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001000954",
+      "name": "スズキハイテック株式会社",
+      "address": "山形県山形市銅町２丁目２番３０号",
+      "prefecture": "山形県山形市銅町２丁目２番３０号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001001663",
+      "name": "オークランドホーム株式会社",
+      "address": "山形県山形市南原町３丁目２０番２７号",
+      "prefecture": "山形県山形市南原町３丁目２０番２７号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001002232",
+      "name": "株式会社ヤマザワ薬品",
+      "address": "山形県山形市あこや町３丁目９番３号",
+      "prefecture": "山形県山形市あこや町３丁目９番３号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001004526",
+      "name": "日新製薬株式会社",
+      "address": "山形県天童市清池東２丁目３番１号",
+      "prefecture": "山形県天童市清池東２丁目３番１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001004690",
+      "name": "株式会社東北福祉サービス",
+      "address": "山形県山形市嶋南１丁目１０番７号",
+      "prefecture": "山形県山形市嶋南１丁目１０番７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001005862",
+      "name": "日新薬品株式会社",
+      "address": "山形県天童市万代３番６－２号",
+      "prefecture": "山形県天童市万代３番６－２号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001006349",
+      "name": "菅原冷蔵株式会社",
+      "address": "山形県酒田市北浜町２番８２号",
+      "prefecture": "山形県酒田市北浜町２番８２号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001006423",
+      "name": "株式会社テイデイイー",
+      "address": "山形県酒田市京田２丁目５３番地の５",
+      "prefecture": "山形県酒田市京田２丁目５３番地の５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001007231",
+      "name": "株式会社東洋開発",
+      "address": "山形県酒田市本町１丁目５番３１号",
+      "prefecture": "山形県酒田市本町１丁目５番３１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001009434",
+      "name": "株式会社ナガオカ",
+      "address": "山形県東根市大字蟹沢字下縄目１８６３番地６",
+      "prefecture": "山形県東根市大字蟹沢字下縄目１８６３番地６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001010061",
+      "name": "株式会社パルコモード",
+      "address": "山形県米沢市城西４丁目４番２１号",
+      "prefecture": "山形県米沢市城西４丁目４番２１号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390001011877",
+      "name": "日東ベスト株式会社",
+      "address": "山形県寒河江市幸町４番２７号",
+      "prefecture": "山形県寒河江市幸町４番２７号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390003001538",
+      "name": "Ｓ．Ｅ．Ｏｎｅｔｏｐ合同会社",
+      "address": "山形県東根市温泉町３丁目８番８号",
+      "prefecture": "山形県東根市温泉町３丁目８番８号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "6390005000546",
+      "name": "社会福祉法人敬寿会",
+      "address": "山形県山形市諏訪町２丁目１番２５号",
+      "prefecture": "山形県山形市諏訪町２丁目１番２５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7370001050199",
+      "name": "キャド・キャム株式会社",
+      "address": "山形県鶴岡市大宝寺字日本国３７８番地１２",
+      "prefecture": "山形県鶴岡市大宝寺字日本国３７８番地１２",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001004491",
+      "name": "株式会社天童木工",
+      "address": "山形県天童市乱川１丁目３番１０号",
+      "prefecture": "山形県天童市乱川１丁目３番１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001004590",
+      "name": "丸七建設株式会社",
+      "address": "山形県天童市大字荒谷１９７３番地の１５７",
+      "prefecture": "山形県天童市大字荒谷１９７３番地の１５７",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001004731",
+      "name": "株式会社片桐製作所",
+      "address": "山形県上山市金谷字鼠谷地１４５３番地",
+      "prefecture": "山形県上山市金谷字鼠谷地１４５３番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001006190",
+      "name": "株式会社小松写真印刷",
+      "address": "山形県酒田市京田２丁目５９番３",
+      "prefecture": "山形県酒田市京田２丁目５９番３",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001006257",
+      "name": "株式会社斎藤農機製作所",
+      "address": "山形県酒田市両羽町３３２番地",
+      "prefecture": "山形県酒田市両羽町３３２番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001006579",
+      "name": "株式会社丸高",
+      "address": "山形県酒田市下安町４１番地の１",
+      "prefecture": "山形県酒田市下安町４１番地の１",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001008476",
+      "name": "株式会社つるかめ",
+      "address": "山形県天童市老野森１丁目３番６号",
+      "prefecture": "山形県天童市老野森１丁目３番６号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001009474",
+      "name": "株式会社丸市運送",
+      "address": "山形県東根市大字野田７２４番地",
+      "prefecture": "山形県東根市大字野田７２４番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001009482",
+      "name": "山形カシオ株式会社",
+      "address": "山形県東根市大字東根甲５４００番地の１",
+      "prefecture": "山形県東根市大字東根甲５４００番地の１",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001009796",
+      "name": "株式会社置環",
+      "address": "山形県米沢市中田町１５８６番地",
+      "prefecture": "山形県米沢市中田町１５８６番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001011067",
+      "name": "サンリット工業株式会社",
+      "address": "山形県長井市今泉１３７１番地",
+      "prefecture": "山形県長井市今泉１３７１番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001011315",
+      "name": "株式会社デンソー山形",
+      "address": "山形県西置賜郡飯豊町大字萩生字岡３８９３番１",
+      "prefecture": "山形県西置賜郡飯豊町大字萩生字岡３８９３番１",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001012065",
+      "name": "モガミフーズ株式会社",
+      "address": "山形県西村山郡河北町谷地字鉾江９６番地",
+      "prefecture": "山形県西村山郡河北町谷地字鉾江９６番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001012916",
+      "name": "ＯＫＩサーキットテクノロジー株式会社",
+      "address": "山形県鶴岡市宝田１丁目１５番６８号",
+      "prefecture": "山形県鶴岡市宝田１丁目１５番６８号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390001014012",
+      "name": "株式会社メタジェン",
+      "address": "山形県鶴岡市覚岸寺字水上２４６番地２",
+      "prefecture": "山形県鶴岡市覚岸寺字水上２４６番地２",
+      "certification": [
+        {
+          "certification_name": "Ｊ－Ｓｔａｒｔｕｐ２０１９",
+          "certified_date": "2019-06-24"
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390005000801",
+      "name": "山形環境保全協同組合",
+      "address": "山形県山形市立谷川４丁目３４５５番地７５",
+      "prefecture": "山形県山形市立谷川４丁目３４５５番地７５",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "7390005004199",
+      "name": "農事組合法人対馬ミニライスセンター米左衛門",
+      "address": "山形県東田川郡三川町大字押切新田字国営西４３番地２",
+      "prefecture": "山形県東田川郡三川町大字押切新田字国営西４３番地２",
+      "certification": [
+        {
+          "certification_name": "令和４年度未来につながる持続可能な農業推進コンクール",
+          "certified_date": "2023-03-17"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001004788",
+      "name": "進和ラベル印刷株式会社",
+      "address": "山形県上山市蔵王の森１０番地",
+      "prefecture": "山形県上山市蔵王の森１０番地",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001006066",
+      "name": "株式会社飯塚製作所",
+      "address": "山形県酒田市宮海字中砂畑２７番地の２１",
+      "prefecture": "山形県酒田市宮海字中砂畑２７番地の２１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001006405",
+      "name": "竹本産業株式会社",
+      "address": "山形県酒田市あきほ町６５５番地の２",
+      "prefecture": "山形県酒田市あきほ町６５５番地の２",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001006520",
+      "name": "株式会社平田牧場",
+      "address": "山形県酒田市みずほ２丁目１７番地の８",
+      "prefecture": "山形県酒田市みずほ２丁目１７番地の８",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001006867",
+      "name": "株式会社四ツ葉ドレス",
+      "address": "山形県酒田市十里塚字村東山３９８番地の１９",
+      "prefecture": "山形県酒田市十里塚字村東山３９８番地の１９",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001007840",
+      "name": "株式会社三浦土建",
+      "address": "山形県鶴岡市大山３丁目２３番３８号",
+      "prefecture": "山形県鶴岡市大山３丁目２３番３８号",
+      "certification": [
+        {
+          "certification_name": "令和３年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2022-01-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001008095",
+      "name": "株式会社ベスト",
+      "address": "山形県鶴岡市布目字宮田１６３番地１",
+      "prefecture": "山形県鶴岡市布目字宮田１６３番地１",
+      "certification": [
+        {
+          "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001009093",
+      "name": "株式会社コヤマ",
+      "address": "山形県村山市大字大久保甲１２６０番地",
+      "prefecture": "山形県村山市大字大久保甲１２６０番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001009374",
+      "name": "神町電子株式会社",
+      "address": "山形県東根市一本木１丁目１番７号",
+      "prefecture": "山形県東根市一本木１丁目１番７号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001009787",
+      "name": "大江設計株式会社",
+      "address": "山形県米沢市塩井町塩野６７４番地の２",
+      "prefecture": "山形県米沢市塩井町塩野６７４番地の２",
+      "certification": [
+        {
+          "certification_name": "令和５年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
+          "certified_date": "2023-12-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390001012171",
+      "name": "株式会社朝日相扶製作所",
+      "address": "山形県西村山郡朝日町大字宮宿６００番地１５",
+      "prefecture": "山形県西村山郡朝日町大字宮宿６００番地１５",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390002013177",
+      "name": "有限会社登府屋旅館",
+      "address": "山形県米沢市小野川町２４９３番地",
+      "prefecture": "山形県米沢市小野川町２４９３番地",
+      "certification": [
+        {
+          "certification_name": "第１１回グッドライフアワード",
+          "certified_date": "2023-12-02"
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390005000528",
+      "name": "社会福祉法人山形県社会福祉事業団",
+      "address": "山形県山形市宮町１丁目３番３６号",
+      "prefecture": "山形県山形市宮町１丁目３番３６号",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390005000552",
+      "name": "学校法人羽陽学園",
+      "address": "山形県山形市鈴川町２丁目１０番３０号",
+      "prefecture": "山形県山形市鈴川町２丁目１０番３０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390005002565",
+      "name": "国立大学法人山形大学",
+      "address": "山形県山形市小白川町１丁目４番１２号",
+      "prefecture": "山形県山形市小白川町１丁目４番１２号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390005003860",
+      "name": "地方独立行政法人山形県・酒田市病院機構",
+      "address": "山形県酒田市あきほ町３０番地",
+      "prefecture": "山形県酒田市あきほ町３０番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "8390005005592",
+      "name": "特定非営利活動法人アンプ",
+      "address": "山形県新庄市本町２番１５号",
+      "prefecture": "山形県新庄市本町２番１５号",
+      "certification": [
+        {
+          "certification_name": "まちづくり法人国土交通大臣表彰",
+          "certified_date": "2015-06-12"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9011101086407",
+      "name": "エヌ・デーソフトウェア株式会社",
+      "address": "山形県南陽市和田３３６９番地",
+      "prefecture": "山形県南陽市和田３３６９番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001000308",
+      "name": "株式会社大風印刷",
+      "address": "山形県山形市蔵王松ケ丘１丁目２番地６",
+      "prefecture": "山形県山形市蔵王松ケ丘１丁目２番地６",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        },
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001001900",
+      "name": "株式会社モミの木",
+      "address": "山形県山形市飯塚町１８７１番地１",
+      "prefecture": "山形県山形市飯塚町１８７１番地１",
+      "certification": [
+        {
+          "certification_name": "第４０回食品産業優良企業等表彰",
+          "certified_date": "2019-03-11"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001001958",
+      "name": "山形パナソニック株式会社",
+      "address": "山形県山形市平清水１丁目１番７５号",
+      "prefecture": "山形県山形市平清水１丁目１番７５号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001002089",
+      "name": "株式会社山形ビルサービス",
+      "address": "山形県山形市大字志戸田５５０番地",
+      "prefecture": "山形県山形市大字志戸田５５０番地",
+      "certification": [
+        {
+          "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001004498",
+      "name": "東北パイオニア株式会社",
+      "address": "山形県天童市大字久野本字日光１１０５番地",
+      "prefecture": "山形県天童市大字久野本字日光１１０５番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001004738",
+      "name": "株式会社カトーコーポレーション",
+      "address": "山形県上山市阿弥陀地字旱田７０５番の１",
+      "prefecture": "山形県上山市阿弥陀地字旱田７０５番の１",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001009852",
+      "name": "株式会社小島洋酒店",
+      "address": "山形県米沢市金池８丁目５番１号",
+      "prefecture": "山形県米沢市金池８丁目５番１号",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001009943",
+      "name": "精英堂印刷株式会社",
+      "address": "山形県米沢市八幡原１丁目１番地１６",
+      "prefecture": "山形県米沢市八幡原１丁目１番地１６",
+      "certification": [
+        {
+          "certification_name": "地域未来牽引企業",
+          "certified_date": "2020-10-13"
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001011957",
+      "name": "株式会社山形富士",
+      "address": "山形県寒河江市中央工業団地３６番地",
+      "prefecture": "山形県寒河江市中央工業団地３６番地",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001012261",
+      "name": "株式会社多田",
+      "address": "山形県寒河江市栄町８番４１号",
+      "prefecture": "山形県寒河江市栄町８番４１号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390001013706",
+      "name": "株式会社スマートライフ",
+      "address": "山形県米沢市駅前１丁目１番１１０号",
+      "prefecture": "山形県米沢市駅前１丁目１番１１０号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390005002886",
+      "name": "社会福祉法人さくら福祉会",
+      "address": "山形県酒田市中牧田字丸福１７１番地",
+      "prefecture": "山形県酒田市中牧田字丸福１７１番地",
+      "certification": [
+        {
+          "certification_name": "えるぼし－認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390005006994",
+      "name": "山形中央信用組合",
+      "address": "山形県長井市本町１丁目３番３号",
+      "prefecture": "山形県長井市本町１丁目３番３号",
+      "certification": [
+        {
+          "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
+          "certified_date": ""
+        }
+      ]
+    },
+    {
+      "corporate_number": "9390005008462",
+      "name": "農事組合法人魁",
+      "address": "山形県尾花沢市大字正厳５１０番地",
+      "prefecture": "山形県尾花沢市大字正厳５１０番地",
+      "certification": [
+        {
+          "certification_name": "令和５年度「未来につながる持続可能な農業推進コンクール」",
+          "certified_date": "2024-03-27"
+        }
+      ]
+    }
+  ]
+}

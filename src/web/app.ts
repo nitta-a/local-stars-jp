@@ -2,7 +2,12 @@ import type { Enterprise, GbizApiResponse } from "../types/gbiz";
 
 // 1. 都道府県のマスターデータを定義
 const PREF_MAP: Record<string, string> = {
+  "02": "青森県",
+  "03": "岩手県",
+  "04": "宮城県",
   "05": "秋田県",
+  "06": "山形県",
+  "07": "福島県",
   // 他の都道府県を追加する場合はここに追記
   // "13": "東京都",
 };
