@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "convert": "bun src/scraper/convert_csv.ts",
-    "build": "bun build src/web/app.ts --outdir ./public",
-    "dev": "bun build src/web/app.ts --outdir ./public --watch",
+    "build": "bun build src/web/app.ts --outdir ./docs",
+    "dev": "bun build src/web/app.ts --outdir ./docs --watch",
     "lint": "biome lint ./src ./test",
     "lint:fix": "biome lint --write ./src ./test",
     "fmt": "biome format ./src ./test",

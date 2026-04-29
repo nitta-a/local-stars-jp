@@ -5,7 +5,8 @@ import type { Enterprise, GbizApiResponse } from "../types/gbiz";
 
 // --- 設定 ---
 const CSV_PATH = join(import.meta.dir, "../../data/gbiz_certifications.csv");
-const OUTPUT_DIR = join(import.meta.dir, "../../public/data");
+// const OUTPUT_DIR = join(import.meta.dir, "../../public/data");
+const OUTPUT_DIR = join(import.meta.dir, "../../docs/data");
 
 // CSVのヘッダー名（gBizINFOの実際のCSVに合わせて適宜修正してください）
 const COL = {
