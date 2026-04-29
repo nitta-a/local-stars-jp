@@ -117,6 +117,101 @@ const REGION_GROUPS: Array<{ label: string; codes: string[] }> = [
   { label: "九州・沖縄地方", codes: ["40", "41", "42", "43", "44", "45", "46", "47"] },
 ];
 
+// 4. 地方内の都道府県グリッドレイアウト（REGION_GROUPSと対応）
+type PrefCell = { code: string; col: number; row: number };
+const REGION_GRID_LAYOUT: Array<{ cols: number; prefs: PrefCell[] }> = [
+  // 0: 北海道地方
+  { cols: 1, prefs: [{ code: "01", col: 1, row: 1 }] },
+  // 1: 東北地方
+  {
+    cols: 2,
+    prefs: [
+      { code: "02", col: 2, row: 1 }, // 青森
+      { code: "05", col: 1, row: 2 }, // 秋田
+      { code: "03", col: 2, row: 2 }, // 岩手
+      { code: "06", col: 1, row: 3 }, // 山形
+      { code: "04", col: 2, row: 3 }, // 宮城
+      { code: "07", col: 1, row: 4 }, // 福島
+    ],
+  },
+  // 2: 関東地方
+  {
+    cols: 3,
+    prefs: [
+      { code: "10", col: 1, row: 1 }, // 群馬
+      { code: "09", col: 2, row: 1 }, // 栃木
+      { code: "08", col: 3, row: 1 }, // 茨城
+      { code: "11", col: 1, row: 2 }, // 埼玉
+      { code: "13", col: 2, row: 2 }, // 東京
+      { code: "12", col: 3, row: 2 }, // 千葉
+      { code: "14", col: 1, row: 3 }, // 神奈川
+    ],
+  },
+  // 3: 中部地方
+  {
+    cols: 4,
+    prefs: [
+      { code: "15", col: 1, row: 1 }, // 新潟
+      { code: "17", col: 1, row: 2 }, // 石川
+      { code: "16", col: 2, row: 2 }, // 富山
+      { code: "20", col: 3, row: 2 }, // 長野
+      { code: "19", col: 4, row: 2 }, // 山梨
+      { code: "18", col: 1, row: 3 }, // 福井
+      { code: "21", col: 2, row: 3 }, // 岐阜
+      { code: "23", col: 3, row: 3 }, // 愛知
+      { code: "22", col: 4, row: 3 }, // 静岡
+    ],
+  },
+  // 4: 近畿地方
+  {
+    cols: 3,
+    prefs: [
+      { code: "25", col: 2, row: 1 }, // 滋賀
+      { code: "26", col: 3, row: 1 }, // 京都
+      { code: "27", col: 1, row: 2 }, // 大阪
+      { code: "29", col: 2, row: 2 }, // 奈良
+      { code: "28", col: 3, row: 2 }, // 兵庫
+      { code: "30", col: 1, row: 3 }, // 和歌山
+      { code: "24", col: 2, row: 3 }, // 三重
+    ],
+  },
+  // 5: 中国地方
+  {
+    cols: 3,
+    prefs: [
+      { code: "32", col: 2, row: 1 }, // 島根
+      { code: "31", col: 3, row: 1 }, // 鳥取
+      { code: "35", col: 1, row: 2 }, // 山口
+      { code: "34", col: 2, row: 2 }, // 広島
+      { code: "33", col: 3, row: 2 }, // 岡山
+    ],
+  },
+  // 6: 四国地方
+  {
+    cols: 2,
+    prefs: [
+      { code: "38", col: 1, row: 1 }, // 愛媛
+      { code: "37", col: 2, row: 1 }, // 香川
+      { code: "39", col: 1, row: 2 }, // 高知
+      { code: "36", col: 2, row: 2 }, // 徳島
+    ],
+  },
+  // 7: 九州・沖縄地方
+  {
+    cols: 4,
+    prefs: [
+      { code: "42", col: 1, row: 1 }, // 長崎
+      { code: "41", col: 2, row: 1 }, // 佐賀
+      { code: "40", col: 3, row: 1 }, // 福岡
+      { code: "44", col: 4, row: 1 }, // 大分
+      { code: "43", col: 2, row: 2 }, // 熊本
+      { code: "45", col: 4, row: 2 }, // 宮崎
+      { code: "46", col: 2, row: 3 }, // 鹿児島
+      { code: "47", col: 1, row: 4 }, // 沖縄
+    ],
+  },
+];
+
 class LocalStarsApp {
   private selector: HTMLSelectElement;
   private container: HTMLDivElement;
@@ -128,6 +223,7 @@ class LocalStarsApp {
     this.container = document.getElementById("list-container") as HTMLDivElement;
 
     this.initSelector();
+    this.initVisualMap();
     this.bindEvents();
   }
 
@@ -166,6 +262,56 @@ class LocalStarsApp {
   private clearMarkers() {
     for (const marker of this.markers) marker.remove();
     this.markers = [];
+  }
+
+  private initVisualMap() {
+    // 地方ブロッククリック
+    document.querySelectorAll<SVGGElement>(".region-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const idx = Number(btn.dataset.idx);
+        this.showPrefGrid(idx);
+      });
+    });
+    // 地方一覧に戻るボタン
+    document.getElementById("back-to-regions")?.addEventListener("click", () => {
+      (document.getElementById("pref-grid-view") as HTMLElement).hidden = true;
+      (document.getElementById("region-view") as HTMLElement).hidden = false;
+    });
+  }
+
+  private showPrefGrid(regionIdx: number) {
+    const region = REGION_GROUPS[regionIdx];
+    const layout = REGION_GRID_LAYOUT[regionIdx];
+    (document.getElementById("region-view") as HTMLElement).hidden = true;
+    const prefGridView = document.getElementById("pref-grid-view") as HTMLElement;
+    prefGridView.hidden = false;
+    const label = document.getElementById("selected-region-name") as HTMLElement;
+    label.textContent = region.label;
+    const grid = document.getElementById("pref-grid") as HTMLElement;
+    grid.style.gridTemplateColumns = `repeat(${layout.cols}, 1fr)`;
+    grid.innerHTML = "";
+    for (const cell of layout.prefs) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "pref-btn";
+      btn.dataset.code = cell.code;
+      btn.style.gridColumn = String(cell.col);
+      btn.style.gridRow = String(cell.row);
+      // 都道府県の末尾（都・道・府・県）を省略して短く表示
+      btn.textContent = (PREF_MAP[cell.code] ?? cell.code).replace(/[都道府県]$/, "");
+      if (cell.code === this.selector.value) btn.classList.add("selected");
+      btn.addEventListener("click", () => this.selectPrefecture(cell.code));
+      grid.appendChild(btn);
+    }
+  }
+
+  private selectPrefecture(code: string) {
+    this.selector.value = code;
+    document.querySelectorAll<HTMLButtonElement>(".pref-btn").forEach((btn) => {
+      btn.classList.toggle("selected", btn.dataset.code === code);
+    });
+    this.showMap(code);
+    this.fetchData(code);
   }
 
   private bindEvents() {

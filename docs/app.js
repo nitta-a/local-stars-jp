@@ -107,6 +107,90 @@ var REGION_GROUPS = [
   { label: "四国地方", codes: ["36", "37", "38", "39"] },
   { label: "九州・沖縄地方", codes: ["40", "41", "42", "43", "44", "45", "46", "47"] }
 ];
+var REGION_GRID_LAYOUT = [
+  { cols: 1, prefs: [{ code: "01", col: 1, row: 1 }] },
+  {
+    cols: 2,
+    prefs: [
+      { code: "02", col: 2, row: 1 },
+      { code: "05", col: 1, row: 2 },
+      { code: "03", col: 2, row: 2 },
+      { code: "06", col: 1, row: 3 },
+      { code: "04", col: 2, row: 3 },
+      { code: "07", col: 1, row: 4 }
+    ]
+  },
+  {
+    cols: 3,
+    prefs: [
+      { code: "10", col: 1, row: 1 },
+      { code: "09", col: 2, row: 1 },
+      { code: "08", col: 3, row: 1 },
+      { code: "11", col: 1, row: 2 },
+      { code: "13", col: 2, row: 2 },
+      { code: "12", col: 3, row: 2 },
+      { code: "14", col: 1, row: 3 }
+    ]
+  },
+  {
+    cols: 4,
+    prefs: [
+      { code: "15", col: 1, row: 1 },
+      { code: "17", col: 1, row: 2 },
+      { code: "16", col: 2, row: 2 },
+      { code: "20", col: 3, row: 2 },
+      { code: "19", col: 4, row: 2 },
+      { code: "18", col: 1, row: 3 },
+      { code: "21", col: 2, row: 3 },
+      { code: "23", col: 3, row: 3 },
+      { code: "22", col: 4, row: 3 }
+    ]
+  },
+  {
+    cols: 3,
+    prefs: [
+      { code: "25", col: 2, row: 1 },
+      { code: "26", col: 3, row: 1 },
+      { code: "27", col: 1, row: 2 },
+      { code: "29", col: 2, row: 2 },
+      { code: "28", col: 3, row: 2 },
+      { code: "30", col: 1, row: 3 },
+      { code: "24", col: 2, row: 3 }
+    ]
+  },
+  {
+    cols: 3,
+    prefs: [
+      { code: "32", col: 2, row: 1 },
+      { code: "31", col: 3, row: 1 },
+      { code: "35", col: 1, row: 2 },
+      { code: "34", col: 2, row: 2 },
+      { code: "33", col: 3, row: 2 }
+    ]
+  },
+  {
+    cols: 2,
+    prefs: [
+      { code: "38", col: 1, row: 1 },
+      { code: "37", col: 2, row: 1 },
+      { code: "39", col: 1, row: 2 },
+      { code: "36", col: 2, row: 2 }
+    ]
+  },
+  {
+    cols: 4,
+    prefs: [
+      { code: "42", col: 1, row: 1 },
+      { code: "41", col: 2, row: 1 },
+      { code: "40", col: 3, row: 1 },
+      { code: "44", col: 4, row: 1 },
+      { code: "43", col: 2, row: 2 },
+      { code: "45", col: 4, row: 2 },
+      { code: "46", col: 2, row: 3 },
+      { code: "47", col: 1, row: 4 }
+    ]
+  }
+];
 
 class LocalStarsApp {
   selector;
@@ -117,6 +201,7 @@ class LocalStarsApp {
     this.selector = document.getElementById("pref-selector");
     this.container = document.getElementById("list-container");
     this.initSelector();
+    this.initVisualMap();
     this.bindEvents();
   }
   initSelector() {
@@ -155,6 +240,51 @@ class LocalStarsApp {
     for (const marker of this.markers)
       marker.remove();
     this.markers = [];
+  }
+  initVisualMap() {
+    document.querySelectorAll(".region-btn").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const idx = Number(btn.dataset.idx);
+        this.showPrefGrid(idx);
+      });
+    });
+    document.getElementById("back-to-regions")?.addEventListener("click", () => {
+      document.getElementById("pref-grid-view").hidden = true;
+      document.getElementById("region-view").hidden = false;
+    });
+  }
+  showPrefGrid(regionIdx) {
+    const region = REGION_GROUPS[regionIdx];
+    const layout = REGION_GRID_LAYOUT[regionIdx];
+    document.getElementById("region-view").hidden = true;
+    const prefGridView = document.getElementById("pref-grid-view");
+    prefGridView.hidden = false;
+    const label = document.getElementById("selected-region-name");
+    label.textContent = region.label;
+    const grid = document.getElementById("pref-grid");
+    grid.style.gridTemplateColumns = `repeat(${layout.cols}, 1fr)`;
+    grid.innerHTML = "";
+    for (const cell of layout.prefs) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "pref-btn";
+      btn.dataset.code = cell.code;
+      btn.style.gridColumn = String(cell.col);
+      btn.style.gridRow = String(cell.row);
+      btn.textContent = (PREF_MAP[cell.code] ?? cell.code).replace(/[都道府県]$/, "");
+      if (cell.code === this.selector.value)
+        btn.classList.add("selected");
+      btn.addEventListener("click", () => this.selectPrefecture(cell.code));
+      grid.appendChild(btn);
+    }
+  }
+  selectPrefecture(code) {
+    this.selector.value = code;
+    document.querySelectorAll(".pref-btn").forEach((btn) => {
+      btn.classList.toggle("selected", btn.dataset.code === code);
+    });
+    this.showMap(code);
+    this.fetchData(code);
   }
   bindEvents() {
     this.selector.addEventListener("change", () => {

@@ -167,6 +167,103 @@ select:focus {
   box-shadow: var(--shadow);
 }
 
+/* --- ビジュアル地図セレクター --- */
+#visual-map-selector {
+  background: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  margin-bottom: 2rem;
+}
+
+.map-hint {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-sub);
+  margin: 0 0 0.8rem;
+}
+
+#region-svg {
+  display: block;
+  margin: 0 auto;
+  max-width: 360px;
+  width: 100%;
+}
+
+.region-btn {
+  cursor: pointer;
+}
+
+.region-btn rect {
+  transition: filter 0.15s;
+}
+
+.region-btn:hover rect,
+.region-btn:focus rect {
+  filter: brightness(0.85);
+  outline: none;
+}
+
+.region-btn:active rect {
+  filter: brightness(0.7);
+}
+
+/* --- 都道府県グリッド --- */
+.pref-view-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+#back-to-regions {
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 0.4rem 0.9rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: opacity 0.2s;
+}
+
+#back-to-regions:hover {
+  opacity: 0.85;
+}
+
+#selected-region-name {
+  font-size: 1rem;
+  color: var(--primary-color);
+}
+
+#pref-grid {
+  display: grid;
+  gap: 8px;
+}
+
+.pref-btn {
+  padding: 0.5rem 0.3rem;
+  border: 2px solid #dfe6e9;
+  border-radius: 8px;
+  background: white;
+  cursor: pointer;
+  font-size: 0.85rem;
+  text-align: center;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+  min-height: 44px;
+}
+
+.pref-btn:hover {
+  background: var(--tag-bg);
+  border-color: var(--tag-text);
+}
+
+.pref-btn.selected {
+  background: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
 /* --- フッター --- */
 footer {
   text-align: center;
