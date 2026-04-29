@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Stars JP - 地域の優良認定企業カタログ</title>
+    <meta name="description" content="gBizINFOのオープンデータを活用し、都道府県別のホワイト企業認定（ユースエール、えるぼし、健康経営等）を可視化します。">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>🌟 Local Stars JP</h1>
+            <p>地域の優良認定企業を見つけよう</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="controls">
+            <div class="field">
+                <label for="pref-selector">都道府県を選択：</label>
+                <select id="pref-selector">
+                    <option value="">-- 選択してください --</option>
+                    </select>
+            </div>
+        </section>
+
+        <section id="list-container">
+            <p class="placeholder">都道府県を選択すると、認定企業の一覧が表示されます。</p>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>出典：経済産業省 <a href="https://info.gbiz.go.jp/" target="_blank" rel="noopener">gBizINFO</a></p>
+            <p>© 2026 local-stars-jp Project</p>
+        </div>
+    </footer>
+
+    <script type="module" src="app.js"></script>
+</body>
+</html>

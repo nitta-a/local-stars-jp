@@ -1,0 +1,23 @@
+{
+  "name": "local-stars-jp",
+  "version": "1.0.0",
+  "description": "都道府県別の優良認定企業を可視化するプロジェクト",
+  "main": "src/web/app.ts",
+  "type": "module",
+  "scripts": {
+    "fetch": "bun src/scraper/fetch_data.ts",
+    "build": "bun build src/web/app.ts --outdir ./public",
+    "dev": "bun build src/web/app.ts --outdir ./public --watch"
+  },
+  "keywords": ["gBizINFO", "open-data", "typescript", "bun"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "2.4.13",
+    "@types/bun": "latest",
+    "@types/node": "latest"
+  },
+  "dependencies": {
+    "fs-extra": "latest"
+  }
+}
