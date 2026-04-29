@@ -98,14 +98,14 @@ var PREF_COORDS = {
   "47": [26.2124, 127.6809]
 };
 var REGION_GROUPS = [
-  { label: "北海道地方", codes: ["01"] },
-  { label: "東北地方", codes: ["02", "03", "04", "05", "06", "07"] },
-  { label: "関東地方", codes: ["08", "09", "10", "11", "12", "13", "14"] },
-  { label: "中部地方", codes: ["15", "16", "17", "18", "19", "20", "21", "22", "23"] },
-  { label: "近畿地方", codes: ["24", "25", "26", "27", "28", "29", "30"] },
-  { label: "中国地方", codes: ["31", "32", "33", "34", "35"] },
-  { label: "四国地方", codes: ["36", "37", "38", "39"] },
-  { label: "九州・沖縄地方", codes: ["40", "41", "42", "43", "44", "45", "46", "47"] }
+  { label: "北海道", codes: ["01"] },
+  { label: "東北", codes: ["02", "03", "04", "05", "06", "07"] },
+  { label: "関東", codes: ["08", "09", "10", "11", "12", "13", "14"] },
+  { label: "中部", codes: ["15", "16", "17", "18", "19", "20", "21", "22", "23"] },
+  { label: "近畿", codes: ["24", "25", "26", "27", "28", "29", "30"] },
+  { label: "中国", codes: ["31", "32", "33", "34", "35"] },
+  { label: "四国", codes: ["36", "37", "38", "39"] },
+  { label: "九州・沖縄", codes: ["40", "41", "42", "43", "44", "45", "46", "47"] }
 ];
 var REGION_COLORS = [
   "#a8d8ea",
@@ -235,7 +235,8 @@ class MapController {
     this.markerLayer.clearLayers();
     for (const c of companies) {
       if (c.lat !== undefined && c.lng !== undefined) {
-        L.marker([c.lat, c.lng]).bindPopup(`<strong>${c.name}</strong><br><small>${c.address}</small>`).addTo(this.markerLayer);
+        const tags = c.certification.map((cert) => `<span class="popup-tag">${cert.certification_name}</span>`).join("");
+        L.marker([c.lat, c.lng]).bindPopup(`<strong>${c.name}</strong><br><small>${c.address}</small>${tags ? `<div class="popup-tags">${tags}</div>` : ""}`).addTo(this.markerLayer);
       }
     }
   }
@@ -329,6 +330,7 @@ class LocalStarsApp {
     this.filterWrap = document.getElementById("name-filter-wrap");
     this.initSelector();
     this.initVisualMap();
+    this.initTabs();
     this.bindEvents();
   }
   initSelector() {
@@ -357,6 +359,28 @@ class LocalStarsApp {
     document.getElementById("back-to-regions")?.addEventListener("click", () => {
       document.getElementById("pref-grid-view").hidden = true;
       document.getElementById("region-view").hidden = false;
+    });
+  }
+  initTabs() {
+    const tabMap = document.getElementById("tab-btn-map");
+    const tabList = document.getElementById("tab-btn-list");
+    const panelMap = document.getElementById("tab-panel-map");
+    const panelList = document.getElementById("tab-panel-list");
+    tabMap.addEventListener("click", () => {
+      tabMap.classList.add("active");
+      tabMap.setAttribute("aria-selected", "true");
+      tabList.classList.remove("active");
+      tabList.setAttribute("aria-selected", "false");
+      panelMap.hidden = false;
+      panelList.hidden = true;
+    });
+    tabList.addEventListener("click", () => {
+      tabList.classList.add("active");
+      tabList.setAttribute("aria-selected", "true");
+      tabMap.classList.remove("active");
+      tabMap.setAttribute("aria-selected", "false");
+      panelList.hidden = false;
+      panelMap.hidden = true;
     });
   }
   showPrefGrid(regionIdx) {
@@ -425,7 +449,9 @@ class LocalStarsApp {
   render(companies) {
     this.allCompanies = companies;
     this.filterWrap.hidden = companies.length === 0;
-    const certNames = [...new Set(companies.flatMap((c) => c.certification.map((cert) => cert.certification_name)))].sort();
+    const certNames = [
+      ...new Set(companies.flatMap((c) => c.certification.map((cert) => cert.certification_name)))
+    ].sort();
     for (const name of certNames) {
       const opt = document.createElement("option");
       opt.value = name;

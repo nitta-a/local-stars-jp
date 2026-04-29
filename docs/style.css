@@ -53,6 +53,60 @@ header p {
   font-weight: 300;
 }
 
+/* --- タブ UI --- */
+#pref-selector-panel {
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  margin-bottom: 2rem;
+  overflow: hidden;
+}
+
+.tab-nav {
+  display: flex;
+  border-bottom: 2px solid #dfe6e9;
+}
+
+.tab-btn {
+  flex: 1;
+  padding: 0.85rem 1rem;
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  font-size: 0.95rem;
+  font-weight: bold;
+  color: var(--text-sub);
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+
+.tab-btn:hover {
+  background: var(--bg-color);
+  color: var(--primary-color);
+}
+
+.tab-btn.active {
+  color: var(--primary-color);
+  border-bottom-color: var(--accent-color);
+  background: var(--card-bg);
+}
+
+#tab-panel-map {
+  padding: 1.5rem;
+}
+
+#tab-panel-list {
+  padding: 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+#tab-panel-list .field {
+  width: 100%;
+  max-width: 400px;
+}
+
 /* --- コントロール（検索・選択） --- */
 .controls {
   background: var(--card-bg);
@@ -149,6 +203,23 @@ select:focus {
   border-color: var(--accent-color);
 }
 
+/* --- 地図ポップアップ内タグ --- */
+.popup-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.popup-tag {
+  background-color: var(--tag-bg);
+  color: var(--tag-text);
+  padding: 2px 8px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
 /* --- 企業カード --- */
 .company-card {
   background: var(--card-bg);
@@ -224,13 +295,6 @@ select:focus {
 }
 
 /* --- ビジュアル地図セレクター --- */
-#visual-map-selector {
-  background: var(--card-bg);
-  padding: 1.5rem;
-  border-radius: 12px;
-  box-shadow: var(--shadow);
-  margin-bottom: 2rem;
-}
 
 .map-hint {
   text-align: center;

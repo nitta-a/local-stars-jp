@@ -37,8 +37,13 @@ export class MapController {
     this.markerLayer.clearLayers();
     for (const c of companies) {
       if (c.lat !== undefined && c.lng !== undefined) {
+        const tags = c.certification
+          .map((cert) => `<span class="popup-tag">${cert.certification_name}</span>`)
+          .join("");
         L.marker([c.lat, c.lng])
-          .bindPopup(`<strong>${c.name}</strong><br><small>${c.address}</small>`)
+          .bindPopup(
+            `<strong>${c.name}</strong><br><small>${c.address}</small>${tags ? `<div class="popup-tags">${tags}</div>` : ""}`,
+          )
           .addTo(this.markerLayer);
       }
     }

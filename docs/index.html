@@ -19,79 +19,95 @@
     </header>
 
     <main class="container">
-        <section id="visual-map-selector">
-            <!-- Step1: 地方選択SVG地図 -->
-            <div id="region-view">
-                <p class="map-hint">地方をクリックして絞り込み</p>
-                <svg id="region-svg" viewBox="0 0 360 555" xmlns="http://www.w3.org/2000/svg" aria-label="日本地方区分図" role="img">
-                    <!-- 北海道地方 -->
-                    <g class="region-btn" data-idx="0" role="button" tabindex="0" aria-label="北海道地方">
-                        <rect x="195" y="8" width="155" height="78" rx="10" fill="#a8d8ea"/>
-                        <text x="272" y="44" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">北海道地方</text>
-                        <text x="272" y="64" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">1道</text>
-                    </g>
-                    <!-- 東北地方 -->
-                    <g class="region-btn" data-idx="1" role="button" tabindex="0" aria-label="東北地方">
-                        <rect x="200" y="96" width="110" height="128" rx="10" fill="#c5b3e6"/>
-                        <text x="255" y="155" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">東北地方</text>
-                        <text x="255" y="175" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">6県</text>
-                    </g>
-                    <!-- 関東地方 -->
-                    <g class="region-btn" data-idx="2" role="button" tabindex="0" aria-label="関東地方">
-                        <rect x="230" y="228" width="118" height="78" rx="10" fill="#fcbad3"/>
-                        <text x="289" y="263" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">関東地方</text>
-                        <text x="289" y="283" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">7都県</text>
-                    </g>
-                    <!-- 中部地方 -->
-                    <g class="region-btn" data-idx="3" role="button" tabindex="0" aria-label="中部地方">
-                        <rect x="130" y="228" width="95" height="105" rx="10" fill="#fff3a3"/>
-                        <text x="177" y="275" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">中部地方</text>
-                        <text x="177" y="295" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">9県</text>
-                    </g>
-                    <!-- 近畿地方 -->
-                    <g class="region-btn" data-idx="4" role="button" tabindex="0" aria-label="近畿地方">
-                        <rect x="98" y="340" width="88" height="78" rx="10" fill="#a8e6cf"/>
-                        <text x="142" y="375" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#1a252f">近畿地方</text>
-                        <text x="142" y="395" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">7府県</text>
-                    </g>
-                    <!-- 中国地方 -->
-                    <g class="region-btn" data-idx="5" role="button" tabindex="0" aria-label="中国地方">
-                        <rect x="18" y="340" width="78" height="78" rx="10" fill="#ffd3b6"/>
-                        <text x="57" y="375" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#1a252f">中国地方</text>
-                        <text x="57" y="395" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">5県</text>
-                    </g>
-                    <!-- 四国地方 -->
-                    <g class="region-btn" data-idx="6" role="button" tabindex="0" aria-label="四国地方">
-                        <rect x="100" y="426" width="88" height="72" rx="10" fill="#dcedc1"/>
-                        <text x="144" y="459" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#1a252f">四国地方</text>
-                        <text x="144" y="479" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">4県</text>
-                    </g>
-                    <!-- 九州・沖縄地方 -->
-                    <g class="region-btn" data-idx="7" role="button" tabindex="0" aria-label="九州・沖縄地方">
-                        <rect x="15" y="426" width="83" height="100" rx="10" fill="#ffaaa5"/>
-                        <rect x="15" y="533" width="60" height="22" rx="6" fill="#ffaaa5"/>
-                        <text x="56" y="471" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="#1a252f">九州・</text>
-                        <text x="56" y="489" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="#1a252f">沖縄地方</text>
-                        <text x="45" y="544" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="#1a252f">8県</text>
-                    </g>
-                </svg>
+        <section id="pref-selector-panel">
+            <!-- タブナビゲーション -->
+            <div class="tab-nav" role="tablist" aria-label="都道府県の選択方法">
+                <button class="tab-btn active" id="tab-btn-map" role="tab"
+                        aria-controls="tab-panel-map" aria-selected="true" type="button">
+                    🗾 地図から選ぶ
+                </button>
+                <button class="tab-btn" id="tab-btn-list" role="tab"
+                        aria-controls="tab-panel-list" aria-selected="false" type="button">
+                    📋 一覧から選ぶ
+                </button>
             </div>
-            <!-- Step2: 都道府県グリッド選択 -->
-            <div id="pref-grid-view" hidden>
-                <div class="pref-view-header">
-                    <button id="back-to-regions" type="button">← 地方一覧</button>
-                    <strong id="selected-region-name"></strong>
-                </div>
-                <div id="pref-grid"></div>
-            </div>
-        </section>
 
-        <section class="controls">
-            <div class="field">
-                <label for="pref-selector">都道府県を選択：</label>
-                <select id="pref-selector">
-                    <option value="">-- 選択してください --</option>
+            <!-- タブパネル: ビジュアル地図 -->
+            <div id="tab-panel-map" role="tabpanel" aria-labelledby="tab-btn-map">
+                <!-- Step1: 地方選択SVG地図 -->
+                <div id="region-view">
+                    <p class="map-hint">地方をクリックして絞り込み</p>
+                    <svg id="region-svg" viewBox="0 0 360 555" xmlns="http://www.w3.org/2000/svg" aria-label="日本地方区分図" role="img">
+                        <!-- 北海道地方 -->
+                        <g class="region-btn" data-idx="0" role="button" tabindex="0" aria-label="北海道">
+                            <rect x="195" y="8" width="155" height="78" rx="10" fill="#a8d8ea"/>
+                            <text x="272" y="44" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">北海道</text>
+                            <text x="272" y="64" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">1道</text>
+                        </g>
+                        <!-- 東北地方 -->
+                        <g class="region-btn" data-idx="1" role="button" tabindex="0" aria-label="東北">
+                            <rect x="200" y="96" width="110" height="128" rx="10" fill="#c5b3e6"/>
+                            <text x="255" y="155" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">東北</text>
+                            <text x="255" y="175" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">6県</text>
+                        </g>
+                        <!-- 関東地方 -->
+                        <g class="region-btn" data-idx="2" role="button" tabindex="0" aria-label="関東">
+                            <rect x="230" y="228" width="118" height="78" rx="10" fill="#fcbad3"/>
+                            <text x="289" y="263" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">関東</text>
+                            <text x="289" y="283" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">7都県</text>
+                        </g>
+                        <!-- 中部地方 -->
+                        <g class="region-btn" data-idx="3" role="button" tabindex="0" aria-label="中部">
+                            <rect x="130" y="228" width="95" height="112" rx="10" fill="#fff3a3"/>
+                            <text x="177" y="279" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">中部</text>
+                            <text x="177" y="299" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">9県</text>
+                        </g>
+                        <!-- 近畿地方 -->
+                        <g class="region-btn" data-idx="4" role="button" tabindex="0" aria-label="近畿">
+                            <rect x="98" y="340" width="88" height="78" rx="10" fill="#a8e6cf"/>
+                            <text x="142" y="375" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#1a252f">近畿</text>
+                            <text x="142" y="395" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">7府県</text>
+                        </g>
+                        <!-- 中国地方 -->
+                        <g class="region-btn" data-idx="5" role="button" tabindex="0" aria-label="中国">
+                            <rect x="18" y="340" width="78" height="78" rx="10" fill="#ffd3b6"/>
+                            <text x="57" y="375" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#1a252f">中国</text>
+                            <text x="57" y="395" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">5県</text>
+                        </g>
+                        <!-- 四国地方 -->
+                        <g class="region-btn" data-idx="6" role="button" tabindex="0" aria-label="四国">
+                            <rect x="100" y="426" width="88" height="72" rx="10" fill="#dcedc1"/>
+                            <text x="144" y="459" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#1a252f">四国</text>
+                            <text x="144" y="479" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">4県</text>
+                        </g>
+                        <!-- 九州・沖縄地方 -->
+                        <g class="region-btn" data-idx="7" role="button" tabindex="0" aria-label="九州・沖縄">
+                            <rect x="15" y="426" width="83" height="100" rx="10" fill="#ffaaa5"/>
+                            <rect x="15" y="533" width="60" height="22" rx="6" fill="#ffaaa5"/>
+                            <text x="56" y="471" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="#1a252f">九州・</text>
+                            <text x="56" y="489" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="#1a252f">沖縄</text>
+                            <text x="45" y="544" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="#1a252f">8県</text>
+                        </g>
+                    </svg>
+                </div>
+                <!-- Step2: 都道府県グリッド選択 -->
+                <div id="pref-grid-view" hidden>
+                    <div class="pref-view-header">
+                        <button id="back-to-regions" type="button">← 地方一覧</button>
+                        <strong id="selected-region-name"></strong>
+                    </div>
+                    <div id="pref-grid"></div>
+                </div>
+            </div>
+
+            <!-- タブパネル: ドロップダウン一覧 -->
+            <div id="tab-panel-list" role="tabpanel" aria-labelledby="tab-btn-list" hidden>
+                <div class="field">
+                    <label for="pref-selector">都道府県を選択：</label>
+                    <select id="pref-selector">
+                        <option value="">-- 選択してください --</option>
                     </select>
+                </div>
             </div>
         </section>
 
