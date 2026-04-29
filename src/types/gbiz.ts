@@ -9,6 +9,8 @@ export interface Enterprise {
   address: string;
   prefecture: string;
   certification: GbizCertification[];
+  lat?: number;
+  lng?: number;
 }
 
 export interface GbizApiResponse {

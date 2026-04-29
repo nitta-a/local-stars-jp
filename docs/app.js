@@ -97,11 +97,22 @@ var PREF_COORDS = {
   "46": [31.5602, 130.5581],
   "47": [26.2124, 127.6809]
 };
+var REGION_GROUPS = [
+  { label: "北海道地方", codes: ["01"] },
+  { label: "東北地方", codes: ["02", "03", "04", "05", "06", "07"] },
+  { label: "関東地方", codes: ["08", "09", "10", "11", "12", "13", "14"] },
+  { label: "中部地方", codes: ["15", "16", "17", "18", "19", "20", "21", "22", "23"] },
+  { label: "近畿地方", codes: ["24", "25", "26", "27", "28", "29", "30"] },
+  { label: "中国地方", codes: ["31", "32", "33", "34", "35"] },
+  { label: "四国地方", codes: ["36", "37", "38", "39"] },
+  { label: "九州・沖縄地方", codes: ["40", "41", "42", "43", "44", "45", "46", "47"] }
+];
 
 class LocalStarsApp {
   selector;
   container;
   map = null;
+  markers = [];
   constructor() {
     this.selector = document.getElementById("pref-selector");
     this.container = document.getElementById("list-container");
@@ -109,12 +120,20 @@ class LocalStarsApp {
     this.bindEvents();
   }
   initSelector() {
-    Object.entries(PREF_MAP).forEach(([code, name]) => {
-      const option = document.createElement("option");
-      option.value = code;
-      option.textContent = name;
-      this.selector.appendChild(option);
-    });
+    for (const region of REGION_GROUPS) {
+      const group = document.createElement("optgroup");
+      group.label = region.label;
+      for (const code of region.codes) {
+        const name = PREF_MAP[code];
+        if (!name)
+          continue;
+        const option = document.createElement("option");
+        option.value = code;
+        option.textContent = name;
+        group.appendChild(option);
+      }
+      this.selector.appendChild(group);
+    }
   }
   showMap(code) {
     const coords = PREF_COORDS[code];
@@ -131,6 +150,11 @@ class LocalStarsApp {
     } else {
       this.map.flyTo(coords, 10);
     }
+  }
+  clearMarkers() {
+    for (const marker of this.markers)
+      marker.remove();
+    this.markers = [];
   }
   bindEvents() {
     this.selector.addEventListener("change", () => {
@@ -156,6 +180,7 @@ class LocalStarsApp {
     }
   }
   render(companies) {
+    this.clearMarkers();
     if (companies.length === 0) {
       this.container.innerHTML = "<p>該当する企業はありません。</p>";
       return;
@@ -169,6 +194,15 @@ class LocalStarsApp {
         </div>
       </div>
     `).join("");
+    if (this.map !== null) {
+      for (const c of companies) {
+        if (c.lat !== undefined && c.lng !== undefined) {
+          const jitter = () => (Math.random() - 0.5) * 0.02;
+          const marker = L.marker([c.lat + jitter(), c.lng + jitter()]).addTo(this.map).bindPopup(`<strong>${c.name}</strong><br><small>${c.address}</small>`);
+          this.markers.push(marker);
+        }
+      }
+    }
   }
 }
 window.addEventListener("DOMContentLoaded", () => new LocalStarsApp);

@@ -6,6 +6,7 @@ import type { Enterprise, GbizApiResponse } from "../types/gbiz";
 // --- 設定 ---
 const CSV_PATH = join(import.meta.dir, "../../data/gbiz_certifications.csv");
 const OUTPUT_DIR = join(import.meta.dir, "../../docs/data");
+const GEOCACHE_PATH = join(import.meta.dir, "../../data/geocache.json");
 
 // CSVのヘッダー名
 const COL = {
@@ -68,7 +69,46 @@ const ALL_PREFS: Record<string, string> = {
   沖縄県: "47",
 };
 
-function run() {
+// --- ジオコーディング ---
+type GeoCoord = { lat: number; lng: number };
+type GeoCache = Record<string, GeoCoord | null>;
+
+function loadGeoCache(): GeoCache {
+  if (existsSync(GEOCACHE_PATH)) {
+    return JSON.parse(readFileSync(GEOCACHE_PATH, "utf-8")) as GeoCache;
+  }
+  return {};
+}
+
+function saveGeoCache(cache: GeoCache): void {
+  writeFileSync(GEOCACHE_PATH, JSON.stringify(cache, null, 2));
+}
+
+/** 住所から都道府県＋市区町村のキーを抽出（例: "東京都渋谷区"） */
+function extractCityKey(address: string): string {
+  const match = address.match(/^(.{2,4}[都道府県])(.{2,7}[市区町村郡])/);
+  return match ? match[1] + match[2] : address.substring(0, 12);
+}
+
+/** Nominatim API で都市座標を取得 */
+async function geocodeCity(query: string): Promise<GeoCoord | null> {
+  const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(query)}&format=json&limit=1&countrycodes=jp`;
+  try {
+    const res = await fetch(url, {
+      headers: { "User-Agent": "local-stars-jp/1.0 (open data visualization, non-commercial)" },
+    });
+    if (!res.ok) return null;
+    const data = (await res.json()) as Array<{ lat: string; lon: string }>;
+    if (data.length > 0) {
+      return { lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lon) };
+    }
+  } catch {
+    // ネットワークエラー等は無視
+  }
+  return null;
+}
+
+async function run() {
   if (!existsSync(CSV_PATH)) {
     console.error("CSVファイルが見つかりません。data/ フォルダに配置してください。");
     return;
@@ -123,6 +163,38 @@ function run() {
         prefecture: addressStr,
         certification: [newCert],
       });
+    }
+  }
+
+  // --- 座標付与（Nominatim ジオコーディング）---
+  const geocache = loadGeoCache();
+  const cityKeySet = new Set<string>();
+  for (const prefMap of regionalData.values()) {
+    for (const company of prefMap.values()) {
+      cityKeySet.add(extractCityKey(company.address));
+    }
+  }
+  const newKeys = [...cityKeySet].filter((k) => !(k in geocache));
+  if (newKeys.length > 0) {
+    console.log(`\n${newKeys.length} 件の住所をジオコーディング中 (約${Math.ceil(newKeys.length * 1.1)}秒)...`);
+    for (let i = 0; i < newKeys.length; i++) {
+      const key = newKeys[i];
+      geocache[key] = await geocodeCity(key);
+      console.log(`  [${i + 1}/${newKeys.length}] ${key}: ${geocache[key] ? "OK" : "未取得"}`);
+      if ((i + 1) % 50 === 0) saveGeoCache(geocache);
+      await new Promise<void>((r) => setTimeout(r, 1100));
+    }
+    saveGeoCache(geocache);
+    console.log("ジオコーディング完了\n");
+  }
+  // 企業データに座標を付与
+  for (const prefMap of regionalData.values()) {
+    for (const company of prefMap.values()) {
+      const coord = geocache[extractCityKey(company.address)];
+      if (coord) {
+        company.lat = coord.lat;
+        company.lng = coord.lng;
+      }
     }
   }
 
