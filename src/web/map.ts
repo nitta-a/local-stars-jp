@@ -22,6 +22,11 @@ export class MapController {
     } else {
       this.map.flyTo(coords, 10);
     }
+    this.map.invalidateSize();
+  }
+
+  clearMarkers(): void {
+    this.markerLayer?.clearLayers();
   }
 
   updateMarkers(companies: Enterprise[]): void {

@@ -97,6 +97,19 @@
 
         <div id="map" hidden></div>
 
+        <div id="name-filter-wrap" hidden>
+            <div class="name-filter-field">
+                <label for="name-filter">企業名で絞り込み：</label>
+                <input type="search" id="name-filter" placeholder="企業名を入力..." autocomplete="off">
+            </div>
+            <div class="name-filter-field">
+                <label for="cert-filter">認定名称で絞り込み：</label>
+                <select id="cert-filter">
+                    <option value="">すべて</option>
+                </select>
+            </div>
+        </div>
+
         <section id="list-container">
             <p class="placeholder">都道府県を選択すると、認定企業の一覧が表示されます。</p>
         </section>

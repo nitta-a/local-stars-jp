@@ -221,6 +221,10 @@ class MapController {
     } else {
       this.map.flyTo(coords, 10);
     }
+    this.map.invalidateSize();
+  }
+  clearMarkers() {
+    this.markerLayer?.clearLayers();
   }
   updateMarkers(companies) {
     if (this.map === null)
@@ -312,10 +316,17 @@ var ERR_NO_COMPANIES = "該当する企業はありません。";
 class LocalStarsApp {
   selector;
   container;
+  filterInput;
+  certFilter;
+  filterWrap;
   mapCtrl = new MapController;
+  allCompanies = [];
   constructor() {
     this.selector = document.getElementById("pref-selector");
     this.container = document.getElementById("list-container");
+    this.filterInput = document.getElementById("name-filter");
+    this.certFilter = document.getElementById("cert-filter");
+    this.filterWrap = document.getElementById("name-filter-wrap");
     this.initSelector();
     this.initVisualMap();
     this.bindEvents();
@@ -387,9 +398,19 @@ class LocalStarsApp {
       this.mapCtrl.showMap(code);
       this.fetchData(code);
     });
+    this.filterInput.addEventListener("input", () => {
+      this.applyFilter();
+    });
+    this.certFilter.addEventListener("change", () => {
+      this.applyFilter();
+    });
   }
   async fetchData(code) {
     this.container.innerHTML = `<p class="loading">${LOADING_MSG}</p>`;
+    this.filterWrap.hidden = true;
+    this.filterInput.value = "";
+    this.certFilter.innerHTML = `<option value="">すべて</option>`;
+    this.mapCtrl.clearMarkers();
     try {
       const res = await fetch(`./data/${code}.json`);
       if (!res.ok)
@@ -402,13 +423,34 @@ class LocalStarsApp {
     }
   }
   render(companies) {
-    if (companies.length === 0) {
+    this.allCompanies = companies;
+    this.filterWrap.hidden = companies.length === 0;
+    const certNames = [...new Set(companies.flatMap((c) => c.certification.map((cert) => cert.certification_name)))].sort();
+    for (const name of certNames) {
+      const opt = document.createElement("option");
+      opt.value = name;
+      opt.textContent = name;
+      this.certFilter.appendChild(opt);
+    }
+    this.applyFilter();
+  }
+  applyFilter() {
+    const nameQuery = this.filterInput.value.trim().toLowerCase();
+    const certQuery = this.certFilter.value;
+    const filtered = this.allCompanies.filter((c) => {
+      if (nameQuery && !c.name.toLowerCase().includes(nameQuery))
+        return false;
+      if (certQuery && !c.certification.some((cert) => cert.certification_name === certQuery))
+        return false;
+      return true;
+    });
+    if (filtered.length === 0) {
       this.container.innerHTML = `<p class="error">${ERR_NO_COMPANIES}</p>`;
       this.mapCtrl.updateMarkers([]);
       return;
     }
-    this.container.innerHTML = companies.map(buildCompanyCardHtml).join("");
-    this.mapCtrl.updateMarkers(companies);
+    this.container.innerHTML = filtered.map(buildCompanyCardHtml).join("");
+    this.mapCtrl.updateMarkers(filtered);
   }
 }
 window.addEventListener("DOMContentLoaded", () => new LocalStarsApp);

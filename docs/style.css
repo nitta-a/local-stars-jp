@@ -93,6 +93,62 @@ select:focus {
   border-color: var(--accent-color);
 }
 
+/* --- 企業名フィルター --- */
+#name-filter-wrap {
+  background: var(--card-bg);
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  margin-bottom: 1.5rem;
+}
+
+.name-filter-field {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+
+.name-filter-field label {
+  font-weight: bold;
+  color: var(--primary-color);
+  white-space: nowrap;
+}
+
+#name-filter {
+  flex: 1;
+  min-width: 0;
+  padding: 0.6rem 0.9rem;
+  font-size: 1rem;
+  border: 2px solid #dfe6e9;
+  border-radius: 8px;
+  background-color: white;
+  transition: border-color 0.3s;
+}
+
+#name-filter:focus {
+  outline: none;
+  border-color: var(--accent-color);
+}
+
+#cert-filter {
+  flex: 1;
+  min-width: 0;
+  padding: 0.6rem 0.9rem;
+  font-size: 1rem;
+  border: 2px solid #dfe6e9;
+  border-radius: 8px;
+  background-color: white;
+  cursor: pointer;
+  transition: border-color 0.3s;
+}
+
+#cert-filter:focus {
+  outline: none;
+  border-color: var(--accent-color);
+}
+
 /* --- 企業カード --- */
 .company-card {
   background: var(--card-bg);
