@@ -4,6 +4,8 @@ import { PREF_MAP, REGION_GROUPS } from "./constants";
 import { MapController } from "./map";
 import { buildPrefecturePagePath, getPageConfig, resolveAssetPath } from "./page-config";
 import { buildCompanyCardCompactHtml, buildCompanyCardHtml, buildPrefSvg } from "./renderer";
+import "./share-panel";
+import type { SharePanel } from "./share-panel";
 
 const LOADING_MSG = "読み込み中...";
 const ERR_NO_DATA = "データの取得に失敗しました。まだデータが準備されていない可能性があります。";
@@ -40,11 +42,7 @@ class LocalStarsApp {
   private resultsTitle: HTMLElement;
   private resultsMeta: HTMLElement;
   private resultsCount: HTMLElement;
-  private shareX: HTMLAnchorElement;
-  private shareFacebook: HTMLAnchorElement;
-  private shareLine: HTMLAnchorElement;
-  private shareCopy: HTMLButtonElement;
-  private shareStatus: HTMLElement;
+  private sharePanel: SharePanel | null;
   private mapCtrl = new MapController();
   private allCompanies: Enterprise[] = [];
   private viewMode: ViewMode = "card";
@@ -64,11 +62,7 @@ class LocalStarsApp {
     this.resultsTitle = document.getElementById("results-title") as HTMLElement;
     this.resultsMeta = document.getElementById("results-meta") as HTMLElement;
     this.resultsCount = document.getElementById("results-count") as HTMLElement;
-    this.shareX = document.getElementById("share-x") as HTMLAnchorElement;
-    this.shareFacebook = document.getElementById("share-facebook") as HTMLAnchorElement;
-    this.shareLine = document.getElementById("share-line") as HTMLAnchorElement;
-    this.shareCopy = document.getElementById("share-copy") as HTMLButtonElement;
-    this.shareStatus = document.getElementById("share-status") as HTMLElement;
+    this.sharePanel = document.querySelector("local-share-panel");
     this.pendingUrlState = this.readUrlState();
 
     this.initSelector();
@@ -206,9 +200,6 @@ class LocalStarsApp {
     });
     this.certFilter.addEventListener("change", () => {
       this.applyFilter();
-    });
-    this.shareCopy.addEventListener("click", () => {
-      void this.copyShareLink();
     });
     this.viewToggleCard.addEventListener("click", () => {
       this.setViewMode("card");
@@ -356,21 +347,9 @@ class LocalStarsApp {
     const shareUrl = window.location.href;
     const shareText = this.getShareText();
 
-    this.shareX.href = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
-    this.shareFacebook.href = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`;
-    this.shareLine.href = `https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(shareUrl)}&text=${encodeURIComponent(shareText)}`;
-    this.shareStatus.textContent = status;
-  }
-
-  private async copyShareLink() {
-    const shareUrl = window.location.href;
-
-    try {
-      await navigator.clipboard.writeText(shareUrl);
-      this.updateShareLinks("共有用リンクをコピーしました。");
-    } catch (error) {
-      console.error(error);
-      this.updateShareLinks("リンクをコピーできませんでした。ブラウザの共有メニューを利用してください。");
+    if (this.sharePanel) {
+      this.sharePanel.dataset.shareText = shareText;
+      this.sharePanel.updateShareLinks(shareUrl, shareText, status);
     }
   }
 
