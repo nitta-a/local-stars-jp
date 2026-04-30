@@ -137,7 +137,7 @@ class LocalStarsApp {
     const region = REGION_GROUPS[regionIdx];
     // 都道府県が1つだけの地方（北海道など）は地方内選択を省略して直接選択
     if (region.codes.length === 1) {
-      this.selectPrefecture(region.codes[0]);
+      this.handlePrefectureSelection(region.codes[0]);
       return;
     }
 
@@ -146,10 +146,21 @@ class LocalStarsApp {
     prefGridView.hidden = false;
     (document.getElementById("selected-region-name") as HTMLElement).textContent = region.label;
 
-    const svgEl = buildPrefSvg(regionIdx, this.selector.value, (code) => this.selectPrefecture(code));
+    const svgEl = buildPrefSvg(regionIdx, this.selector.value, (code) => this.handlePrefectureSelection(code));
     const grid = document.getElementById("pref-grid") as HTMLElement;
     grid.innerHTML = "";
     grid.appendChild(svgEl);
+  }
+
+  private handlePrefectureSelection(code: string) {
+    const { isFixedPrefPage } = getPageConfig();
+
+    if (!isFixedPrefPage) {
+      this.navigateToPrefecturePage(code);
+      return;
+    }
+
+    this.selectPrefecture(code);
   }
 
   private selectPrefecture(code: string) {
@@ -188,7 +199,7 @@ class LocalStarsApp {
     this.selector.addEventListener("change", () => {
       const code = this.selector.value;
       if (!code) return;
-      this.selectPrefecture(code);
+      this.handlePrefectureSelection(code);
     });
     this.filterInput.addEventListener("input", () => {
       this.applyFilter();

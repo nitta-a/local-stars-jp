@@ -660,17 +660,25 @@ class LocalStarsApp {
   showPrefGrid(regionIdx) {
     const region = REGION_GROUPS[regionIdx];
     if (region.codes.length === 1) {
-      this.selectPrefecture(region.codes[0]);
+      this.handlePrefectureSelection(region.codes[0]);
       return;
     }
     document.getElementById("region-view").hidden = true;
     const prefGridView = document.getElementById("pref-grid-view");
     prefGridView.hidden = false;
     document.getElementById("selected-region-name").textContent = region.label;
-    const svgEl = buildPrefSvg(regionIdx, this.selector.value, (code) => this.selectPrefecture(code));
+    const svgEl = buildPrefSvg(regionIdx, this.selector.value, (code) => this.handlePrefectureSelection(code));
     const grid = document.getElementById("pref-grid");
     grid.innerHTML = "";
     grid.appendChild(svgEl);
+  }
+  handlePrefectureSelection(code) {
+    const { isFixedPrefPage } = getPageConfig();
+    if (!isFixedPrefPage) {
+      this.navigateToPrefecturePage(code);
+      return;
+    }
+    this.selectPrefecture(code);
   }
   selectPrefecture(code) {
     const { fixedPrefCode, isFixedPrefPage } = getPageConfig();
@@ -701,7 +709,7 @@ class LocalStarsApp {
       const code = this.selector.value;
       if (!code)
         return;
-      this.selectPrefecture(code);
+      this.handlePrefectureSelection(code);
     });
     this.filterInput.addEventListener("input", () => {
       this.applyFilter();
