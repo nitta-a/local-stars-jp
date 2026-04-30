@@ -1,11 +1,57 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YRN541G627"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YRN541G627');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Local Stars JP - 地域の優良認定企業カタログ</title>
-    <meta name="description" content="gBizINFOのオープンデータを活用し、都道府県別のホワイト企業認定（ユースエール、えるぼし、健康経営等）を可視化します。">
-    
+    <title>Local Stars JP - ユースエール・えるぼし・健康経営など優良認定企業を地図で検索</title>
+    <meta name="description" content="ユースエール、えるぼし、くるみん、健康経営優良法人など国の認定を受けた優良企業を都道府県別に地図とリストで検索できます。gBizINFOのオープンデータを活用した無料の企業情報サービスです。">
+    <meta name="keywords" content="ユースエール,えるぼし,くるみん,健康経営優良法人,プラチナくるみん,えるぼし認定,ホワイト企業,認定企業,優良企業,企業一覧,就活,転職,gBizINFO,厚生労働省,経済産業省">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Local Stars JP - 優良認定企業を地図で検索">
+    <meta property="og:description" content="ユースエール、えるぼし、くるみん、健康経営優良法人など国の認定を受けた優良企業を都道府県別に地図とリストで検索できます。">
+    <meta property="og:locale" content="ja_JP">
+    <meta property="og:site_name" content="Local Stars JP">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Local Stars JP - 優良認定企業を地図で検索">
+    <meta name="twitter:description" content="ユースエール、えるぼし、くるみん、健康経営優良法人など国の認定を受けた優良企業を都道府県別に地図とリストで検索できます。">
+
+    <!-- JSON-LD 構造化データ -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Local Stars JP",
+      "description": "ユースエール、えるぼし、くるみん、健康経営優良法人など国の認定を受けた優良企業を都道府県別に地図とリストで検索できるWebアプリケーション。gBizINFOのオープンデータを活用。",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "inLanguage": "ja",
+      "isAccessibleForFree": true,
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "JPY"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "優良認定企業",
+        "description": "ユースエール・えるぼし・くるみん・健康経営優良法人など、国が認定した優良企業の情報"
+      }
+    }
+    </script>
+
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -37,7 +83,7 @@
                 <!-- Step1: 地方選択SVG地図 -->
                 <div id="region-view">
                     <p class="map-hint">地方をクリックして絞り込み</p>
-                    <svg id="region-svg" viewBox="0 0 360 555" xmlns="http://www.w3.org/2000/svg" aria-label="日本地方区分図" role="img">
+                    <svg id="region-svg" viewBox="0 0 360 440" xmlns="http://www.w3.org/2000/svg" aria-label="日本地方区分図" role="img">
                         <!-- 北海道地方 -->
                         <g class="region-btn" data-idx="0" role="button" tabindex="0" aria-label="北海道">
                             <rect x="195" y="8" width="155" height="78" rx="10" fill="#a8d8ea"/>
@@ -52,41 +98,41 @@
                         </g>
                         <!-- 関東地方 -->
                         <g class="region-btn" data-idx="2" role="button" tabindex="0" aria-label="関東">
-                            <rect x="230" y="228" width="118" height="78" rx="10" fill="#fcbad3"/>
-                            <text x="289" y="263" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">関東</text>
-                            <text x="289" y="283" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">7都県</text>
+                            <rect x="272" y="228" width="80" height="80" rx="10" fill="#fcbad3"/>
+                            <text x="312" y="258" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">関東</text>
+                            <text x="312" y="276" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">7都県</text>
                         </g>
                         <!-- 中部地方 -->
                         <g class="region-btn" data-idx="3" role="button" tabindex="0" aria-label="中部">
-                            <rect x="130" y="228" width="95" height="112" rx="10" fill="#fff3a3"/>
-                            <text x="177" y="279" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">中部</text>
-                            <text x="177" y="299" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">9県</text>
+                            <rect x="184" y="228" width="80" height="80" rx="10" fill="#fff3a3"/>
+                            <text x="224" y="258" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">中部</text>
+                            <text x="224" y="276" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">9県</text>
                         </g>
                         <!-- 近畿地方 -->
                         <g class="region-btn" data-idx="4" role="button" tabindex="0" aria-label="近畿">
-                            <rect x="98" y="340" width="88" height="78" rx="10" fill="#a8e6cf"/>
-                            <text x="142" y="375" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#1a252f">近畿</text>
-                            <text x="142" y="395" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">7府県</text>
+                            <rect x="96" y="228" width="80" height="80" rx="10" fill="#a8e6cf"/>
+                            <text x="136" y="258" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#1a252f">近畿</text>
+                            <text x="136" y="276" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">7府県</text>
                         </g>
                         <!-- 中国地方 -->
                         <g class="region-btn" data-idx="5" role="button" tabindex="0" aria-label="中国">
-                            <rect x="18" y="340" width="78" height="78" rx="10" fill="#ffd3b6"/>
-                            <text x="57" y="375" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#1a252f">中国</text>
-                            <text x="57" y="395" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">5県</text>
+                            <rect x="8" y="228" width="80" height="80" rx="10" fill="#ffd3b6"/>
+                            <text x="48" y="258" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#1a252f">中国</text>
+                            <text x="48" y="276" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">5県</text>
                         </g>
                         <!-- 四国地方 -->
                         <g class="region-btn" data-idx="6" role="button" tabindex="0" aria-label="四国">
-                            <rect x="100" y="426" width="88" height="72" rx="10" fill="#dcedc1"/>
-                            <text x="144" y="459" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#1a252f">四国</text>
-                            <text x="144" y="479" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">4県</text>
+                            <rect x="96" y="318" width="80" height="80" rx="10" fill="#dcedc1"/>
+                            <text x="136" y="348" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#1a252f">四国</text>
+                            <text x="136" y="366" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">4県</text>
                         </g>
                         <!-- 九州・沖縄地方 -->
                         <g class="region-btn" data-idx="7" role="button" tabindex="0" aria-label="九州・沖縄">
-                            <rect x="15" y="426" width="83" height="100" rx="10" fill="#ffaaa5"/>
-                            <rect x="15" y="533" width="60" height="22" rx="6" fill="#ffaaa5"/>
-                            <text x="56" y="471" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="#1a252f">九州・</text>
-                            <text x="56" y="489" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="#1a252f">沖縄</text>
-                            <text x="45" y="544" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="#1a252f">8県</text>
+                            <rect x="8" y="318" width="80" height="80" rx="10" fill="#ffaaa5"/>
+                            <rect x="8" y="408" width="55" height="22" rx="6" fill="#ffaaa5"/>
+                            <text x="48" y="348" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="#1a252f">九州・</text>
+                            <text x="48" y="366" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="#1a252f">沖縄</text>
+                            <text x="35" y="419" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="#1a252f">8県</text>
                         </g>
                     </svg>
                 </div>
