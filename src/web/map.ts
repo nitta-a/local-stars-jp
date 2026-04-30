@@ -7,6 +7,13 @@ declare const L: typeof Leaflet;
 const TILE_URL = "https://tile.openstreetmap.org/{z}/{x}/{y}.png";
 const TILE_ATTRIBUTION = '\u00a9 <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
 
+// Tracking Prevention対策: デフォルトアイコンをローカルファイルに差し替え
+L.Icon.Default.mergeOptions({
+  iconUrl: "images/marker-icon.png",
+  iconRetinaUrl: "images/marker-icon-2x.png",
+  shadowUrl: "images/marker-shadow.png",
+});
+
 export class MapController {
   private map: Leaflet.Map | null = null;
   private markerLayer: Leaflet.LayerGroup | null = null;

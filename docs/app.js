@@ -205,6 +205,11 @@ var REGION_GRID_LAYOUT = [
 // src/web/map.ts
 var TILE_URL = "https://tile.openstreetmap.org/{z}/{x}/{y}.png";
 var TILE_ATTRIBUTION = '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+L.Icon.Default.mergeOptions({
+  iconUrl: "images/marker-icon.png",
+  iconRetinaUrl: "images/marker-icon-2x.png",
+  shadowUrl: "images/marker-shadow.png"
+});
 
 class MapController {
   map = null;
