@@ -1,7 +1,19 @@
 import { readFileSync } from "node:fs";
 import { parse } from "csv-parse/sync";
+import { classifyCertificationGenre } from "../certification.ts";
 import type { Enterprise } from "../types/gbiz";
 import { ALL_PREFS, COL, CSV_PATH } from "./constants";
+
+function mergeCertificationMetadata(
+  existing: Enterprise["certification"][number],
+  incoming: Enterprise["certification"][number],
+) {
+  if (incoming.certified_date) existing.certified_date = incoming.certified_date;
+  if (incoming.target) existing.target = incoming.target;
+  if (incoming.division) existing.division = incoming.division;
+  if (incoming.issuer) existing.issuer = incoming.issuer;
+  if (incoming.genre) existing.genre = incoming.genre;
+}
 
 export function loadRecords(): Record<string, string>[] {
   const content = readFileSync(CSV_PATH, "utf-8");
@@ -30,14 +42,29 @@ export function buildRegionalData(records: Record<string, string>[]): Map<string
 
     const id = row[COL.CORP_NUM];
     const prefMap = regionalData.get(matchedCode)!;
+    const target = row[COL.TARGET] || "";
+    const division = row[COL.DIVISION] || "";
+    const issuer = row[COL.ISSUER] || "";
     const newCert = {
       certification_name: row[COL.CERT_NAME],
       certified_date: row[COL.CERT_DATE] || "",
+      target,
+      division,
+      issuer,
+      genre: classifyCertificationGenre({
+        certificationName: row[COL.CERT_NAME],
+        issuer,
+        target,
+        division,
+      }),
     };
 
     const existing = prefMap.get(id);
     if (existing) {
-      if (!existing.certification.some((c) => c.certification_name === newCert.certification_name)) {
+      const existingCert = existing.certification.find((c) => c.certification_name === newCert.certification_name);
+      if (existingCert) {
+        mergeCertificationMetadata(existingCert, newCert);
+      } else {
         existing.certification.push(newCert);
       }
     } else {

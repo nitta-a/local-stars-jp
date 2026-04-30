@@ -8,7 +8,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.703256858,
@@ -22,11 +26,19 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１９",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.680462003,
@@ -40,7 +52,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１８",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.67893600000001,
@@ -54,7 +70,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.668441197,
@@ -68,7 +88,11 @@
       "certification": [
         {
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１３",
+          "issuer": "厚生労働省",
+          "genre": "障害者雇用"
         }
       ],
       "lat": 39.696392569,
@@ -82,7 +106,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.691181011,
@@ -96,7 +124,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.702284147,
@@ -110,7 +142,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.301647675,
@@ -124,7 +160,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.310907393,
@@ -138,7 +178,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.336591681,
@@ -152,7 +196,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.302963811,
@@ -166,7 +214,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 40.273864033,
@@ -180,7 +232,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１９",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.712004642,
@@ -194,7 +250,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 38.930740128000004,
@@ -208,15 +268,27 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１５",
+          "issuer": "厚生労働省",
+          "genre": "障害者雇用"
         }
       ],
       "lat": 39.128772,
@@ -230,7 +302,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.697512625,
@@ -244,7 +320,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.179628002,
@@ -258,11 +338,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.700083889,
@@ -276,7 +364,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２０",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.702933525,
@@ -290,7 +382,11 @@
       "certification": [
         {
           "certification_name": "東北防衛局優秀工事顕彰",
-          "certified_date": "2023-07-01"
+          "certified_date": "2023-07-01",
+          "target": "施設整備工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.620682103,
@@ -304,7 +400,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 40.260242536,
@@ -318,7 +418,11 @@
       "certification": [
         {
           "certification_name": "令和５年度「未来につながる持続可能な農業推進コンクール」",
-          "certified_date": "2024-03-27"
+          "certified_date": "2024-03-27",
+          "target": "有機農業・環境保全型農業部門",
+          "division": "東北農政局長賞",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 38.941433138,
@@ -332,7 +436,11 @@
       "certification": [
         {
           "certification_name": "令和４年度未来につながる持続可能な農業推進コンクール",
-          "certified_date": "2023-03-17"
+          "certified_date": "2023-03-17",
+          "target": "",
+          "division": "東北農政局長賞",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.736028532,
@@ -346,7 +454,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.33065,
@@ -360,7 +472,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.701795,
@@ -374,7 +490,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.728881158,
@@ -388,7 +508,11 @@
       "certification": [
         {
           "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２００８",
+          "issuer": "厚生労働省",
+          "genre": "働き方改革"
         }
       ],
       "lat": 38.928075817,
@@ -402,7 +526,11 @@
       "certification": [
         {
           "certification_name": "令和３年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
-          "certified_date": "2022-01-11"
+          "certified_date": "2022-01-11",
+          "target": "国営施設応急対策事業須川地区第１号幹線用水路国道横断部水管橋補強工事",
+          "division": "優良工事",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 38.934085083,
@@ -416,7 +544,11 @@
       "certification": [
         {
           "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
-          "certified_date": "2018-10-25"
+          "certified_date": "2018-10-25",
+          "target": "ＬＰガス保安の確保",
+          "division": "保安優良液化ガス販売事業者",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.144506,
@@ -430,7 +562,11 @@
       "certification": [
         {
           "certification_name": "令和５年度豊かなむらづくり全国表彰事業",
-          "certified_date": "2023-10-11"
+          "certified_date": "2023-10-11",
+          "target": "",
+          "division": "東北農政局長賞",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.187209938,
@@ -444,7 +580,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.091456243,
@@ -458,7 +598,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.12529145,
@@ -472,7 +616,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.67893600000001,
@@ -486,7 +634,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.616018,
@@ -500,7 +652,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.701795,
@@ -514,7 +670,11 @@
       "certification": [
         {
           "certification_name": "Ｊ－Ｓｔａｒｔｕｐ２０１９",
-          "certified_date": "2019-06-24"
+          "certified_date": "2019-06-24",
+          "target": "グローバル市場で急成長し、日本のイノベーションを牽引する可能性を持つスタートアップであるため。",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.747783231,
@@ -528,11 +688,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.723561006,
@@ -546,7 +714,11 @@
       "certification": [
         {
           "certification_name": "「みどりの愛護」功労者国土交通大臣表彰",
-          "certified_date": "2022-05-21"
+          "certified_date": "2022-05-21",
+          "target": "ボランティア活動として、みどりの愛護活動を行っている団体",
+          "division": "－",
+          "issuer": "国土交通省",
+          "genre": "物流・交通"
         }
       ],
       "lat": 39.683265514,
@@ -560,7 +732,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.052366433,
@@ -574,7 +750,11 @@
       "certification": [
         {
           "certification_name": "気象庁長官表彰",
-          "certified_date": "2020-06-01"
+          "certified_date": "2020-06-01",
+          "target": "委託観測（地域）",
+          "division": "",
+          "issuer": "気象庁",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.703043144,
@@ -588,7 +768,11 @@
       "certification": [
         {
           "certification_name": "気象庁長官表彰",
-          "certified_date": "2022-06-01"
+          "certified_date": "2022-06-01",
+          "target": "委託観測（地域）",
+          "division": "",
+          "issuer": "気象庁",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 40.190990583,
@@ -602,7 +786,11 @@
       "certification": [
         {
           "certification_name": "気象庁長官表彰",
-          "certified_date": "2020-06-01"
+          "certified_date": "2020-06-01",
+          "target": "委託観測（地域）",
+          "division": "",
+          "issuer": "気象庁",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 38.933946644,
@@ -616,11 +804,19 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２３",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "令和３年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
-          "certified_date": "2022-01-11"
+          "certified_date": "2022-01-11",
+          "target": "",
+          "division": "地域貢献活動",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.732892975,
@@ -634,11 +830,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.705176975,
@@ -652,7 +856,11 @@
       "certification": [
         {
           "certification_name": "令和３年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
-          "certified_date": "2022-01-11"
+          "certified_date": "2022-01-11",
+          "target": "岩手山麓農業水利事業岩洞ダム貯水池浸食防止対策（その５）工事",
+          "division": "優良工事",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.691731577,
@@ -666,7 +874,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.908340267,
@@ -680,7 +892,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.540243884,
@@ -694,15 +910,27 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１６",
+          "issuer": "厚生労働省",
+          "genre": "障害者雇用"
         },
         {
           "certification_name": "消費者支援功労者表彰",
-          "certified_date": "2021-06-30"
+          "certified_date": "2021-06-30",
+          "target": "・生活困窮者への食料品支援や、子ども食堂の食材購入支援、組合員による募金で賄う「ささえあい募金」を実施。・東日本大震災以降、被災地の買物支援として「移動店舗」４台と「無料買い物バス」（宮古・山田地域）の運行を継続。・平成２４年からは組合員のリサイクルで回収した紙パックの収益金などで募金を積み立てる「コープの森基金」を設立。",
+          "division": "内閣府特命担当大臣表彰",
+          "issuer": "消費者庁",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.753430676,
@@ -716,7 +944,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.595584443,
@@ -730,7 +962,11 @@
       "certification": [
         {
           "certification_name": "令和４年度豊かなむらづくり全国表彰事業",
-          "certified_date": "2022-10-05"
+          "certified_date": "2022-10-05",
+          "target": "",
+          "division": "東北農政局長賞",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.441417575,
@@ -744,7 +980,11 @@
       "certification": [
         {
           "certification_name": "まちづくり法人国土交通大臣表彰",
-          "certified_date": "2015-06-12"
+          "certified_date": "2015-06-12",
+          "target": "",
+          "division": "まちづくりの担い手　サポート部門",
+          "issuer": "国土交通省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.281757925,
@@ -758,7 +998,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.644435344,
@@ -772,7 +1016,11 @@
       "certification": [
         {
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１９",
+          "issuer": "厚生労働省",
+          "genre": "障害者雇用"
         }
       ],
       "lat": 38.934754,
@@ -786,7 +1034,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.690464,
@@ -800,7 +1052,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.880329936,
@@ -814,7 +1070,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.286817,
@@ -828,7 +1088,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.67893600000001,
@@ -842,7 +1106,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 40.293466896,
@@ -856,7 +1124,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１３",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 40.27093364,
@@ -870,7 +1142,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.681256594,
@@ -884,7 +1160,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.385147003,
@@ -898,7 +1178,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２３",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 38.923131178,
@@ -912,7 +1196,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１９",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.116999088,
@@ -926,7 +1214,11 @@
       "certification": [
         {
           "certification_name": "気象庁長官表彰",
-          "certified_date": "2022-06-01"
+          "certified_date": "2022-06-01",
+          "target": "委託観測（地域）",
+          "division": "",
+          "issuer": "気象庁",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.638929556,
@@ -940,7 +1232,11 @@
       "certification": [
         {
           "certification_name": "気象庁長官表彰",
-          "certified_date": "2020-06-01"
+          "certified_date": "2020-06-01",
+          "target": "委託観測（地域）",
+          "division": "",
+          "issuer": "気象庁",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.144279,
@@ -954,7 +1250,11 @@
       "certification": [
         {
           "certification_name": "令和４年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
-          "certified_date": "2023-01-27"
+          "certified_date": "2023-01-27",
+          "target": "",
+          "division": "地域貢献活動",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.738575928,
@@ -968,11 +1268,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.701214753,
@@ -986,15 +1294,27 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２１",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "令和３年度東北農政局輸出に取り組む優良事業者表彰",
-          "certified_date": "2022-03-04"
+          "certified_date": "2022-03-04",
+          "target": "",
+          "division": "東北農政局長賞",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.714804853000004,
@@ -1008,7 +1328,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１１",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.627545881,
@@ -1022,7 +1346,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.336052808,
@@ -1036,7 +1364,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.253558874,
@@ -1050,7 +1382,11 @@
       "certification": [
         {
           "certification_name": "令和元年度優良ふるさと食品中央コンクール表彰",
-          "certified_date": "2020-03-04"
+          "certified_date": "2020-03-04",
+          "target": "出品財名：五穀甘糀",
+          "division": "国産農林産品利用部門",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.273195219,
@@ -1064,7 +1400,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 40.180839834,
@@ -1078,7 +1418,11 @@
       "certification": [
         {
           "certification_name": "消費者支援功労者表彰",
-          "certified_date": "2019-05-28"
+          "certified_date": "2019-05-28",
+          "target": "・長年にわたり、お金、家庭等の複合的な課題を抱えた消費者に対する相談支援を実施。・弁護士、司法書士の無料法律相談会や、複数の専門相談機関が一堂に会するワンストップ相談会など、様々な各種専門機関とのネットワークを構築することで地域におけるセーフティーネットの役割を担う。",
+          "division": "内閣府特命担当大臣表彰",
+          "issuer": "消費者庁",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.698083072,
@@ -1092,7 +1436,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.712715617,
@@ -1106,7 +1454,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 40.040068796,
@@ -1120,7 +1472,11 @@
       "certification": [
         {
           "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
-          "certified_date": "2021-12-07"
+          "certified_date": "2021-12-07",
+          "target": "障害者の表現活動の拠点「るんびにい美術館」",
+          "division": "功労者",
+          "issuer": "文部科学省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.472667085,
@@ -1134,7 +1490,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 38.906269409,
@@ -1148,19 +1508,35 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１１",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１６",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "安全衛生優良企業公表制度－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "働き方改革"
         }
       ],
       "lat": 39.703990503,
@@ -1174,7 +1550,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.668632,
@@ -1188,11 +1568,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２０",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.732186511,
@@ -1206,11 +1594,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.701295072,
@@ -1224,7 +1620,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.690464,
@@ -1238,7 +1638,11 @@
       "certification": [
         {
           "certification_name": "環境人づくり企業大賞２０１８",
-          "certified_date": "2019-05-27"
+          "certified_date": "2019-05-27",
+          "target": "",
+          "division": "大企業",
+          "issuer": "環境省",
+          "genre": "環境・サステナビリティ"
         }
       ],
       "lat": 39.334108,
@@ -1252,7 +1656,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.335927792,
@@ -1266,7 +1674,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.738817558,
@@ -1280,7 +1692,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 40.381655631,
@@ -1294,7 +1710,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.700757908,
@@ -1308,7 +1728,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１９",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 40.303631084,
@@ -1322,7 +1746,11 @@
       "certification": [
         {
           "certification_name": "令和３年度東北農政局土地改良事業地区営農推進功労者表彰",
-          "certified_date": "2021-12-03"
+          "certified_date": "2021-12-03",
+          "target": "",
+          "division": "東北農政局長賞",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 40.123080446,
@@ -1336,11 +1764,19 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２１",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 38.929516792,
@@ -1354,7 +1790,11 @@
       "certification": [
         {
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
-          "certified_date": ""
+          "certified_date": "2020-09-15",
+          "target": "",
+          "division": "２０２０",
+          "issuer": "厚生労働省",
+          "genre": "障害者雇用"
         }
       ],
       "lat": 38.921276323,
@@ -1368,7 +1808,11 @@
       "certification": [
         {
           "certification_name": "「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
-          "certified_date": "2021-12-07"
+          "certified_date": "2021-12-07",
+          "target": "障害者の市民アート交流事業",
+          "division": "功労者",
+          "issuer": "文部科学省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 38.901568692,
@@ -1382,7 +1826,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.029720419,
@@ -1396,7 +1844,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.062881,
@@ -1410,7 +1862,11 @@
       "certification": [
         {
           "certification_name": "気象庁長官表彰",
-          "certified_date": "2022-06-01"
+          "certified_date": "2022-06-01",
+          "target": "委託観測（地域）",
+          "division": "",
+          "issuer": "気象庁",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.695880955,
@@ -1424,7 +1880,11 @@
       "certification": [
         {
           "certification_name": "東北防衛局優秀工事顕彰",
-          "certified_date": "2023-07-01"
+          "certified_date": "2023-07-01",
+          "target": "施設整備工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.663413,
@@ -1438,11 +1898,19 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１９",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２１",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.704483714,
@@ -1456,7 +1924,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.674954,
@@ -1470,7 +1942,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.909917931,
@@ -1484,7 +1960,11 @@
       "certification": [
         {
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１２",
+          "issuer": "厚生労働省",
+          "genre": "障害者雇用"
         }
       ],
       "lat": 39.511050977,
@@ -1498,7 +1978,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.347079039,
@@ -1512,7 +1996,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.256265367,
@@ -1526,7 +2014,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.251916266,
@@ -1540,7 +2032,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 40.256283892,
@@ -1554,7 +2050,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.405758328,
@@ -1568,7 +2068,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 40.201360852,
@@ -1582,7 +2086,11 @@
       "certification": [
         {
           "certification_name": "令和５年度東北農政局輸出に取り組む優良事業者表彰",
-          "certified_date": "2024-03-11"
+          "certified_date": "2024-03-11",
+          "target": "",
+          "division": "東北農政局長賞",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.538787961,
@@ -1596,11 +2104,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 38.926971274,
@@ -1614,7 +2130,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 38.934754,
@@ -1628,15 +2148,27 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１８",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.144506,
@@ -1650,7 +2182,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.202236,
@@ -1664,7 +2200,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.083889083,
@@ -1678,11 +2218,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.701594403,
@@ -1696,7 +2244,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.708748636,
@@ -1710,7 +2262,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.717894908,
@@ -1724,7 +2280,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１８",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.665609825,
@@ -1738,7 +2298,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 39.616018,
@@ -1752,7 +2316,11 @@
       "certification": [
         {
           "certification_name": "東北防衛局優秀工事顕彰",
-          "certified_date": "2022-07-01"
+          "certified_date": "2020-07-01",
+          "target": "施設整備工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.362911746,
@@ -1766,7 +2334,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.388609,
@@ -1780,7 +2352,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２３",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.317062,
@@ -1794,7 +2370,11 @@
       "certification": [
         {
           "certification_name": "令和３年度東北農政局所管農業農村整備事業等優良工事等の受注者等の表彰",
-          "certified_date": "2022-01-11"
+          "certified_date": "2022-01-11",
+          "target": "和賀中央農業水利事業後藤送水路（その２）建設工事",
+          "division": "優良工事",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.305758322,
@@ -1808,7 +2388,11 @@
       "certification": [
         {
           "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
-          "certified_date": "2018-10-25"
+          "certified_date": "2018-10-25",
+          "target": "ＬＰガス保安の確保",
+          "division": "保安優良液化ガス販売事業者",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.308873639,
@@ -1822,7 +2406,11 @@
       "certification": [
         {
           "certification_name": "令和３年度未来につながる持続可能な農業推進コンクール",
-          "certified_date": "2022-05-02"
+          "certified_date": "2022-05-02",
+          "target": "",
+          "division": "東北農政局長賞",
+          "issuer": "農林水産省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 39.690278,
@@ -1836,7 +2424,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１３",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 39.377732,
@@ -1850,7 +2442,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 38.932436376,
@@ -1864,7 +2460,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１９",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 38.917624046,

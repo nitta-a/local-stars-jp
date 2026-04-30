@@ -11,6 +11,9 @@ export const COL = {
   ADDR: "所在地",
   CERT_NAME: "名称",
   CERT_DATE: "証明日",
+  TARGET: "対象",
+  DIVISION: "部門",
+  ISSUER: "発行元",
 } as const;
 
 // 全都道府県のマッピング

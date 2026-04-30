@@ -8,7 +8,11 @@
       "certification": [
         {
           "certification_name": "気象庁長官表彰",
-          "certified_date": "2022-06-01"
+          "certified_date": "2022-06-01",
+          "target": "気象通報（漁船）",
+          "division": "",
+          "issuer": "気象庁",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.213302338,
@@ -22,11 +26,19 @@
       "certification": [
         {
           "certification_name": "高年齢者活躍企業コンテスト（旧称：高年齢者雇用開発コンテスト）－表彰（厚生労働大臣表彰）",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "働き方改革"
         },
         {
           "certification_name": "高年齢者活躍企業コンテスト",
-          "certified_date": "2024-10-04"
+          "certified_date": "2024-10-04",
+          "target": "高年齢者がいきいきと働くことができるような創意工夫がなされている企業",
+          "division": "２０２４年",
+          "issuer": "厚生労働省",
+          "genre": "その他"
         }
       ],
       "lat": 26.240450004,
@@ -40,7 +52,11 @@
       "certification": [
         {
           "certification_name": "特別優秀工事顕彰",
-          "certified_date": "2024-07-18"
+          "certified_date": "2024-07-18",
+          "target": "瑞慶覧（Ｒ４）保安施設改修等土木その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.191872,
@@ -54,7 +70,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.209783032,
@@ -68,11 +88,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.206590000000002,
@@ -86,7 +114,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）駐屯地整備土木工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.347572985,
@@ -100,7 +132,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.263105635,
@@ -114,7 +150,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ３）既設建物解体工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.273766691,
@@ -128,7 +168,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）火薬庫新設土木その他工事（その３）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.364752,
@@ -142,11 +186,19 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "与那国（４）隊庁舎等新設電気その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "特別優秀工事等顕彰",
-          "certified_date": "2023-06-29"
+          "certified_date": "2023-06-29",
+          "target": "石垣島（２）隊庁舎（Ａ）新設電気その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.337124342,
@@ -160,11 +212,19 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１７",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.176073724,
@@ -178,7 +238,11 @@
       "certification": [
         {
           "certification_name": "新エネ大賞",
-          "certified_date": "2020-01-29"
+          "certified_date": "2020-01-29",
+          "target": "宮古島における「再エネサービスプロバイダ事業」の推進",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.237250527,
@@ -192,7 +256,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.243173439,
@@ -206,7 +274,11 @@
       "certification": [
         {
           "certification_name": "消費者支援功労者表彰",
-          "certified_date": "2022-05-26"
+          "certified_date": "2022-05-26",
+          "target": "・沖縄県消費者基本計画等の策定に関して沖縄県消費生活審議会委員として参画。県民の消費生活の安全・安心の確保に関して提言し、計画の推進に寄与。・地産地消の普及推進活動、節電・節水の呼び掛け、レジ袋の削減運動に取り組むとともに、ゴミ削減のため、３Ｒの広報啓発に努めて県民意識の向上を図る。・消費者に暮らしに役立つ情報を伝えるため、講座や研修会を開催して、消費者被害の拡大防止及び軽減予防につなげる。",
+          "division": "ベスト消費者サポーター章",
+          "issuer": "消費者庁",
+          "genre": "その他"
         }
       ],
       "lat": 26.216596418,
@@ -220,7 +292,11 @@
       "certification": [
         {
           "certification_name": "第１１回エコツーリズム大賞",
-          "certified_date": "2016-03-10"
+          "certified_date": "2016-03-10",
+          "target": "",
+          "division": "優秀賞",
+          "issuer": "環境省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.230562,
@@ -234,7 +310,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.329067,
@@ -248,7 +328,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.215238669000005,
@@ -262,7 +346,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.211870601,
@@ -276,7 +364,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.262657461,
@@ -290,7 +382,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.267683941,
@@ -304,11 +400,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.283630528000003,
@@ -322,7 +426,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１８",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.211847964,
@@ -336,7 +444,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.522403586,
@@ -350,11 +462,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）車両整備場等新設建築その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.359190927,
@@ -368,7 +488,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-12"
+          "certified_date": "2023-07-12",
+          "target": "ハンセン（Ｒ２）保安施設（４０２５）造成工事（２工区）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.450859565,
@@ -382,7 +506,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-12"
+          "certified_date": "2023-07-12",
+          "target": "ハンセン（Ｒ３）仮設進入路保安施設新設土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.454487968,
@@ -396,7 +524,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）給油施設等新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.364777913,
@@ -410,7 +542,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（２）厚生施設新設建築工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.339120504,
@@ -424,7 +560,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.366237077,
@@ -438,7 +578,11 @@
       "certification": [
         {
           "certification_name": "消費者支援功労者表彰",
-          "certified_date": "2019-05-28"
+          "certified_date": "2019-05-28",
+          "target": "・親子で食の大切さを体験できる参加型企画を実施し、子供の想像力や自主性を大切にする体験型食育企画など食について楽しく学ぶ機会を提供。・「こどもビジネス教室」や、農業体験、漁業体験、沖縄野菜の調理体験など、様々な団体と連携した教育活動を実施。",
+          "division": "ベスト消費者サポーター章",
+          "issuer": "消費者庁",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.252047593,
@@ -452,7 +596,11 @@
       "certification": [
         {
           "certification_name": "産業標準化事業表彰",
-          "certified_date": "2021-10-20"
+          "certified_date": "2021-10-20",
+          "target": "新市場創造型標準化制度を活用し、製品の市場拡大を成しえるとともに、同制度の普及活動に貢献。",
+          "division": "経済産業大臣表彰",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.135806002,
@@ -466,7 +614,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１７",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.226959,
@@ -480,11 +632,19 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１６",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２１",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.224158616,
@@ -498,7 +658,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.141853799000003,
@@ -512,15 +676,27 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-11"
+          "certified_date": "2022-07-14",
+          "target": "空自那覇（元）管理棟新設土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "特別優秀工事等顕彰",
-          "certified_date": "2023-06-29"
+          "certified_date": "2023-06-29",
+          "target": "シュワブ（Ｈ２９）埋立工事（２工区）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.192791381,
@@ -534,7 +710,11 @@
       "certification": [
         {
           "certification_name": "特別優秀工事顕彰",
-          "certified_date": "2024-07-18"
+          "certified_date": "2024-07-18",
+          "target": "勝連（４）車両整備場新設電気その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.404393521,
@@ -548,7 +728,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.270612,
@@ -562,19 +746,35 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "陸自宮古島（４）倉庫新設建築工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2022-07-14",
+          "target": "牧補（Ｒ元）工場新設建築追加工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "特別優秀工事等顕彰",
-          "certified_date": "2022-07-06"
+          "certified_date": "2022-07-06",
+          "target": "シュワブ（Ｈ２９）埋立工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.590194492,
@@ -588,15 +788,27 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ３）既設建物解体工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "特別優秀工事顕彰",
-          "certified_date": "2024-07-18"
+          "certified_date": "2024-07-18",
+          "target": "勝連（４）車両整備場新設建築工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-11"
+          "certified_date": "2022-07-14",
+          "target": "沖縄基地隊（元）舟艇庫新設建築工事沖縄基地隊（２補）舟艇庫新設建築追加工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.480728742000004,
@@ -610,7 +822,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（２）厚生施設新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.355706585,
@@ -624,7 +840,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）火薬庫新設土木その他工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.353909731,
@@ -638,7 +858,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）給油施設等新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.804237766,
@@ -652,7 +876,11 @@
       "certification": [
         {
           "certification_name": "特別優秀工事顕彰",
-          "certified_date": "2024-07-18"
+          "certified_date": "2024-07-18",
+          "target": "勝連（４）車両整備場新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.341436365,
@@ -666,7 +894,11 @@
       "certification": [
         {
           "certification_name": "特別優秀工事顕彰",
-          "certified_date": "2024-07-18"
+          "certified_date": "2024-07-18",
+          "target": "勝連（４）車両整備場新設建築工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.426055519,
@@ -680,7 +912,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-11"
+          "certified_date": "2023-07-11",
+          "target": "シュワブ（Ｒ元）既設建物解体工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.604566861000002,
@@ -694,7 +930,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "シュワブ（Ｈ２９）特高開閉所（２５７９）新設土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.604254811,
@@ -708,7 +948,11 @@
       "certification": [
         {
           "certification_name": "第１回エコツーリズム大賞",
-          "certified_date": "2005-06-05"
+          "certified_date": "2005-06-05",
+          "target": "",
+          "division": "優秀賞",
+          "issuer": "環境省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.602447078,
@@ -722,11 +966,19 @@
       "certification": [
         {
           "certification_name": "気象庁長官表彰",
-          "certified_date": "2022-06-01"
+          "certified_date": "2022-06-01",
+          "target": "委託観測（地域）",
+          "division": "",
+          "issuer": "気象庁",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "新エネ大賞",
-          "certified_date": "2020-01-29"
+          "certified_date": "2020-01-29",
+          "target": "宮古島における「再エネサービスプロバイダ事業」の推進",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.789968044,
@@ -740,7 +992,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ４）保安施設改修機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.231054,
@@ -754,7 +1010,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.21412147,
@@ -768,11 +1028,19 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "勝連（３）隊庁舎新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "瑞慶覧（Ｈ３０）家族住宅新設機械工事（その２）瑞慶覧（Ｒ元）家族住宅新設機械追加工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.238240392,
@@ -786,19 +1054,35 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ３）仮設水路整備工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "特別優秀工事顕彰",
-          "certified_date": "2024-07-18"
+          "certified_date": "2024-07-18",
+          "target": "勝連（４）車両整備場新設建築工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2022-07-14",
+          "target": "ハンセン（Ｒ元）給食センター（４００２）新設建築追加工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "特別優秀工事等顕彰",
-          "certified_date": "2022-07-06"
+          "certified_date": "2022-07-06",
+          "target": "シュワブ（Ｈ２９）埋立工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.215011288,
@@ -812,7 +1096,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "瑞慶覧（Ｈ３０）家族住宅新設電気その他工事（その１）瑞慶覧（Ｒ元）家族住宅新設電気その他追加工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.223622839,
@@ -826,11 +1114,19 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ３）仮設水路整備工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-12"
+          "certified_date": "2023-07-12",
+          "target": "ハンセン（Ｒ２）保安施設（４０２５）造成工事（２工区）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.211345887,
@@ -844,7 +1140,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "嘉手納（３）給油施設（５２１）新設土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.233888532,
@@ -858,7 +1158,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.228123088000004,
@@ -872,7 +1176,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（２）厚生施設新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.234151293,
@@ -886,11 +1194,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２００７",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.196307909,
@@ -904,11 +1220,19 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "勝連（４）ユーティリティ整備土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "沖縄基地隊（２補）舟艇庫新設土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.377958645,
@@ -922,7 +1246,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.26128776,
@@ -936,7 +1264,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.273320743,
@@ -950,7 +1282,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-11"
+          "certified_date": "2023-07-11",
+          "target": "コートニー（元）保安施設（０２０７）新設土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.287991368,
@@ -964,11 +1300,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.243173439,
@@ -982,7 +1326,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（２）隊庁舎（Ａ）新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.334497544,
@@ -996,7 +1344,11 @@
       "certification": [
         {
           "certification_name": "液化石油ガス消費者保安功績者技術総括・保安審議官表彰",
-          "certified_date": "2019-10-24"
+          "certified_date": "2018-10-25",
+          "target": "ＬＰガス保安の確保",
+          "division": "保安優良液化ガス販売事業者",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.233886089,
@@ -1010,7 +1362,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "勝連（３）隊庁舎新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.43548383,
@@ -1024,7 +1380,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-12"
+          "certified_date": "2023-07-12",
+          "target": "ハンセン（Ｒ３）保安施設（４０２５）新設建築工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.608486573,
@@ -1038,7 +1398,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-12"
+          "certified_date": "2022-07-14",
+          "target": "シュワブ（Ｒ２）道路等整備工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.479185926,
@@ -1052,7 +1416,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２００９",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.16731,
@@ -1066,7 +1434,11 @@
       "certification": [
         {
           "certification_name": "消費者支援功労者表彰",
-          "certified_date": "2013-05-27"
+          "certified_date": "2013-05-27",
+          "target": "・複数の自治体から委託を受け、消費生活相談員を派遣し消費者からの相談、苦情処理のあっせん業務に尽力。啓発講座の講師も務め、消費者トラブルの未然防止に貢献。・消費生活新聞の作成、消費生活に関する副教材作成、県内小売店生鮮食品表示調査等も実施し、消費生活に関する情報の収集・啓発・教育に尽力。",
+          "division": "ベスト消費者サポーター章",
+          "issuer": "消費者庁",
+          "genre": "その他"
         }
       ],
       "lat": 26.224261434,
@@ -1080,7 +1452,11 @@
       "certification": [
         {
           "certification_name": "消費者支援功労者表彰",
-          "certified_date": "2015-05-30"
+          "certified_date": "2015-05-30",
+          "target": "・「消費者市民ネットおきなわ」の事務局団体として活動を支援。　・食育活動を始め様々な学習・講演企画を開催のほか、行政とも連携し、消費者団体として沖縄県の施策に参画。　・沖縄県と災害時物資供給協定を結び、シミュレーションによる防災訓練を実施。",
+          "division": "ベスト消費者サポーター章",
+          "issuer": "消費者庁",
+          "genre": "その他"
         }
       ],
       "lat": 26.252047593,
@@ -1094,7 +1470,11 @@
       "certification": [
         {
           "certification_name": "令和２年度「障害者の生涯学習支援活動」に係る文部科学大臣表彰",
-          "certified_date": "2020-12-08"
+          "certified_date": "2020-12-08",
+          "target": "バリアフリーサイクリング活動",
+          "division": "功労者表彰",
+          "issuer": "文部科学省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.609574,
@@ -1108,7 +1488,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ３）郵便局（４２１２）新設電気その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.215011288,
@@ -1122,11 +1506,19 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "与那国（４）隊庁舎等新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-11"
+          "certified_date": "2023-07-11",
+          "target": "陸自宮古島（元）訓練施設新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.243597628,
@@ -1140,15 +1532,27 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ３）仮設水路整備工事（その３）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-12",
+          "target": "ハンセン（Ｒ３）保安施設（４０２５）新設建築工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.352717,
@@ -1162,7 +1566,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１２",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.24973732,
@@ -1176,7 +1584,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１３",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.266556396,
@@ -1190,15 +1602,27 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "与那国（４）給水施設等整備土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）整備場等新設建築その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "特別優秀工事等顕彰",
-          "certified_date": "2023-06-29"
+          "certified_date": "2023-06-29",
+          "target": "石垣島（２）駐屯地新設土木工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.342545441,
@@ -1212,7 +1636,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）宿舎新設機械工事（その２）石垣島（３補）宿舎新設機械追加工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.342153774,
@@ -1226,7 +1654,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（２）厚生施設新設建築工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.210927506,
@@ -1240,7 +1672,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "嘉手納（元）家族住宅（５０８）新設建築工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.337352142,
@@ -1254,7 +1690,11 @@
       "certification": [
         {
           "certification_name": "特別優秀工事顕彰",
-          "certified_date": "2024-07-18"
+          "certified_date": "2024-07-18",
+          "target": "瑞慶覧（Ｒ４）保安施設改修等土木その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.320809238,
@@ -1268,11 +1708,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.214731646000004,
@@ -1286,11 +1734,19 @@
       "certification": [
         {
           "certification_name": "特別優秀工事顕彰",
-          "certified_date": "2024-07-18"
+          "certified_date": "2024-07-18",
+          "target": "瑞慶覧（Ｒ４）保安施設改修等電気その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）受電所等新設電気その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.203614,
@@ -1304,11 +1760,19 @@
       "certification": [
         {
           "certification_name": "特別優秀工事等顕彰",
-          "certified_date": "2023-06-29"
+          "certified_date": "2023-06-29",
+          "target": "石垣島（２）駐屯地新設土木工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.220483884000004,
@@ -1322,7 +1786,11 @@
       "certification": [
         {
           "certification_name": "障害者雇用優良事業所の大臣表彰－表彰",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１７",
+          "issuer": "厚生労働省",
+          "genre": "障害者雇用"
         }
       ],
       "lat": 26.210566701,
@@ -1336,7 +1804,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.218180186,
@@ -1350,7 +1822,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "瑞慶覧（Ｈ３０）家族住宅新設機械工事（その１）瑞慶覧（Ｒ元）家族住宅新設機械追加工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.231752962,
@@ -1364,7 +1840,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.219123513,
@@ -1378,7 +1858,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.228818992,
@@ -1392,11 +1876,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "優秀業務等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "ホワイトビーチ（４）環境モニタリング調査",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "環境・サステナビリティ"
         }
       ],
       "lat": 26.333870217,
@@ -1410,7 +1902,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ３）仮設水路整備工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.327316316,
@@ -1424,11 +1920,19 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "与那国（３）鉄塔新設土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-11"
+          "certified_date": "2023-07-11",
+          "target": "空自那覇（２）格納庫新設建築工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.243766322,
@@ -1442,7 +1946,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-11"
+          "certified_date": "2023-07-11",
+          "target": "シュワブ（Ｈ３０）幹線ユーティリティ土木整備工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.608537907,
@@ -1456,11 +1964,19 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "与那国（４）隊庁舎新設建築工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）火薬庫新設土木その他工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.344811651,
@@ -1474,11 +1990,19 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "ハンセン（Ｒ５）環境整備工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "環境・サステナビリティ"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-12"
+          "certified_date": "2022-07-14",
+          "target": "ハンセン（Ｈ３０）仮設進入路等整備工事（その４）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.450892754,
@@ -1492,7 +2016,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.18694,
@@ -1506,7 +2034,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.215113934,
@@ -1520,7 +2052,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ２）喜舎場地区造成工事（その４）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.262608451,
@@ -1534,11 +2070,19 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "知財功労賞（知的財産権制度活用優良企業等表彰）",
-          "certified_date": "2023-04-18"
+          "certified_date": "2023-04-18",
+          "target": "知的財産権制度を有効に活用しその発展に寄与した企業等",
+          "division": "オープンイノベーション推進企業",
+          "issuer": "経済産業省・特許庁",
+          "genre": "IT活用・知財"
         }
       ],
       "lat": 26.250893,
@@ -1552,7 +2096,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１６",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.210458293,
@@ -1566,7 +2114,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２００８",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.213069908,
@@ -1580,7 +2132,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.211651693,
@@ -1594,11 +2150,19 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.331274684,
@@ -1612,7 +2176,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "瑞慶覧（Ｈ３０）家族住宅新設電気その他工事（その２）瑞慶覧（Ｒ元）家族住宅新設電気その他追加工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.254438432,
@@ -1626,7 +2194,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "瑞慶覧（Ｈ３０）家族住宅新設機械工事（その３）瑞慶覧（Ｒ元）家族住宅新設機械追加工事（その３）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.282390805,
@@ -1640,7 +2212,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ３）仮設水路整備工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.284087954,
@@ -1654,11 +2230,19 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "与那国（４）宿舎Ａ棟新設土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "特別優秀工事等顕彰",
-          "certified_date": "2023-06-29"
+          "certified_date": "2023-06-29",
+          "target": "石垣島（２）駐屯地新設土木工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.340895117,
@@ -1672,7 +2256,11 @@
       "certification": [
         {
           "certification_name": "第１回エコツーリズム大賞",
-          "certified_date": "2005-06-05"
+          "certified_date": "2005-06-05",
+          "target": "仲間川地区保全利用協定締結事業者",
+          "division": "特別賞",
+          "issuer": "環境省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.273548743,
@@ -1686,7 +2274,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "陸自宮古島（４）倉庫新設機械工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.789342426,
@@ -1700,7 +2292,11 @@
       "certification": [
         {
           "certification_name": "地域未来牽引企業",
-          "certified_date": "2020-10-13"
+          "certified_date": "2020-10-13",
+          "target": "２０２０",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.209001,
@@ -1714,7 +2310,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）駐屯地整備土木工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.381549,
@@ -1728,11 +2328,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.236816253,
@@ -1746,7 +2354,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.156532,
@@ -1760,7 +2372,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ３）仮設水路整備工事（その３）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.316891438,
@@ -1774,7 +2390,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-12"
+          "certified_date": "2023-07-12",
+          "target": "ハンセン（Ｒ２）保安施設（４０２５）造成工事（３工区）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.619382078000005,
@@ -1788,7 +2408,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２３",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.225472656,
@@ -1802,7 +2426,11 @@
       "certification": [
         {
           "certification_name": "国土交通大臣表彰",
-          "certified_date": "2019-06-01"
+          "certified_date": "2019-06-01",
+          "target": "委託観測（航空）",
+          "division": "",
+          "issuer": "国土交通省",
+          "genre": "物流・交通"
         }
       ],
       "lat": 24.339594248,
@@ -1816,7 +2444,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "牧補（Ｒ元）工場新設電気その他追加工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.199394795,
@@ -1830,7 +2462,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.209783032,
@@ -1844,7 +2480,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "ハンセン（Ｒ２）橋梁下部工新設工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.193998948,
@@ -1858,7 +2498,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-12"
+          "certified_date": "2022-07-14",
+          "target": "ハンセン（Ｒ２）橋梁下部工新設工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.199839902,
@@ -1872,7 +2516,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2022-07-14"
+          "certified_date": "2022-07-14",
+          "target": "嘉手納（Ｈ３０）知花地区敷地造成工事（その１）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.315182000000004,
@@ -1886,7 +2534,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.280348583,
@@ -1900,7 +2552,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.356653741,
@@ -1914,7 +2570,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）受電所等新設電気その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.341773985,
@@ -1928,7 +2588,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.204046709,
@@ -1942,7 +2606,11 @@
       "certification": [
         {
           "certification_name": "特別優秀工事顕彰",
-          "certified_date": "2024-07-18"
+          "certified_date": "2024-07-18",
+          "target": "勝連（４）車両整備場等新設土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.345952534,
@@ -1956,15 +2624,27 @@
       "certification": [
         {
           "certification_name": "特別優秀工事顕彰",
-          "certified_date": "2024-07-18"
+          "certified_date": "2024-07-18",
+          "target": "勝連（４）車両整備場等新設土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-11"
+          "certified_date": "2022-07-14",
+          "target": "嘉手納（元）管理棟（０４３３）新設建築その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         },
         {
           "certification_name": "特別優秀工事等顕彰",
-          "certified_date": "2022-07-06"
+          "certified_date": "2022-07-06",
+          "target": "シュワブ（Ｈ３０）保管庫（０５９０）新設追加工事（１工区）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.746465792,
@@ -1978,7 +2658,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）駐屯地整備土木工事（その３）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.363245343000003,
@@ -1992,7 +2676,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 24.799721353,
@@ -2006,11 +2694,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２１",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.210608088,
@@ -2024,7 +2720,11 @@
       "certification": [
         {
           "certification_name": "第１６回エコツーリズム大賞",
-          "certified_date": "2021-03-08"
+          "certified_date": "2021-03-08",
+          "target": "",
+          "division": "優秀賞",
+          "issuer": "環境省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.122849552000005,
@@ -2038,7 +2738,11 @@
       "certification": [
         {
           "certification_name": "国土交通大臣表彰",
-          "certified_date": "2021-06-01"
+          "certified_date": "2021-06-01",
+          "target": "委託観測（航空）",
+          "division": "",
+          "issuer": "国土交通省",
+          "genre": "物流・交通"
         }
       ],
       "lat": 25.945730692,
@@ -2052,7 +2756,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "勝連（３）隊庁舎新設電気その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.221154567,
@@ -2066,7 +2774,11 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         }
       ],
       "lat": 26.20201854,
@@ -2080,15 +2792,27 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１１",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０１５",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.223384323,
@@ -2102,7 +2826,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "シュワブ（Ｒ元）食堂（０５１９）新設建築工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.245502667,
@@ -2116,7 +2844,11 @@
       "certification": [
         {
           "certification_name": "優秀工事等顕彰",
-          "certified_date": "2024-07-30"
+          "certified_date": "2024-07-30",
+          "target": "瑞慶覧（Ｒ３）郵便局（４２１２）新設電気その他工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.25549039,
@@ -2130,11 +2862,19 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         },
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）火薬庫新設土木その他工事（その３）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.206175569,
@@ -2148,11 +2888,19 @@
       "certification": [
         {
           "certification_name": "えるぼし－認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "",
+          "issuer": "厚生労働省",
+          "genre": "女性活躍支援"
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２４",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.517580297,
@@ -2166,7 +2914,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-12"
+          "certified_date": "2023-07-12",
+          "target": "ハンセン（Ｒ２）保安施設（４０２５）造成工事（１工区）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.452962157,
@@ -2180,7 +2932,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（３）宿舎新設建築工事（その２）",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.351019018,
@@ -2194,7 +2950,11 @@
       "certification": [
         {
           "certification_name": "優秀工事顕彰",
-          "certified_date": "2023-07-13"
+          "certified_date": "2023-07-13",
+          "target": "石垣島（２）給水施設整備土木工事",
+          "division": "",
+          "issuer": "防衛省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.33946021,
@@ -2208,7 +2968,11 @@
       "certification": [
         {
           "certification_name": "新エネ大賞",
-          "certified_date": "2020-01-29"
+          "certified_date": "2020-01-29",
+          "target": "宮古島における「再エネサービスプロバイダ事業」の推進",
+          "division": "",
+          "issuer": "経済産業省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 24.761218891,
@@ -2222,7 +2986,11 @@
       "certification": [
         {
           "certification_name": "令和３年度環境スタートアップ大賞",
-          "certified_date": "2022-03-09"
+          "certified_date": "2022-03-09",
+          "target": "果物の皮などの生ゴミを原材料としたオーガニックな超吸水性ポリマー等の開発",
+          "division": "大臣賞",
+          "issuer": "環境省",
+          "genre": "環境・サステナビリティ"
         }
       ],
       "lat": 26.458881502,
@@ -2236,7 +3004,11 @@
       "certification": [
         {
           "certification_name": "人権擁護功労賞",
-          "certified_date": "2020-12-04"
+          "certified_date": "2020-12-04",
+          "target": "人権擁護上顕著な功績があったと認められた企業等",
+          "division": "令和２年度法務大臣表彰状",
+          "issuer": "法務省",
+          "genre": "地域産業・社会貢献"
         }
       ],
       "lat": 26.218089,
@@ -2250,7 +3022,11 @@
       "certification": [
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
-          "certified_date": ""
+          "certified_date": "",
+          "target": "",
+          "division": "２０２０",
+          "issuer": "厚生労働省",
+          "genre": "子育て支援"
         }
       ],
       "lat": 26.182775473,

@@ -1,3 +1,4 @@
+import { CERTIFICATION_GENRE_ORDER, normalizeCertificationGenreLabel } from "../certification.ts";
 import type { Enterprise, GbizApiResponse } from "../types/gbiz";
 import { PREF_MAP, REGION_GROUPS } from "./constants";
 import { MapController } from "./map";
@@ -269,16 +270,7 @@ class LocalStarsApp {
       return;
     }
 
-    // 認定名称の選択肢を一意に収集
-    const certNames = [
-      ...new Set(companies.flatMap((c) => c.certification.map((cert) => cert.certification_name))),
-    ].sort();
-    for (const name of certNames) {
-      const opt = document.createElement("option");
-      opt.value = name;
-      opt.textContent = name;
-      this.certFilter.appendChild(opt);
-    }
+    this.populateCertOptions(companies);
     this.setSelectionState(
       `${this.getSelectedPrefName()}を表示中`,
       `認定企業 ${companies.length} 件を読み込みました。企業名や認定名称でさらに絞り込めます。`,
@@ -329,6 +321,41 @@ class LocalStarsApp {
         : "地図上の分布とカード一覧を見比べながら、地域の認定企業を比較できます。",
       `${filtered.length}件`,
     );
+  }
+
+  private populateCertOptions(companies: Enterprise[]) {
+    const grouped = new Map<string, Set<string>>();
+
+    for (const company of companies) {
+      for (const cert of company.certification) {
+        const genre = normalizeCertificationGenreLabel(cert.genre);
+        const names = grouped.get(genre) ?? new Set<string>();
+        names.add(cert.certification_name);
+        grouped.set(genre, names);
+      }
+    }
+
+    const remainingGenres = [...grouped.keys()]
+      .filter((genre) => !CERTIFICATION_GENRE_ORDER.includes(genre as never))
+      .sort();
+    const genreOrder = [...CERTIFICATION_GENRE_ORDER, ...remainingGenres];
+
+    for (const genre of genreOrder) {
+      const names = grouped.get(genre);
+      if (!names || names.size === 0) continue;
+
+      const optgroup = document.createElement("optgroup");
+      optgroup.label = genre;
+
+      for (const name of [...names].sort()) {
+        const opt = document.createElement("option");
+        opt.value = name;
+        opt.textContent = name;
+        optgroup.appendChild(opt);
+      }
+
+      this.certFilter.appendChild(optgroup);
+    }
   }
 }
 

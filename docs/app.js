@@ -1,3 +1,21 @@
+// src/certification.ts
+var OTHER_GENRE = "その他";
+var CERTIFICATION_GENRE_ORDER = [
+  "女性活躍支援",
+  "子育て支援",
+  "健康経営",
+  "働き方改革",
+  "障害者雇用",
+  "IT活用・知財",
+  "環境・サステナビリティ",
+  "物流・交通",
+  "地域産業・社会貢献",
+  OTHER_GENRE
+];
+function normalizeCertificationGenreLabel(genre) {
+  return genre && genre.trim() ? genre : OTHER_GENRE;
+}
+
 // src/web/constants.ts
 var PREF_MAP = {
   "01": "北海道",
@@ -565,15 +583,7 @@ class LocalStarsApp {
       this.mapCtrl.updateMarkers([]);
       return;
     }
-    const certNames = [
-      ...new Set(companies.flatMap((c) => c.certification.map((cert) => cert.certification_name)))
-    ].sort();
-    for (const name of certNames) {
-      const opt = document.createElement("option");
-      opt.value = name;
-      opt.textContent = name;
-      this.certFilter.appendChild(opt);
-    }
+    this.populateCertOptions(companies);
     this.setSelectionState(`${this.getSelectedPrefName()}を表示中`, `認定企業 ${companies.length} 件を読み込みました。企業名や認定名称でさらに絞り込めます。`);
     this.applyFilter();
   }
@@ -605,6 +615,33 @@ class LocalStarsApp {
     this.container.innerHTML = filtered.map(builder).join("");
     this.mapCtrl.updateMarkers(filtered);
     this.setResultsHeader(`${this.getSelectedPrefName()}の認定企業`, filterSummary.length > 0 ? `${filterSummary.join(" / ")} で絞り込んだ結果です。` : "地図上の分布とカード一覧を見比べながら、地域の認定企業を比較できます。", `${filtered.length}件`);
+  }
+  populateCertOptions(companies) {
+    const grouped = new Map;
+    for (const company of companies) {
+      for (const cert of company.certification) {
+        const genre = normalizeCertificationGenreLabel(cert.genre);
+        const names = grouped.get(genre) ?? new Set;
+        names.add(cert.certification_name);
+        grouped.set(genre, names);
+      }
+    }
+    const remainingGenres = [...grouped.keys()].filter((genre) => !CERTIFICATION_GENRE_ORDER.includes(genre)).sort();
+    const genreOrder = [...CERTIFICATION_GENRE_ORDER, ...remainingGenres];
+    for (const genre of genreOrder) {
+      const names = grouped.get(genre);
+      if (!names || names.size === 0)
+        continue;
+      const optgroup = document.createElement("optgroup");
+      optgroup.label = genre;
+      for (const name of [...names].sort()) {
+        const opt = document.createElement("option");
+        opt.value = name;
+        opt.textContent = name;
+        optgroup.appendChild(opt);
+      }
+      this.certFilter.appendChild(optgroup);
+    }
   }
 }
 window.addEventListener("DOMContentLoaded", () => new LocalStarsApp);

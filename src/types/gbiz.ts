@@ -1,6 +1,10 @@
 export interface GbizCertification {
   certification_name: string;
   certified_date: string;
+  target: string;
+  division: string;
+  issuer: string;
+  genre: string;
 }
 
 export interface Enterprise {
