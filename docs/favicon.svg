@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Local Stars JP favicon</title>
+  <desc id="desc">A corporate-style certification badge inspired by Japanese business emblems, with a red sun and navy seal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7f1e8"/>
+      <stop offset="1" stop-color="#e9efe9"/>
+    </linearGradient>
+    <linearGradient id="seal" x1="16" y1="14" x2="46" y2="49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#28455f"/>
+      <stop offset="1" stop-color="#19314d"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#bg)"/>
+  <circle cx="46" cy="18" r="8" fill="#c53d34"/>
+  <circle cx="31" cy="35" r="19" fill="url(#seal)"/>
+  <circle cx="31" cy="35" r="15.5" fill="none" stroke="#de9b37" stroke-width="2.5"/>
+  <path d="M22 46.5h18" stroke="#f8fbfd" stroke-width="3" stroke-linecap="round"/>
+  <rect x="23" y="33" width="4.8" height="10" rx="1.4" fill="#f8fbfd"/>
+  <rect x="29.6" y="28.5" width="4.8" height="14.5" rx="1.4" fill="#f8fbfd"/>
+  <rect x="36.2" y="24" width="4.8" height="19" rx="1.4" fill="#f8fbfd"/>
+  <path d="M31 17.5l1.8 3.8 4.2.5-3.1 2.8.8 4.1-3.7-2-3.7 2 .8-4.1-3.1-2.8 4.2-.5 1.8-3.8z" fill="#de9b37"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="16.5" fill="none" stroke="rgba(25,49,77,0.12)" stroke-width="3"/>
+</svg>
