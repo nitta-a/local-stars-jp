@@ -643,6 +643,80 @@ footer a:hover {
   font-weight: 700;
 }
 
+.tag--interactive {
+  cursor: pointer;
+  list-style: none;
+  border: none;
+}
+
+.tag--interactive::-webkit-details-marker {
+  display: none;
+}
+
+.award-popover {
+  display: inline-grid;
+  gap: 8px;
+}
+
+.award-popover[open] {
+  flex-basis: 100%;
+}
+
+.award-popover__panel {
+  display: grid;
+  gap: 10px;
+  min-width: min(100%, 320px);
+  padding: 14px 16px;
+  border-radius: 18px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(247, 241, 232, 0.96));
+  border: 1px solid rgba(25, 49, 77, 0.1);
+  box-shadow: var(--shadow-sm);
+}
+
+.award-popover__category {
+  margin: 0;
+  color: var(--accent-strong);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.award-popover__title {
+  margin: 0;
+  color: var(--ink-strong);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.award-popover__description {
+  margin: 0;
+  color: var(--ink-sub);
+  font-size: 0.86rem;
+  line-height: 1.7;
+}
+
+.award-popover__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  color: var(--ink-strong);
+  font-size: 0.84rem;
+  font-weight: 700;
+}
+
+.award-popover__link-icon {
+  display: inline-flex;
+  width: 14px;
+  height: 14px;
+}
+
+.award-popover__link-icon svg {
+  width: 14px;
+  height: 14px;
+}
+
 .links {
   margin-top: auto;
 }

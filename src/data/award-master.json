@@ -1,0 +1,298 @@
+{
+  "awards": [
+    {
+      "id": "youth-yell",
+      "name": "ユースエール認定",
+      "description": "若者の採用や育成に積極的で、離職率や労働時間などの基準を満たした中小企業を厚生労働省が認定する制度です。",
+      "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000100266.html",
+      "category": "人材育成"
+    },
+    {
+      "id": "eruboshi",
+      "name": "えるぼし認定",
+      "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+      "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+      "category": "ダイバーシティ"
+    },
+    {
+      "id": "kurumin",
+      "name": "次世代育成支援対策推進法に基づくくるみん認定",
+      "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+      "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+      "category": "ワークライフバランス"
+    },
+    {
+      "id": "platinum-kurumin",
+      "name": "次世代育成支援対策推進法に基づくプラチナくるみん特例認定",
+      "description": "くるみん認定企業のうち、より高い水準で子育て支援や柔軟な働き方を実践している企業を対象にした上位認定です。",
+      "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+      "category": "ワークライフバランス"
+    },
+    {
+      "id": "health-management",
+      "name": "健康経営優良法人",
+      "description": "従業員の健康づくりを経営課題として捉え、戦略的に取り組む企業を経済産業省が顕彰する制度です。",
+      "official_url": "https://www.meti.go.jp/policy/mono_info_service/healthcare/kenkoukeiei_yuryouhouzin.html",
+      "category": "健康経営"
+    },
+    {
+      "id": "nadeshiko-brand",
+      "name": "なでしこ銘柄",
+      "description": "女性活躍推進を経営戦略に組み込み、中長期の企業価値向上につなげている上場企業を選定する制度です。",
+      "official_url": "https://www.meti.go.jp/policy/economy/jinzai/diversity/nadeshiko.html",
+      "category": "ダイバーシティ"
+    },
+    {
+      "id": "dx-certification",
+      "name": "DX認定",
+      "description": "デジタル技術を活用した経営変革に向けて、体制や戦略を整備している事業者を国が認定する制度です。",
+      "official_url": "https://disclosure.dx-portal.ipa.go.jp/p/dxcp/top",
+      "category": "DX"
+    },
+    {
+      "id": "chiiki-mirai",
+      "name": "地域未来牽引企業",
+      "description": "地域経済を支える中核企業として期待され、雇用や付加価値の創出を通じて地域に貢献する企業を選定する取組です。",
+      "official_url": "https://www.meti.go.jp/policy/sme_chiiki/chiiki_kenin_kigyou/index.html",
+      "category": "地域貢献"
+    },
+    {
+      "id": "disabled-employment-award",
+      "name": "障害者雇用優良事業所の大臣表彰",
+      "description": "障害のある人の雇用拡大や職場定着、働きやすい環境整備に積極的に取り組む事業所を厚生労働省が表彰する制度です。",
+      "official_url": "https://www.mhlw.go.jp/stf/newpage_14372.html",
+      "category": "ダイバーシティ"
+    },
+    {
+      "id": "jma-commissioner-award",
+      "name": "気象庁長官表彰",
+      "description": "防災気象情報の活用や気象業務への貢献、地域の安全確保に寄与した団体や企業などを気象庁が表彰する制度です。",
+      "official_url": "https://www.jma.go.jp/jma/kishou/intro/hyoushou/index.html",
+      "category": "地域貢献"
+    },
+    {
+      "id": "excellent-construction",
+      "name": "優秀工事顕彰",
+      "description": "公共工事の品質確保や安全管理、技術力の高さなどが特に優れている施工実績を評価して表彰する制度です。",
+      "official_url": "https://www.mlit.go.jp/",
+      "category": "インフラ"
+    },
+    {
+      "id": "excellent-construction-etc",
+      "name": "優秀工事等顕彰",
+      "description": "優れた工事や業務、技術者の取組を顕彰し、公共事業の品質向上や技術継承につなげる表彰制度です。",
+      "official_url": "https://www.mod.go.jp/",
+      "category": "インフラ"
+    },
+    {
+      "id": "consumer-support-award",
+      "name": "消費者支援功労者表彰",
+      "description": "消費者教育や被害防止、地域での見守りなど、消費者利益の擁護や増進に貢献した取組をたたえる表彰制度です。",
+      "official_url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/commendation/",
+      "category": "地域貢献"
+    },
+    {
+      "id": "senior-active-company-contest",
+      "name": "高年齢者活躍企業コンテスト",
+      "description": "高年齢者が働き続けやすい制度づくりや職場改善を進め、経験を活かした活躍の場を広げている企業を表彰する制度です。",
+      "official_url": "https://www.jeed.go.jp/elderly/activity/enterprise/contest.html",
+      "category": "働き方"
+    },
+    {
+      "id": "ip-achievement-award",
+      "name": "知財功労賞",
+      "description": "知的財産の活用や保護、人材育成などに優れた実績を持ち、知財経営を前向きに進める企業や個人を表彰する制度です。",
+      "official_url": "https://www.jpo.go.jp/news/koho/tizai_koro/index.html",
+      "category": "知財"
+    },
+    {
+      "id": "consumer-oriented-award",
+      "name": "消費者志向経営優良事例表彰",
+      "description": "顧客視点で商品やサービスを改善し、消費者との対話や情報公開を重視する経営を実践する企業を表彰する制度です。",
+      "official_url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/digest/",
+      "category": "顧客志向"
+    },
+    {
+      "id": "lifelong-learning-disability-award",
+      "name": "障害者の生涯学習支援活動に係る文部科学大臣表彰",
+      "description": "障害のある人の学びの機会づくりや地域での継続的な学習支援に取り組む団体や企業を文部科学省が表彰する制度です。",
+      "official_url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/mext_01251.html",
+      "category": "ダイバーシティ"
+    },
+    {
+      "id": "green-logistics-award",
+      "name": "グリーン物流パートナーシップ優良事業者表彰",
+      "description": "物流の効率化や共同輸配送、環境負荷の低減に取り組み、持続可能な物流改善を進める事業者を表彰する制度です。",
+      "official_url": "https://www.greenpartnership.jp/",
+      "category": "サステナビリティ"
+    },
+    {
+      "id": "telework-award",
+      "name": "テレワーク推進企業等厚生労働大臣表彰",
+      "description": "柔軟な働き方や業務のデジタル化を進め、テレワークの定着や生産性向上に取り組む企業を表彰する制度です。",
+      "official_url": "https://telework.mhlw.go.jp/",
+      "category": "働き方"
+    },
+    {
+      "id": "career-support-award",
+      "name": "キャリア支援企業表彰",
+      "description": "従業員の学び直しやキャリア形成支援に力を入れ、主体的な成長を後押しする企業を評価する表彰制度です。",
+      "official_url": "https://www.mhlw.go.jp/",
+      "category": "人材育成"
+    },
+    {
+      "id": "good-career-award",
+      "name": "グッドキャリア企業アワード",
+      "description": "人材育成や能力開発、キャリア形成支援を経営に組み込み、従業員の成長と組織力向上を両立する企業を表彰する制度です。",
+      "official_url": "https://career-award.mhlw.go.jp/",
+      "category": "人材育成"
+    },
+    {
+      "id": "machizukuri-award",
+      "name": "まちづくり法人国土交通大臣表彰",
+      "description": "地域資源を活かしたエリアマネジメントや官民連携を通じて、持続的なまちづくりに貢献する法人を表彰する制度です。",
+      "official_url": "https://www.mlit.go.jp/toshi/machi/toshi_machi_tk_000085.html",
+      "category": "地域貢献"
+    },
+    {
+      "id": "human-rights-award",
+      "name": "人権擁護功労賞",
+      "description": "人権啓発や相談支援、差別防止活動などに長く取り組み、地域で人権尊重を広げてきた功績をたたえる表彰です。",
+      "official_url": "https://www.moj.go.jp/JINKEN/",
+      "category": "地域貢献"
+    },
+    {
+      "id": "seme-it-brand",
+      "name": "攻めのIT経営銘柄",
+      "description": "ITやデータ活用を経営改革や新たな価値創出につなげ、企業価値向上を進める上場企業を選定する制度です。",
+      "official_url": "https://www.meti.go.jp/policy/it_policy/investment/it_keiei_meigara.html",
+      "category": "DX"
+    },
+    {
+      "id": "j-startup",
+      "name": "J-Startup",
+      "description": "世界での成長が期待されるスタートアップを官民連携で支援し、事業拡大や海外展開を後押しする選定プログラムです。",
+      "official_url": "https://www.j-startup.go.jp/",
+      "category": "スタートアップ"
+    },
+    {
+      "id": "midori-no-aigo",
+      "name": "みどりの愛護功労者表彰",
+      "description": "公園や緑地の保全、美化、緑化活動などを継続して行い、地域の景観や環境づくりに貢献した取組を表彰する制度です。",
+      "official_url": "https://www.mlit.go.jp/toshi/park/toshi_parkgreen_tk_000058.html",
+      "category": "サステナビリティ"
+    },
+    {
+      "id": "standardization-award",
+      "name": "産業標準化事業表彰",
+      "description": "標準化や規格づくりを通じて製品やサービスの品質向上、国際展開、業界発展に貢献した企業や個人を表彰する制度です。",
+      "official_url": "https://www.meti.go.jp/policy/economy/hyojun-kijun/hyoshou/index.html",
+      "category": "品質"
+    },
+    {
+      "id": "indefinite-conversion",
+      "name": "無期転換制度",
+      "description": "有期契約で働く人が一定条件で無期雇用へ転換できる制度で、雇用の安定や多様な正社員化の取組として紹介されることがあります。",
+      "official_url": "https://muki.mhlw.go.jp/",
+      "category": "働き方"
+    },
+    {
+      "id": "environment-human-resources-award",
+      "name": "環境人づくり企業大賞",
+      "description": "環境教育や人材育成を経営に取り入れ、持続可能な事業活動を支える人づくりを進める企業を表彰する制度です。",
+      "official_url": "https://www.env.go.jp/policy/education/award/",
+      "category": "サステナビリティ"
+    },
+    {
+      "id": "gsi-award",
+      "name": "国土地理院長表彰",
+      "description": "測量や地理空間情報の整備、公共事業の品質向上などに寄与した優良業務や技術者を国土地理院が表彰する制度です。",
+      "official_url": "https://www.gsi.go.jp/",
+      "category": "インフラ"
+    },
+    {
+      "id": "excellent-construction-engineer",
+      "name": "優秀工事技術者顕彰",
+      "description": "品質、安全、工程管理などで優れた成果を挙げた工事技術者を評価し、技術力向上を促す顕彰制度です。",
+      "official_url": "https://www.mod.go.jp/",
+      "category": "インフラ"
+    },
+    {
+      "id": "excellent-operation-award",
+      "name": "優秀業務顕彰",
+      "description": "設計、調査、監理などの業務で高い成果を上げた案件や担当者をたたえ、公共事業の品質向上につなげる顕彰制度です。",
+      "official_url": "https://www.mod.go.jp/",
+      "category": "インフラ"
+    },
+    {
+      "id": "excellent-operation-engineer-award",
+      "name": "優秀業務技術者顕彰",
+      "description": "公共業務の計画、調査、設計などで専門性を発揮し、優れた成果を生み出した技術者を顕彰する制度です。",
+      "official_url": "https://www.mod.go.jp/",
+      "category": "インフラ"
+    },
+    {
+      "id": "foreign-minister-award",
+      "name": "外務大臣表彰",
+      "description": "国際交流や海外展開、国際協力などの分野で日本と諸外国の関係強化に貢献した功績をたたえる表彰です。",
+      "official_url": "https://www.mofa.go.jp/",
+      "category": "国際"
+    },
+    {
+      "id": "midori-no-aigo-mlit",
+      "name": "みどりの愛護功労者国土交通大臣表彰",
+      "description": "緑地保全や公園愛護活動を継続し、地域の良好な景観や環境づくりに大きく貢献した団体や企業を表彰する制度です。",
+      "official_url": "https://www.mlit.go.jp/toshi/park/toshi_parkgreen_tk_000058.html",
+      "category": "サステナビリティ"
+    },
+    {
+      "id": "lp-gas-safety-award",
+      "name": "液化石油ガス消費者保安功績者表彰",
+      "description": "LPガスの安全利用や保安活動、事故防止への取組で優れた成果を上げた企業や個人を表彰する制度です。",
+      "official_url": "https://www.meti.go.jp/",
+      "category": "安全"
+    },
+    {
+      "id": "disaster-prevention-appreciation",
+      "name": "災害対策関係功労者感謝状贈呈",
+      "description": "災害対応や防災活動、復旧支援などで大きな貢献を果たした団体や事業者に感謝状を贈る顕彰制度です。",
+      "official_url": "https://www.bousai.go.jp/",
+      "category": "地域貢献"
+    },
+    {
+      "id": "agri-rural-construction-award",
+      "name": "農業農村整備事業等優良工事等の表彰",
+      "description": "農地や用水路などの整備事業で品質、安全、地域への配慮に優れた工事や業務を農政局などが表彰する制度です。",
+      "official_url": "https://www.maff.go.jp/",
+      "category": "地域貢献"
+    },
+    {
+      "id": "new-energy-award",
+      "name": "新エネ大賞",
+      "description": "再生可能エネルギーや省エネ技術の導入、活用モデルで優れた成果を上げた製品や事業を評価する表彰制度です。",
+      "official_url": "https://www.nef.or.jp/award/kako/",
+      "category": "サステナビリティ"
+    },
+    {
+      "id": "regional-development-award",
+      "name": "地域づくり表彰",
+      "description": "地域資源を活かした事業や住民主体の活動を通じて、地域の魅力向上や活性化に貢献する取組を表彰する制度です。",
+      "official_url": "https://www.soumu.go.jp/",
+      "category": "地域貢献"
+    },
+    {
+      "id": "food-loss-award",
+      "name": "食品ロス削減推進表彰",
+      "description": "食品ロスの削減に向けた商品設計、物流改善、啓発活動などで成果を上げた企業や団体を表彰する制度です。",
+      "official_url": "https://www.caa.go.jp/policies/policy/consumer_policy/information/food_loss/efforts/commendation/",
+      "category": "サステナビリティ"
+    },
+    {
+      "id": "good-life-award",
+      "name": "グッドライフアワード",
+      "description": "環境と社会によい暮らしを広げる事業や地域活動を評価し、持続可能なライフスタイルの普及につなげる表彰制度です。",
+      "official_url": "https://www.env.go.jp/policy/kihon_keikaku/goodlifeaward/",
+      "category": "サステナビリティ"
+    }
+  ]
+}

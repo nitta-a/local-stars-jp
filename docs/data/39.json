@@ -12,7 +12,14 @@
           "target": "２０２０",
           "division": "",
           "issuer": "経済産業省",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "chiiki-mirai",
+            "name": "地域未来牽引企業",
+            "description": "地域経済を支える中核企業として期待され、雇用や付加価値の創出を通じて地域に貢献する企業を選定する取組です。",
+            "official_url": "https://www.meti.go.jp/policy/sme_chiiki/chiiki_kenin_kigyou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "lat": 33.559523446,
@@ -30,7 +37,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -57,7 +71,14 @@
           "target": "",
           "division": "２０１３",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "lat": 33.571748769,
@@ -93,7 +114,14 @@
           "target": "",
           "division": "２０２２",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "labor_data": {
@@ -115,7 +143,14 @@
           "target": "委託観測（地域）",
           "division": "",
           "issuer": "気象庁",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "jma-commissioner-award",
+            "name": "気象庁長官表彰",
+            "description": "防災気象情報の活用や気象業務への貢献、地域の安全確保に寄与した団体や企業などを気象庁が表彰する制度です。",
+            "official_url": "https://www.jma.go.jp/jma/kishou/intro/hyoushou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "lat": 33.211802287,
@@ -133,7 +168,14 @@
           "target": "２０２０",
           "division": "",
           "issuer": "経済産業省",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "chiiki-mirai",
+            "name": "地域未来牽引企業",
+            "description": "地域経済を支える中核企業として期待され、雇用や付加価値の創出を通じて地域に貢献する企業を選定する取組です。",
+            "official_url": "https://www.meti.go.jp/policy/sme_chiiki/chiiki_kenin_kigyou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "lat": 33.498190631,
@@ -151,7 +193,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "lat": 33.572796,
@@ -169,7 +218,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "働き方改革"
+          "genre": "働き方改革",
+          "award": {
+            "id": "indefinite-conversion",
+            "name": "無期転換制度",
+            "description": "有期契約で働く人が一定条件で無期雇用へ転換できる制度で、雇用の安定や多様な正社員化の取組として紹介されることがあります。",
+            "official_url": "https://muki.mhlw.go.jp/",
+            "category": "働き方"
+          }
         }
       ],
       "labor_data": {
@@ -193,7 +249,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -216,7 +279,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "働き方改革"
+          "genre": "働き方改革",
+          "award": {
+            "id": "youth-yell",
+            "name": "ユースエール認定",
+            "description": "若者の採用や育成に積極的で、離職率や労働時間などの基準を満たした中小企業を厚生労働省が認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000100266.html",
+            "category": "人材育成"
+          }
         }
       ],
       "labor_data": {
@@ -243,7 +313,14 @@
           "target": "",
           "division": "２０２５",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "labor_data": {
@@ -265,7 +342,14 @@
           "target": "",
           "division": "２０２２",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "labor_data": {
@@ -291,7 +375,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -318,7 +409,14 @@
           "target": "",
           "division": "２０２５",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "lat": 33.558357822,
@@ -336,7 +434,14 @@
           "target": "２０２０",
           "division": "",
           "issuer": "経済産業省",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "chiiki-mirai",
+            "name": "地域未来牽引企業",
+            "description": "地域経済を支える中核企業として期待され、雇用や付加価値の創出を通じて地域に貢献する企業を選定する取組です。",
+            "official_url": "https://www.meti.go.jp/policy/sme_chiiki/chiiki_kenin_kigyou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "lat": 33.575673,
@@ -354,7 +459,14 @@
           "target": "",
           "division": "２０１５",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
@@ -362,7 +474,14 @@
           "target": "",
           "division": "２０１７",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "platinum-kurumin",
+            "name": "次世代育成支援対策推進法に基づくプラチナくるみん特例認定",
+            "description": "くるみん認定企業のうち、より高い水準で子育て支援や柔軟な働き方を実践している企業を対象にした上位認定です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "labor_data": {
@@ -391,7 +510,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
@@ -399,7 +525,14 @@
           "target": "",
           "division": "２０１５",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
@@ -407,7 +540,14 @@
           "target": "",
           "division": "２０１７",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "platinum-kurumin",
+            "name": "次世代育成支援対策推進法に基づくプラチナくるみん特例認定",
+            "description": "くるみん認定企業のうち、より高い水準で子育て支援や柔軟な働き方を実践している企業を対象にした上位認定です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         },
         {
           "certification_name": "なでしこ銘柄－認定",
@@ -415,7 +555,14 @@
           "target": "",
           "division": "２０２０",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "nadeshiko-brand",
+            "name": "なでしこ銘柄",
+            "description": "女性活躍推進を経営戦略に組み込み、中長期の企業価値向上につなげている上場企業を選定する制度です。",
+            "official_url": "https://www.meti.go.jp/policy/economy/jinzai/diversity/nadeshiko.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -441,7 +588,14 @@
           "target": "２０２０",
           "division": "",
           "issuer": "経済産業省",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "chiiki-mirai",
+            "name": "地域未来牽引企業",
+            "description": "地域経済を支える中核企業として期待され、雇用や付加価値の創出を通じて地域に貢献する企業を選定する取組です。",
+            "official_url": "https://www.meti.go.jp/policy/sme_chiiki/chiiki_kenin_kigyou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "lat": 33.558357822,
@@ -459,7 +613,14 @@
           "target": "２０２０",
           "division": "",
           "issuer": "経済産業省",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "chiiki-mirai",
+            "name": "地域未来牽引企業",
+            "description": "地域経済を支える中核企業として期待され、雇用や付加価値の創出を通じて地域に貢献する企業を選定する取組です。",
+            "official_url": "https://www.meti.go.jp/policy/sme_chiiki/chiiki_kenin_kigyou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "labor_data": {
@@ -482,7 +643,14 @@
           "target": "",
           "division": "２０１５",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "labor_data": {
@@ -511,7 +679,14 @@
           "target": "２０２０",
           "division": "",
           "issuer": "経済産業省",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "chiiki-mirai",
+            "name": "地域未来牽引企業",
+            "description": "地域経済を支える中核企業として期待され、雇用や付加価値の創出を通じて地域に貢献する企業を選定する取組です。",
+            "official_url": "https://www.meti.go.jp/policy/sme_chiiki/chiiki_kenin_kigyou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "labor_data": {
@@ -535,7 +710,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -558,7 +740,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -583,7 +772,14 @@
           "target": "委託観測（地域）",
           "division": "",
           "issuer": "気象庁",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "jma-commissioner-award",
+            "name": "気象庁長官表彰",
+            "description": "防災気象情報の活用や気象業務への貢献、地域の安全確保に寄与した団体や企業などを気象庁が表彰する制度です。",
+            "official_url": "https://www.jma.go.jp/jma/kishou/intro/hyoushou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "lat": 33.560815,
@@ -601,7 +797,14 @@
           "target": "",
           "division": "２０２３",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "nadeshiko-brand",
+            "name": "なでしこ銘柄",
+            "description": "女性活躍推進を経営戦略に組み込み、中長期の企業価値向上につなげている上場企業を選定する制度です。",
+            "official_url": "https://www.meti.go.jp/policy/economy/jinzai/diversity/nadeshiko.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -624,7 +827,14 @@
           "target": "",
           "division": "２０１４",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "labor_data": {
@@ -646,7 +856,14 @@
           "target": "",
           "division": "２０２０",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "lat": 32.990313167,
@@ -664,7 +881,14 @@
           "target": "２０２０",
           "division": "",
           "issuer": "経済産業省",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "chiiki-mirai",
+            "name": "地域未来牽引企業",
+            "description": "地域経済を支える中核企業として期待され、雇用や付加価値の創出を通じて地域に貢献する企業を選定する取組です。",
+            "official_url": "https://www.meti.go.jp/policy/sme_chiiki/chiiki_kenin_kigyou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "lat": 33.549286,
@@ -682,7 +906,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -707,7 +938,14 @@
           "target": "",
           "division": "２０１８",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "lat": 33.605454,
@@ -725,7 +963,14 @@
           "target": "",
           "division": "２０１７",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "labor_data": {
@@ -752,7 +997,14 @@
           "target": "",
           "division": "２０１５",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "lat": 32.799867,
@@ -770,7 +1022,14 @@
           "target": "",
           "division": "",
           "issuer": "国土交通省",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "regional-development-award",
+            "name": "地域づくり表彰",
+            "description": "地域資源を活かした事業や住民主体の活動を通じて、地域の魅力向上や活性化に貢献する取組を表彰する制度です。",
+            "official_url": "https://www.soumu.go.jp/",
+            "category": "地域貢献"
+          }
         }
       ],
       "labor_data": {
@@ -795,7 +1054,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -822,7 +1088,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -847,7 +1120,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -872,7 +1152,14 @@
           "target": "スーパーマーケットで楽しみながら自然と食品ロス削減を目指すプログラム「もぐもぐチャレンジ」",
           "division": "食品ロス削減推進表彰審査委員会特別賞",
           "issuer": "環境省",
-          "genre": "環境・サステナビリティ"
+          "genre": "環境・サステナビリティ",
+          "award": {
+            "id": "food-loss-award",
+            "name": "食品ロス削減推進表彰",
+            "description": "食品ロスの削減に向けた商品設計、物流改善、啓発活動などで成果を上げた企業や団体を表彰する制度です。",
+            "official_url": "https://www.caa.go.jp/policies/policy/consumer_policy/information/food_loss/efforts/commendation/",
+            "category": "サステナビリティ"
+          }
         }
       ],
       "lat": 33.643424503,
@@ -908,7 +1195,14 @@
           "target": "委託観測（地域）",
           "division": "",
           "issuer": "気象庁",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "jma-commissioner-award",
+            "name": "気象庁長官表彰",
+            "description": "防災気象情報の活用や気象業務への貢献、地域の安全確保に寄与した団体や企業などを気象庁が表彰する制度です。",
+            "official_url": "https://www.jma.go.jp/jma/kishou/intro/hyoushou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "lat": 33.297117,
@@ -926,7 +1220,14 @@
           "target": "委託観測（地域）",
           "division": "",
           "issuer": "気象庁",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "jma-commissioner-award",
+            "name": "気象庁長官表彰",
+            "description": "防災気象情報の活用や気象業務への貢献、地域の安全確保に寄与した団体や企業などを気象庁が表彰する制度です。",
+            "official_url": "https://www.jma.go.jp/jma/kishou/intro/hyoushou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "lat": 33.755215,
@@ -944,7 +1245,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「くるみん」認定",
@@ -952,7 +1260,14 @@
           "target": "",
           "division": "２０２０",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
@@ -960,7 +1275,14 @@
           "target": "",
           "division": "２０２２",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "platinum-kurumin",
+            "name": "次世代育成支援対策推進法に基づくプラチナくるみん特例認定",
+            "description": "くるみん認定企業のうち、より高い水準で子育て支援や柔軟な働き方を実践している企業を対象にした上位認定です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "labor_data": {
@@ -989,7 +1311,14 @@
           "target": "",
           "division": "２０１６",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "lat": 33.556651878,
@@ -1007,7 +1336,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -1029,7 +1365,14 @@
           "target": "",
           "division": "２０１２",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "labor_data": {
@@ -1056,7 +1399,14 @@
           "target": "・高知県や高知市の民生委員児童委員協議会連合会と「地域の見守り活動に関する協定」を締結し、見守り活動に取り組むほか、「地域見守　りフォーラム」にて、事例を報告。　・子供の食育活動に力を入れ、調理体験、地域の生産者や団体と特産物・郷土食の学習や生産体験等を実施",
           "division": "内閣府特命担当大臣表彰",
           "issuer": "消費者庁",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "consumer-support-award",
+            "name": "消費者支援功労者表彰",
+            "description": "消費者教育や被害防止、地域での見守りなど、消費者利益の擁護や増進に貢献した取組をたたえる表彰制度です。",
+            "official_url": "https://www.caa.go.jp/policies/policy/consumer_partnerships/commendation/",
+            "category": "地域貢献"
+          }
         }
       ],
       "labor_data": {
@@ -1081,7 +1431,14 @@
           "target": "２０２０",
           "division": "",
           "issuer": "経済産業省",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "chiiki-mirai",
+            "name": "地域未来牽引企業",
+            "description": "地域経済を支える中核企業として期待され、雇用や付加価値の創出を通じて地域に貢献する企業を選定する取組です。",
+            "official_url": "https://www.meti.go.jp/policy/sme_chiiki/chiiki_kenin_kigyou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "lat": 33.559256683,
@@ -1099,7 +1456,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "lat": 33.551862985,
@@ -1117,7 +1481,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -1141,7 +1512,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -1166,7 +1544,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -1195,7 +1580,14 @@
           "target": "２０２０",
           "division": "",
           "issuer": "経済産業省",
-          "genre": "地域産業・社会貢献"
+          "genre": "地域産業・社会貢献",
+          "award": {
+            "id": "chiiki-mirai",
+            "name": "地域未来牽引企業",
+            "description": "地域経済を支える中核企業として期待され、雇用や付加価値の創出を通じて地域に貢献する企業を選定する取組です。",
+            "official_url": "https://www.meti.go.jp/policy/sme_chiiki/chiiki_kenin_kigyou/index.html",
+            "category": "地域貢献"
+          }
         }
       ],
       "labor_data": {
@@ -1217,7 +1609,14 @@
           "target": "",
           "division": "２０１７",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "labor_data": {
@@ -1242,7 +1641,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -1267,7 +1673,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {
@@ -1292,7 +1705,14 @@
           "target": "",
           "division": "２０２５",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         }
       ],
       "lat": 33.564211529,
@@ -1310,7 +1730,14 @@
           "target": "",
           "division": "２０１７",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "kurumin",
+            "name": "次世代育成支援対策推進法に基づくくるみん認定",
+            "description": "仕事と子育ての両立支援に取り組み、育休取得や働き方整備などの基準を満たした企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         },
         {
           "certification_name": "次世代育成支援対策推進法に基づく「プラチナくるみん」特例認定",
@@ -1318,7 +1745,14 @@
           "target": "",
           "division": "２０２４",
           "issuer": "厚生労働省",
-          "genre": "子育て支援"
+          "genre": "子育て支援",
+          "award": {
+            "id": "platinum-kurumin",
+            "name": "次世代育成支援対策推進法に基づくプラチナくるみん特例認定",
+            "description": "くるみん認定企業のうち、より高い水準で子育て支援や柔軟な働き方を実践している企業を対象にした上位認定です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/kurumin/index.html",
+            "category": "ワークライフバランス"
+          }
         },
         {
           "certification_name": "えるぼし－認定",
@@ -1326,7 +1760,14 @@
           "target": "",
           "division": "",
           "issuer": "厚生労働省",
-          "genre": "女性活躍支援"
+          "genre": "女性活躍支援",
+          "award": {
+            "id": "eruboshi",
+            "name": "えるぼし認定",
+            "description": "女性の採用、継続就業、管理職登用などで一定基準を満たし、女性活躍を進める企業を認定する制度です。",
+            "official_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html",
+            "category": "ダイバーシティ"
+          }
         }
       ],
       "labor_data": {

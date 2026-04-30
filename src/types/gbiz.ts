@@ -1,3 +1,5 @@
+import type { AwardMaster } from "./award-master";
+
 export interface GbizCertification {
   certification_name: string;
   certified_date: string;
@@ -5,6 +7,7 @@ export interface GbizCertification {
   division: string;
   issuer: string;
   genre: string;
+  award?: AwardMaster;
 }
 
 export interface LaborData {

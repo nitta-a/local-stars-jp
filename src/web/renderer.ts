@@ -1,3 +1,4 @@
+import type { AwardMaster } from "../types/award-master";
 import type { Enterprise, LaborData } from "../types/gbiz";
 import { PREF_MAP, REGION_COLORS, REGION_GRID_LAYOUT, REGION_GROUPS } from "./constants";
 
@@ -10,8 +11,47 @@ function escapeHtml(value: string): string {
     .replaceAll("'", "&#39;");
 }
 
+function buildExternalLinkIcon(): string {
+  return `
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path
+        d="M14 4h6v6h-2V7.41l-7.29 7.3-1.42-1.42 7.3-7.29H14V4Zm4 14H6V6h6V4H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-6h-2v6Z"
+        fill="currentColor"
+      />
+    </svg>
+  `;
+}
+
+function buildAwardDetailHtml(sourceName: string, award: AwardMaster): string {
+  const title = award.name === sourceName ? sourceName : `${sourceName} / ${award.name}`;
+
+  return `
+    <div class="award-popover__panel">
+      <p class="award-popover__category">${escapeHtml(award.category)}</p>
+      <h4 class="award-popover__title">${escapeHtml(title)}</h4>
+      <p class="award-popover__description">${escapeHtml(award.description)}</p>
+      <a class="award-popover__link" href="${escapeHtml(award.official_url)}" target="_blank" rel="noopener noreferrer">
+        <span>詳細を見る</span>
+        <span class="award-popover__link-icon">${buildExternalLinkIcon()}</span>
+      </a>
+    </div>
+  `;
+}
+
+function buildCertificationTagHtml(name: string, award: AwardMaster | undefined): string {
+  const label = escapeHtml(name);
+  if (!award) return `<span class="tag">${label}</span>`;
+
+  return `
+    <details class="award-popover">
+      <summary class="tag tag--interactive">${label}</summary>
+      ${buildAwardDetailHtml(name, award)}
+    </details>
+  `;
+}
+
 function buildCertificationTags(c: Enterprise): string {
-  return c.certification.map((cert) => `<span class="tag">${escapeHtml(cert.certification_name)}</span>`).join("");
+  return c.certification.map((cert) => buildCertificationTagHtml(cert.certification_name, cert.award)).join("");
 }
 
 function formatWithUnit(value: string | undefined, unit: string): string | null {

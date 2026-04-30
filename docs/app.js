@@ -273,8 +273,43 @@ class MapController {
 function escapeHtml2(value) {
   return value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&#39;");
 }
+function buildExternalLinkIcon() {
+  return `
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path
+        d="M14 4h6v6h-2V7.41l-7.29 7.3-1.42-1.42 7.3-7.29H14V4Zm4 14H6V6h6V4H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-6h-2v6Z"
+        fill="currentColor"
+      />
+    </svg>
+  `;
+}
+function buildAwardDetailHtml(sourceName, award) {
+  const title = award.name === sourceName ? sourceName : `${sourceName} / ${award.name}`;
+  return `
+    <div class="award-popover__panel">
+      <p class="award-popover__category">${escapeHtml2(award.category)}</p>
+      <h4 class="award-popover__title">${escapeHtml2(title)}</h4>
+      <p class="award-popover__description">${escapeHtml2(award.description)}</p>
+      <a class="award-popover__link" href="${escapeHtml2(award.official_url)}" target="_blank" rel="noopener noreferrer">
+        <span>詳細を見る</span>
+        <span class="award-popover__link-icon">${buildExternalLinkIcon()}</span>
+      </a>
+    </div>
+  `;
+}
+function buildCertificationTagHtml(name, award) {
+  const label = escapeHtml2(name);
+  if (!award)
+    return `<span class="tag">${label}</span>`;
+  return `
+    <details class="award-popover">
+      <summary class="tag tag--interactive">${label}</summary>
+      ${buildAwardDetailHtml(name, award)}
+    </details>
+  `;
+}
 function buildCertificationTags(c) {
-  return c.certification.map((cert) => `<span class="tag">${escapeHtml2(cert.certification_name)}</span>`).join("");
+  return c.certification.map((cert) => buildCertificationTagHtml(cert.certification_name, cert.award)).join("");
 }
 function formatWithUnit(value, unit) {
   if (!value)

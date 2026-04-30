@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs";
 import { parse } from "csv-parse/sync";
 import { classifyCertificationGenre } from "../certification.ts";
+import { findAwardMasterByName } from "../data/award-master";
 import type { Enterprise, LaborData } from "../types/gbiz";
 import { ALL_PREFS, HYOSHO_COL, HYOSHO_CSV_PATH, SHOKUBA_COL, SHOKUBA_CSV_PATH } from "./constants";
 
@@ -13,6 +14,7 @@ function mergeCertificationMetadata(
   if (incoming.division) existing.division = incoming.division;
   if (incoming.issuer) existing.issuer = incoming.issuer;
   if (incoming.genre) existing.genre = incoming.genre;
+  if (incoming.award) existing.award = incoming.award;
 }
 
 function normalizeOptionalValue(value: string | undefined): string | undefined {
@@ -81,6 +83,7 @@ export function buildRegionalData(records: Record<string, string>[]): Map<string
         target,
         division,
       }),
+      award: findAwardMasterByName(row[HYOSHO_COL.CERT_NAME]),
     };
 
     const existing = prefMap.get(id);

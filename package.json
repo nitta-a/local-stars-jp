@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "convert": "bun src/scraper/convert_csv.ts",
+    "build:data": "bun scripts/build-data.ts",
     "build": "bun build src/web/app.ts --outdir ./docs",
     "dev": "bun build src/web/app.ts --outdir ./docs --watch",
     "serve": "bunx serve docs",
