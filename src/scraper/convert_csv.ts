@@ -1,7 +1,13 @@
 import { existsSync } from "node:fs";
 import { HYOSHO_CSV_PATH, SHOKUBA_CSV_PATH } from "./constants";
 import { applyCoords, geocodeAddresses, loadGeoCache } from "./geocoder";
-import { attachLaborData, buildLaborDataByCorporateNumber, buildRegionalData, loadHyoshoRecords, loadShokubaRecords } from "./loader";
+import {
+  attachLaborData,
+  buildLaborDataByCorporateNumber,
+  buildRegionalData,
+  loadHyoshoRecords,
+  loadShokubaRecords,
+} from "./loader";
 import { writeOutputFiles } from "./writer";
 
 async function run() {
@@ -46,4 +52,3 @@ async function run() {
 }
 
 run();
-
