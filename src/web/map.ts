@@ -1,6 +1,7 @@
 import type * as Leaflet from "leaflet";
 import type { Enterprise } from "../types/gbiz";
 import { PREF_COORDS } from "./constants";
+import { resolveAssetPath } from "./page-config";
 
 declare const L: typeof Leaflet;
 
@@ -19,9 +20,9 @@ function escapeHtml(value: string): string {
 // Tracking Prevention対策: デフォルトアイコンをローカルファイルに差し替え
 delete (L.Icon.Default.prototype as L.Icon.Default & { _getIconUrl?: unknown })._getIconUrl;
 L.Icon.Default.mergeOptions({
-  iconUrl: "./images/marker-icon.png",
-  iconRetinaUrl: "./images/marker-icon-2x.png",
-  shadowUrl: "./images/marker-shadow.png",
+  iconUrl: resolveAssetPath("images/marker-icon.png"),
+  iconRetinaUrl: resolveAssetPath("images/marker-icon-2x.png"),
+  shadowUrl: resolveAssetPath("images/marker-shadow.png"),
 });
 
 export class MapController {

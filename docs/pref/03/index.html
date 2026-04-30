@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="ja" data-asset-base="../.." data-pref-code="03">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S1JD5948RJ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-S1JD5948RJ');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#19314d">
+    <title>岩手県の優良認定企業を地図で検索 | Local Stars JP</title>
+    <meta name="description" content="岩手県の127社のユースエール、えるぼし、くるみん、健康経営優良法人などの認定企業を地図と一覧で検索できます。gBizINFOのオープンデータを活用した無料の企業情報サービスです。">
+    <meta name="keywords" content="ユースエール,えるぼし,くるみん,健康経営優良法人,プラチナくるみん,えるぼし認定,ホワイト企業,認定企業,優良企業,企業一覧,就活,転職,gBizINFO,厚生労働省,経済産業省">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://nitta-a.github.io/local-stars-jp/pref/03/">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="岩手県の優良認定企業を地図で検索 | Local Stars JP">
+    <meta property="og:description" content="岩手県の127社のユースエール、えるぼし、くるみん、健康経営優良法人などの認定企業を地図と一覧で検索できます。gBizINFOのオープンデータを活用した無料の企業情報サービスです。">
+    <meta property="og:locale" content="ja_JP">
+    <meta property="og:site_name" content="Local Stars JP">
+    <meta property="og:url" content="https://nitta-a.github.io/local-stars-jp/pref/03/">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="岩手県の優良認定企業を地図で検索 | Local Stars JP">
+    <meta name="twitter:description" content="岩手県の127社のユースエール、えるぼし、くるみん、健康経営優良法人などの認定企業を地図と一覧で検索できます。gBizINFOのオープンデータを活用した無料の企業情報サービスです。">
+
+    <!-- JSON-LD 構造化データ -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Local Stars JP",
+      "description": "ユースエール、えるぼし、くるみん、健康経営優良法人など国の認定を受けた優良企業を都道府県別に地図とリストで検索できるWebアプリケーション。gBizINFOのオープンデータを活用。",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "inLanguage": "ja",
+      "isAccessibleForFree": true,
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "JPY"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "優良認定企業",
+        "description": "ユースエール・えるぼし・くるみん・健康経営優良法人など、国が認定した優良企業の情報"
+      }
+    }
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="../../favicon.svg">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+
+    <header class="site-hero">
+        <div class="container site-hero__grid">
+            <div class="site-hero__content">
+                <h1>
+                    <span class="site-hero__brand">Local Stars JP</span>
+                    <small>ユースエール、えるぼし、くるみん、健康経営優良法人など、国の認定を受けた企業を地図と一覧で横断的に探せるデータガイド。</small>
+                </h1>
+                <p class="site-hero__lead">就職先や取引先の比較、地域の企業リサーチを、都道府県ごとの分布と認定タグから素早く進められます。</p>
+                <div class="hero-stats" aria-label="サービス概要">
+                    <div class="hero-stat">
+                        <strong>47</strong>
+                        <span>都道府県対応</span>
+                    </div>
+                    <div class="hero-stat">
+                        <strong>Map</strong>
+                        <span>地図と一覧を横断</span>
+                    </div>
+                    <div class="hero-stat">
+                        <strong>Open Data</strong>
+                        <span>gBizINFO を活用</span>
+                    </div>
+                </div>
+            </div>
+            <aside class="site-hero__card" aria-label="使い方">
+                <p class="site-hero__card-label">Search flow</p>
+                <ol class="hero-flow">
+                    <li>地方または都道府県を選ぶ</li>
+                    <li>企業名と認定名称で絞り込む</li>
+                    <li>地図とカードで分布を比較する</li>
+                </ol>
+                <p class="site-hero__note"> </p>
+            </aside>
+        </div>
+    </header>
+
+    <main class="container app-shell">
+        <aside class="control-rail">
+        <section id="pref-selector-panel" class="control-panel">
+            <div class="control-panel__intro">
+                <p class="panel-kicker">Explore by area</p>
+                <h2>都道府県を選ぶ</h2>
+                <p>最初に地方を選び、次に都道府県へ絞り込むと、企業一覧と地図が右側に展開されます。</p>
+            </div>
+            <!-- タブナビゲーション -->
+            <div class="tab-nav" role="tablist" aria-label="都道府県の選択方法">
+                <button class="tab-btn active" id="tab-btn-map" role="tab"
+                        aria-controls="tab-panel-map" aria-selected="true" type="button">
+                    🗾 地図から選ぶ
+                </button>
+                <button class="tab-btn" id="tab-btn-list" role="tab"
+                        aria-controls="tab-panel-list" aria-selected="false" type="button">
+                    📋 一覧から選ぶ
+                </button>
+            </div>
+
+            <!-- タブパネル: ビジュアル地図 -->
+            <div id="tab-panel-map" role="tabpanel" aria-labelledby="tab-btn-map">
+                <!-- Step1: 地方選択SVG地図 -->
+                <div id="region-view">
+                    <p class="map-hint">地方をクリックして絞り込み</p>
+                    <svg id="region-svg" viewBox="0 0 360 440" xmlns="http://www.w3.org/2000/svg" aria-label="日本地方区分図" role="img">
+                        <!-- 北海道地方 -->
+                        <g class="region-btn" data-idx="0" role="button" tabindex="0" aria-label="北海道">
+                            <rect x="195" y="8" width="155" height="78" rx="10" fill="#a8d8ea"/>
+                            <text x="272" y="44" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">北海道</text>
+                            <text x="272" y="64" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">1道</text>
+                        </g>
+                        <!-- 東北地方 -->
+                        <g class="region-btn" data-idx="1" role="button" tabindex="0" aria-label="東北">
+                            <rect x="200" y="96" width="110" height="128" rx="10" fill="#c5b3e6"/>
+                            <text x="255" y="155" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">東北</text>
+                            <text x="255" y="175" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">6県</text>
+                        </g>
+                        <!-- 関東地方 -->
+                        <g class="region-btn" data-idx="2" role="button" tabindex="0" aria-label="関東">
+                            <rect x="272" y="228" width="80" height="80" rx="10" fill="#fcbad3"/>
+                            <text x="312" y="258" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">関東</text>
+                            <text x="312" y="276" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">7都県</text>
+                        </g>
+                        <!-- 中部地方 -->
+                        <g class="region-btn" data-idx="3" role="button" tabindex="0" aria-label="中部">
+                            <rect x="184" y="228" width="80" height="80" rx="10" fill="#fff3a3"/>
+                            <text x="224" y="258" text-anchor="middle" dominant-baseline="middle" font-size="15" font-weight="bold" fill="#1a252f">中部</text>
+                            <text x="224" y="276" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">9県</text>
+                        </g>
+                        <!-- 近畿地方 -->
+                        <g class="region-btn" data-idx="4" role="button" tabindex="0" aria-label="近畿">
+                            <rect x="96" y="228" width="80" height="80" rx="10" fill="#a8e6cf"/>
+                            <text x="136" y="258" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#1a252f">近畿</text>
+                            <text x="136" y="276" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">7府県</text>
+                        </g>
+                        <!-- 中国地方 -->
+                        <g class="region-btn" data-idx="5" role="button" tabindex="0" aria-label="中国">
+                            <rect x="8" y="228" width="80" height="80" rx="10" fill="#ffd3b6"/>
+                            <text x="48" y="258" text-anchor="middle" dominant-baseline="middle" font-size="13" font-weight="bold" fill="#1a252f">中国</text>
+                            <text x="48" y="276" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">5県</text>
+                        </g>
+                        <!-- 四国地方 -->
+                        <g class="region-btn" data-idx="6" role="button" tabindex="0" aria-label="四国">
+                            <rect x="96" y="318" width="80" height="80" rx="10" fill="#dcedc1"/>
+                            <text x="136" y="348" text-anchor="middle" dominant-baseline="middle" font-size="14" font-weight="bold" fill="#1a252f">四国</text>
+                            <text x="136" y="366" text-anchor="middle" dominant-baseline="middle" font-size="11" fill="#1a252f">4県</text>
+                        </g>
+                        <!-- 九州・沖縄地方 -->
+                        <g class="region-btn" data-idx="7" role="button" tabindex="0" aria-label="九州・沖縄">
+                            <rect x="8" y="318" width="80" height="80" rx="10" fill="#ffaaa5"/>
+                            <rect x="8" y="408" width="55" height="22" rx="6" fill="#ffaaa5"/>
+                            <text x="48" y="348" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="#1a252f">九州・</text>
+                            <text x="48" y="366" text-anchor="middle" dominant-baseline="middle" font-size="12" font-weight="bold" fill="#1a252f">沖縄</text>
+                            <text x="35" y="419" text-anchor="middle" dominant-baseline="middle" font-size="10" fill="#1a252f">8県</text>
+                        </g>
+                    </svg>
+                </div>
+                <!-- Step2: 都道府県グリッド選択 -->
+                <div id="pref-grid-view" hidden>
+                    <div class="pref-view-header">
+                        <button id="back-to-regions" type="button">← 地方一覧</button>
+                        <strong id="selected-region-name"></strong>
+                    </div>
+                    <div id="pref-grid"></div>
+                </div>
+            </div>
+
+            <!-- タブパネル: ドロップダウン一覧 -->
+            <div id="tab-panel-list" role="tabpanel" aria-labelledby="tab-btn-list" hidden>
+                <div class="field">
+                    <label for="pref-selector">都道府県を選択：</label>
+                    <select id="pref-selector">
+                        <option value="">-- 選択してください --</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <section class="control-panel control-panel--filters">
+            <div class="selection-status" aria-live="polite">
+                <p class="panel-kicker">Current selection</p>
+                <h2 id="selection-title">都道府県を選択してください</h2>
+                <p id="selection-summary">地方地図または一覧から選ぶと、認定企業の一覧と地図を同時に確認できます。</p>
+            </div>
+
+            <div id="name-filter-wrap" hidden>
+                <div class="filter-grid">
+                    <div class="name-filter-field">
+                        <label for="name-filter">企業名で絞り込み</label>
+                        <input type="search" id="name-filter" placeholder="企業名を入力..." autocomplete="off">
+                    </div>
+                    <div class="name-filter-field">
+                        <label for="cert-filter">認定名称で絞り込み</label>
+                        <select id="cert-filter">
+                            <option value="">すべて</option>
+                        </select>
+                    </div>
+                    <div class="name-filter-field name-filter-field--right">
+                        <label>表示形式</label>
+                        <div class="view-toggle-group" role="group" aria-label="表示形式の切り替え">
+                            <button type="button" class="view-toggle-btn active" id="view-toggle-card" aria-pressed="true">カード</button>
+                            <button type="button" class="view-toggle-btn" id="view-toggle-compact" aria-pressed="false">コンパクト</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </aside>
+
+        <section class="results-stage" aria-live="polite">
+            <div class="results-stage__header">
+                <div>
+                    <p class="panel-kicker">Results</p>
+                    <h2 id="results-title">認定企業を探す</h2>
+                    <p id="results-meta">都道府県を選択すると、認定企業の一覧と地図をまとめて確認できます。</p>
+                </div>
+                <div class="results-stage__aside">
+                    <p id="results-count" class="results-count">全国47都道府県</p>
+                    <section class="share-panel" aria-label="このページを共有">
+                        <p class="share-panel__label">Share</p>
+                        <div class="share-panel__actions">
+                            <a id="share-x" class="share-link share-link--x share-link--icon-only" href="https://twitter.com/intent/tweet" target="_blank" rel="noopener noreferrer" aria-label="X で共有">
+                                <span class="share-link__icon" aria-hidden="true">
+                                    <svg viewBox="0 0 24 24" focusable="false">
+                                        <path d="M18.244 2H21.5l-7.116 8.133L22.75 22h-6.554l-5.132-6.704L5.2 22H1.94l7.611-8.7L1.5 2h6.72l4.64 6.133L18.244 2Zm-1.142 18.05h1.804L7.28 3.852H5.344L17.102 20.05Z" fill="currentColor"/>
+                                    </svg>
+                                </span>
+                                <span class="share-link__label">X</span>
+                            </a>
+                            <a id="share-facebook" class="share-link share-link--facebook" href="https://www.facebook.com/sharer/sharer.php" target="_blank" rel="noopener noreferrer" aria-label="Facebook で共有">
+                                <span class="share-link__icon" aria-hidden="true">
+                                    <svg viewBox="0 0 24 24" focusable="false">
+                                        <path d="M13.647 22v-8.207h2.77l.415-3.2h-3.185V8.55c0-.927.257-1.56 1.588-1.56H16.96V4.126C16.124 4.037 15.283 3.993 14.442 4c-2.496 0-4.205 1.523-4.205 4.32v2.273H7.41v3.2h2.827V22h3.41Z" fill="currentColor"/>
+                                    </svg>
+                                </span>
+                                <span class="share-link__label">Facebook</span>
+                            </a>
+                            <a id="share-line" class="share-link share-link--line" href="https://social-plugins.line.me/lineit/share" target="_blank" rel="noopener noreferrer" aria-label="LINE で共有">
+                                <span class="share-link__icon" aria-hidden="true">
+                                    <svg viewBox="0 0 24 24" focusable="false">
+                                        <path d="M20.4 10.794c0-4.388-3.802-7.958-8.476-7.958S3.45 6.406 3.45 10.794c0 3.935 3.013 7.23 7.084 7.853.276.06.651.182.746.418.085.214.056.548.027.765l-.12.72c-.037.213-.17.835.73.455.9-.38 4.856-2.86 6.625-4.898 1.22-1.338 1.858-2.698 1.858-5.313Zm-11.3 2.166a.46.46 0 0 1-.46.46H6.065a.46.46 0 0 1-.46-.46V8.63a.46.46 0 1 1 .92 0v3.87H8.64a.46.46 0 0 1 .46.46Zm1.75 0a.46.46 0 0 1-.92 0V8.63a.46.46 0 1 1 .92 0v4.33Zm5.144 0a.46.46 0 0 1-.46.46.46.46 0 0 1-.355-.167l-2.238-2.84v2.547a.46.46 0 0 1-.92 0V8.63a.46.46 0 0 1 .46-.46c.138 0 .267.062.355.168l2.238 2.839V8.63a.46.46 0 1 1 .92 0v4.33Zm3.69-3.869h-2.115v1.028h2.115a.46.46 0 1 1 0 .92h-2.115v1.029h2.115a.46.46 0 1 1 0 .919h-2.575a.46.46 0 0 1-.46-.46V8.63a.46.46 0 0 1 .46-.46h2.575a.46.46 0 1 1 0 .92Z" fill="currentColor"/>
+                                    </svg>
+                                </span>
+                                <span class="share-link__label">LINE</span>
+                            </a>
+                            <button id="share-copy" class="share-link share-link--button share-link--copy" type="button" aria-label="共有リンクをコピー">
+                                <span class="share-link__icon" aria-hidden="true">
+                                    <svg viewBox="0 0 24 24" focusable="false">
+                                        <path d="M16 1H6a2 2 0 0 0-2 2v12h2V3h10V1Zm3 4H10a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2Zm0 16H10V7h9v14Z" fill="currentColor"/>
+                                    </svg>
+                                </span>
+                                <span class="share-link__label">リンクをコピー</span>
+                            </button>
+                        </div>
+                        <p id="share-status" class="share-panel__status" aria-live="polite"></p>
+                    </section>
+                </div>
+            </div>
+
+            <div id="map" hidden></div>
+
+            <div id="list-container" class="results-grid">
+                <section class="state-panel state-panel--placeholder">
+                    <p class="state-panel__eyebrow">Ready when you are</p>
+                    <h3 class="state-panel__title">都道府県を選ぶと、地域の認定企業がここに並びます</h3>
+                    <p class="state-panel__body">地方マップまたは一覧から地域を選ぶと、企業カード、認定タグ、地図上の位置関係を一画面で比較できます。</p>
+                </section>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>出典：経済産業省 <a href="https://info.gbiz.go.jp/" target="_blank" rel="noopener">gBizINFO</a></p>
+            <p>© 2026 local-stars-jp Project</p>
+        </div>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script type="module" src="../../app.js"></script>
+</body>
+</html>

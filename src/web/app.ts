@@ -2,6 +2,7 @@ import { CERTIFICATION_GENRE_ORDER, normalizeCertificationGenreLabel } from "../
 import type { Enterprise, GbizApiResponse } from "../types/gbiz";
 import { PREF_MAP, REGION_GROUPS } from "./constants";
 import { MapController } from "./map";
+import { buildPrefecturePagePath, getPageConfig, resolveAssetPath } from "./page-config";
 import { buildCompanyCardCompactHtml, buildCompanyCardHtml, buildPrefSvg } from "./renderer";
 
 const LOADING_MSG = "読み込み中...";
@@ -152,6 +153,13 @@ class LocalStarsApp {
   }
 
   private selectPrefecture(code: string) {
+    const { fixedPrefCode, isFixedPrefPage } = getPageConfig();
+
+    if (isFixedPrefPage && fixedPrefCode !== code) {
+      this.navigateToPrefecturePage(code);
+      return;
+    }
+
     this.selectedCode = code;
     this.selector.value = code;
     document.querySelectorAll<SVGGElement>(".pref-cell").forEach((g) => {
@@ -228,7 +236,8 @@ class LocalStarsApp {
 
   private readUrlState(): UrlState {
     const params = new URLSearchParams(window.location.search);
-    const prefCode = params.get("pref") ?? "";
+    const { fixedPrefCode, isFixedPrefPage } = getPageConfig();
+    const prefCode = isFixedPrefPage ? fixedPrefCode : (params.get("pref") ?? "");
     const nameQuery = params.get("name") ?? "";
     const certQuery = params.get("cert") ?? "";
     const viewMode = params.get("view") === "compact" ? "compact" : "card";
@@ -270,8 +279,9 @@ class LocalStarsApp {
   private syncUrlState() {
     const url = new URL(window.location.href);
     const { nameQuery, certQuery } = this.getActiveFilters();
+    const { isFixedPrefPage } = getPageConfig();
 
-    if (this.selectedCode) {
+    if (!isFixedPrefPage && this.selectedCode) {
       url.searchParams.set("pref", this.selectedCode);
     } else {
       url.searchParams.delete("pref");
@@ -296,6 +306,25 @@ class LocalStarsApp {
     }
 
     history.replaceState(null, "", url);
+  }
+
+  private navigateToPrefecturePage(code: string) {
+    const url = new URL(buildPrefecturePagePath(code), window.location.href);
+    const { nameQuery, certQuery } = this.getActiveFilters();
+
+    if (nameQuery) {
+      url.searchParams.set("name", nameQuery);
+    }
+
+    if (certQuery) {
+      url.searchParams.set("cert", certQuery);
+    }
+
+    if (this.viewMode === "compact") {
+      url.searchParams.set("view", "compact");
+    }
+
+    window.location.href = url.toString();
   }
 
   private getShareText(): string {
@@ -368,7 +397,7 @@ class LocalStarsApp {
     this.syncUrlState();
     this.updateShareLinks();
     try {
-      const res = await fetch(`./data/${code}.json`);
+      const res = await fetch(resolveAssetPath(`data/${code}.json`));
       if (!res.ok) throw new Error(`HTTP Error: ${res.status}`);
       const data = (await res.json()) as GbizApiResponse;
       this.render(data["hojin-infos"]);

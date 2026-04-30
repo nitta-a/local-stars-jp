@@ -220,6 +220,43 @@ var REGION_GRID_LAYOUT = [
   }
 ];
 
+// src/web/page-config.ts
+function normalizeAssetBase(value) {
+  const trimmed = value?.trim();
+  if (!trimmed) {
+    return ".";
+  }
+  if (trimmed === "/") {
+    return "/";
+  }
+  return trimmed.endsWith("/") ? trimmed.slice(0, -1) : trimmed;
+}
+function getPageConfig() {
+  const root = document.documentElement;
+  const assetBase = normalizeAssetBase(root.dataset.assetBase);
+  const fixedPrefCode = (root.dataset.prefCode ?? "").trim();
+  return {
+    assetBase,
+    fixedPrefCode,
+    isFixedPrefPage: fixedPrefCode.length > 0
+  };
+}
+function resolveAssetPath(pathFromDocsRoot) {
+  const relativePath = pathFromDocsRoot.replace(/^\/+/, "");
+  const { assetBase } = getPageConfig();
+  if (assetBase === "/") {
+    return `/${relativePath}`;
+  }
+  if (assetBase === ".") {
+    return `./${relativePath}`;
+  }
+  return `${assetBase}/${relativePath}`;
+}
+function buildPrefecturePagePath(code) {
+  const { isFixedPrefPage } = getPageConfig();
+  return isFixedPrefPage ? `../${code}/` : `./pref/${code}/`;
+}
+
 // src/web/map.ts
 var TILE_URL = "https://tile.openstreetmap.org/{z}/{x}/{y}.png";
 var TILE_ATTRIBUTION = '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
@@ -228,9 +265,9 @@ function escapeHtml(value) {
 }
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
-  iconUrl: "./images/marker-icon.png",
-  iconRetinaUrl: "./images/marker-icon-2x.png",
-  shadowUrl: "./images/marker-shadow.png"
+  iconUrl: resolveAssetPath("images/marker-icon.png"),
+  iconRetinaUrl: resolveAssetPath("images/marker-icon-2x.png"),
+  shadowUrl: resolveAssetPath("images/marker-shadow.png")
 });
 
 class MapController {
@@ -636,6 +673,11 @@ class LocalStarsApp {
     grid.appendChild(svgEl);
   }
   selectPrefecture(code) {
+    const { fixedPrefCode, isFixedPrefPage } = getPageConfig();
+    if (isFixedPrefPage && fixedPrefCode !== code) {
+      this.navigateToPrefecturePage(code);
+      return;
+    }
     this.selectedCode = code;
     this.selector.value = code;
     document.querySelectorAll(".pref-cell").forEach((g) => {
@@ -697,7 +739,8 @@ class LocalStarsApp {
   }
   readUrlState() {
     const params = new URLSearchParams(window.location.search);
-    const prefCode = params.get("pref") ?? "";
+    const { fixedPrefCode, isFixedPrefPage } = getPageConfig();
+    const prefCode = isFixedPrefPage ? fixedPrefCode : params.get("pref") ?? "";
     const nameQuery = params.get("name") ?? "";
     const certQuery = params.get("cert") ?? "";
     const viewMode = params.get("view") === "compact" ? "compact" : "card";
@@ -731,7 +774,8 @@ class LocalStarsApp {
   syncUrlState() {
     const url = new URL(window.location.href);
     const { nameQuery, certQuery } = this.getActiveFilters();
-    if (this.selectedCode) {
+    const { isFixedPrefPage } = getPageConfig();
+    if (!isFixedPrefPage && this.selectedCode) {
       url.searchParams.set("pref", this.selectedCode);
     } else {
       url.searchParams.delete("pref");
@@ -752,6 +796,20 @@ class LocalStarsApp {
       url.searchParams.delete("view");
     }
     history.replaceState(null, "", url);
+  }
+  navigateToPrefecturePage(code) {
+    const url = new URL(buildPrefecturePagePath(code), window.location.href);
+    const { nameQuery, certQuery } = this.getActiveFilters();
+    if (nameQuery) {
+      url.searchParams.set("name", nameQuery);
+    }
+    if (certQuery) {
+      url.searchParams.set("cert", certQuery);
+    }
+    if (this.viewMode === "compact") {
+      url.searchParams.set("view", "compact");
+    }
+    window.location.href = url.toString();
   }
   getShareText() {
     const filterSummary = this.getFilterSummaryParts().join(" / ");
@@ -808,7 +866,7 @@ class LocalStarsApp {
     this.syncUrlState();
     this.updateShareLinks();
     try {
-      const res = await fetch(`./data/${code}.json`);
+      const res = await fetch(resolveAssetPath(`data/${code}.json`));
       if (!res.ok)
         throw new Error(`HTTP Error: ${res.status}`);
       const data = await res.json();
