@@ -551,6 +551,11 @@ function buildPrefSvg(regionIdx, selectedCode, onSelect) {
 }
 
 // src/web/share-panel.ts
+var twitterShareUrl = "https://twitter.com/intent/tweet?text={text}&url={url}";
+var facebookShareUrl = "https://www.facebook.com/sharer/sharer.php?u={url}";
+var lineShareUrl = "https://social-plugins.line.me/lineit/share?url={url}&text={text}";
+var ERROR_COPY_FAILED = "リンクをコピーできませんでした。ブラウザの共有メニューを利用してください。";
+
 class SharePanel extends HTMLElement {
   copyButton = null;
   statusElement = null;
@@ -573,9 +578,11 @@ class SharePanel extends HTMLElement {
     this.copyButton?.removeEventListener("click", this.handleCopyClick);
   }
   updateShareLinks(url, text, status = "") {
-    this.shareXLink?.setAttribute("href", `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`);
-    this.shareFacebookLink?.setAttribute("href", `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`);
-    this.shareLineLink?.setAttribute("href", `https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`);
+    const encTxt = encodeURIComponent(text);
+    const encUrl = encodeURIComponent(url);
+    this.shareXLink?.setAttribute("href", twitterShareUrl.replace("{text}", encTxt).replace("{url}", encUrl));
+    this.shareFacebookLink?.setAttribute("href", facebookShareUrl.replace("{url}", encUrl));
+    this.shareLineLink?.setAttribute("href", lineShareUrl.replace("{url}", encUrl).replace("{text}", encTxt));
     if (this.statusElement) {
       this.statusElement.textContent = status;
     }
@@ -587,7 +594,7 @@ class SharePanel extends HTMLElement {
       this.updateShareLinks(shareUrl, this.getCurrentShareText(), "共有用リンクをコピーしました。");
     } catch (error) {
       console.error(error);
-      this.updateShareLinks(shareUrl, this.getCurrentShareText(), "リンクをコピーできませんでした。ブラウザの共有メニューを利用してください。");
+      this.updateShareLinks(shareUrl, this.getCurrentShareText(), ERROR_COPY_FAILED);
     }
   };
   getCurrentShareText() {
@@ -638,6 +645,65 @@ if (!customElements.get("local-share-panel")) {
   customElements.define("local-share-panel", SharePanel);
 }
 
+// src/web/view-toggle.ts
+var DEFAULT_LABEL = "表示形式の切り替え";
+
+class ViewToggle extends HTMLElement {
+  currentMode = "card";
+  connectedCallback() {
+    if (this.childElementCount === 0) {
+      this.render();
+    }
+    this.addEventListener("click", this.handleClick);
+    this.setMode(this.currentMode);
+  }
+  disconnectedCallback() {
+    this.removeEventListener("click", this.handleClick);
+  }
+  setMode(mode) {
+    this.currentMode = mode;
+    this.querySelectorAll("[data-view-mode]").forEach((button) => {
+      const isActive = button.dataset.viewMode === mode;
+      button.classList.toggle("active", isActive);
+      button.setAttribute("aria-pressed", String(isActive));
+    });
+  }
+  handleClick = (event) => {
+    const target = event.target;
+    if (!(target instanceof Element)) {
+      return;
+    }
+    const button = target.closest("[data-view-mode]");
+    if (!button) {
+      return;
+    }
+    const mode = button.dataset.viewMode;
+    if (mode !== "card" && mode !== "compact") {
+      return;
+    }
+    if (mode === this.currentMode) {
+      return;
+    }
+    this.setMode(mode);
+    this.dispatchEvent(new CustomEvent("viewchange", {
+      bubbles: true,
+      detail: mode
+    }));
+  };
+  render() {
+    const label = this.getAttribute("aria-label") ?? DEFAULT_LABEL;
+    this.innerHTML = `
+      <div class="view-toggle-group" role="group" aria-label="${label}">
+        <button type="button" class="view-toggle-btn active" data-view-mode="card" aria-pressed="true">カード</button>
+        <button type="button" class="view-toggle-btn" data-view-mode="compact" aria-pressed="false">コンパクト</button>
+      </div>
+    `;
+  }
+}
+if (!customElements.get("local-view-toggle")) {
+  customElements.define("local-view-toggle", ViewToggle);
+}
+
 // src/web/app.ts
 var LOADING_MSG = "読み込み中...";
 var ERR_NO_DATA = "データの取得に失敗しました。まだデータが準備されていない可能性があります。";
@@ -652,8 +718,7 @@ class LocalStarsApp {
   filterInput;
   certFilter;
   filterWrap;
-  viewToggleCard;
-  viewToggleCompact;
+  viewToggle;
   selectionTitle;
   selectionSummary;
   resultsTitle;
@@ -671,8 +736,7 @@ class LocalStarsApp {
     this.filterInput = document.getElementById("name-filter");
     this.certFilter = document.getElementById("cert-filter");
     this.filterWrap = document.getElementById("name-filter-wrap");
-    this.viewToggleCard = document.getElementById("view-toggle-card");
-    this.viewToggleCompact = document.getElementById("view-toggle-compact");
+    this.viewToggle = document.querySelector("local-view-toggle");
     this.selectionTitle = document.getElementById("selection-title");
     this.selectionSummary = document.getElementById("selection-summary");
     this.resultsTitle = document.getElementById("results-title");
@@ -797,19 +861,14 @@ class LocalStarsApp {
     this.certFilter.addEventListener("change", () => {
       this.applyFilter();
     });
-    this.viewToggleCard.addEventListener("click", () => {
-      this.setViewMode("card");
-    });
-    this.viewToggleCompact.addEventListener("click", () => {
-      this.setViewMode("compact");
+    this.viewToggle?.addEventListener("viewchange", (event) => {
+      const mode = event.detail;
+      this.setViewMode(mode);
     });
   }
   setViewMode(mode, rerender = true) {
     this.viewMode = mode;
-    this.viewToggleCard.classList.toggle("active", mode === "card");
-    this.viewToggleCard.setAttribute("aria-pressed", String(mode === "card"));
-    this.viewToggleCompact.classList.toggle("active", mode === "compact");
-    this.viewToggleCompact.setAttribute("aria-pressed", String(mode === "compact"));
+    this.viewToggle?.setMode(mode);
     if (rerender) {
       this.applyFilter();
     } else {
