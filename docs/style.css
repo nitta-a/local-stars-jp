@@ -537,6 +537,99 @@ footer a:hover {
   gap: 8px;
 }
 
+.labor-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 10px;
+}
+
+.labor-summary--compact {
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 8px;
+}
+
+.labor-chip {
+  display: grid;
+  gap: 4px;
+  padding: 12px 14px;
+  border-radius: 18px;
+  background: rgba(215, 236, 231, 0.48);
+  border: 1px solid rgba(25, 49, 77, 0.08);
+}
+
+.labor-chip__label {
+  color: var(--ink-sub);
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.labor-chip__value {
+  color: var(--ink-strong);
+  font-size: 0.95rem;
+  line-height: 1.3;
+}
+
+.labor-details {
+  border-top: 1px solid var(--line);
+  padding-top: 14px;
+}
+
+.labor-details summary {
+  cursor: pointer;
+  color: var(--ink-strong);
+  font-size: 0.9rem;
+  font-weight: 700;
+  list-style: none;
+}
+
+.labor-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.labor-details summary::after {
+  content: "＋";
+  display: inline-block;
+  margin-left: 8px;
+  color: var(--accent-strong);
+  font-size: 1rem;
+}
+
+.labor-details[open] summary::after {
+  content: "−";
+}
+
+.labor-metrics {
+  display: grid;
+  gap: 10px;
+  margin: 14px 0 0;
+}
+
+.labor-metrics__row {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+  gap: 12px;
+  padding: 10px 12px;
+  border-radius: 14px;
+  background: rgba(25, 49, 77, 0.04);
+}
+
+.labor-metrics__row dt,
+.labor-metrics__row dd {
+  margin: 0;
+}
+
+.labor-metrics__row dt {
+  color: var(--ink-sub);
+  font-size: 0.82rem;
+}
+
+.labor-metrics__row dd {
+  color: var(--ink-strong);
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-align: right;
+}
+
 .tag,
 .popup-tag {
   display: inline-flex;
@@ -574,6 +667,11 @@ footer a:hover {
 .company-card__compact-main {
   display: grid;
   gap: 6px;
+}
+
+.company-card__compact-meta {
+  display: grid;
+  gap: 10px;
 }
 
 .company-card__compact-address {
@@ -753,6 +851,16 @@ footer .container {
 
   #map {
     height: 320px;
+  }
+
+  .labor-summary,
+  .labor-summary--compact,
+  .labor-metrics__row {
+    grid-template-columns: 1fr;
+  }
+
+  .labor-metrics__row dd {
+    text-align: left;
   }
 
   .company-card--compact {

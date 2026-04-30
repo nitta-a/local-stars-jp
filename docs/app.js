@@ -276,6 +276,107 @@ function escapeHtml2(value) {
 function buildCertificationTags(c) {
   return c.certification.map((cert) => `<span class="tag">${escapeHtml2(cert.certification_name)}</span>`).join("");
 }
+function formatWithUnit(value, unit) {
+  if (!value)
+    return null;
+  return /[%年月日時分間人歳]$/.test(value) ? value : `${value}${unit}`;
+}
+function calculateRatio(numerator, denominator) {
+  if (!numerator || !denominator)
+    return null;
+  const num = Number(numerator);
+  const den = Number(denominator);
+  if (!Number.isFinite(num) || !Number.isFinite(den) || den <= 0)
+    return null;
+  return `${(num / den * 100).toFixed(1)}%`;
+}
+function buildLaborSummaryItems(data) {
+  const items = [
+    {
+      label: "女性比率",
+      value: formatWithUnit(data.female_worker_ratio, "%")
+    },
+    {
+      label: "女性管理職比率",
+      value: calculateRatio(data.female_manager_count, data.manager_total_count)
+    },
+    {
+      label: "平均勤続",
+      value: formatWithUnit(data.average_continuous_service_years_regular, "年") ?? formatWithUnit(data.average_continuous_service_years_male, "年") ?? formatWithUnit(data.average_continuous_service_years_female, "年")
+    },
+    {
+      label: "平均年齢",
+      value: formatWithUnit(data.average_employee_age, "歳")
+    },
+    {
+      label: "月平均残業",
+      value: formatWithUnit(data.monthly_overtime_hours, "時間")
+    }
+  ];
+  return items.filter((item) => Boolean(item.value)).slice(0, 4);
+}
+function buildLaborSummaryHtml(data, compact = false) {
+  if (!data)
+    return "";
+  const items = buildLaborSummaryItems(data);
+  if (items.length === 0)
+    return "";
+  return `
+    <section class="labor-summary${compact ? " labor-summary--compact" : ""}" aria-label="職場情報の要約">
+      ${items.map((item) => `
+            <div class="labor-chip">
+              <span class="labor-chip__label">${escapeHtml2(item.label)}</span>
+              <strong class="labor-chip__value">${escapeHtml2(item.value)}</strong>
+            </div>
+          `).join("")}
+    </section>
+  `;
+}
+function buildLaborMetricRows(data) {
+  const rows = [
+    { label: "平均継続勤務年数の対象", value: data.average_continuous_service_years_scope ?? null },
+    { label: "平均継続勤務年数（男性）", value: formatWithUnit(data.average_continuous_service_years_male, "年") },
+    { label: "平均継続勤務年数（女性）", value: formatWithUnit(data.average_continuous_service_years_female, "年") },
+    { label: "正社員の平均継続勤務年数", value: formatWithUnit(data.average_continuous_service_years_regular, "年") },
+    { label: "従業員の平均年齢", value: formatWithUnit(data.average_employee_age, "歳") },
+    { label: "月平均所定外労働時間", value: formatWithUnit(data.monthly_overtime_hours, "時間") },
+    { label: "女性労働者比率の対象", value: data.female_worker_ratio_scope ?? null },
+    { label: "女性労働者比率", value: formatWithUnit(data.female_worker_ratio, "%") },
+    {
+      label: "女性管理職",
+      value: data.female_manager_count && data.manager_total_count ? `${data.female_manager_count}人 / ${data.manager_total_count}人 (${calculateRatio(data.female_manager_count, data.manager_total_count) ?? "-"})` : formatWithUnit(data.female_manager_count, "人")
+    },
+    {
+      label: "女性役員",
+      value: data.female_officer_count && data.officer_total_count ? `${data.female_officer_count}人 / ${data.officer_total_count}人 (${calculateRatio(data.female_officer_count, data.officer_total_count) ?? "-"})` : formatWithUnit(data.female_officer_count, "人")
+    },
+    { label: "育休対象者数（男性）", value: formatWithUnit(data.childcare_leave_eligible_male, "人") },
+    { label: "育休対象者数（女性）", value: formatWithUnit(data.childcare_leave_eligible_female, "人") },
+    { label: "育休取得者数（男性）", value: formatWithUnit(data.childcare_leave_taken_male, "人") },
+    { label: "育休取得者数（女性）", value: formatWithUnit(data.childcare_leave_taken_female, "人") }
+  ];
+  return rows.filter((row) => Boolean(row.value));
+}
+function buildLaborDetailsHtml(data) {
+  if (!data)
+    return "";
+  const rows = buildLaborMetricRows(data);
+  if (rows.length === 0)
+    return "";
+  return `
+    <details class="labor-details">
+      <summary>職場情報の詳細を見る</summary>
+      <dl class="labor-metrics">
+        ${rows.map((row) => `
+              <div class="labor-metrics__row">
+                <dt>${escapeHtml2(row.label)}</dt>
+                <dd>${escapeHtml2(row.value)}</dd>
+              </div>
+            `).join("")}
+      </dl>
+    </details>
+  `;
+}
 function buildCompanyCardHtml(c) {
   const escapedName = escapeHtml2(c.name);
   const escapedAddress = escapeHtml2(c.address);
@@ -289,9 +390,11 @@ function buildCompanyCardHtml(c) {
         </div>
         <h3 class="company-name">${escapedName}</h3>
         <p class="address">所在地 <a href="${mapUrl}" target="_blank" rel="noopener noreferrer">${escapedAddress}</a></p>
+        ${buildLaborSummaryHtml(c.labor_data)}
         <div class="certification-tags">
           ${buildCertificationTags(c)}
         </div>
+        ${buildLaborDetailsHtml(c.labor_data)}
         <div class="links">
           <a href="${mapUrl}" target="_blank" rel="noopener noreferrer">Google マップで見る</a>
         </div>
@@ -308,8 +411,11 @@ function buildCompanyCardCompactHtml(c) {
           <span class="company-name">${escapedName}</span>
           <span class="company-card__compact-address">${escapedAddress}</span>
         </div>
-        <div class="certification-tags">
-          ${buildCertificationTags(c)}
+        <div class="company-card__compact-meta">
+          <div class="certification-tags">
+            ${buildCertificationTags(c)}
+          </div>
+          ${buildLaborSummaryHtml(c.labor_data, true)}
         </div>
         <div class="links">
           <a href="${mapUrl}" target="_blank" rel="noopener noreferrer">地図</a>

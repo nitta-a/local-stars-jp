@@ -1,10 +1,11 @@
 import { join } from "node:path";
 
-export const CSV_PATH = join(import.meta.dir, "../../data/Hyoshojoho_UTF-8.csv");
+export const HYOSHO_CSV_PATH = join(import.meta.dir, "../../data/Hyoshojoho_UTF-8.csv");
+export const SHOKUBA_CSV_PATH = join(import.meta.dir, "../../data/Shokubajoho_UTF-8.csv");
 export const OUTPUT_DIR = join(import.meta.dir, "../../docs/data");
 
 // CSVのヘッダー名
-export const COL = {
+export const HYOSHO_COL = {
   CORP_NUM: "法人番号",
   NAME: "商号または名称",
   PREF: "登記住所",
@@ -14,6 +15,28 @@ export const COL = {
   TARGET: "対象",
   DIVISION: "部門",
   ISSUER: "発行元",
+} as const;
+
+export const SHOKUBA_COL = {
+  CORP_NUM: "法人番号",
+  NAME: "商号または名称",
+  PREF: "登記住所",
+  AVG_SERVICE_SCOPE: "平均継続勤務年数-範囲",
+  AVG_SERVICE_MALE: "平均継続勤務年数-男性",
+  AVG_SERVICE_FEMALE: "平均継続勤務年数-女性",
+  AVG_SERVICE_REGULAR: "正社員の平均継続勤務年数",
+  AVG_AGE: "従業員の平均年齢",
+  MONTHLY_OVERTIME: "月平均所定外労働時間",
+  FEMALE_RATIO_SCOPE: "労働者に占める女性労働者の割合-範囲",
+  FEMALE_RATIO: "労働者に占める女性労働者の割合",
+  FEMALE_MANAGER_COUNT: "女性管理職人数",
+  MANAGER_TOTAL_COUNT: "管理職全体人数（男女計）",
+  FEMALE_OFFICER_COUNT: "女性役員人数",
+  OFFICER_TOTAL_COUNT: "役員全体人数（男女計）",
+  CHILDCARE_ELIGIBLE_MALE: "育児休業対象者数（男性）",
+  CHILDCARE_ELIGIBLE_FEMALE: "育児休業対象者数（女性）",
+  CHILDCARE_TAKEN_MALE: "育児休業取得者数（男性）",
+  CHILDCARE_TAKEN_FEMALE: "育児休業取得者数（女性）",
 } as const;
 
 // 全都道府県のマッピング

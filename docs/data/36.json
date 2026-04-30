@@ -15,6 +15,15 @@
           "genre": "障害者雇用"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員",
+        "average_continuous_service_years_male": "24.0",
+        "average_continuous_service_years_female": "26.0",
+        "female_worker_ratio_scope": "正社員",
+        "female_worker_ratio": "50.0",
+        "female_manager_count": "6",
+        "manager_total_count": "54"
+      },
       "lat": 34.123059795,
       "lng": 134.578807137
     },
@@ -41,6 +50,12 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "female_manager_count": "7",
+        "manager_total_count": "22",
+        "female_officer_count": "2",
+        "officer_total_count": "7"
+      },
       "lat": 34.098339945,
       "lng": 134.573598303
     },
@@ -77,6 +92,13 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員",
+        "average_continuous_service_years_male": "17.7",
+        "average_continuous_service_years_female": "17.4",
+        "female_worker_ratio_scope": "正社員",
+        "female_worker_ratio": "35.3"
+      },
       "lat": 33.895691101,
       "lng": 134.580323144
     },
@@ -131,6 +153,15 @@
           "genre": "地域産業・社会貢献"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "average_continuous_service_years_male": "11.3",
+        "average_continuous_service_years_female": "11.6",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "64.3",
+        "female_manager_count": "20",
+        "manager_total_count": "60"
+      },
       "lat": 34.102497887000006,
       "lng": 134.553364176
     },
@@ -175,6 +206,17 @@
           "genre": "地域産業・社会貢献"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "average_continuous_service_years_male": "20.0",
+        "average_continuous_service_years_female": "9.0",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "52.0",
+        "female_manager_count": "2",
+        "manager_total_count": "19",
+        "female_officer_count": "0",
+        "officer_total_count": "3"
+      },
       "lat": 34.129571598,
       "lng": 134.562881162
     },
@@ -211,6 +253,10 @@
           "genre": "女性活躍支援"
         }
       ],
+      "labor_data": {
+        "female_manager_count": "15",
+        "manager_total_count": "30"
+      },
       "lat": 34.071047,
       "lng": 134.547433
     },
@@ -229,6 +275,11 @@
           "genre": "女性活躍支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "average_continuous_service_years_male": "22.0",
+        "average_continuous_service_years_female": "12.0"
+      },
       "lat": 34.06211,
       "lng": 134.557017
     },
@@ -263,6 +314,13 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員",
+        "average_continuous_service_years_male": "18.2",
+        "average_continuous_service_years_female": "15.8",
+        "female_worker_ratio_scope": "正社員",
+        "female_worker_ratio": "62.5"
+      },
       "lat": 34.067873,
       "lng": 134.551327
     },
@@ -307,6 +365,17 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_regular": "15.0",
+        "average_employee_age": "49.0",
+        "monthly_overtime_hours": "4.5",
+        "female_manager_count": "4",
+        "manager_total_count": "19",
+        "childcare_leave_eligible_male": "1",
+        "childcare_leave_eligible_female": "1",
+        "childcare_leave_taken_male": "0",
+        "childcare_leave_taken_female": "1"
+      },
       "lat": 34.024090376,
       "lng": 134.029212692
     },
@@ -351,6 +420,15 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "average_continuous_service_years_male": "11.7",
+        "average_continuous_service_years_female": "10.8",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "54.2",
+        "female_manager_count": "67",
+        "manager_total_count": "147"
+      },
       "lat": 34.092864,
       "lng": 134.48091
     },
@@ -459,6 +537,17 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員",
+        "average_continuous_service_years_male": "10.6",
+        "average_continuous_service_years_female": "11.6",
+        "female_worker_ratio_scope": "正社員",
+        "female_worker_ratio": "38.4",
+        "female_manager_count": "2",
+        "manager_total_count": "8",
+        "female_officer_count": "4",
+        "officer_total_count": "9"
+      },
       "lat": 34.082212,
       "lng": 134.55344
     },
@@ -477,6 +566,11 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "基幹的な職種",
+        "average_continuous_service_years_male": "6.0",
+        "average_continuous_service_years_female": "5.9"
+      },
       "lat": 34.081152,
       "lng": 134.561069
     },
@@ -495,6 +589,9 @@
           "genre": "女性活躍支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員"
+      },
       "lat": 34.065429,
       "lng": 134.561491
     },
@@ -573,6 +670,19 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_regular": "15.2",
+        "average_employee_age": "42.9",
+        "monthly_overtime_hours": "13.3",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "42.9",
+        "female_manager_count": "3",
+        "manager_total_count": "16",
+        "childcare_leave_eligible_male": "5",
+        "childcare_leave_eligible_female": "0",
+        "childcare_leave_taken_male": "5",
+        "childcare_leave_taken_female": "0"
+      },
       "lat": 33.921762,
       "lng": 134.659566
     },
@@ -653,6 +763,16 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "average_continuous_service_years_female": "9.9",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "71.4",
+        "female_manager_count": "3",
+        "manager_total_count": "23",
+        "female_officer_count": "0",
+        "officer_total_count": "6"
+      },
       "lat": 33.921762,
       "lng": 134.659566
     },
@@ -741,6 +861,17 @@
           "genre": "環境・サステナビリティ"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員",
+        "average_continuous_service_years_male": "12.6",
+        "average_continuous_service_years_female": "12.5",
+        "female_worker_ratio_scope": "正社員",
+        "female_worker_ratio": "23.0",
+        "female_manager_count": "4",
+        "manager_total_count": "35",
+        "female_officer_count": "1",
+        "officer_total_count": "5"
+      },
       "lat": 34.075486,
       "lng": 134.510408
     },
@@ -803,6 +934,10 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "female_worker_ratio_scope": "正社員",
+        "female_worker_ratio": "37.5"
+      },
       "lat": 33.921762,
       "lng": 134.659566
     },
@@ -821,6 +956,11 @@
           "genre": "女性活躍支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員",
+        "average_continuous_service_years_male": "2.5",
+        "average_continuous_service_years_female": "1.5"
+      },
       "lat": 34.07793178,
       "lng": 134.529936715
     },
@@ -873,6 +1013,15 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員",
+        "average_continuous_service_years_male": "21.7",
+        "average_continuous_service_years_female": "15.6",
+        "female_worker_ratio_scope": "正社員",
+        "female_worker_ratio": "57.0",
+        "female_officer_count": "2",
+        "officer_total_count": "24"
+      },
       "lat": 34.072768,
       "lng": 134.546968
     },
@@ -917,6 +1066,16 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員",
+        "average_continuous_service_years_female": "19.6",
+        "female_worker_ratio_scope": "正社員",
+        "female_worker_ratio": "0.0",
+        "female_manager_count": "0",
+        "manager_total_count": "9",
+        "female_officer_count": "0",
+        "officer_total_count": "4"
+      },
       "lat": 34.081871,
       "lng": 134.515964
     },
@@ -995,6 +1154,15 @@
           "genre": "障害者雇用"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "average_continuous_service_years_male": "17.6",
+        "average_continuous_service_years_female": "15.6",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "50.0",
+        "female_manager_count": "3",
+        "manager_total_count": "35"
+      },
       "lat": 33.99718738600001,
       "lng": 134.579578684
     },
@@ -1013,6 +1181,11 @@
           "genre": "地域産業・社会貢献"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員",
+        "female_officer_count": "0",
+        "officer_total_count": "1"
+      },
       "lat": 34.049009329,
       "lng": 134.552357887
     },
@@ -1031,6 +1204,13 @@
           "genre": "障害者雇用"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "33.3",
+        "female_manager_count": "1",
+        "manager_total_count": "20"
+      },
       "lat": 34.089026755,
       "lng": 134.276307912
     },
@@ -1075,6 +1255,13 @@
           "genre": "IT活用・知財"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "正社員",
+        "average_continuous_service_years_male": "15.8",
+        "average_continuous_service_years_female": "17.4",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "15.2"
+      },
       "lat": 33.930358,
       "lng": 134.623364
     },
@@ -1093,6 +1280,15 @@
           "genre": "女性活躍支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_regular": "5.4",
+        "average_employee_age": "41.5",
+        "monthly_overtime_hours": "3.7",
+        "childcare_leave_eligible_male": "1",
+        "childcare_leave_eligible_female": "0",
+        "childcare_leave_taken_male": "1",
+        "childcare_leave_taken_female": "0"
+      },
       "lat": 34.054236252,
       "lng": 134.029573286
     },
@@ -1147,6 +1343,10 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "0.0"
+      },
       "lat": 34.125594,
       "lng": 134.546985
     },
@@ -1227,6 +1427,13 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "average_continuous_service_years_male": "8.1",
+        "average_continuous_service_years_female": "4.9",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "75.0"
+      },
       "lat": 34.082924436,
       "lng": 134.519798187
     },
@@ -1253,6 +1460,13 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "average_continuous_service_years_male": "5.7",
+        "average_continuous_service_years_female": "6.4",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "47.0"
+      },
       "lat": 34.063731,
       "lng": 134.495115
     },
@@ -1271,6 +1485,12 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "female_worker_ratio_scope": "正社員",
+        "female_worker_ratio": "1.6",
+        "female_manager_count": "1",
+        "manager_total_count": "13"
+      },
       "lat": 34.081506419,
       "lng": 134.528381727
     },
@@ -1305,6 +1525,14 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "female_worker_ratio_scope": "正社員",
+        "female_worker_ratio": "80.0",
+        "female_manager_count": "1",
+        "manager_total_count": "7",
+        "female_officer_count": "1",
+        "officer_total_count": "5"
+      },
       "lat": 34.135506365,
       "lng": 134.563199272
     },
@@ -1341,6 +1569,15 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "69.0",
+        "female_manager_count": "17",
+        "manager_total_count": "39",
+        "female_officer_count": "6",
+        "officer_total_count": "10"
+      },
       "lat": 34.083209,
       "lng": 134.550482
     },
@@ -1385,6 +1622,15 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "average_continuous_service_years_male": "10.3",
+        "average_continuous_service_years_female": "9.4",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "53.4",
+        "female_manager_count": "19",
+        "manager_total_count": "41"
+      },
       "lat": 34.090242786,
       "lng": 134.482344731
     },
@@ -1447,6 +1693,12 @@
           "genre": "女性活躍支援"
         }
       ],
+      "labor_data": {
+        "female_manager_count": "4",
+        "manager_total_count": "46",
+        "female_officer_count": "1",
+        "officer_total_count": "13"
+      },
       "lat": 34.091911142,
       "lng": 134.44269536
     },
@@ -1483,6 +1735,13 @@
           "genre": "地域産業・社会貢献"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "対象とする労働者すべて",
+        "average_continuous_service_years_male": "2.8",
+        "average_continuous_service_years_female": "2.9",
+        "female_manager_count": "1",
+        "manager_total_count": "4"
+      },
       "lat": 34.078066,
       "lng": 134.516565
     },
@@ -1555,6 +1814,13 @@
           "genre": "子育て支援"
         }
       ],
+      "labor_data": {
+        "average_continuous_service_years_scope": "その他",
+        "average_continuous_service_years_male": "17.7",
+        "average_continuous_service_years_female": "17.1",
+        "female_worker_ratio_scope": "その他",
+        "female_worker_ratio": "25.0"
+      },
       "lat": 34.113331158,
       "lng": 134.587778652
     },
