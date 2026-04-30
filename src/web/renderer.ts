@@ -13,17 +13,24 @@ export function buildCompanyCardHtml(c: Enterprise): string {
     `;
 }
 
+export function buildCompanyCardCompactHtml(c: Enterprise): string {
+  return `
+      <div class="company-card company-card--compact">
+        <span class="company-name">${c.name}</span>
+        <div class="certification-tags">
+          ${c.certification.map((cert) => `<span class="tag">${cert.certification_name}</span>`).join("")}
+        </div>
+      </div>
+    `;
+}
+
 const SVG_NS = "http://www.w3.org/2000/svg";
 const CELL_W = 80;
 const CELL_H = 52;
 const GAP = 6;
 const PAD = 10;
 
-export function buildPrefSvg(
-  regionIdx: number,
-  selectedCode: string,
-  onSelect: (code: string) => void,
-): SVGSVGElement {
+export function buildPrefSvg(regionIdx: number, selectedCode: string, onSelect: (code: string) => void): SVGSVGElement {
   const region = REGION_GROUPS[regionIdx];
   const layout = REGION_GRID_LAYOUT[regionIdx];
   const color = REGION_COLORS[regionIdx] ?? "#d0e8ff";

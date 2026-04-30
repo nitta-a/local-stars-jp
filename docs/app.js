@@ -254,6 +254,16 @@ function buildCompanyCardHtml(c) {
       </div>
     `;
 }
+function buildCompanyCardCompactHtml(c) {
+  return `
+      <div class="company-card company-card--compact">
+        <span class="company-name">${c.name}</span>
+        <div class="certification-tags">
+          ${c.certification.map((cert) => `<span class="tag">${cert.certification_name}</span>`).join("")}
+        </div>
+      </div>
+    `;
+}
 var SVG_NS = "http://www.w3.org/2000/svg";
 var CELL_W = 80;
 var CELL_H = 52;
@@ -320,14 +330,19 @@ class LocalStarsApp {
   filterInput;
   certFilter;
   filterWrap;
+  viewToggleCard;
+  viewToggleCompact;
   mapCtrl = new MapController;
   allCompanies = [];
+  viewMode = "card";
   constructor() {
     this.selector = document.getElementById("pref-selector");
     this.container = document.getElementById("list-container");
     this.filterInput = document.getElementById("name-filter");
     this.certFilter = document.getElementById("cert-filter");
     this.filterWrap = document.getElementById("name-filter-wrap");
+    this.viewToggleCard = document.getElementById("view-toggle-card");
+    this.viewToggleCompact = document.getElementById("view-toggle-compact");
     this.initSelector();
     this.initVisualMap();
     this.initTabs();
@@ -428,6 +443,20 @@ class LocalStarsApp {
     this.certFilter.addEventListener("change", () => {
       this.applyFilter();
     });
+    this.viewToggleCard.addEventListener("click", () => {
+      this.setViewMode("card");
+    });
+    this.viewToggleCompact.addEventListener("click", () => {
+      this.setViewMode("compact");
+    });
+  }
+  setViewMode(mode) {
+    this.viewMode = mode;
+    this.viewToggleCard.classList.toggle("active", mode === "card");
+    this.viewToggleCard.setAttribute("aria-pressed", String(mode === "card"));
+    this.viewToggleCompact.classList.toggle("active", mode === "compact");
+    this.viewToggleCompact.setAttribute("aria-pressed", String(mode === "compact"));
+    this.applyFilter();
   }
   async fetchData(code) {
     this.container.innerHTML = `<p class="loading">${LOADING_MSG}</p>`;
@@ -475,7 +504,8 @@ class LocalStarsApp {
       this.mapCtrl.updateMarkers([]);
       return;
     }
-    this.container.innerHTML = filtered.map(buildCompanyCardHtml).join("");
+    const builder = this.viewMode === "compact" ? buildCompanyCardCompactHtml : buildCompanyCardHtml;
+    this.container.innerHTML = filtered.map(builder).join("");
     this.mapCtrl.updateMarkers(filtered);
   }
 }

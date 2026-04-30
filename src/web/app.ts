@@ -1,7 +1,7 @@
 import type { Enterprise, GbizApiResponse } from "../types/gbiz";
 import { PREF_MAP, REGION_GROUPS } from "./constants";
 import { MapController } from "./map";
-import { buildCompanyCardHtml, buildPrefSvg } from "./renderer";
+import { buildCompanyCardCompactHtml, buildCompanyCardHtml, buildPrefSvg } from "./renderer";
 
 const LOADING_MSG = "読み込み中...";
 const ERR_NO_DATA = "データの取得に失敗しました。まだデータが準備されていない可能性があります。";
@@ -13,8 +13,11 @@ class LocalStarsApp {
   private filterInput: HTMLInputElement;
   private certFilter: HTMLSelectElement;
   private filterWrap: HTMLElement;
+  private viewToggleCard: HTMLButtonElement;
+  private viewToggleCompact: HTMLButtonElement;
   private mapCtrl = new MapController();
   private allCompanies: Enterprise[] = [];
+  private viewMode: "card" | "compact" = "card";
 
   constructor() {
     this.selector = document.getElementById("pref-selector") as HTMLSelectElement;
@@ -22,6 +25,8 @@ class LocalStarsApp {
     this.filterInput = document.getElementById("name-filter") as HTMLInputElement;
     this.certFilter = document.getElementById("cert-filter") as HTMLSelectElement;
     this.filterWrap = document.getElementById("name-filter-wrap") as HTMLElement;
+    this.viewToggleCard = document.getElementById("view-toggle-card") as HTMLButtonElement;
+    this.viewToggleCompact = document.getElementById("view-toggle-compact") as HTMLButtonElement;
 
     this.initSelector();
     this.initVisualMap();
@@ -130,6 +135,21 @@ class LocalStarsApp {
     this.certFilter.addEventListener("change", () => {
       this.applyFilter();
     });
+    this.viewToggleCard.addEventListener("click", () => {
+      this.setViewMode("card");
+    });
+    this.viewToggleCompact.addEventListener("click", () => {
+      this.setViewMode("compact");
+    });
+  }
+
+  private setViewMode(mode: "card" | "compact") {
+    this.viewMode = mode;
+    this.viewToggleCard.classList.toggle("active", mode === "card");
+    this.viewToggleCard.setAttribute("aria-pressed", String(mode === "card"));
+    this.viewToggleCompact.classList.toggle("active", mode === "compact");
+    this.viewToggleCompact.setAttribute("aria-pressed", String(mode === "compact"));
+    this.applyFilter();
   }
 
   private async fetchData(code: string) {
@@ -178,7 +198,8 @@ class LocalStarsApp {
       this.mapCtrl.updateMarkers([]);
       return;
     }
-    this.container.innerHTML = filtered.map(buildCompanyCardHtml).join("");
+    const builder = this.viewMode === "compact" ? buildCompanyCardCompactHtml : buildCompanyCardHtml;
+    this.container.innerHTML = filtered.map(builder).join("");
     this.mapCtrl.updateMarkers(filtered);
   }
 }
