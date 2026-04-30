@@ -7,11 +7,21 @@ declare const L: typeof Leaflet;
 const TILE_URL = "https://tile.openstreetmap.org/{z}/{x}/{y}.png";
 const TILE_ATTRIBUTION = '\u00a9 <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
 
+function escapeHtml(value: string): string {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
+}
+
 // Tracking Prevention対策: デフォルトアイコンをローカルファイルに差し替え
+delete (L.Icon.Default.prototype as L.Icon.Default & { _getIconUrl?: unknown })._getIconUrl;
 L.Icon.Default.mergeOptions({
-  iconUrl: "images/marker-icon.png",
-  iconRetinaUrl: "images/marker-icon-2x.png",
-  shadowUrl: "images/marker-shadow.png",
+  iconUrl: "./images/marker-icon.png",
+  iconRetinaUrl: "./images/marker-icon-2x.png",
+  shadowUrl: "./images/marker-shadow.png",
 });
 
 export class MapController {
@@ -45,11 +55,11 @@ export class MapController {
     for (const c of companies) {
       if (c.lat !== undefined && c.lng !== undefined) {
         const tags = c.certification
-          .map((cert) => `<span class="popup-tag">${cert.certification_name}</span>`)
+          .map((cert) => `<span class="popup-tag">${escapeHtml(cert.certification_name)}</span>`)
           .join("");
         L.marker([c.lat, c.lng])
           .bindPopup(
-            `<strong>${c.name}</strong><br><small>${c.address}</small>${tags ? `<div class="popup-tags">${tags}</div>` : ""}`,
+            `<strong>${escapeHtml(c.name)}</strong><br><small>${escapeHtml(c.address)}</small>${tags ? `<div class="popup-tags">${tags}</div>` : ""}`,
           )
           .addTo(this.markerLayer);
       }

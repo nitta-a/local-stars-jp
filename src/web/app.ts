@@ -7,31 +7,52 @@ const LOADING_MSG = "読み込み中...";
 const ERR_NO_DATA = "データの取得に失敗しました。まだデータが準備されていない可能性があります。";
 const ERR_NO_COMPANIES = "該当する企業はありません。";
 
+function escapeHtml(value: string): string {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
+}
+
 class LocalStarsApp {
   private selector: HTMLSelectElement;
-  private container: HTMLDivElement;
+  private container: HTMLElement;
   private filterInput: HTMLInputElement;
   private certFilter: HTMLSelectElement;
   private filterWrap: HTMLElement;
   private viewToggleCard: HTMLButtonElement;
   private viewToggleCompact: HTMLButtonElement;
+  private selectionTitle: HTMLElement;
+  private selectionSummary: HTMLElement;
+  private resultsTitle: HTMLElement;
+  private resultsMeta: HTMLElement;
+  private resultsCount: HTMLElement;
   private mapCtrl = new MapController();
   private allCompanies: Enterprise[] = [];
   private viewMode: "card" | "compact" = "card";
+  private selectedCode = "";
 
   constructor() {
     this.selector = document.getElementById("pref-selector") as HTMLSelectElement;
-    this.container = document.getElementById("list-container") as HTMLDivElement;
+    this.container = document.getElementById("list-container") as HTMLElement;
     this.filterInput = document.getElementById("name-filter") as HTMLInputElement;
     this.certFilter = document.getElementById("cert-filter") as HTMLSelectElement;
     this.filterWrap = document.getElementById("name-filter-wrap") as HTMLElement;
     this.viewToggleCard = document.getElementById("view-toggle-card") as HTMLButtonElement;
     this.viewToggleCompact = document.getElementById("view-toggle-compact") as HTMLButtonElement;
+    this.selectionTitle = document.getElementById("selection-title") as HTMLElement;
+    this.selectionSummary = document.getElementById("selection-summary") as HTMLElement;
+    this.resultsTitle = document.getElementById("results-title") as HTMLElement;
+    this.resultsMeta = document.getElementById("results-meta") as HTMLElement;
+    this.resultsCount = document.getElementById("results-count") as HTMLElement;
 
     this.initSelector();
     this.initVisualMap();
     this.initTabs();
     this.bindEvents();
+    this.renderInitialState();
   }
 
   private initSelector() {
@@ -108,6 +129,7 @@ class LocalStarsApp {
   }
 
   private selectPrefecture(code: string) {
+    this.selectedCode = code;
     this.selector.value = code;
     document.querySelectorAll<SVGGElement>(".pref-cell").forEach((g) => {
       const selected = g.dataset.code === code;
@@ -118,6 +140,15 @@ class LocalStarsApp {
       if (rect) rect.setAttribute("fill", selected ? "var(--primary-color)" : (rect.dataset.baseColor ?? "#d0e8ff"));
       if (text) text.setAttribute("fill", selected ? "white" : "#333");
     });
+    this.setSelectionState(
+      `${this.getSelectedPrefName()}を選択中`,
+      "企業データと地図を準備しています。少しお待ちください。",
+    );
+    this.setResultsHeader(
+      `${this.getSelectedPrefName()}の認定企業`,
+      "gBizINFO の公開データを読み込み中です。",
+      LOADING_MSG,
+    );
     this.mapCtrl.showMap(code);
     this.fetchData(code);
   }
@@ -152,8 +183,49 @@ class LocalStarsApp {
     this.applyFilter();
   }
 
+  private renderInitialState() {
+    this.setSelectionState(
+      "都道府県を選択してください",
+      "地方地図または一覧から選ぶと、認定企業の一覧と地図を同時に確認できます。",
+    );
+    this.setResultsHeader(
+      "認定企業を探す",
+      "都道府県を選択すると、認定企業の一覧と地図をまとめて確認できます。",
+      "全国47都道府県",
+    );
+  }
+
+  private getSelectedPrefName(): string {
+    return PREF_MAP[this.selectedCode] ?? PREF_MAP[this.selector.value] ?? "選択中の地域";
+  }
+
+  private setSelectionState(title: string, summary: string) {
+    this.selectionTitle.textContent = title;
+    this.selectionSummary.textContent = summary;
+  }
+
+  private setResultsHeader(title: string, meta: string, count: string) {
+    this.resultsTitle.textContent = title;
+    this.resultsMeta.textContent = meta;
+    this.resultsCount.textContent = count;
+  }
+
+  private renderState(kind: "placeholder" | "loading" | "empty" | "error", title: string, body: string) {
+    this.container.innerHTML = `
+      <section class="state-panel state-panel--${kind}">
+        <p class="state-panel__eyebrow">${kind === "loading" ? "Loading" : kind === "error" ? "Notice" : "Guide"}</p>
+        <h3 class="state-panel__title">${escapeHtml(title)}</h3>
+        <p class="state-panel__body">${escapeHtml(body)}</p>
+      </section>
+    `;
+  }
+
   private async fetchData(code: string) {
-    this.container.innerHTML = `<p class="loading">${LOADING_MSG}</p>`;
+    this.renderState(
+      "loading",
+      `${this.getSelectedPrefName()}を読み込み中`,
+      "gBizINFO の認定企業データを取得しています。",
+    );
     this.filterWrap.hidden = true;
     this.filterInput.value = "";
     this.certFilter.innerHTML = `<option value="">すべて</option>`;
@@ -165,13 +237,38 @@ class LocalStarsApp {
       this.render(data["hojin-infos"]);
     } catch (e) {
       console.error(e);
-      this.container.innerHTML = `<p class="error">${ERR_NO_DATA}</p>`;
+      this.setSelectionState(`${this.getSelectedPrefName()}のデータを取得できませんでした`, ERR_NO_DATA);
+      this.setResultsHeader(
+        `${this.getSelectedPrefName()}のデータを表示できません`,
+        "時間をおいて再試行するか、別の都道府県を選択してください。",
+        "取得失敗",
+      );
+      this.renderState("error", "データの取得に失敗しました", ERR_NO_DATA);
     }
   }
 
   private render(companies: Enterprise[]) {
     this.allCompanies = companies;
     this.filterWrap.hidden = companies.length === 0;
+    if (companies.length === 0) {
+      this.setSelectionState(
+        `${this.getSelectedPrefName()}で公開中の企業は見つかりませんでした`,
+        "この都道府県では、現在表示できる認定企業データがありません。別の都道府県も試せます。",
+      );
+      this.setResultsHeader(
+        `${this.getSelectedPrefName()}の認定企業`,
+        "公開データ内で該当企業が見つかりませんでした。",
+        "0件",
+      );
+      this.renderState(
+        "empty",
+        "現在表示できる企業データがありません",
+        "別の都道府県を選ぶと、一覧と地図を引き続き比較できます。",
+      );
+      this.mapCtrl.updateMarkers([]);
+      return;
+    }
+
     // 認定名称の選択肢を一意に収集
     const certNames = [
       ...new Set(companies.flatMap((c) => c.certification.map((cert) => cert.certification_name))),
@@ -182,6 +279,10 @@ class LocalStarsApp {
       opt.textContent = name;
       this.certFilter.appendChild(opt);
     }
+    this.setSelectionState(
+      `${this.getSelectedPrefName()}を表示中`,
+      `認定企業 ${companies.length} 件を読み込みました。企業名や認定名称でさらに絞り込めます。`,
+    );
     this.applyFilter();
   }
 
@@ -194,13 +295,40 @@ class LocalStarsApp {
       return true;
     });
     if (filtered.length === 0) {
-      this.container.innerHTML = `<p class="error">${ERR_NO_COMPANIES}</p>`;
+      const activeFilters = [
+        nameQuery ? `企業名「${escapeHtml(this.filterInput.value.trim())}」` : "",
+        certQuery ? `認定「${escapeHtml(certQuery)}」` : "",
+      ].filter(Boolean);
+      this.setResultsHeader(
+        `${this.getSelectedPrefName()}の認定企業`,
+        activeFilters.length > 0
+          ? `${activeFilters.join(" / ")} に一致する企業が見つかりませんでした。`
+          : ERR_NO_COMPANIES,
+        "0件",
+      );
+      this.renderState(
+        "empty",
+        "条件に合う企業がありません",
+        activeFilters.length > 0 ? `${activeFilters.join(" / ")} の条件を広げて再検索してください。` : ERR_NO_COMPANIES,
+      );
       this.mapCtrl.updateMarkers([]);
       return;
     }
+
+    const filterSummary = [
+      nameQuery ? `企業名「${escapeHtml(this.filterInput.value.trim())}」` : "",
+      certQuery ? `認定「${escapeHtml(certQuery)}」` : "",
+    ].filter(Boolean);
     const builder = this.viewMode === "compact" ? buildCompanyCardCompactHtml : buildCompanyCardHtml;
     this.container.innerHTML = filtered.map(builder).join("");
     this.mapCtrl.updateMarkers(filtered);
+    this.setResultsHeader(
+      `${this.getSelectedPrefName()}の認定企業`,
+      filterSummary.length > 0
+        ? `${filterSummary.join(" / ")} で絞り込んだ結果です。`
+        : "地図上の分布とカード一覧を見比べながら、地域の認定企業を比較できます。",
+      `${filtered.length}件`,
+    );
   }
 }
 

@@ -52,20 +52,57 @@
     }
     </script>
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <header>
-        <div class="container">
-            <h1>🌟 Local Stars JP</h1>
-            <p>地域の優良認定企業を見つけよう</p>
+    <header class="site-hero">
+        <div class="container site-hero__grid">
+            <div class="site-hero__content">
+                <h1>
+                    <span class="site-hero__brand">Local Stars JP</span>
+                    <small>ユースエール、えるぼし、くるみん、健康経営優良法人など、国の認定を受けた企業を地図と一覧で横断的に探せるデータガイド。</small>
+                </h1>
+                <p class="site-hero__lead">就職先や取引先の比較、地域の企業リサーチを、都道府県ごとの分布と認定タグから素早く進められます。</p>
+                <div class="hero-stats" aria-label="サービス概要">
+                    <div class="hero-stat">
+                        <strong>47</strong>
+                        <span>都道府県対応</span>
+                    </div>
+                    <div class="hero-stat">
+                        <strong>Map</strong>
+                        <span>地図と一覧を横断</span>
+                    </div>
+                    <div class="hero-stat">
+                        <strong>Open Data</strong>
+                        <span>gBizINFO を活用</span>
+                    </div>
+                </div>
+            </div>
+            <aside class="site-hero__card" aria-label="使い方">
+                <p class="site-hero__card-label">Search flow</p>
+                <ol class="hero-flow">
+                    <li>地方または都道府県を選ぶ</li>
+                    <li>企業名と認定名称で絞り込む</li>
+                    <li>地図とカードで分布を比較する</li>
+                </ol>
+                <p class="site-hero__note"> </p>
+            </aside>
         </div>
     </header>
 
-    <main class="container">
-        <section id="pref-selector-panel">
+    <main class="container app-shell">
+        <aside class="control-rail">
+        <section id="pref-selector-panel" class="control-panel">
+            <div class="control-panel__intro">
+                <p class="panel-kicker">Explore by area</p>
+                <h2>都道府県を選ぶ</h2>
+                <p>最初に地方を選び、次に都道府県へ絞り込むと、企業一覧と地図が右側に展開されます。</p>
+            </div>
             <!-- タブナビゲーション -->
             <div class="tab-nav" role="tablist" aria-label="都道府県の選択方法">
                 <button class="tab-btn active" id="tab-btn-map" role="tab"
@@ -157,29 +194,56 @@
             </div>
         </section>
 
-        <div id="map" hidden></div>
+        <section class="control-panel control-panel--filters">
+            <div class="selection-status" aria-live="polite">
+                <p class="panel-kicker">Current selection</p>
+                <h2 id="selection-title">都道府県を選択してください</h2>
+                <p id="selection-summary">地方地図または一覧から選ぶと、認定企業の一覧と地図を同時に確認できます。</p>
+            </div>
 
-        <div id="name-filter-wrap" hidden>
-            <div class="name-filter-field">
-                <label for="name-filter">企業名で絞り込み：</label>
-                <input type="search" id="name-filter" placeholder="企業名を入力..." autocomplete="off">
-            </div>
-            <div class="name-filter-field">
-                <label for="cert-filter">認定名称で絞り込み：</label>
-                <select id="cert-filter">
-                    <option value="">すべて</option>
-                </select>
-            </div>
-            <div class="name-filter-field name-filter-field--right">
-                <div class="view-toggle-group" role="group" aria-label="表示形式の切り替え">
-                    <button type="button" class="view-toggle-btn active" id="view-toggle-card" aria-pressed="true">☰ カード</button>
-                    <button type="button" class="view-toggle-btn" id="view-toggle-compact" aria-pressed="false">≡ コンパクト</button>
+            <div id="name-filter-wrap" hidden>
+                <div class="filter-grid">
+                    <div class="name-filter-field">
+                        <label for="name-filter">企業名で絞り込み</label>
+                        <input type="search" id="name-filter" placeholder="企業名を入力..." autocomplete="off">
+                    </div>
+                    <div class="name-filter-field">
+                        <label for="cert-filter">認定名称で絞り込み</label>
+                        <select id="cert-filter">
+                            <option value="">すべて</option>
+                        </select>
+                    </div>
+                    <div class="name-filter-field name-filter-field--right">
+                        <label>表示形式</label>
+                        <div class="view-toggle-group" role="group" aria-label="表示形式の切り替え">
+                            <button type="button" class="view-toggle-btn active" id="view-toggle-card" aria-pressed="true">カード</button>
+                            <button type="button" class="view-toggle-btn" id="view-toggle-compact" aria-pressed="false">コンパクト</button>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
+        </section>
+        </aside>
 
-        <section id="list-container">
-            <p class="placeholder">都道府県を選択すると、認定企業の一覧が表示されます。</p>
+        <section class="results-stage" aria-live="polite">
+            <div class="results-stage__header">
+                <div>
+                    <p class="panel-kicker">Results</p>
+                    <h2 id="results-title">認定企業を探す</h2>
+                    <p id="results-meta">都道府県を選択すると、認定企業の一覧と地図をまとめて確認できます。</p>
+                </div>
+                <p id="results-count" class="results-count">全国47都道府県</p>
+            </div>
+
+            <div id="map" hidden></div>
+
+            <div id="list-container" class="results-grid">
+                <section class="state-panel state-panel--placeholder">
+                    <p class="state-panel__eyebrow">Ready when you are</p>
+                    <h3 class="state-panel__title">都道府県を選ぶと、地域の認定企業がここに並びます</h3>
+                    <p class="state-panel__body">地方マップまたは一覧から地域を選ぶと、企業カード、認定タグ、地図上の位置関係を一画面で比較できます。</p>
+                </section>
+            </div>
         </section>
     </main>
 

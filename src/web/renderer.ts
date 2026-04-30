@@ -1,24 +1,59 @@
 import type { Enterprise } from "../types/gbiz";
 import { PREF_MAP, REGION_COLORS, REGION_GRID_LAYOUT, REGION_GROUPS } from "./constants";
 
+function escapeHtml(value: string): string {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
+}
+
+function buildCertificationTags(c: Enterprise): string {
+  return c.certification.map((cert) => `<span class="tag">${escapeHtml(cert.certification_name)}</span>`).join("");
+}
+
 export function buildCompanyCardHtml(c: Enterprise): string {
+  const escapedName = escapeHtml(c.name);
+  const escapedAddress = escapeHtml(c.address);
+  const corporateNumber = escapeHtml(c.corporate_number);
+  const mapUrl = `https://maps.google.com/maps?q=${encodeURIComponent(c.address)}`;
+
   return `
       <div class="company-card">
-        <h3 class="company-name">${c.name}</h3>
-        <p class="address">📍 <a href="https://maps.google.com/maps?q=${encodeURIComponent(c.address)}" target="_blank" rel="noopener noreferrer">${c.address}</a></p>
+        <div class="company-card__eyebrow">
+          <span class="company-card__badge">認定 ${c.certification.length} 件</span>
+          <span class="corporate-number">法人番号 ${corporateNumber}</span>
+        </div>
+        <h3 class="company-name">${escapedName}</h3>
+        <p class="address">所在地 <a href="${mapUrl}" target="_blank" rel="noopener noreferrer">${escapedAddress}</a></p>
         <div class="certification-tags">
-          ${c.certification.map((cert) => `<span class="tag">${cert.certification_name}</span>`).join("")}
+          ${buildCertificationTags(c)}
+        </div>
+        <div class="links">
+          <a href="${mapUrl}" target="_blank" rel="noopener noreferrer">Google マップで見る</a>
         </div>
       </div>
     `;
 }
 
 export function buildCompanyCardCompactHtml(c: Enterprise): string {
+  const escapedName = escapeHtml(c.name);
+  const escapedAddress = escapeHtml(c.address);
+  const mapUrl = `https://maps.google.com/maps?q=${encodeURIComponent(c.address)}`;
+
   return `
       <div class="company-card company-card--compact">
-        <span class="company-name">${c.name}</span>
+        <div class="company-card__compact-main">
+          <span class="company-name">${escapedName}</span>
+          <span class="company-card__compact-address">${escapedAddress}</span>
+        </div>
         <div class="certification-tags">
-          ${c.certification.map((cert) => `<span class="tag">${cert.certification_name}</span>`).join("")}
+          ${buildCertificationTags(c)}
+        </div>
+        <div class="links">
+          <a href="${mapUrl}" target="_blank" rel="noopener noreferrer">地図</a>
         </div>
       </div>
     `;
