@@ -383,6 +383,12 @@ select:focus,
   border-bottom: 1px solid var(--line);
 }
 
+.results-stage__aside {
+  display: grid;
+  justify-items: end;
+  gap: 12px;
+}
+
 .results-count {
   margin: 0;
   padding: 10px 14px;
@@ -392,6 +398,110 @@ select:focus,
   font-size: 0.9rem;
   font-weight: 700;
   white-space: nowrap;
+}
+
+.share-panel {
+  display: grid;
+  gap: 10px;
+  min-width: min(100%, 360px);
+  padding: 14px;
+  border-radius: 20px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.88), rgba(247, 241, 232, 0.9));
+  border: 1px solid rgba(25, 49, 77, 0.08);
+  box-shadow: var(--shadow-sm);
+}
+
+.share-panel__label {
+  margin: 0;
+  color: var(--accent-strong);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.share-panel__actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.share-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 38px;
+  padding: 0 12px;
+  border: 1px solid rgba(25, 49, 77, 0.1);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--ink-strong);
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.share-link:hover {
+  transform: translateY(-1px);
+  border-color: rgba(25, 49, 77, 0.22);
+  box-shadow: 0 10px 20px rgba(21, 38, 61, 0.08);
+}
+
+.share-link__icon {
+  display: inline-flex;
+  width: 18px;
+  height: 18px;
+  flex: 0 0 18px;
+}
+
+.share-link__icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+.share-link__label {
+  line-height: 1;
+}
+
+.share-link--x {
+  color: #111111;
+}
+
+.share-link--facebook {
+  color: #0866ff;
+}
+
+.share-link--line {
+  color: #06c755;
+}
+
+.share-link--copy {
+  color: var(--ink-strong);
+}
+
+.share-link--icon-only {
+  min-width: 46px;
+  padding-inline: 12px;
+}
+
+.share-link--icon-only .share-link__label {
+  display: none;
+}
+
+.share-link--button {
+  appearance: none;
+}
+
+.share-panel__status {
+  min-height: 1.4em;
+  margin: 0;
+  color: var(--ink-sub);
+  font-size: 0.8rem;
+  text-align: right;
 }
 
 #map {
@@ -921,6 +1031,18 @@ footer .container {
   .results-stage__header {
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .results-stage__aside,
+  .share-panel__actions {
+    justify-items: stretch;
+    justify-content: flex-start;
+  }
+
+  .share-panel,
+  .share-panel__status {
+    min-width: 0;
+    text-align: left;
   }
 
   #map {

@@ -8,6 +8,15 @@ const LOADING_MSG = "読み込み中...";
 const ERR_NO_DATA = "データの取得に失敗しました。まだデータが準備されていない可能性があります。";
 const ERR_NO_COMPANIES = "該当する企業はありません。";
 
+type ViewMode = "card" | "compact";
+
+type UrlState = {
+  prefCode: string;
+  nameQuery: string;
+  certQuery: string;
+  viewMode: ViewMode;
+};
+
 function escapeHtml(value: string): string {
   return value
     .replaceAll("&", "&amp;")
@@ -30,10 +39,16 @@ class LocalStarsApp {
   private resultsTitle: HTMLElement;
   private resultsMeta: HTMLElement;
   private resultsCount: HTMLElement;
+  private shareX: HTMLAnchorElement;
+  private shareFacebook: HTMLAnchorElement;
+  private shareLine: HTMLAnchorElement;
+  private shareCopy: HTMLButtonElement;
+  private shareStatus: HTMLElement;
   private mapCtrl = new MapController();
   private allCompanies: Enterprise[] = [];
-  private viewMode: "card" | "compact" = "card";
+  private viewMode: ViewMode = "card";
   private selectedCode = "";
+  private pendingUrlState: UrlState | null;
 
   constructor() {
     this.selector = document.getElementById("pref-selector") as HTMLSelectElement;
@@ -48,12 +63,19 @@ class LocalStarsApp {
     this.resultsTitle = document.getElementById("results-title") as HTMLElement;
     this.resultsMeta = document.getElementById("results-meta") as HTMLElement;
     this.resultsCount = document.getElementById("results-count") as HTMLElement;
+    this.shareX = document.getElementById("share-x") as HTMLAnchorElement;
+    this.shareFacebook = document.getElementById("share-facebook") as HTMLAnchorElement;
+    this.shareLine = document.getElementById("share-line") as HTMLAnchorElement;
+    this.shareCopy = document.getElementById("share-copy") as HTMLButtonElement;
+    this.shareStatus = document.getElementById("share-status") as HTMLElement;
+    this.pendingUrlState = this.readUrlState();
 
     this.initSelector();
     this.initVisualMap();
     this.initTabs();
     this.bindEvents();
     this.renderInitialState();
+    this.restoreInitialState();
   }
 
   private initSelector() {
@@ -158,14 +180,16 @@ class LocalStarsApp {
     this.selector.addEventListener("change", () => {
       const code = this.selector.value;
       if (!code) return;
-      this.mapCtrl.showMap(code);
-      this.fetchData(code);
+      this.selectPrefecture(code);
     });
     this.filterInput.addEventListener("input", () => {
       this.applyFilter();
     });
     this.certFilter.addEventListener("change", () => {
       this.applyFilter();
+    });
+    this.shareCopy.addEventListener("click", () => {
+      void this.copyShareLink();
     });
     this.viewToggleCard.addEventListener("click", () => {
       this.setViewMode("card");
@@ -175,13 +199,18 @@ class LocalStarsApp {
     });
   }
 
-  private setViewMode(mode: "card" | "compact") {
+  private setViewMode(mode: ViewMode, rerender = true) {
     this.viewMode = mode;
     this.viewToggleCard.classList.toggle("active", mode === "card");
     this.viewToggleCard.setAttribute("aria-pressed", String(mode === "card"));
     this.viewToggleCompact.classList.toggle("active", mode === "compact");
     this.viewToggleCompact.setAttribute("aria-pressed", String(mode === "compact"));
-    this.applyFilter();
+    if (rerender) {
+      this.applyFilter();
+    } else {
+      this.syncUrlState();
+      this.updateShareLinks();
+    }
   }
 
   private renderInitialState() {
@@ -194,10 +223,115 @@ class LocalStarsApp {
       "都道府県を選択すると、認定企業の一覧と地図をまとめて確認できます。",
       "全国47都道府県",
     );
+    this.updateShareLinks();
+  }
+
+  private readUrlState(): UrlState {
+    const params = new URLSearchParams(window.location.search);
+    const prefCode = params.get("pref") ?? "";
+    const nameQuery = params.get("name") ?? "";
+    const certQuery = params.get("cert") ?? "";
+    const viewMode = params.get("view") === "compact" ? "compact" : "card";
+
+    return { prefCode, nameQuery, certQuery, viewMode };
+  }
+
+  private restoreInitialState() {
+    const state = this.pendingUrlState;
+    this.setViewMode(state?.viewMode ?? "card", false);
+
+    if (!state || !state.prefCode || !(state.prefCode in PREF_MAP)) {
+      this.pendingUrlState = null;
+      this.syncUrlState();
+      this.updateShareLinks();
+      return;
+    }
+
+    this.filterInput.value = state.nameQuery;
+    this.selectPrefecture(state.prefCode);
   }
 
   private getSelectedPrefName(): string {
     return PREF_MAP[this.selectedCode] ?? PREF_MAP[this.selector.value] ?? "選択中の地域";
+  }
+
+  private getActiveFilters() {
+    return {
+      nameQuery: this.filterInput.value.trim(),
+      certQuery: this.certFilter.value,
+    };
+  }
+
+  private getFilterSummaryParts(): string[] {
+    const { nameQuery, certQuery } = this.getActiveFilters();
+    return [nameQuery ? `企業名「${nameQuery}」` : "", certQuery ? `認定「${certQuery}」` : ""].filter(Boolean);
+  }
+
+  private syncUrlState() {
+    const url = new URL(window.location.href);
+    const { nameQuery, certQuery } = this.getActiveFilters();
+
+    if (this.selectedCode) {
+      url.searchParams.set("pref", this.selectedCode);
+    } else {
+      url.searchParams.delete("pref");
+    }
+
+    if (nameQuery) {
+      url.searchParams.set("name", nameQuery);
+    } else {
+      url.searchParams.delete("name");
+    }
+
+    if (certQuery) {
+      url.searchParams.set("cert", certQuery);
+    } else {
+      url.searchParams.delete("cert");
+    }
+
+    if (this.viewMode === "compact") {
+      url.searchParams.set("view", "compact");
+    } else {
+      url.searchParams.delete("view");
+    }
+
+    history.replaceState(null, "", url);
+  }
+
+  private getShareText(): string {
+    const filterSummary = this.getFilterSummaryParts().join(" / ");
+
+    if (!this.selectedCode) {
+      return "ユースエール、えるぼし、くるみん、健康経営優良法人などの認定企業を地図と一覧で探せる Local Stars JP";
+    }
+
+    if (filterSummary) {
+      return `${this.getSelectedPrefName()}の認定企業を ${filterSummary} で絞り込んで確認できます。Local Stars JP`;
+    }
+
+    return `${this.getSelectedPrefName()}の優良認定企業を地図と一覧で探せます。Local Stars JP`;
+  }
+
+  private updateShareLinks(status = "") {
+    const shareUrl = window.location.href;
+    const shareText = this.getShareText();
+
+    this.shareX.href = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+    this.shareFacebook.href = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`;
+    this.shareLine.href = `https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(shareUrl)}&text=${encodeURIComponent(shareText)}`;
+    this.shareStatus.textContent = status;
+  }
+
+  private async copyShareLink() {
+    const shareUrl = window.location.href;
+
+    try {
+      await navigator.clipboard.writeText(shareUrl);
+      this.updateShareLinks("共有用リンクをコピーしました。");
+    } catch (error) {
+      console.error(error);
+      this.updateShareLinks("リンクをコピーできませんでした。ブラウザの共有メニューを利用してください。");
+    }
   }
 
   private setSelectionState(title: string, summary: string) {
@@ -231,6 +365,8 @@ class LocalStarsApp {
     this.filterInput.value = "";
     this.certFilter.innerHTML = `<option value="">すべて</option>`;
     this.mapCtrl.clearMarkers();
+    this.syncUrlState();
+    this.updateShareLinks();
     try {
       const res = await fetch(`./data/${code}.json`);
       if (!res.ok) throw new Error(`HTTP Error: ${res.status}`);
@@ -244,6 +380,8 @@ class LocalStarsApp {
         "時間をおいて再試行するか、別の都道府県を選択してください。",
         "取得失敗",
       );
+      this.syncUrlState();
+      this.updateShareLinks();
       this.renderState("error", "データの取得に失敗しました", ERR_NO_DATA);
     }
   }
@@ -251,6 +389,11 @@ class LocalStarsApp {
   private render(companies: Enterprise[]) {
     this.allCompanies = companies;
     this.filterWrap.hidden = companies.length === 0;
+
+    if (this.pendingUrlState?.prefCode === this.selectedCode) {
+      this.filterInput.value = this.pendingUrlState.nameQuery;
+    }
+
     if (companies.length === 0) {
       this.setSelectionState(
         `${this.getSelectedPrefName()}で公開中の企業は見つかりませんでした`,
@@ -267,10 +410,19 @@ class LocalStarsApp {
         "別の都道府県を選ぶと、一覧と地図を引き続き比較できます。",
       );
       this.mapCtrl.updateMarkers([]);
+      this.syncUrlState();
+      this.updateShareLinks();
       return;
     }
 
     this.populateCertOptions(companies);
+    if (this.pendingUrlState?.prefCode === this.selectedCode) {
+      const hasCertOption = [...this.certFilter.options].some(
+        (option) => option.value === this.pendingUrlState?.certQuery,
+      );
+      this.certFilter.value = hasCertOption ? this.pendingUrlState.certQuery : "";
+      this.pendingUrlState = null;
+    }
     this.setSelectionState(
       `${this.getSelectedPrefName()}を表示中`,
       `認定企業 ${companies.length} 件を読み込みました。企業名や認定名称でさらに絞り込めます。`,
@@ -279,18 +431,15 @@ class LocalStarsApp {
   }
 
   private applyFilter() {
-    const nameQuery = this.filterInput.value.trim().toLowerCase();
-    const certQuery = this.certFilter.value;
+    const { nameQuery: rawNameQuery, certQuery } = this.getActiveFilters();
+    const nameQuery = rawNameQuery.toLowerCase();
     const filtered = this.allCompanies.filter((c) => {
       if (nameQuery && !c.name.toLowerCase().includes(nameQuery)) return false;
       if (certQuery && !c.certification.some((cert) => cert.certification_name === certQuery)) return false;
       return true;
     });
     if (filtered.length === 0) {
-      const activeFilters = [
-        nameQuery ? `企業名「${escapeHtml(this.filterInput.value.trim())}」` : "",
-        certQuery ? `認定「${escapeHtml(certQuery)}」` : "",
-      ].filter(Boolean);
+      const activeFilters = this.getFilterSummaryParts();
       this.setResultsHeader(
         `${this.getSelectedPrefName()}の認定企業`,
         activeFilters.length > 0
@@ -304,13 +453,12 @@ class LocalStarsApp {
         activeFilters.length > 0 ? `${activeFilters.join(" / ")} の条件を広げて再検索してください。` : ERR_NO_COMPANIES,
       );
       this.mapCtrl.updateMarkers([]);
+      this.syncUrlState();
+      this.updateShareLinks();
       return;
     }
 
-    const filterSummary = [
-      nameQuery ? `企業名「${escapeHtml(this.filterInput.value.trim())}」` : "",
-      certQuery ? `認定「${escapeHtml(certQuery)}」` : "",
-    ].filter(Boolean);
+    const filterSummary = this.getFilterSummaryParts();
     const builder = this.viewMode === "compact" ? buildCompanyCardCompactHtml : buildCompanyCardHtml;
     this.container.innerHTML = filtered.map(builder).join("");
     this.mapCtrl.updateMarkers(filtered);
@@ -321,6 +469,8 @@ class LocalStarsApp {
         : "地図上の分布とカード一覧を見比べながら、地域の認定企業を比較できます。",
       `${filtered.length}件`,
     );
+    this.syncUrlState();
+    this.updateShareLinks();
   }
 
   private populateCertOptions(companies: Enterprise[]) {
