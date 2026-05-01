@@ -109,16 +109,7 @@
                 <p>最初に地方を選び、次に都道府県へ絞り込むと、企業一覧と地図が右側に展開されます。</p>
             </div>
             <!-- タブナビゲーション -->
-            <div class="tab-nav" role="tablist" aria-label="都道府県の選択方法">
-                <button class="tab-btn active" id="tab-btn-map" role="tab"
-                        aria-controls="tab-panel-map" aria-selected="true" type="button">
-                    🗾 地図から選ぶ
-                </button>
-                <button class="tab-btn" id="tab-btn-list" role="tab"
-                        aria-controls="tab-panel-list" aria-selected="false" type="button">
-                    📋 一覧から選ぶ
-                </button>
-            </div>
+            <local-tab-switcher aria-label="都道府県の選択方法"></local-tab-switcher>
 
             <!-- タブパネル: ビジュアル地図 -->
             <div id="tab-panel-map" role="tabpanel" aria-labelledby="tab-btn-map">

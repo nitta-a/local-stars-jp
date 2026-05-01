@@ -645,8 +645,81 @@ if (!customElements.get("local-share-panel")) {
   customElements.define("local-share-panel", SharePanel);
 }
 
+// src/web/tab-switcher.ts
+var DEFAULT_LABEL = "都道府県の選択方法";
+
+class TabSwitcher extends HTMLElement {
+  activeTab = "map";
+  connectedCallback() {
+    if (this.childElementCount === 0) {
+      this.render();
+    }
+    this.addEventListener("click", this.handleClick);
+    this.setActiveTab(this.activeTab);
+  }
+  disconnectedCallback() {
+    this.removeEventListener("click", this.handleClick);
+  }
+  setActiveTab(tab) {
+    this.activeTab = tab;
+    this.querySelectorAll("[data-tab-key]").forEach((button) => {
+      const isActive = button.dataset.tabKey === tab;
+      button.classList.toggle("active", isActive);
+      button.setAttribute("aria-selected", String(isActive));
+    });
+    this.togglePanels(tab);
+  }
+  handleClick = (event) => {
+    const target = event.target;
+    if (!(target instanceof Element)) {
+      return;
+    }
+    const button = target.closest("[data-tab-key]");
+    if (!button) {
+      return;
+    }
+    const tab = button.dataset.tabKey;
+    if (tab !== "map" && tab !== "list") {
+      return;
+    }
+    if (tab === this.activeTab) {
+      return;
+    }
+    this.setActiveTab(tab);
+  };
+  togglePanels(activeTab) {
+    this.querySelectorAll("[data-tab-key]").forEach((button) => {
+      const panelId = button.getAttribute("aria-controls");
+      if (!panelId) {
+        return;
+      }
+      const panel = document.getElementById(panelId);
+      if (!panel) {
+        return;
+      }
+      panel.hidden = button.dataset.tabKey !== activeTab;
+    });
+  }
+  render() {
+    const label = this.getAttribute("aria-label") ?? DEFAULT_LABEL;
+    this.innerHTML = `
+      <div class="tab-nav" role="tablist" aria-label="${label}">
+        <button class="tab-btn active" role="tab" aria-controls="tab-panel-map" aria-selected="true" type="button" data-tab-key="map">
+          \uD83D\uDDFE 地図から選ぶ
+        </button>
+        <button class="tab-btn" role="tab" aria-controls="tab-panel-list" aria-selected="false" type="button" data-tab-key="list">
+          \uD83D\uDCCB 一覧から選ぶ
+        </button>
+      </div>
+    `;
+  }
+}
+if (!customElements.get("local-tab-switcher")) {
+  customElements.define("local-tab-switcher", TabSwitcher);
+}
+
 // src/web/view-toggle.ts
-var DEFAULT_LABEL = "表示形式の切り替え";
+var DEFAULT_LABEL2 = "表示形式の切り替え";
 
 class ViewToggle extends HTMLElement {
   currentMode = "card";
@@ -691,7 +764,7 @@ class ViewToggle extends HTMLElement {
     }));
   };
   render() {
-    const label = this.getAttribute("aria-label") ?? DEFAULT_LABEL;
+    const label = this.getAttribute("aria-label") ?? DEFAULT_LABEL2;
     this.innerHTML = `
       <div class="view-toggle-group" role="group" aria-label="${label}">
         <button type="button" class="view-toggle-btn active" data-view-mode="card" aria-pressed="true">カード</button>
@@ -746,7 +819,6 @@ class LocalStarsApp {
     this.pendingUrlState = this.readUrlState();
     this.initSelector();
     this.initVisualMap();
-    this.initTabs();
     this.bindEvents();
     this.renderInitialState();
     this.restoreInitialState();
@@ -777,28 +849,6 @@ class LocalStarsApp {
     document.getElementById("back-to-regions")?.addEventListener("click", () => {
       document.getElementById("pref-grid-view").hidden = true;
       document.getElementById("region-view").hidden = false;
-    });
-  }
-  initTabs() {
-    const tabMap = document.getElementById("tab-btn-map");
-    const tabList = document.getElementById("tab-btn-list");
-    const panelMap = document.getElementById("tab-panel-map");
-    const panelList = document.getElementById("tab-panel-list");
-    tabMap.addEventListener("click", () => {
-      tabMap.classList.add("active");
-      tabMap.setAttribute("aria-selected", "true");
-      tabList.classList.remove("active");
-      tabList.setAttribute("aria-selected", "false");
-      panelMap.hidden = false;
-      panelList.hidden = true;
-    });
-    tabList.addEventListener("click", () => {
-      tabList.classList.add("active");
-      tabList.setAttribute("aria-selected", "true");
-      tabMap.classList.remove("active");
-      tabMap.setAttribute("aria-selected", "false");
-      panelList.hidden = false;
-      panelMap.hidden = true;
     });
   }
   showPrefGrid(regionIdx) {

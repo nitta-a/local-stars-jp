@@ -5,6 +5,7 @@ import { MapController } from "./map";
 import { buildPrefecturePagePath, getPageConfig, resolveAssetPath } from "./page-config";
 import { buildCompanyCardCompactHtml, buildCompanyCardHtml, buildPrefSvg } from "./renderer";
 import "./share-panel";
+import "./tab-switcher";
 import "./view-toggle";
 import type { SharePanel } from "./share-panel";
 import type { ViewToggle } from "./view-toggle";
@@ -67,7 +68,6 @@ class LocalStarsApp {
 
     this.initSelector();
     this.initVisualMap();
-    this.initTabs();
     this.bindEvents();
     this.renderInitialState();
     this.restoreInitialState();
@@ -99,31 +99,6 @@ class LocalStarsApp {
     document.getElementById("back-to-regions")?.addEventListener("click", () => {
       (document.getElementById("pref-grid-view") as HTMLElement).hidden = true;
       (document.getElementById("region-view") as HTMLElement).hidden = false;
-    });
-  }
-
-  private initTabs() {
-    const tabMap = document.getElementById("tab-btn-map") as HTMLButtonElement;
-    const tabList = document.getElementById("tab-btn-list") as HTMLButtonElement;
-    const panelMap = document.getElementById("tab-panel-map") as HTMLElement;
-    const panelList = document.getElementById("tab-panel-list") as HTMLElement;
-
-    tabMap.addEventListener("click", () => {
-      tabMap.classList.add("active");
-      tabMap.setAttribute("aria-selected", "true");
-      tabList.classList.remove("active");
-      tabList.setAttribute("aria-selected", "false");
-      panelMap.hidden = false;
-      panelList.hidden = true;
-    });
-
-    tabList.addEventListener("click", () => {
-      tabList.classList.add("active");
-      tabList.setAttribute("aria-selected", "true");
-      tabMap.classList.remove("active");
-      tabMap.setAttribute("aria-selected", "false");
-      panelList.hidden = false;
-      panelMap.hidden = true;
     });
   }
 
